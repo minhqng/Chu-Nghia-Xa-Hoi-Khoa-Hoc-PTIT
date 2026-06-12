@@ -10,6 +10,8 @@
 - Added unit tests for question bank normalization and quiz engine.
 - Deployed production site to Vercel: `https://cnxh-ptit-quiz.vercel.app`.
 - Connected Vercel project to GitHub repo for future `main` branch deployments.
+- Fixed exam mode to hide correct/wrong counts until submit.
+- Rebalanced exam layout and made mobile footer non-sticky to keep answer area focused.
 
 ## Unresolved Questions
 

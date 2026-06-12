@@ -7,9 +7,10 @@ interface StatsBarProps {
   score: ScoreSummary;
   current: number;
   timerText: string;
+  showScore: boolean;
 }
 
-export function StatsBar({ mode, score, current, timerText }: StatsBarProps) {
+export function StatsBar({ mode, score, current, timerText, showScore }: StatsBarProps) {
   const progress = score.total === 0 ? 0 : Math.round((score.answered / score.total) * 100);
 
   return (
@@ -24,8 +25,14 @@ export function StatsBar({ mode, score, current, timerText }: StatsBarProps) {
         </div>
       </div>
       <div className="stat-pills">
-        <span><Target size={16} /> Đúng {score.correct}</span>
-        <span>Sai {score.wrong}</span>
+        {showScore ? (
+          <>
+            <span><Target size={16} /> Đúng {score.correct}</span>
+            <span>Sai {score.wrong}</span>
+          </>
+        ) : (
+          <span><Target size={16} /> Đã chọn {score.answered}</span>
+        )}
         <span>Tổng {score.total}</span>
         <span><Clock size={16} /> {mode === "practice" ? "Đếm lên" : "Còn lại"} {timerText}</span>
       </div>

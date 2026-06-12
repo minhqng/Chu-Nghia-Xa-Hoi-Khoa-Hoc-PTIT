@@ -129,7 +129,7 @@ export default function App() {
         <ModeSwitch mode={settings.mode} onChange={(mode) => updateSettings({ mode })} />
       </header>
 
-      <main className="workspace">
+      <main className={settings.mode === "exam" ? "workspace exam-workspace" : "workspace"}>
         {settings.mode === "practice" && (
           <SourceSelector
             sources={questionSources}
@@ -144,6 +144,7 @@ export default function App() {
           <SettingsStrip
             autoNext={settings.autoNext}
             paletteOpen={settings.paletteOpen}
+            showAutoNext={settings.mode === "practice"}
             onAutoNextChange={(autoNext) => updateSettings({ autoNext })}
             onPaletteOpenChange={(paletteOpen) => updateSettings({ paletteOpen })}
           />
@@ -163,7 +164,7 @@ export default function App() {
 
           {canShowQuiz && !submitted && (
             <>
-              <StatsBar mode={settings.mode} score={score} current={currentIndex + 1} timerText={timerText} />
+              <StatsBar mode={settings.mode} score={score} current={currentIndex + 1} timerText={timerText} showScore={settings.mode === "practice" || submitted} />
               <QuestionCard
                 question={currentQuestion}
                 number={currentIndex + 1}
