@@ -2,6 +2,8 @@
 
 Web app on luyen trac nghiem mon Chu Nghia Xa Hoi Khoa Hoc cho PTIT.
 
+Public URL: https://cnxh-ptit-quiz.vercel.app
+
 ## Tinh nang
 
 - Chon nguon hoc: `Ngân Hàng Câu Hỏi` hoac `Ôn Tập Lý Thuyết`.
@@ -20,6 +22,17 @@ npm run validate:data
 npm run test
 npm run build
 ```
+
+## Deploy
+
+Production host: Vercel.
+
+- Build command: `npm run build`
+- Output directory: `dist`
+- Public URL: `https://cnxh-ptit-quiz.vercel.app`
+- GitHub repo: `https://github.com/minhqng/Chu-Nghia-Xa-Hoi-Khoa-Hoc-PTIT`
+
+Push to `main` to trigger the next Vercel deployment.
 
 ## Du lieu
 

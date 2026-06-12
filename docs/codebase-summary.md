@@ -24,6 +24,14 @@ React + Vite + TypeScript SPA for rapid CNXH multiple-choice practice.
 - `npm run test`
 - `npm run build`
 
+## Deployment
+
+- Host: Vercel
+- Project: `cnxh-ptit-quiz`
+- Production URL: `https://cnxh-ptit-quiz.vercel.app`
+- Build output: `dist`
+- GitHub integration: `main` branch deploys through Vercel.
+
 ## Unresolved Questions
 
 None.

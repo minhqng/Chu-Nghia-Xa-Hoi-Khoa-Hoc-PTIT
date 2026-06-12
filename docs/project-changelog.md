@@ -8,6 +8,8 @@
 - Added data normalization and validation script.
 - Repaired malformed source data in `Ngân Hàng Câu Hỏi` chapters 2 and 3.
 - Added unit tests for question bank normalization and quiz engine.
+- Deployed production site to Vercel: `https://cnxh-ptit-quiz.vercel.app`.
+- Connected Vercel project to GitHub repo for future `main` branch deployments.
 
 ## Unresolved Questions
 
