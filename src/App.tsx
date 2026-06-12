@@ -1,14 +1,8 @@
 import { Menu, RotateCcw } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
-import { ExamSetup } from "./components/exam-setup";
 import { ModeSwitch } from "./components/mode-switch";
-import { QuestionCard } from "./components/question-card";
-import { QuestionPalette } from "./components/question-palette";
-import { QuizNavigation } from "./components/quiz-navigation";
-import { ResultsView } from "./components/results-view";
-import { SettingsStrip } from "./components/settings-strip";
-import { SourceSelector } from "./components/source-selector";
-import { StatsBar } from "./components/stats-bar";
+import { QuizStudyArea } from "./components/quiz-study-area";
+import { StudySideRail } from "./components/study-side-rail";
 import { allQuestions, getQuestionsForScope, questionSources } from "./data/question-bank";
 import { useClockSeconds } from "./hooks/use-clock-seconds";
 import { usePersistentState } from "./hooks/use-persistent-state";
@@ -68,6 +62,12 @@ export default function App() {
     }
   }, [settings.mode, examSession, remaining, setExamSession]);
 
+  useEffect(() => {
+    if (typeof window.matchMedia === "function" && window.matchMedia("(max-width: 760px)").matches) {
+      setSettings((current) => (current.paletteOpen ? { ...current, paletteOpen: false } : current));
+    }
+  }, [setSettings]);
+
   function updateSettings(patch: Partial<StudySettings>) {
     setSettings((current) => ({ ...current, ...patch }));
   }
@@ -116,8 +116,16 @@ export default function App() {
     setExamSession(createExamSession(allQuestions, examCount));
   }
 
+  function handlePaletteJump(index: number) {
+    updateSession((current) => ({ ...current, currentIndex: index }));
+    if (typeof window.matchMedia === "function" && window.matchMedia("(max-width: 760px)").matches) {
+      updateSettings({ paletteOpen: false });
+    }
+  }
+
   const timerText = settings.mode === "practice" ? formatClock(elapsed) : formatClock(remaining);
   const canShowQuiz = session && currentQuestion && (settings.mode === "practice" || examSession);
+  const workspaceClass = `workspace ${settings.mode === "exam" ? "exam-workspace" : "study-workspace"} ${!canShowQuiz || submitted ? "solo-workspace" : ""}`;
 
   return (
     <div className="app-shell">
@@ -129,73 +137,45 @@ export default function App() {
         <ModeSwitch mode={settings.mode} onChange={(mode) => updateSettings({ mode })} />
       </header>
 
-      <main className={settings.mode === "exam" ? "workspace exam-workspace" : "workspace practice-workspace"}>
-        {settings.mode === "practice" && (
-          <SourceSelector
+      <main className={workspaceClass}>
+        <QuizStudyArea
+          settings={settings}
+          examSession={examSession}
+          session={session}
+          questions={questions}
+          currentQuestion={currentQuestion}
+          examCount={examCount}
+          totalQuestions={allQuestions.length}
+          submitted={submitted}
+          canShowQuiz={Boolean(canShowQuiz)}
+          score={score}
+          currentIndex={currentIndex}
+          timerText={timerText}
+          onSettingsChange={updateSettings}
+          onExamCountChange={setExamCount}
+          onStartExam={startExam}
+          onAnswer={handleAnswer}
+          onPrevious={() => updateSession((current) => ({ ...current, currentIndex: current.currentIndex - 1 }))}
+          onNext={() => updateSession((current) => ({ ...current, currentIndex: current.currentIndex + 1 }))}
+          onSubmit={() => updateSession((current) => ({ ...current, submittedAt: Date.now() }))}
+          onReset={resetCurrentSession}
+        />
+
+        {(settings.mode === "practice" || (canShowQuiz && !submitted)) && (
+          <StudySideRail
+            mode={settings.mode}
             sources={questionSources}
             selectedSourceId={settings.sourceId}
             selectedChapterId={settings.chapterId}
-            onSourceChange={(sourceId: SourceId) => updateSettings({ sourceId, chapterId: "all" })}
-            onChapterChange={(chapterId) => updateSettings({ chapterId })}
-          />
-        )}
-
-        <section className="study-area">
-          <SettingsStrip
-            autoNext={settings.autoNext}
-            paletteOpen={settings.paletteOpen}
-            showAutoNext={settings.mode === "practice"}
-            onAutoNextChange={(autoNext) => updateSettings({ autoNext })}
-            onPaletteOpenChange={(paletteOpen) => updateSettings({ paletteOpen })}
-          />
-
-          {settings.mode === "exam" && !examSession && (
-            <ExamSetup
-              totalQuestions={allQuestions.length}
-              count={examCount}
-              onCountChange={setExamCount}
-              onStart={startExam}
-            />
-          )}
-
-          {settings.mode === "exam" && submitted && examSession && (
-            <ResultsView questions={questions} session={examSession} onRestart={resetCurrentSession} />
-          )}
-
-          {canShowQuiz && !submitted && (
-            <>
-              <StatsBar mode={settings.mode} score={score} current={currentIndex + 1} timerText={timerText} showScore={settings.mode === "practice" || submitted} />
-              <QuestionCard
-                question={currentQuestion}
-                number={currentIndex + 1}
-                total={questions.length}
-                mode={settings.mode}
-                answer={session.answers[currentQuestion.id]}
-                submitted={submitted}
-                onAnswer={handleAnswer}
-              />
-              <QuizNavigation
-                mode={settings.mode}
-                canGoPrevious={currentIndex > 0}
-                canGoNext={currentIndex < questions.length - 1}
-                submitted={submitted}
-                onPrevious={() => updateSession((current) => ({ ...current, currentIndex: current.currentIndex - 1 }))}
-                onNext={() => updateSession((current) => ({ ...current, currentIndex: current.currentIndex + 1 }))}
-                onSubmit={() => updateSession((current) => ({ ...current, submittedAt: Date.now() }))}
-                onReset={resetCurrentSession}
-              />
-            </>
-          )}
-        </section>
-
-        {canShowQuiz && !submitted && (
-          <QuestionPalette
             questions={questions}
             session={session}
             submitted={submitted}
-            open={settings.paletteOpen}
-            onJump={(index) => updateSession((current) => ({ ...current, currentIndex: index }))}
-            onClose={() => updateSettings({ paletteOpen: false })}
+            paletteOpen={settings.paletteOpen}
+            showPalette={Boolean(canShowQuiz && !submitted)}
+            onSourceChange={(sourceId: SourceId) => updateSettings({ sourceId, chapterId: "all" })}
+            onChapterChange={(chapterId) => updateSettings({ chapterId })}
+            onPaletteJump={handlePaletteJump}
+            onPaletteClose={() => updateSettings({ paletteOpen: false })}
           />
         )}
       </main>

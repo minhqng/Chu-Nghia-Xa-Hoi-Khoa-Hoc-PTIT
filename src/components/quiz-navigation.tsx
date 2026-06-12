@@ -38,7 +38,7 @@ export function QuizNavigation({
           Nộp bài
         </button>
       )}
-      <button className="ghost-danger" onClick={onReset}>
+      <button className="ghost-danger" onClick={onReset} aria-label="Làm lại từ đầu">
         <RotateCcw size={18} />
         Làm lại từ đầu
       </button>

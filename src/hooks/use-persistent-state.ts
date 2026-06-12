@@ -1,4 +1,4 @@
-import { useEffect, useState, type Dispatch, type SetStateAction } from "react";
+import { useCallback, useEffect, useState, type Dispatch, type SetStateAction } from "react";
 import { loadJson, saveJson } from "../lib/storage";
 
 export function usePersistentState<T>(
@@ -18,12 +18,12 @@ export function usePersistentState<T>(
     saveJson(entry.key, entry.value);
   }, [entry]);
 
-  const setValue: Dispatch<SetStateAction<T>> = (update) => {
+  const setValue: Dispatch<SetStateAction<T>> = useCallback((update) => {
     setEntry((current) => ({
       ...current,
       value: typeof update === "function" ? (update as (value: T) => T)(current.value) : update
     }));
-  };
+  }, []);
 
   return [entry.value, setValue];
 }
