@@ -129,7 +129,7 @@ export default function App() {
         <ModeSwitch mode={settings.mode} onChange={(mode) => updateSettings({ mode })} />
       </header>
 
-      <main className={settings.mode === "exam" ? "workspace exam-workspace" : "workspace"}>
+      <main className={settings.mode === "exam" ? "workspace exam-workspace" : "workspace practice-workspace"}>
         {settings.mode === "practice" && (
           <SourceSelector
             sources={questionSources}

@@ -126,6 +126,12 @@ h2 {
   align-items: start;
 }
 
+.practice-workspace {
+  width: min(1210px, 100%);
+  grid-template-columns: minmax(220px, 250px) minmax(600px, 700px) minmax(250px, 290px);
+  gap: 16px;
+}
+
 .exam-workspace {
   width: min(1280px, 100%);
   grid-template-columns: minmax(520px, 720px) minmax(360px, 520px);
@@ -194,7 +200,7 @@ h2 {
 .study-picker,
 .exam-setup,
 .results-view {
-  padding: 18px;
+  padding: 16px;
 }
 
 .panel-heading,
@@ -208,18 +214,18 @@ h2 {
 
 .source-grid {
   display: grid;
-  gap: 10px;
-  margin: 14px 0;
+  gap: 8px;
+  margin: 12px 0;
 }
 
 .source-card {
   width: 100%;
-  min-height: 92px;
+  min-height: 78px;
   text-align: left;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: #fbfdff;
-  padding: 14px;
+  padding: 12px;
   display: grid;
   gap: 6px;
 }
@@ -237,6 +243,11 @@ h2 {
   line-height: 1.65;
 }
 
+.source-card span {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
 select {
   width: 100%;
   min-height: 46px;
@@ -250,7 +261,8 @@ select {
 
 .settings-strip {
   justify-content: space-between;
-  padding: 8px 10px;
+  min-height: 46px;
+  padding: 6px 10px;
   background: #eaf6f4;
   border: 1px solid #b9e2dd;
   border-radius: 8px;
@@ -309,7 +321,7 @@ select {
 }
 
 .question-card {
-  padding: clamp(18px, 3vw, 30px);
+  padding: clamp(22px, 3vw, 34px);
 }
 
 .question-meta {
@@ -330,18 +342,18 @@ select {
 
 .answer-list {
   display: grid;
-  gap: 12px;
-  margin-top: 22px;
+  gap: 14px;
+  margin-top: 24px;
 }
 
 .answer-button {
   width: 100%;
-  min-height: 58px;
+  min-height: 64px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: #fff;
   color: var(--text);
-  padding: 12px 14px;
+  padding: 14px 16px;
   display: grid;
   grid-template-columns: 34px 1fr;
   gap: 12px;
@@ -431,6 +443,10 @@ select {
   grid-template-rows: auto auto 1fr;
 }
 
+.practice-workspace .palette {
+  max-height: min(540px, calc(100dvh - 126px));
+}
+
 .palette:not(.open) {
   display: none;
 }
@@ -439,15 +455,15 @@ select {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 14px;
+  padding: 12px 14px;
   border-bottom: 1px solid var(--border);
 }
 
 .legend {
-  padding: 12px 14px;
+  padding: 10px 14px;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
+  gap: 6px 8px;
   color: var(--muted);
   font-size: 0.82rem;
 }
@@ -487,15 +503,15 @@ select {
 
 .palette-grid {
   overflow: auto;
-  padding: 14px;
+  padding: 12px 14px 14px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
+  gap: 7px;
 }
 
 .palette-cell {
-  min-width: 42px;
-  min-height: 42px;
+  min-width: 36px;
+  min-height: 36px;
   border: 0;
   border-radius: 8px;
   color: #fff;
@@ -566,6 +582,10 @@ select {
     grid-template-columns: minmax(240px, 300px) minmax(0, 1fr);
   }
 
+  .practice-workspace {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
   .exam-workspace {
     grid-template-columns: minmax(0, 1fr);
   }
@@ -577,6 +597,10 @@ select {
     width: min(420px, 92vw);
     max-height: none;
     border-radius: 0;
+  }
+
+  .practice-workspace .palette {
+    max-height: none;
   }
 
   .mobile-only {
