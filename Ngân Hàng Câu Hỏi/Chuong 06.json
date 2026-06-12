@@ -829,7 +829,7 @@
     "name": "Câu hỏi 34: Chọn phương án đùng nhất: Tôn giáo ra đời khi nào",
     "points_possible": 1,
     "question_text": "Chọn phương án đùng nhất: Tôn giáo ra đời khi nào?",
-    "general_comment": "Đáp án đúng là 'Tôn giáo xuất hiện khi xã hội có sự phân chia giai cấp và Nhà nước ra đời' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "general_comment": "Đáp án đúng là 'Tôn giáo ra đời khi trình độ tư duy của con người đạt đến mức độ có khả năng tư duy trừu tượng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
     "answers": [
       {
         "text": "Tôn giáo xuất hiện cùng với sự xuất hiện của con người",
@@ -837,11 +837,11 @@
       },
       {
         "text": "Tôn giáo ra đời khi trình độ tư duy của con người đạt đến mức độ có khả năng tư duy trừu tượng",
-        "weight": 0
+        "weight": 100
       },
       {
         "text": "Tôn giáo xuất hiện khi xã hội có sự phân chia giai cấp và Nhà nước ra đời",
-        "weight": 100
+        "weight": 0
       },
       {
         "text": "Tôn giáo xuất hiện gắn liền với sự ra đời của chủ nghĩa tư bản",
@@ -2937,7 +2937,7 @@
       },
       {
         "text": "Độc lập dân tộc.",
-        "weight": 0
+        "weight": 100
       },
       {
         "text": "Thực hiện đoàn kết và bình đẳng giữa các dân tộc trong cộng đồng các dân tộc Việt Nam.",
@@ -2945,7 +2945,7 @@
       },
       {
         "text": "Thực hiện quyền bình đẳng và quyền tự quyết của dân tộc Việt Nam.",
-        "weight": 100
+        "weight": 0
       }
     ]
   }

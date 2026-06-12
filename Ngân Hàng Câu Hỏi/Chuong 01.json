@@ -1154,15 +1154,15 @@
     "name": "Câu hỏi 47: V.I. Lênin là người sáng lập tổ chức nào",
     "points_possible": 1,
     "question_text": "V.I. Lênin là người sáng lập tổ chức nào?",
-    "general_comment": "Đáp án đúng là 'Đồng minh những người cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "general_comment": "Đáp án đúng là 'Quốc tế 3 (Quốc tế cộng sản)' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
     "answers": [
       {
         "text": "Quốc tế 3 (Quốc tế cộng sản)",
-        "weight": 0
+        "weight": 100
       },
       {
         "text": "Đồng minh những người cộng sản",
-        "weight": 100
+        "weight": 0
       },
       {
         "text": "Quốc tế 2",
