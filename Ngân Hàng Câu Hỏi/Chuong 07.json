@@ -1,0 +1,1452 @@
+[
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 1: Gia đình được hình thành bởi hai mối quan hệ cơ bản đó là…",
+    "points_possible": 1,
+    "question_text": "Gia đình được hình thành bởi hai mối quan hệ cơ bản đó là…",
+    "general_comment": "Đáp án đúng là 'quan hệ hôn nhân và quan hệ huyết thống' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "quan hệ họ hàng và quan hệ huyết thống",
+        "weight": 0
+      },
+      {
+        "text": "quan hệ hôn nhân và quan hệ họ hàng",
+        "weight": 0
+      },
+      {
+        "text": "quan hệ hôn nhân và quan hệ huyết thống",
+        "weight": 100
+      },
+      {
+        "text": "quan hệ huyết thống và quan hệ xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 2: Quan hệ nền tảng hình thành nên các mối quan hệ khác trong gia đình, l",
+    "points_possible": 1,
+    "question_text": "Quan hệ nền tảng hình thành nên các mối quan hệ khác trong gia đình, là cơ sở pháp lý cho sự tồn tại của mỗi gia đình đó là quan hệ…",
+    "general_comment": "Đáp án đúng là 'hôn nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "huyết thống",
+        "weight": 0
+      },
+      {
+        "text": "xã hội",
+        "weight": 0
+      },
+      {
+        "text": "hôn nhân",
+        "weight": 100
+      },
+      {
+        "text": "họ hàng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 3: Quan hệ giữa những người có cùng một dòng máu nảy sinh từ quan hệ hôn",
+    "points_possible": 1,
+    "question_text": "Quan hệ giữa những người có cùng một dòng máu nảy sinh từ quan hệ hôn nhân là quan hệ…",
+    "general_comment": "Đáp án đúng là 'huyết thống' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Họ tộc",
+        "weight": 0
+      },
+      {
+        "text": "huyết thống",
+        "weight": 100
+      },
+      {
+        "text": "Gia đình",
+        "weight": 0
+      },
+      {
+        "text": "họ hàng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 4: Mối quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên tr",
+    "points_possible": 1,
+    "question_text": "Mối quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên trong gia đình với nhau đó là quan hệ…",
+    "general_comment": "Đáp án đúng là 'huyết thống' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "hôn Nhân",
+        "weight": 0
+      },
+      {
+        "text": "tình cảm",
+        "weight": 0
+      },
+      {
+        "text": "huyết thống",
+        "weight": 100
+      },
+      {
+        "text": "kinh tế",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 5: Quan hệ hôn nhân còn được gọi là quan hệ giữa…",
+    "points_possible": 1,
+    "question_text": "Quan hệ hôn nhân còn được gọi là quan hệ giữa…",
+    "general_comment": "Đáp án đúng là 'vợ và chồng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "vợ và chồng",
+        "weight": 100
+      },
+      {
+        "text": "những người cùng chung sống trong một gia đình",
+        "weight": 0
+      },
+      {
+        "text": "hai gia đình nhà trai và nhà gái",
+        "weight": 0
+      },
+      {
+        "text": "những người được pháp luật thừa nhận",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 6: Quan hệ huyết thống trong gia đình chính là quan hệ giữa…",
+    "points_possible": 1,
+    "question_text": "Quan hệ huyết thống trong gia đình chính là quan hệ giữa…",
+    "general_comment": "Đáp án đúng là 'cha mẹ và con cái' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "những người trong một gia đình",
+        "weight": 0
+      },
+      {
+        "text": "cha mẹ và con cái",
+        "weight": 100
+      },
+      {
+        "text": "những người có họ hàng với nhau",
+        "weight": 0
+      },
+      {
+        "text": "những người chung một dòng họ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 7: Nghĩa vụ, quyền lợi và trách nhiệm của mỗi thành viên trong gia đình đ",
+    "points_possible": 1,
+    "question_text": "Nghĩa vụ, quyền lợi và trách nhiệm của mỗi thành viên trong gia đình được quy định bởi…",
+    "general_comment": "Đáp án đúng là 'pháp lý và đạo lý' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đạo đức xã hội",
+        "weight": 0
+      },
+      {
+        "text": "pháp luật của mỗi quốc gia",
+        "weight": 0
+      },
+      {
+        "text": "pháp lý và đạo lý",
+        "weight": 100
+      },
+      {
+        "text": "nền nếp gia đình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 8: Quan hệ giữa cha mẹ nuôi và con nuôi chỉ được pháp luật công nhận khi…",
+    "points_possible": 1,
+    "question_text": "Quan hệ giữa cha mẹ nuôi và con nuôi chỉ được pháp luật công nhận khi…",
+    "general_comment": "Đáp án đúng là 'có đầy đủ thủ tục pháp lý' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đã làm lễ gia tiên báo cáo với họ hàng",
+        "weight": 0
+      },
+      {
+        "text": "có đầy đủ thủ tục pháp lý",
+        "weight": 100
+      },
+      {
+        "text": "công bố rộng rãi với mọi người xung quanh",
+        "weight": 0
+      },
+      {
+        "text": "cả hai bên cha mẹ nuôi và con nuôi có nhu cầu sống cùng nhau",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 9: Một cộng đồng người sống chung trong một không gian xác định thường đư",
+    "points_possible": 1,
+    "question_text": "Một cộng đồng người sống chung trong một không gian xác định thường được sử dụng ở góc độ quản lý nhân khẩu là nội dung thể hiện khái niệm…",
+    "general_comment": "Đáp án đúng là 'hộ gia đình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "hộ gia đình",
+        "weight": 100
+      },
+      {
+        "text": "dòng họ",
+        "weight": 0
+      },
+      {
+        "text": "gia đình",
+        "weight": 0
+      },
+      {
+        "text": "dân tộc",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 10: Gia đình tập thể là hình thức gia đình tồn tại trong hình thái kinh tế",
+    "points_possible": 1,
+    "question_text": "Gia đình tập thể là hình thức gia đình tồn tại trong hình thái kinh tế xã hội..",
+    "general_comment": "Đáp án đúng là 'cộng sản nguyên thủy' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "cộng sản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "cộng sản nguyên thủy",
+        "weight": 100
+      },
+      {
+        "text": "tư bản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 11: Gia đình mà những người chồng sống theo chế độ nhiều vợ và vợ của họ c",
+    "points_possible": 1,
+    "question_text": "Gia đình mà những người chồng sống theo chế độ nhiều vợ và vợ của họ cũng sống theo chế độ nhiều chồng con cái là con chung của cả hai bên là đặc trưng của…",
+    "general_comment": "Đáp án đúng là 'gia đình tập thể' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "gia đình tập thể",
+        "weight": 100
+      },
+      {
+        "text": "gia đình nhiều thế hệ",
+        "weight": 0
+      },
+      {
+        "text": "gia đình hạt nhân",
+        "weight": 0
+      },
+      {
+        "text": "gia đình cá thể",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 12: Trong hình thức gia đình tập thể, việc xác định dòng dõi chủ yếu dựa v",
+    "points_possible": 1,
+    "question_text": "Trong hình thức gia đình tập thể, việc xác định dòng dõi chủ yếu dựa vào…",
+    "general_comment": "Đáp án đúng là 'huyết thống của mẹ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "huyết thống của mẹ",
+        "weight": 100
+      },
+      {
+        "text": "huyết thống của tất cả những người bố và tất cả những người mẹ trong gia đình",
+        "weight": 0
+      },
+      {
+        "text": "huyết thống của bố",
+        "weight": 0
+      },
+      {
+        "text": "huyết thống của cả bố và mẹ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 13: Quyền thừa kế tài sản trong gia đình tập thể căn cứ vào huyết thống củ",
+    "points_possible": 1,
+    "question_text": "Quyền thừa kế tài sản trong gia đình tập thể căn cứ vào huyết thống của người mẹ bởi vì..",
+    "general_comment": "Đáp án đúng là 'không biết chính xác ai là cha đẻ của đứa con' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "mẹ là người sinh ra con cái",
+        "weight": 0
+      },
+      {
+        "text": "người phụ nữ có địa vị cao nhất trong gia đình",
+        "weight": 0
+      },
+      {
+        "text": "người phụ nữ rất được tôn trọng",
+        "weight": 0
+      },
+      {
+        "text": "không biết chính xác ai là cha đẻ của đứa con",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 14: Đặc điểm nổi bật của gia đình tập thể là…",
+    "points_possible": 1,
+    "question_text": "Đặc điểm nổi bật của gia đình tập thể là…",
+    "general_comment": "Đáp án đúng là 'mẫu quyền dựa trên cơ sở kinh tế tập thể gia đình cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "phụ quyền dựa trên cơ sở kinh tế tư nhân",
+        "weight": 0
+      },
+      {
+        "text": "mẫu quyền dựa trên cơ sở kinh tế cá nhân",
+        "weight": 0
+      },
+      {
+        "text": "phụ quyền dựa trên cơ sở kinh tế tập thể kinh tế gia đình cộng sản",
+        "weight": 0
+      },
+      {
+        "text": "mẫu quyền dựa trên cơ sở kinh tế tập thể gia đình cộng sản",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 15: sự xuất hiện của chế độ tư hữu và lao động của nam giới ngày càng được",
+    "points_possible": 1,
+    "question_text": "sự xuất hiện của chế độ tư hữu và lao động của nam giới ngày càng được đề cao trong xã hội là nguyên nhân dẫn tới…",
+    "general_comment": "Đáp án đúng là 'gia đình cá thể' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "gia đình nhiều thế hệ",
+        "weight": 0
+      },
+      {
+        "text": "gia đình cá thể",
+        "weight": 100
+      },
+      {
+        "text": "gia đình hai thế hệ",
+        "weight": 0
+      },
+      {
+        "text": "gia đình tập thể",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 16: Theo quan điểm của C.Mác và Ph.Ăngghen, gia đình một vợ một chồng dựa",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của C.Mác và Ph.Ăngghen, gia đình một vợ một chồng dựa trên quyền thống trị của người chồng nhằm chủ đích là làm cho con cái sinh ra phải có cha đẻ rõ ràng không ai tranh cãi được và sự rõ ràng ấy là cần thiết vì những người con đó sau này sẽ được hưởng tài sản của cha với tư cách là…",
+    "general_comment": "Đáp án đúng là 'người thừa kế trực tiếp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "người con nối dõi",
+        "weight": 0
+      },
+      {
+        "text": "người thừa kế trực tiếp",
+        "weight": 100
+      },
+      {
+        "text": "người con chính thống",
+        "weight": 0
+      },
+      {
+        "text": "người thừa kế gián tiếp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 17: Nội dung nào dưới đây không phản ánh đúng vị trí của gia đình trong xã",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phản ánh đúng vị trí của gia đình trong xã hội…",
+    "general_comment": "Đáp án đúng là 'gia đình là bộ phận của làng xã' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "gia đình là tổ ấm của mỗi thành viên",
+        "weight": 0
+      },
+      {
+        "text": "gia đình là bộ phận của làng xã",
+        "weight": 100
+      },
+      {
+        "text": "gia đình là cầu nối giữa cá nhân với xã hội",
+        "weight": 0
+      },
+      {
+        "text": "gia đình là tế bào của xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 18: Nhận định nào dưới đây thể hiện đúng nhất vị trí của gia đình đối với",
+    "points_possible": 1,
+    "question_text": "Nhận định nào dưới đây thể hiện đúng nhất vị trí của gia đình đối với sự vận động và phát triển của xã hội…",
+    "general_comment": "Đáp án đúng là 'gia đình có vai trò quyết định đối với sự tồn tại vận động và phát triển của xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "gia đình có vai trò quan trọng đối với sự tồn tại vận động và phát triển của xã hội",
+        "weight": 0
+      },
+      {
+        "text": "gia đình có vai trò quyết định đối với sự tồn tại vận động và phát triển của xã hội",
+        "weight": 100
+      },
+      {
+        "text": "gia đình có vai trò không nhỏ đối với sự tồn tại vận động và phát triển của xã hội",
+        "weight": 0
+      },
+      {
+        "text": "gia đình có vai trò nhất định đối với sự tồn tại vận động và phát triển của xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 19: Gia đình không chỉ sản xuất ra tư liệu sinh hoạt mà còn sản xuất ra…",
+    "points_possible": 1,
+    "question_text": "Gia đình không chỉ sản xuất ra tư liệu sinh hoạt mà còn sản xuất ra…",
+    "general_comment": "Đáp án đúng là 'bản thân con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "các giá trị tinh thần",
+        "weight": 0
+      },
+      {
+        "text": "bản thân con người",
+        "weight": 100
+      },
+      {
+        "text": "các giá trị kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "các mối quan hệ xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 20: Gia đình như một tế bào tự nhiên là đơn vị cơ sở để tạo nên cơ thể xã",
+    "points_possible": 1,
+    "question_text": "Gia đình như một tế bào tự nhiên là đơn vị cơ sở để tạo nên cơ thể xã hội vì…",
+    "general_comment": "Đáp án đúng là 'gia đình sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất, tái sản xuất ra con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "gia đình tái sản xuất ra con người và các mối quan hệ xã hội",
+        "weight": 0
+      },
+      {
+        "text": "gia đình sản xuất ra tư liệu tiêu dùng tư liệu sản xuất và các mối quan hệ xã hội khác",
+        "weight": 0
+      },
+      {
+        "text": "gia đình sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất, tái sản xuất ra con người",
+        "weight": 100
+      },
+      {
+        "text": "gia đình sản xuất ra tư liệu sản xuất tái sản xuất ra con người và các mối quan hệ xã hội khác",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 21: Chủ tịch Hồ Chí Minh đã từng khẳng định, hạt nhân của xã hội chính là…",
+    "points_possible": 1,
+    "question_text": "Chủ tịch Hồ Chí Minh đã từng khẳng định, hạt nhân của xã hội chính là…",
+    "general_comment": "Đáp án đúng là 'gia đình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "các thành viên trong gia đình",
+        "weight": 0
+      },
+      {
+        "text": "các hộ gia đình",
+        "weight": 0
+      },
+      {
+        "text": "gia đình",
+        "weight": 100
+      },
+      {
+        "text": "hộ gia đình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 22: Môi trường tốt nhất để mỗi cá nhân được yêu thương, nuôi dưỡng, chăm s",
+    "points_possible": 1,
+    "question_text": "Môi trường tốt nhất để mỗi cá nhân được yêu thương, nuôi dưỡng, chăm sóc, trưởng thành phát triển là…",
+    "general_comment": "Đáp án đúng là 'gia đình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhà trường",
+        "weight": 0
+      },
+      {
+        "text": "dòng họ",
+        "weight": 0
+      },
+      {
+        "text": "gia đình",
+        "weight": 0
+      },
+      {
+        "text": "gia đình",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 23: Cộng đồng xã hội đầu tiên đáp ứng nhu cầu quan hệ xã hội của mỗi cá nh",
+    "points_possible": 1,
+    "question_text": "Cộng đồng xã hội đầu tiên đáp ứng nhu cầu quan hệ xã hội của mỗi cá nhân là…",
+    "general_comment": "Đáp án đúng là 'gia đình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "họ hàng",
+        "weight": 0
+      },
+      {
+        "text": "trường học",
+        "weight": 0
+      },
+      {
+        "text": "làng xóm",
+        "weight": 0
+      },
+      {
+        "text": "gia đình",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 24: Nội dung nào dưới đây KHÔNG là chức năng cơ bản của gia đình…",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây KHÔNG là chức năng cơ bản của gia đình…",
+    "general_comment": "Đáp án đúng là 'xây dựng quy định của địa phương' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nuôi dưỡng giáo dục",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      },
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 0
+      },
+      {
+        "text": "xây dựng quy định của địa phương",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 25: Chức năng đặc thù của gia đình không một cộng đồng nào có thể thay thế",
+    "points_possible": 1,
+    "question_text": "Chức năng đặc thù của gia đình không một cộng đồng nào có thể thay thế là…",
+    "general_comment": "Đáp án đúng là 'tái sản xuất ra con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 100
+      },
+      {
+        "text": "thỏa mãn nhu cầu tâm sinh lý duy trì tình cảm gia đình",
+        "weight": 0
+      },
+      {
+        "text": "nuôi dưỡng giáo dục",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 26: Không chỉ đáp ứng nhu cầu tâm sinh lý tự nhiên của con người đáp ứng n",
+    "points_possible": 1,
+    "question_text": "Không chỉ đáp ứng nhu cầu tâm sinh lý tự nhiên của con người đáp ứng nhu cầu nòi giống của gia đình dòng họ mà còn đáp ứng nhu cầu về sức lao động và duy trì sự trường tồn của xã hội là nội dung thể hiện chức năng nào của gia đình…",
+    "general_comment": "Đáp án đúng là 'tái sản xuất ra con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "thỏa mãn nhu cầu tâm sinh lý duy trì tình cảm gia đình",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      },
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 100
+      },
+      {
+        "text": "nuôi dưỡng giáo dục",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 27: Việc thực hiện chức năng tái sản xuất ra con người không chỉ là việc r",
+    "points_possible": 1,
+    "question_text": "Việc thực hiện chức năng tái sản xuất ra con người không chỉ là việc riêng của gia đình mà là vấn đề xã hội vì thực hiện chức năng này quyết định…",
+    "general_comment": "Đáp án đúng là 'quy mô dân số, mật độ dân cư, chất lượng nguồn lao động' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "quy mô dân số, mật độ dân cư, chất lượng nguồn lao động",
+        "weight": 100
+      },
+      {
+        "text": "mật độ dân cư, chất lượng nguồn lao động của mỗi quốc gia",
+        "weight": 0
+      },
+      {
+        "text": "tỷ lệ gia tăng dân số chất lượng nguồn lao động của mỗi quốc gia",
+        "weight": 0
+      },
+      {
+        "text": "quy mô dân số, mật độ dân cư, chất lượng cuộc sống người lao động",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 28: Chức năng nào dưới đây thể hiện tình cảm thiêng liêng trách nhiệm của",
+    "points_possible": 1,
+    "question_text": "Chức năng nào dưới đây thể hiện tình cảm thiêng liêng trách nhiệm của cha mẹ với con cái đồng thời thể hiện trách nhiệm của gia đình với xã hội…",
+    "general_comment": "Đáp án đúng là 'nuôi dưỡng giáo dục' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "thỏa mãn nhu cầu tâm sinh lý duy trì tình cảm gia đình",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      },
+      {
+        "text": "nuôi dưỡng giáo dục",
+        "weight": 100
+      },
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 29: Chức năng nào dưới đây của gia đình có ý nghĩa rất quan trọng tới việc",
+    "points_possible": 1,
+    "question_text": "Chức năng nào dưới đây của gia đình có ý nghĩa rất quan trọng tới việc hình thành nhân cách đạo đức lối sống của mỗi người…",
+    "general_comment": "Đáp án đúng là 'nuôi dưỡng giáo dục' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nuôi dưỡng giáo dục",
+        "weight": 100
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      },
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 0
+      },
+      {
+        "text": "thỏa mãn nhu cầu tâm sinh lý duy trì tình cảm gia đình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 30: Gia đình thực hiện chức năng nào dưới đây để góp phần to lớn vào việc",
+    "points_possible": 1,
+    "question_text": "Gia đình thực hiện chức năng nào dưới đây để góp phần to lớn vào việc đào tạo thế hệ trẻ nâng cao chất lượng nguồn lao động…",
+    "general_comment": "Đáp án đúng là 'nuôi dưỡng, giáo dục' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "thỏa mãn nhu cầu tâm sinh lý duy trì tình cảm gia đình",
+        "weight": 0
+      },
+      {
+        "text": "tái sản xuất ra con người",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng",
+        "weight": 0
+      },
+      {
+        "text": "nuôi dưỡng, giáo dục",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 31: Thực hiện chức năng nào dưới đây của gia đình đòi hỏi cha mẹ phải có k",
+    "points_possible": 1,
+    "question_text": "Thực hiện chức năng nào dưới đây của gia đình đòi hỏi cha mẹ phải có kiến thức cơ bản, tương đối toàn diện về mọi mặt?",
+    "general_comment": "Đáp án đúng là 'Nuôi dưỡng, giáo dục.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Thoả mãn nhu cầu tâm, sinh lí, duy trì tình cảm gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "Kinh tế và tổ chức tiêu dừng.",
+        "weight": 0
+      },
+      {
+        "text": "Tái sản xuất ra con người.",
+        "weight": 0
+      },
+      {
+        "text": "Nuôi dưỡng, giáo dục.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 32: Xét ở chức năng kinh tế và tổ chức tiêu dùng, gia đình có đặc thù nào",
+    "points_possible": 1,
+    "question_text": "Xét ở chức năng kinh tế và tổ chức tiêu dùng, gia đình có đặc thù nào dưới đây mà các đơn vị kinh tế khác không có được?",
+    "general_comment": "Đáp án đúng là 'Tham gia vào quá trình sản xuất và tái sản xuất ra sức lao động.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tham gia vào quá trình sản xuất và tái sản xuất ra sức lao động.",
+        "weight": 100
+      },
+      {
+        "text": "Tham gia trực tiếp vào quá trình sản xuất, tái sản xuất ra tư liệu sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "Tham gia trực tiếp vào quá trình sản xuất, tái sản xuất ra tư liệu tiêu dùng.",
+        "weight": 0
+      },
+      {
+        "text": "Tham gia trực tiếp vào quá trình sản xuất, tái sản xuất ra tư liệu lao động.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 33: Việc sử dụng hợp lí các khoản thu nhập vào việc đảm bảo đời sống vật c",
+    "points_possible": 1,
+    "question_text": "Việc sử dụng hợp lí các khoản thu nhập vào việc đảm bảo đời sống vật chất và tinh thần của mỗi thành viên, cùng với việc sử dụng quỹ thời gian rảnh rỗi để tạo nên đời sống tinh thần, thể chất lành manh là nội dung của chức năng…",
+    "general_comment": "Đáp án đúng là 'tổ chức tiêu dùng của gia đình.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "tổ chức sản xuất của gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "tổ chức các mối quan hệ xã hội của gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "tổ chức đời sống tinh thần của gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "tổ chức tiêu dùng của gia đình.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 34: Gia đình đảm bảo nguồn sống, đáp ứng nhu cầu vật chất, tinh thần của c",
+    "points_possible": 1,
+    "question_text": "Gia đình đảm bảo nguồn sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình là nội dung của chức năng…",
+    "general_comment": "Đáp án đúng là 'kinh tế và tổ chức tiêu dùng.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nuôi dưỡng, giáo dục.",
+        "weight": 0
+      },
+      {
+        "text": "thoả mãn mọi mặt đời sống gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "đảm bảo đời sống vật chất và tinh thần.",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế và tổ chức tiêu dùng.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 35: Chức năng nào dưới đây tạo cho gia đình cơ cơ sở để tổ chức tốt đời số",
+    "points_possible": 1,
+    "question_text": "Chức năng nào dưới đây tạo cho gia đình cơ cơ sở để tổ chức tốt đời sống, nuôi dạy con cái, đóng góp to lớn đối với sự phát triển xã hội?",
+    "general_comment": "Đáp án đúng là 'Kinh tế và tổ chức tiêu dùng.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Kinh tế và tổ chức tiêu dùng.",
+        "weight": 100
+      },
+      {
+        "text": "Thoả mãn nhu cầu tâm - sinh lí, duy trì tình cảm gia đình.",
+        "weight": 0
+      },
+      {
+        "text": "Nuôi dưỡng, giáo dục.",
+        "weight": 0
+      },
+      {
+        "text": "Đảm bảo đời sống gia đình và phát triển xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 36: Chức năng nào dưới đây của gia đình có nhiệm vụ thoả mãn nhu cầu tình",
+    "points_possible": 1,
+    "question_text": "Chức năng nào dưới đây của gia đình có nhiệm vụ thoả mãn nhu cầu tình cảm, văn hoá, tinh thần cho các thành viên, đảm bảo sự cân bằng tâm lí, bảo vệ chăm sóc sức khoẻ người ốm, người già, trẻ em?",
+    "general_comment": "Đáp án đúng là 'Thoả mãn nhu cầu tâm - sinh lí, duy trì tình cảm gia đình.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Thoả mãn nhu cầu tình cảm, đời sống vật chất.",
+        "weight": 0
+      },
+      {
+        "text": "Thoả mãn nhu cầu tâm - sinh lí, duy trì tình cảm gia đình.",
+        "weight": 100
+      },
+      {
+        "text": "Thoả mãn nhu cầu tâm - sinh lí",
+        "weight": 0
+      },
+      {
+        "text": "Thoả mãn đời sống vật chất và tinh thần.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 37: Cơ sở kinh tế - xã hội để xây dựng gia đình trong thời kì quá độ lên c",
+    "points_possible": 1,
+    "question_text": "Cơ sở kinh tế - xã hội để xây dựng gia đình trong thời kì quá độ lên chủ nghĩa xã hội là sự phát triển của…",
+    "general_comment": "Đáp án đúng là 'lực lượng sản xuất và quan hệ sản xuất xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nền kinh tế nhiều thành phần, định hướng xã hội chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "lực lượng sản xuất và quan hệ sản xuất xã hội chủ nghĩa.",
+        "weight": 100
+      },
+      {
+        "text": "lực lượng sản xuất gắn với công cụ lao động hiện đại.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 38: Ý nào dưới đây là nguyên nhân sâu xa gây nên tình trạng thống trị của",
+    "points_possible": 1,
+    "question_text": "Ý nào dưới đây là nguyên nhân sâu xa gây nên tình trạng thống trị của người đàn ông trong gia đình, sự bất bình đẳng nam nữ, giữa vợ và chồng, sự nô dịch với phụ nữ?",
+    "general_comment": "Đáp án đúng là 'Chế độ tư hữu về tư liệu sản xuất.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chế độ đa thê.",
+        "weight": 0
+      },
+      {
+        "text": "Chế độ tư hữu về tư liệu sản xuất.",
+        "weight": 100
+      },
+      {
+        "text": "Chế độ công hữu về tư liệu sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "Chế độ một vợ một chồng.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 39: Sự thống trị của người đàn ông trong gia đình là kết quả của…",
+    "points_possible": 1,
+    "question_text": "Sự thống trị của người đàn ông trong gia đình là kết quả của…",
+    "general_comment": "Đáp án đúng là 'sự thống trị của họ về kinh tế.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "những hủ tục lạc hậu.",
+        "weight": 0
+      },
+      {
+        "text": "sự thống trị của họ về kinh tế.",
+        "weight": 100
+      },
+      {
+        "text": "sự thống trị của họ về văn hoá.",
+        "weight": 0
+      },
+      {
+        "text": "những quy định trong gia đình.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 40: Việc thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân",
+    "points_possible": 1,
+    "question_text": "Việc thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động nhằm xây dựng gia đình trong thời kì quá độ lên chủ nghĩa xã hội là nội dung của cơ sở…",
+    "general_comment": "Đáp án đúng là 'chính trị.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chính trị.",
+        "weight": 100
+      },
+      {
+        "text": "kinh tế.",
+        "weight": 0
+      },
+      {
+        "text": "văn hoá.",
+        "weight": 0
+      },
+      {
+        "text": "xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 41: Ở Việt Nam, tổ chức nào dưới đây là công cụ hữu hiệu nhất xoá bỏ những",
+    "points_possible": 1,
+    "question_text": "Ở Việt Nam, tổ chức nào dưới đây là công cụ hữu hiệu nhất xoá bỏ những hủ tục lạc hậu, giải phóng phụ nữ và bảo vệ hạnh phúc gia đình?",
+    "general_comment": "Đáp án đúng là 'Nhà nước.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đoàn Thanh niên Cộng sản.",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước.",
+        "weight": 100
+      },
+      {
+        "text": "Hội Liên hiệp Phụ nữ.",
+        "weight": 0
+      },
+      {
+        "text": "Đảng Cộng sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 42: Nội dung nào dưới đây thể hiện rõ nhất vai trò của nhà nước xã hội chủ",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây thể hiện rõ nhất vai trò của nhà nước xã hội chủ nghĩa trong việc đảm bảo lợi ích công dân, lợi ích của các thành viên trong gia đinh, đảm bảo sự bình đẳng giới, chính sách dân số?",
+    "general_comment": "Đáp án đúng là 'Xây dựng hệ thống pháp luật và hệ thống chính sách xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Ổn định tình hình chính trị-xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Phát triển kinh tế.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng hệ thống pháp luật và nâng cao đời sống tinh thần.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng hệ thống pháp luật và hệ thống chính sách xã hội.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 43: Phát triển lực lượng sản xuất và quan hệ sản xuất tương ứng - quan hệ",
+    "points_possible": 1,
+    "question_text": "Phát triển lực lượng sản xuất và quan hệ sản xuất tương ứng - quan hệ sản xuất mới xã hội chủ nghĩa là cơ sở để xây dựng gia đình trong thời kì quá độ lên chủ nghĩa xã hội ở lĩnh vực nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Kinh tế - xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chính trị - xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Văn hoá.",
+        "weight": 0
+      },
+      {
+        "text": "Kinh tế - xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "Tâm lí.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 44: Hôn nhân tự nguyện, một vợ một chồng bình đẳng, được đảm bảo về pháp l",
+    "points_possible": 1,
+    "question_text": "Hôn nhân tự nguyện, một vợ một chồng bình đẳng, được đảm bảo về pháp lí là biểu hiện của…",
+    "general_comment": "Đáp án đúng là 'chế độ hôn nhân tiến bộ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "hôn nhân bình đẳng.",
+        "weight": 0
+      },
+      {
+        "text": "hôn nhân tự nguyện.",
+        "weight": 0
+      },
+      {
+        "text": "chế độ hôn nhân tiến bộ.",
+        "weight": 100
+      },
+      {
+        "text": "hôn nhân được pháp luật thừa nhận.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 45: Hôn nhân tự nguyện là hôn nhân xuất phát từ…",
+    "points_possible": 1,
+    "question_text": "Hôn nhân tự nguyện là hôn nhân xuất phát từ…",
+    "general_comment": "Đáp án đúng là 'tình yêu.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "sự ủng hộ của những người xung quanh.",
+        "weight": 0
+      },
+      {
+        "text": "sự thoả mãn về kinh tế.",
+        "weight": 0
+      },
+      {
+        "text": "sự đồng ý của bố mẹ hai bên.",
+        "weight": 0
+      },
+      {
+        "text": "tình yêu.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 46: Nam nữ được đảm bảo quyền tự do trong việc lựa chọn người kết hôn là b",
+    "points_possible": 1,
+    "question_text": "Nam nữ được đảm bảo quyền tự do trong việc lựa chọn người kết hôn là biểu hiện của…",
+    "general_comment": "Đáp án đúng là 'hôn nhân tự nguyện.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "hôn nhân tự nguyện.",
+        "weight": 100
+      },
+      {
+        "text": "hôn nhân bình đẳng.",
+        "weight": 0
+      },
+      {
+        "text": "hôn nhân tích cực.",
+        "weight": 0
+      },
+      {
+        "text": "hôn nhân được pháp luật thừa nhận.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 47: Nguyên nhân nào sau đây giữ vai trò quyết định nhất tới sự xuất hiện c",
+    "points_possible": 1,
+    "question_text": "Nguyên nhân nào sau đây giữ vai trò quyết định nhất tới sự xuất hiện của hôn nhân một vợ một chồng trong lịch sử xã hội loài người?",
+    "general_comment": "Đáp án đúng là 'Sự thắng lợi của chế độ tư hữu đối với chế độ công hữu nguyên thuỷ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sự thắng lợi của những tư tưởng tiến bộ.",
+        "weight": 0
+      },
+      {
+        "text": "Sự thắng lợi của chế độ tư hữu đối với chế độ công hữu nguyên thuỷ.",
+        "weight": 100
+      },
+      {
+        "text": "Sự xuất hiện của các tổ chức bảo vệ quyền lợi của người phụ nữ.",
+        "weight": 0
+      },
+      {
+        "text": "Vị trí, vai trò của người phụ nữ trong xã hội được thừa nhận.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 48: Vợ và chồng đều có quyền lợi và nghĩa vụ như nhau về mọi vấn đề của cu",
+    "points_possible": 1,
+    "question_text": "Vợ và chồng đều có quyền lợi và nghĩa vụ như nhau về mọi vấn đề của cuộc sống gia đình là biểu hiện của…",
+    "general_comment": "Đáp án đúng là 'vợ chồng bình đẳng.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "vợ chồng bình đẳng.",
+        "weight": 100
+      },
+      {
+        "text": "tình yêu.",
+        "weight": 0
+      },
+      {
+        "text": "tự do kết hôn.",
+        "weight": 0
+      },
+      {
+        "text": "hôn nhân tự nguyện.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 49: Hôn nhân được đảm bảo về mặt pháp lí là hôn nhân…",
+    "points_possible": 1,
+    "question_text": "Hôn nhân được đảm bảo về mặt pháp lí là hôn nhân…",
+    "general_comment": "Đáp án đúng là 'được pháp luật thừa nhận thông qua việc đăng kí kết hôn.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "được pháp luật thừa nhận thông qua việc đăng kí kết hôn.",
+        "weight": 100
+      },
+      {
+        "text": "được tổ chức với sự chứng kiến của mọi người.",
+        "weight": 0
+      },
+      {
+        "text": "tự nguyện trên cơ sở tình yêu nam nữ.",
+        "weight": 0
+      },
+      {
+        "text": "được hai bên gia đình đồng ý.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 50: Yếu tố nào dưới đây giữ vai trò quyết định tới việc thúc đẩy tăng trưở",
+    "points_possible": 1,
+    "question_text": "Yếu tố nào dưới đây giữ vai trò quyết định tới việc thúc đẩy tăng trưởng về kinh tế, tăng thu nhập của cá nhân, là cơ sở cho việc củng cố và duy trì bền vững của gia đình ở Việt Nam?",
+    "general_comment": "Đáp án đúng là 'Nền kinh tế thị trường định hướng xã hội chủ nghĩa ngày càng phát triển.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Con cái được học hành đầy đủ, các thành viên đều được tạo điều kiện phát triển, cơ hội việc làm ngày càng cao.",
+        "weight": 0
+      },
+      {
+        "text": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa ngày càng phát triển.",
+        "weight": 100
+      },
+      {
+        "text": "Trình độ dân trí ngày càng được nâng cao, nghề nghiệp ngày càng đa dạng.",
+        "weight": 0
+      },
+      {
+        "text": "Tình cảm gắn bó giữa các thành viên trong gia đình, mọi người đều có công việc ổn định.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 51: Biểu hiện nào dưới đây không là tác động tiêu cực của kinh tế thị trườ",
+    "points_possible": 1,
+    "question_text": "Biểu hiện nào dưới đây không là tác động tiêu cực của kinh tế thị trường định hướng xã hội chủ nghĩa tới gia đình ở Việt Nam?",
+    "general_comment": "Đáp án đúng là 'Tăng thu nhập của cá nhân trong gia đình.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Ngoại tình, li hôn có chiều hướng ngày càng phát triển.",
+        "weight": 0
+      },
+      {
+        "text": "Tăng thu nhập của cá nhân trong gia đình.",
+        "weight": 100
+      },
+      {
+        "text": "Trẻ em nghỉ học sớm, tham gia vào thị trường lao động.",
+        "weight": 0
+      },
+      {
+        "text": "Sự phân hoá giàu nghèo giữa các gia đình ngày càng tăng.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 52: Nội dung nào dưới đây là mục tiêu về xây dựng gia đình mà Đại hội đại",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là mục tiêu về xây dựng gia đình mà Đại hội đại biểu toàn quốc lần thứ XII của Đảng Cộng sản Việt Nam đã đề ra?",
+    "general_comment": "Đáp án đúng là 'Xây dựng gia đình no ấm, tiến bộ, hạnh phúc, văn minh.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xây dựng gia đình bình đẳng, hạnh phúc, no ấm, tiến bộ, văn minh.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng gia đình hạnh phúc, kinh tế phát triển.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng gia đình ấm no, tự do, hạnh phúc.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng gia đình no ấm, tiến bộ, hạnh phúc, văn minh.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 53: Nội dung nào dưới đây là mục tiêu mà “Chiến lược phát triển gia đình V",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là mục tiêu mà “Chiến lược phát triển gia đình Việt Nam đến năm 2020, tầm nhìn 2030” đã đề ra?",
+    "general_comment": "Đáp án đúng là 'Xây dựng gia đình Việt Nam no ấm, tiến bộ, hạnh phúc, thực sự là tổ ấm của mỗi người, là tế bào lành mạnh của xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xây dựng gia đình Việt Nam bình đẳng, tiến bộ, hạnh phúc, thực sự là tổ ấm của mỗi người, là tế bào lành mạnh của xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng gia đình Việt Nam kinh tế no ấm, văn minh, tiến bộ, hạnh phúc, thực sự là tổ ấm của mỗi người, là tế bào lành mạnh của xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng gia đình Việt Nam no ấm, tiến bộ, hạnh phúc, thực sự là tổ ấm của mỗi người, là tế bào lành mạnh của xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "Xây dựng gia đình Việt Nam no ấm, tiến bộ, hạnh phúc, thực sự là tổ ấm của mỗi người.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 54: Ngày Gia đình Việt Nam là ngày…",
+    "points_possible": 1,
+    "question_text": "Ngày Gia đình Việt Nam là ngày…",
+    "general_comment": "Đáp án đúng là '28/6.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "28/6.",
+        "weight": 100
+      },
+      {
+        "text": "26/6.",
+        "weight": 0
+      },
+      {
+        "text": "26/8.",
+        "weight": 0
+      },
+      {
+        "text": "28/5.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 55: Luật Hôn nhân và Gia đình ban hành năm 2000 ở Việt Nam được sửa đổi và",
+    "points_possible": 1,
+    "question_text": "Luật Hôn nhân và Gia đình ban hành năm 2000 ở Việt Nam được sửa đổi vào năm…",
+    "general_comment": "Đáp án đúng là '2014.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "2012.",
+        "weight": 0
+      },
+      {
+        "text": "2007.",
+        "weight": 0
+      },
+      {
+        "text": "2014.",
+        "weight": 100
+      },
+      {
+        "text": "2015.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 56: Luật Phòng, chống bạo lực gia đình hiện hành của Việt Nam có hiệu lực",
+    "points_possible": 1,
+    "question_text": "Luật Phòng, chống bạo lực gia đình hiện hành của Việt Nam có hiệu lực thi hành năm…",
+    "general_comment": "Đáp án đúng là '2008.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "2008.",
+        "weight": 100
+      },
+      {
+        "text": "2006.",
+        "weight": 0
+      },
+      {
+        "text": "2007.",
+        "weight": 0
+      },
+      {
+        "text": "2009.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 57: “Gia đình đơn” còn được gọi bằng tên nào dưới đây",
+    "points_possible": 1,
+    "question_text": "“Gia đình đơn” còn được gọi bằng tên nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Gia đình hạt nhân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Gia đình tập thể.",
+        "weight": 0
+      },
+      {
+        "text": "Gia đình ba thế hệ.",
+        "weight": 0
+      },
+      {
+        "text": "Gia đình nhiều thế hệ.",
+        "weight": 0
+      },
+      {
+        "text": "Gia đình hạt nhân.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 58: Gia đình có ba thế hệ cùng chung sống dưới một mái nhà được gọi là…",
+    "points_possible": 1,
+    "question_text": "Gia đình có ba thế hệ cùng chung sống dưới một mái nhà được gọi là…",
+    "general_comment": "Đáp án đúng là 'tam đại đồng đường.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "tứ đại đồng đường.",
+        "weight": 0
+      },
+      {
+        "text": "gia đình tập thể.",
+        "weight": 0
+      },
+      {
+        "text": "tam đại đồng đường.",
+        "weight": 100
+      },
+      {
+        "text": "gia đình hạt nhân.",
+        "weight": 0
+      }
+    ]
+  }
+]

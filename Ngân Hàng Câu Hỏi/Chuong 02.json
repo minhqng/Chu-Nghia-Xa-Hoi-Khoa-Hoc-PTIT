@@ -1,0 +1,2502 @@
+[
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 1: Nội dung nào dưới đây là phạm trù trung tâm, là nguyên lí xuất phát củ",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là phạm trù trung tâm, là nguyên lí xuất phát của chủ nghĩa xã hội khoa học?",
+    "general_comment": "Đáp án đúng là 'Sứ mệnh lịch sử thế giới của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sứ mệnh lịch sử thế giới của giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Vấn đề dân tộc trong thời kì quá độ lên chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Chủ nghĩa xã hội và thời kì quá độ lên chủ nghĩa xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 2: Giai cấp nào dưới đây là con đẻ của nền đại công nghiệp tư bản chủ ngh",
+    "points_possible": 1,
+    "question_text": "Giai cấp nào dưới đây là con đẻ của nền đại công nghiệp tư bản chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp địa chủ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 3: Chọn phương án đúng nhất: Sự ra đời và phát triển của giai cấp công nh",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Sự ra đời và phát triển của giai cấp công nhân hiện đại gắn liền với sự ra đời và phát triển của [...].",
+    "general_comment": "Đáp án đúng là 'Nền đại công nghiệp tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Công trường thủ công",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Nền đại công nghiệp tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Sản xuất thủ công",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 4: Nội dung sứ mệnh lịch sử của giai cấp công nhân là [...]",
+    "points_possible": 1,
+    "question_text": "Nội dung sứ mệnh lịch sử của giai cấp công nhân là [...].",
+    "general_comment": "Đáp án đúng là 'Xóa bỏ chế độ tư bản chủ nghĩa, xây dựng chủ nghĩa xã hội, chủ nghĩa cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Xóa bỏ chế độ phong kiến, xây dựng chế độ tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Xóa bỏ chế độ tư bản chủ nghĩa, xây dựng chủ nghĩa xã hội, chủ nghĩa cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Xóa bỏ chế độ chiếm hữu nô lệ, xây dựng chế độ phong kiến",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 5: Trong chủ nghĩa tư bản, giai cấp công nhân đại biểu cho phương thức sả",
+    "points_possible": 1,
+    "question_text": "Trong chủ nghĩa tư bản, giai cấp công nhân đại biểu cho phương thức sản xuất [...].",
+    "general_comment": "Đáp án đúng là 'Tiên tiến' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Manh mún",
+        "weight": 0
+      },
+      {
+        "text": "Tiên tiến",
+        "weight": 100
+      },
+      {
+        "text": "Lạc hậu",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 6: Trong chủ nghĩa tư bản, giai cấp công nhân có mấy đặc trưng cơ bản",
+    "points_possible": 1,
+    "question_text": "Trong chủ nghĩa tư bản, giai cấp công nhân có mấy đặc trưng cơ bản?",
+    "general_comment": "Đáp án đúng là '2' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "2",
+        "weight": 100
+      },
+      {
+        "text": "5",
+        "weight": 0
+      },
+      {
+        "text": "3",
+        "weight": 0
+      },
+      {
+        "text": "4",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 7: Lao động trực tiếp hoặc gián tiếp vận hành các công cụ sản xuất có tín",
+    "points_possible": 1,
+    "question_text": "Lao động trực tiếp hoặc gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hoá cao là nội dung thể hiện […].",
+    "general_comment": "Đáp án đúng là 'phương thức lao động của người công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "phương thức lao động của người công nhân",
+        "weight": 100
+      },
+      {
+        "text": "vị trí trong quan hệ sản xuất tư bản chủ nghĩa của người công nhân",
+        "weight": 0
+      },
+      {
+        "text": "địa vị xã hội của người công nhân",
+        "weight": 0
+      },
+      {
+        "text": "công cụ lao động của người công nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 8: Về vị trí trong quan hệ sản xuất tư bản chủ nghĩa, công nhân là những",
+    "points_possible": 1,
+    "question_text": "Về vị trí trong quan hệ sản xuất tư bản chủ nghĩa, công nhân là những người lao động […].",
+    "general_comment": "Đáp án đúng là 'không sở hữu tư liệu sản xuất chủ yếu của xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "không sở hữu bất cứ tư liệu sản xuất nào của xã hội",
+        "weight": 0
+      },
+      {
+        "text": "có sở hữu tư liệu sản xuất là sức lao động",
+        "weight": 0
+      },
+      {
+        "text": "không sở hữu tư liệu sản xuất chủ yếu của xã hội",
+        "weight": 100
+      },
+      {
+        "text": "có sở hữu tư liệu sản xuất là kinh nghiệm cá nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 9: “Các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của",
+    "points_possible": 1,
+    "question_text": "“Các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là sản phẩm của bản thân nền đại công nghiệp” là luận điểm của […].",
+    "general_comment": "Đáp án đúng là 'C. Mác và Ph.Ăngghen' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "C. Mác và Ph.Ăngghen",
+        "weight": 100
+      },
+      {
+        "text": "Ph. Ăngghen",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 10: Giai cấp, tầng lớp nào dưới đây không sở hữu tư liệu sản xuất chủ yếu",
+    "points_possible": 1,
+    "question_text": "Giai cấp, tầng lớp nào dưới đây không sở hữu tư liệu sản xuất chủ yếu phải bán sức lao động cho nhà tư bản và bị nhà tư bản bóc lột giá trị thặng dư?",
+    "general_comment": "Đáp án đúng là 'Công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Tiểu tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Doanh nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 11: Một số thuật ngữ khác nhau được C. Mác và Ph. Ănghen sử dụng có nghĩa",
+    "points_possible": 1,
+    "question_text": "Một số thuật ngữ khác nhau được C. Mác và Ph. Ănghen sử dụng có nghĩa tương đồng với khái niệm giai cấp công nhân là [...].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân đại công nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân hiện đại",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp vô sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 12: Giai cấp công nhân là tập đoàn người lao động sử dụng công cụ sản xuất",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân là tập đoàn người lao động sử dụng công cụ sản xuất có tính [...].",
+    "general_comment": "Đáp án đúng là 'Công nghiệp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Công nghiệp",
+        "weight": 100
+      },
+      {
+        "text": "Thô sơ",
+        "weight": 0
+      },
+      {
+        "text": "Thủ công",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 13: Mác đã khẳng định: “... trong công xưởng thì người công nhân phải phục vụ máy móc” là muốn đề cập đến giai cấp nào?",
+    "points_possible": 1,
+    "question_text": "Mác đã khẳng định: “... trong công xưởng thì người công nhân phải phục vụ máy móc” là muốn đề cập đến giai cấp nào?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân hiện đại' vì luận điểm này nói về bộ phận tiêu biểu của giai cấp công nhân trong nền đại công nghiệp.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân hiện đại",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Tầng lớp trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 14: Chọn phương án đúng nhất: Trong chủ nghĩa tư bản, giai cấp công nhân h",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chủ nghĩa tư bản, giai cấp công nhân hiện đại có nguồn gốc từ [...].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tiểu chủ",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Thợ thủ công",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 15: Trong chế độ tư bản chủ nghĩa, “không có tư liệu sản xuất, phải bán sứ",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, “không có tư liệu sản xuất, phải bán sức lao động và bị bóc lột giá trị thặng dư” là đặc trưng cơ bản của giai cấp nào?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Tầng lớp trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 16: Trong chế độ tư bản chủ nghĩa, “không có tư liệu sản xuất, phải bán sứ",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, “không có tư liệu sản xuất, phải bán sức lao động và bị bóc lột giá trị thặng dư” là đặc trưng cơ bản để phân biệt giai cấp công nhân với [...].",
+    "general_comment": "Đáp án đúng là 'Giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Tầng lớp trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 17: Giai cấp, tầng lớp nào dưới đây chỉ có thể sống với điều kiện là kiếm",
+    "points_possible": 1,
+    "question_text": "Giai cấp, tầng lớp nào dưới đây chỉ có thể sống với điều kiện là kiếm được việc làm, và chỉ kiếm được việc làm, nếu lao động của họ làm tăng thêm tư bản?",
+    "general_comment": "Đáp án đúng là 'Công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Địa chủ",
+        "weight": 0
+      },
+      {
+        "text": "Nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 18: Lực lượng nào dưới đây buộc phải tự bán mình đế kiếm ăn từng bữa, là m",
+    "points_possible": 1,
+    "question_text": "Lực lượng nào dưới đây buộc phải tự bán mình đế kiếm ăn từng bữa, là một hàng hoá, tức là một món hàng đem bán như bất cứ món hàng nào khác, vì thế, họ phải chịu hết mọi sự may rủi của cạnh tranh, mọi sự lên xuống của thị trường?",
+    "general_comment": "Đáp án đúng là 'Công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Người làm nghề tự do",
+        "weight": 0
+      },
+      {
+        "text": "Công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Tiểu tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 19: Nội dung nào dưới đây là nguồn gốc cơ bản của giá trị thặng dư và sự g",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là nguồn gốc cơ bản của giá trị thặng dư và sự giàu có của giai cấp tư sản?",
+    "general_comment": "Đáp án đúng là 'Lao động sống của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Quá trình trao đổi, mua bán",
+        "weight": 0
+      },
+      {
+        "text": "Kinh tế thị tnrờng",
+        "weight": 0
+      },
+      {
+        "text": "Hoạt động thương mại",
+        "weight": 0
+      },
+      {
+        "text": "Lao động sống của giai cấp công nhân",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 20: Giai cấp công nhân lao động bằng phương thức công nghiệp với đặc trưng",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân lao động bằng phương thức công nghiệp với đặc trưng công cụ lao động là […].",
+    "general_comment": "Đáp án đúng là 'máy móc có tính chất công nghiệp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "trí óc",
+        "weight": 0
+      },
+      {
+        "text": "ruộng đất",
+        "weight": 0
+      },
+      {
+        "text": "con trâu, cái cày",
+        "weight": 0
+      },
+      {
+        "text": "máy móc có tính chất công nghiệp",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 21: Giai cấp nào dưới đây là sản phẩm của bản thân nền đại công nghiệp, là",
+    "points_possible": 1,
+    "question_text": "Giai cấp nào dưới đây là sản phẩm của bản thân nền đại công nghiệp, là chủ thể của quá trình sản xuất vật chất hiện đại?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp chủ nô",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp địa chủ",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 22: Lực lượng nào dưới đây là đại biểu cho lực lượng sản xuất tiên tiên, c",
+    "points_possible": 1,
+    "question_text": "Lực lượng nào dưới đây là đại biểu cho lực lượng sản xuất tiên tiên, cho phương thức sản xuất tiên tiến, quyết định sự tồn tại và phát tnên của xã hội hiện đại?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Đội ngũ trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 23: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, mâu thuẫn giữ",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản là mâu thuẫn đối kháng […].",
+    "general_comment": "Đáp án đúng là 'Trực tiếp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Trực tiếp và gián tiếp",
+        "weight": 0
+      },
+      {
+        "text": "Trực tiếp",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Gián tiếp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 24: Chọn phương án đúng nhất: Theo chủ nghĩa Mác - Lênin, trong chế độ tư",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Theo chủ nghĩa Mác - Lênin, trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Không có tư liệu sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Bị áp bức, bóc lột",
+        "weight": 0
+      },
+      {
+        "text": "Lao động trong nền đại công nghiệp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 25: Dựa vào khái niệm giai cấp công nhân, trong chủ nghĩa tư bản hiện nay",
+    "points_possible": 1,
+    "question_text": "Dựa vào khái niệm giai cấp công nhân, trong chủ nghĩa tư bản hiện nay, giai cấp công nhân là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Bị bóc lột giá trị thặng dư' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Bị bóc lột giá trị thặng dư",
+        "weight": 100
+      },
+      {
+        "text": "Không bị bóc lột giá trị thặng dư",
+        "weight": 0
+      },
+      {
+        "text": "Bị bóc lột một phần giá trị thặng dư",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 26: Trong chế độ tư bản chủ nghĩa, một trong những đặc điểm chính trị - xã",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, một trong những đặc điểm chính trị - xã hội của giai cấp công nhân là […].",
+    "general_comment": "Đáp án đúng là 'Giai cấp tiên phong cách mạng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Bộ phận quan trọng nhất của lực lượng sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tiên phong cách mạng",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp có tư liệu sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 27: Ai đã khẳng định: “Lực lượng sản xuất hàng đầu của toàn nhân loại là c",
+    "points_possible": 1,
+    "question_text": "Ai đã khẳng định: “Lực lượng sản xuất hàng đầu của toàn nhân loại là công nhân, là người lao động”?",
+    "general_comment": "Đáp án đúng là 'V. I. Lênin' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "C. Mác",
+        "weight": 0
+      },
+      {
+        "text": "V. I. Lênin",
+        "weight": 100
+      },
+      {
+        "text": "Hồ Chí Minh",
+        "weight": 0
+      },
+      {
+        "text": "Ph. Ănghen",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 28: Chọn phương án đúng nhất: Tìm ý đúng cho luận điểm sau: Cùng với sự ph",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Tìm ý đúng cho luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ, giai cấp công nhân [...].",
+    "general_comment": "Đáp án đúng là 'Tăng về số lượng và nâng cao về chất lượng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giảm về số lượng và nâng cao về chất lượng",
+        "weight": 0
+      },
+      {
+        "text": "Tăng về số lượng và nâng cao về chất lượng",
+        "weight": 100
+      },
+      {
+        "text": "Giảm về số lượng và giảm về chất lượng",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 29: Nền sản xuất đại công nghiệp và phương thức sản xuất tiên tiến đã rèn",
+    "points_possible": 1,
+    "question_text": "Nền sản xuất đại công nghiệp và phương thức sản xuất tiên tiến đã rèn luyện cho giai cấp công nhân những phẩm chất đặc biệt về tính tổ chức, kỉ luật lao động, tinh thần hợp tác và […].",
+    "general_comment": "Đáp án đúng là 'tâm lí lao động công nghiệp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "tâm lí lao động tự do",
+        "weight": 0
+      },
+      {
+        "text": "tác phong nông nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "tâm lí lao động công nghiệp",
+        "weight": 100
+      },
+      {
+        "text": "tâm lí lao động nông nghiệp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 30: Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hoá ngày càng cao v",
+    "points_possible": 1,
+    "question_text": "Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hoá ngày càng cao với quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu là mâu thuẫn cơ bản của phương thức sản xuất nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Cộng sản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Chiếm hữu nô lệ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 31: Biểu hiện về mặt xã hội của mâu thuẫn cơ bản trong phương thức sản xuấ",
+    "points_possible": 1,
+    "question_text": "Biểu hiện về mặt xã hội của mâu thuẫn cơ bản trong phương thức sản xuất tư bản chủ nghĩa là mâu thuẫn giữa […].",
+    "general_comment": "Đáp án đúng là 'giai cấp công nhân và giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "các tập đoàn tư bản",
+        "weight": 0
+      },
+      {
+        "text": "tư bản và lao động",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp công nhân và giai cấp tư sản",
+        "weight": 100
+      },
+      {
+        "text": "lực lượng sản xuất và quan hệ sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 32: Chọn phương án đúng nhất: Trong quan hệ sản xuất tư bản chủ nghĩa, gia",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Bị bóc lột giá trị thặng dư",
+        "weight": 0
+      },
+      {
+        "text": "Phải bán sức lao động",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Không có tư liệu sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 33: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp bị giai cấp tư sản bóc lột […].",
+    "general_comment": "Đáp án đúng là 'Trực tiếp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Trực tiếp và gián tiếp",
+        "weight": 0
+      },
+      {
+        "text": "Gián tiếp",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Trực tiếp",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 34: Trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là giai cấ",
+    "points_possible": 1,
+    "question_text": "Trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Không có tư liệu sản xuất, phải bán sức lao động cho giai cấp tư sản và bị bóc lột' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Không có tư liệu sản xuất, phải bán sức lao động cho giai cấp chủ nô và bị bóc lột",
+        "weight": 0
+      },
+      {
+        "text": "Không có tư liệu sản xuất, phải bán sức lao động cho giai cấp địa chủ và bị bóc lột",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Không có tư liệu sản xuất, phải bán sức lao động cho giai cấp tư sản và bị bóc lột",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 35: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là những người sản x",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là những người sản xuất ra […].",
+    "general_comment": "Đáp án đúng là 'Đại đa số của cải cho chế độ tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Toàn bộ của cải cho mọi chế độ xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Một phần của cải cho chế độ tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Đại đa số của cải cho chế độ tư bản chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 36: Một trong những đặc điểm chính trị - xã hội của giai cấp công nhân là",
+    "points_possible": 1,
+    "question_text": "Một trong những đặc điểm chính trị - xã hội của giai cấp công nhân là giai cấp có […].",
+    "general_comment": "Đáp án đúng là 'Tinh thần cách mạng triệt để nhất' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Tinh thần cách mạng nửa vời",
+        "weight": 0
+      },
+      {
+        "text": "Tinh thần cách mạng triệt để nhất",
+        "weight": 100
+      },
+      {
+        "text": "Tinh thần cách mạng cải lương",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 37: Một trong những đặc điểm chính trị - xã hội của giai cấp công nhân là",
+    "points_possible": 1,
+    "question_text": "Một trong những đặc điểm chính trị - xã hội của giai cấp công nhân là giai cấp có […].",
+    "general_comment": "Đáp án đúng là 'Ý thức tổ chức kỷ luật cao' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Ý thức tổ chức kỷ luật cao",
+        "weight": 100
+      },
+      {
+        "text": "Ý thức tổ chức kỷ luật kém",
+        "weight": 0
+      },
+      {
+        "text": "Ý thức tổ chức kỷ luật trung bình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 38: Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản là mâu thuẫn […]",
+    "points_possible": 1,
+    "question_text": "Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản là mâu thuẫn […].",
+    "general_comment": "Đáp án đúng là 'đối kháng trực tiếp về lợi ích' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đối kháng trực tiếp về lợi ích",
+        "weight": 100
+      },
+      {
+        "text": "đối kháng gián tiếp về lợi ích",
+        "weight": 0
+      },
+      {
+        "text": "không đối kháng về lợi ích",
+        "weight": 0
+      },
+      {
+        "text": "về lợi ích không cơ bản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 39: Giữa giai cấp công nhân và giai cấp nông dân có […]",
+    "points_possible": 1,
+    "question_text": "Giữa giai cấp công nhân và giai cấp nông dân có […].",
+    "general_comment": "Đáp án đúng là 'nhiều lợi ích cơ bản thống nhất với nhau' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "toàn bộ lợi ích thống nhất với nhau",
+        "weight": 0
+      },
+      {
+        "text": "nhiều lợi ích cơ bản thống nhất với nhau",
+        "weight": 100
+      },
+      {
+        "text": "lợi ích hoàn toàn khác nhau",
+        "weight": 0
+      },
+      {
+        "text": "lợi ích hoàn toàn đối lập nhau",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 40: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp bị giai",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp bị giai cấp tư sản bóc lột […].",
+    "general_comment": "Đáp án đúng là 'Giá trị thặng dư' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Giá trị trao đổi",
+        "weight": 0
+      },
+      {
+        "text": "Giá trị sử dụng",
+        "weight": 0
+      },
+      {
+        "text": "Giá trị thặng dư",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 41: Giai cấp công nhân là giai cấp có mâu thuẫn đối kháng với […]",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân là giai cấp có mâu thuẫn đối kháng với […].",
+    "general_comment": "Đáp án đúng là 'Giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp địa chủ",
+        "weight": 0
+      },
+      {
+        "text": "Tầng lớp trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 42: Một trong những nội dung sứ mệnh lịch sử của giai cấp công nhân là […]",
+    "points_possible": 1,
+    "question_text": "Một trong những nội dung sứ mệnh lịch sử của giai cấp công nhân là […].",
+    "general_comment": "Đáp án đúng là 'Xóa bỏ chế độ tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xóa bỏ chế độ phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Xóa bỏ chế độ tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Xóa bỏ chế độ chiếm hữu nô lệ",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 43: Một trong những nội dung sứ mệnh lịch sử của giai cấp công nhân là […]",
+    "points_possible": 1,
+    "question_text": "Một trong những nội dung sứ mệnh lịch sử của giai cấp công nhân là […].",
+    "general_comment": "Đáp án đúng là 'Xây dựng xã hội xã hội chủ nghĩa và cộng sản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xây dựng chế độ phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng xã hội xã hội chủ nghĩa và cộng sản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Xây dựng chế độ chiếm hữu nô lệ",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng chế độ tư bản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 44: Trong chế độ tư bản chủ nghĩa, có mấy điều kiện khách quan quy định sứ",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, có mấy điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là '2' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "2",
+        "weight": 100
+      },
+      {
+        "text": "5",
+        "weight": 0
+      },
+      {
+        "text": "4",
+        "weight": 0
+      },
+      {
+        "text": "3",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 45: Quan điểm nào dưới đây không đúng về giai cấp công nhân",
+    "points_possible": 1,
+    "question_text": "Quan điểm nào dưới đây không đúng về giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân là giai cấp không đại diện cho quan hệ sản xuất tiên tiến' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân là lực lượng chủ yếu của tiến trình lịch sử quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là một tập đoàn xã hội ổn định, hình thành và phát triển cùng với quá trình phát triển của nền công nghiệp hiện đại",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là giai cấp không đại diện cho quan hệ sản xuất tiên tiến",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 46: Phát biểu nào dưới đây không đúng về giai cấp công nhân",
+    "points_possible": 1,
+    "question_text": "Phát biểu nào dưới đây không đúng về giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân là người làm thuê do không có tư liệu sản xuất, buộc phải bán sức lao động để sống, không bị giai cấp tư sản bóc lột giá trị thặng dư' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Lợi ích cơ bản của giai cấp công nhân đối lập với lợi ích cơ bản của giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là giai cấp có sứ mệnh phủ định chế độ tư bản chủ nghĩa, xây dựng thành công chủ nghĩa xã hội và chủ nghĩa cộng sản trên toàn thế giới",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là người làm thuê do không có tư liệu sản xuất, buộc phải bán sức lao động để sống, không bị giai cấp tư sản bóc lột giá trị thặng dư",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân là người làm thuê do không có tư liệu sản xuất, buộc phải bán sức lao động để sống và bị giai cấp tư sản bóc lột giá trị thặng dư",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 47: Một trong những điều kiện khách quan quy định sứ mệnh lịch sử của giai",
+    "points_possible": 1,
+    "question_text": "Một trong những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Địa vị kinh tế - xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Địa vị kinh tế - xã hội",
+        "weight": 100
+      },
+      {
+        "text": "Chính trị",
+        "weight": 0
+      },
+      {
+        "text": "Văn hóa",
+        "weight": 0
+      },
+      {
+        "text": "Tư tưởng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 48: Một trong những điều kiện khách quan quy định sứ mệnh lịch sử của giai",
+    "points_possible": 1,
+    "question_text": "Một trong những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Đặc điểm chính trị - xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Đặc điểm chính trị - xã hội",
+        "weight": 100
+      },
+      {
+        "text": "Kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "Tư tưởng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 49: Chọn phương án đúng nhất: Điều kiện khách quan quy định sứ mệnh lịch s",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Địa vị kinh tế - xã hội và đặc điểm chính trị - xã hội của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sự phát triển của lực lượng sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là con đẻ của nền đại công nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "Địa vị kinh tế - xã hội và đặc điểm chính trị - xã hội của giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 50: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp tiên phong cách mạng vì họ là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Luôn đi đầu trong mọi phong trào cách mạng",
+        "weight": 0
+      },
+      {
+        "text": "Đại biểu cho phương thức sản xuất tiên tiến",
+        "weight": 0
+      },
+      {
+        "text": "Được trang bị lý luận khoa học cách mạng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 51: Phát biểu nào dưới đây không phải là đặc điểm của giai cấp công nhân m",
+    "points_possible": 1,
+    "question_text": "Phát biểu nào dưới đây không phải là đặc điểm của giai cấp công nhân mang sứ mệnh lịch sử thế giới?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân là lực lượng tiến bộ nhưng chỉ bảo vệ lợi ích cho giai cấp mình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân là giai cấp đại diện cho lực lượng sản xuất tiến bộ của thời đại",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là lực lượng đại diện cho khuynh hướng tiến bộ của nhân loại",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là lực lượng đông đảo và tiên phong",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là lực lượng tiến bộ nhưng chỉ bảo vệ lợi ích cho giai cấp mình",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 52: Nội dung nào dưới đây không phải là sứ mệnh lịch sử thế giới của giai",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là sứ mệnh lịch sử thế giới của giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là 'Xoá bỏ tận gốc chế độ người bóc lột người, giải phóng cho giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xoá bỏ tận gốc chế độ người bóc lột người, giải phóng cho giai cấp tư sản",
+        "weight": 100
+      },
+      {
+        "text": "Xoá bỏ tận gốc chế độ người bóc lột người, xoá bỏ chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Giải phóng cho giai cấp công nhân và toàn thể nhân loại bị áp bức",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng xã hội cộng sản chủ nghĩa văn minh",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 53: Mục tiêu nào dưới đây là mục tiêu lớn nhất mà giai cấp công nhân thực",
+    "points_possible": 1,
+    "question_text": "Mục tiêu nào dưới đây là mục tiêu lớn nhất mà giai cấp công nhân thực hiện?",
+    "general_comment": "Đáp án đúng là 'Xoá bỏ tận gốc chế độ người bóc lột người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xoá bỏ tận gốc chế độ nô lệ làm thuê",
+        "weight": 0
+      },
+      {
+        "text": "Xoá bỏ tận gốc chế độ người bóc lột người",
+        "weight": 100
+      },
+      {
+        "text": "Xoá bỏ tận gốc chế độ phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Xoá bỏ tận gốc chế độ tư bản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 54: Quan điểm nào sau đây phản ánh đúng về việc xoá bỏ hình thái kinh tế —",
+    "points_possible": 1,
+    "question_text": "Quan điểm nào sau đây phản ánh đúng về việc xoá bỏ hình thái kinh tế — xã hội tư bản chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Xoá bỏ quan hệ sản xuất bóc lột và kế thừa thành tựu tiến bộ về lực lượng sản xuất trong chủ nghĩa tư bản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xoá bỏ lực lượng sản xuất và kế thừa thành tựu tiến bộ về quan hệ sản xuất trong chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Xoá bỏ quan hệ sản xuất bóc lột và kế thừa thành tựu tiến bộ về lực lượng sản xuất trong chủ nghĩa tư bản",
+        "weight": 100
+      },
+      {
+        "text": "Xoá bỏ văn hoá và tư tưởng bóc lột trong chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Xoá bỏ cả quan hệ sản xuất bóc lột và lực lượng sản xuất trong chủ nghĩa tư bản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 55: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp có tinh",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là giai cấp có tinh thần cách mạng triệt để nhất vì họ là giai cấp […].",
+    "general_comment": "Đáp án đúng là 'Xóa bỏ tận gốc chế độ tư hữu về tư liệu sản xuất' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Xóa bỏ chế độ công hữu về tư liệu sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Xóa bỏ tận gốc chế độ tư hữu về tư liệu sản xuất",
+        "weight": 100
+      },
+      {
+        "text": "Xóa bỏ mọi hình thức sở hữu về tư liệu sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 56: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân có thể đoàn kết nội bộ giai cấp vì họ có chung […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Địa vị kinh tế - xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Điều kiện sống",
+        "weight": 0
+      },
+      {
+        "text": "Điều kiện làm việc",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 57: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân có thể đoàn kết với các giai cấp, tầng lớp lao động khác vì họ […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Đều bị giai cấp tư sản bóc lột",
+        "weight": 0
+      },
+      {
+        "text": "Có chung lợi ích kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "Có chung nguyện vọng được giải phóng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 58: Trong chế độ tư bản chủ nghĩa, giai cấp công nhân có bao nhiêu đặc điể",
+    "points_possible": 1,
+    "question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân có bao nhiêu đặc điểm chính trị - xã hội?",
+    "general_comment": "Đáp án đúng là '4' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "7",
+        "weight": 0
+      },
+      {
+        "text": "5",
+        "weight": 0
+      },
+      {
+        "text": "6",
+        "weight": 0
+      },
+      {
+        "text": "4",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 59: Trong chủ nghĩa tư bản, mục tiêu của công nhân là xoá bỏ quan hệ sản x",
+    "points_possible": 1,
+    "question_text": "Trong chủ nghĩa tư bản, mục tiêu của công nhân là xoá bỏ quan hệ sản xuất dựa trên chế độ […].",
+    "general_comment": "Đáp án đúng là 'sở hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "sở hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu",
+        "weight": 100
+      },
+      {
+        "text": "sở hữu công cộng về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      },
+      {
+        "text": "công hữu về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      },
+      {
+        "text": "sở hữu chung về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 60: Muốn thực hiện sứ mệnh lịch sử thế giới của mình, giai cấp công nhân p",
+    "points_possible": 1,
+    "question_text": "Muốn thực hiện sứ mệnh lịch sử thế giới của mình, giai cấp công nhân phải […].",
+    "general_comment": "Đáp án đúng là 'lật đổ sự thống trị của giai cấp tư sản, giành chính quyền về tay giai cấp mình, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ, xây dựng xã hội mới' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "lật đổ sự thống trị của bộ phận đại tư sản, giành chính quyền về tay giai cấp mình, cải tạo xã hội cũ, xây dựng xã hội mới",
+        "weight": 0
+      },
+      {
+        "text": "lật đổ sự thống trị của giai cấp vô sản, giành chính quyền về tay giai cấp mình, thiết lập nhà nước, cải tạo xã hội cũ, xây dựng xã hội mới",
+        "weight": 0
+      },
+      {
+        "text": "lật đổ sự thống trị của giai cấp tư sản, giành chính quyền về tay giai cấp mình, thiết lập nhà nước chuyên chính vô sản, cải tạo xã hội cũ, xây dựng xã hội mới",
+        "weight": 100
+      },
+      {
+        "text": "lật đổ sự thống trị của giai cấp tiểu tư sản, giành chính quyền về tay giai cấp mình, cải tạo xã hội cũ, xây dựng xã hội mới",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 61: Để thực hiện sứ mệnh lịch sử của mình, bước đầu tiên giai cấp công nhâ",
+    "points_possible": 1,
+    "question_text": "Để thực hiện sứ mệnh lịch sử của mình, bước đầu tiên giai cấp công nhân phải làm là […].",
+    "general_comment": "Đáp án đúng là 'giành chính quyền, thiết lập được nhà nước của giai cấp mình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "giành chính quyền, thiết lập được nhà nước của giai cấp mình",
+        "weight": 100
+      },
+      {
+        "text": "xoá bỏ sự bóc lột đem lại hạnh phúc, ấm no cho nhân dân",
+        "weight": 0
+      },
+      {
+        "text": "liên minh với nông dân, giải phóng cho loài người",
+        "weight": 0
+      },
+      {
+        "text": "cải tạo xã hội cũ, xây dựng thành công xã hội mới - xã hội cộng sản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 62: Xoá bỏ quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản về tư",
+    "points_possible": 1,
+    "question_text": "Xoá bỏ quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản về tư liệu sản xuất chủ yếu, xây dựng quan hệ sản xuất mới, phù hợp với tính chất xã hội hoá cao của lực lượng sản xuất, với chế độ công hữu về tư liệu sản xuất chủ yếu của xã hội là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'kinh tế' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "văn hoá",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế",
+        "weight": 100
+      },
+      {
+        "text": "chính trị - xã hội",
+        "weight": 0
+      },
+      {
+        "text": "tư tưởng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 63: Chủ thể chiếm hữu tư liệu sản xuất chủ yếu trong chế độ tư bản chủ ngh",
+    "points_possible": 1,
+    "question_text": "Chủ thể chiếm hữu tư liệu sản xuất chủ yếu trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp địa chủ",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 64: Đại biểu cho lực lượng sản xuất tiên tiến trong chế độ tư bản chủ nghĩ",
+    "points_possible": 1,
+    "question_text": "Đại biểu cho lực lượng sản xuất tiên tiến trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Tầng lớp trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 65: Đại biểu cho quan hệ sản xuất chiếm hữu tư nhân tư bản chủ nghĩa về tư",
+    "points_possible": 1,
+    "question_text": "Đại biểu cho quan hệ sản xuất chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất trong chế độ tư bản chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Giai cấp tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 66: Quy luật ra đời của Đảng cộng sản ở các nước tư bản chủ nghĩa phát tri",
+    "points_possible": 1,
+    "question_text": "Quy luật ra đời của Đảng cộng sản ở các nước tư bản chủ nghĩa phát triển là sự kết hợp […].",
+    "general_comment": "Đáp án đúng là 'Chủ nghĩa Mác với phong trào công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chủ nghĩa Mác với phong trào công nhân và phong trào nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Chủ nghĩa Mác với phong trào công nhân và phong trào yêu nước",
+        "weight": 0
+      },
+      {
+        "text": "Chủ nghĩa Mác với phong trào công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 67: Tổ chức chính trị cao nhất để lãnh đạo giai cấp công nhân thực hiện sứ",
+    "points_possible": 1,
+    "question_text": "Tổ chức chính trị cao nhất để lãnh đạo giai cấp công nhân thực hiện sứ mệnh lịch sử là […].",
+    "general_comment": "Đáp án đúng là 'Đảng cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đảng cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Công đoàn",
+        "weight": 0
+      },
+      {
+        "text": "Nghiệp đoàn",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 68: Phong trào đấu tranh của giai cấp công nhân chỉ trở thành phong trào c",
+    "points_possible": 1,
+    "question_text": "Phong trào đấu tranh của giai cấp công nhân chỉ trở thành phong trào chính trị khi có sự lãnh đạo của tổ chức nào?",
+    "general_comment": "Đáp án đúng là 'Đảng cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đảng cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Nghiệp đoàn",
+        "weight": 0
+      },
+      {
+        "text": "Công đoàn",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 69: Thực hiện công nghiệp hoá, gắn liền công nghiệp hoá với hiện đại hoá",
+    "points_possible": 1,
+    "question_text": "Thực hiện công nghiệp hoá, gắn liền công nghiệp hoá với hiện đại hoá, đẩy mạnh công nghiệp hoá gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'kinh tế' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "văn hoá",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế",
+        "weight": 100
+      },
+      {
+        "text": "chính trị - xã hội",
+        "weight": 0
+      },
+      {
+        "text": "tư tưởng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 70: Lật đổ quyền thống trị của giai cấp tư sản, giành quyền lực về tay gia",
+    "points_possible": 1,
+    "question_text": "Lật đổ quyền thống trị của giai cấp tư sản, giành quyền lực về tay giai cấp công nhân và nhân dân lao động, thiết lập nhà nước mang bản chất giai cấp công nhân, xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện quyền lực của nhân dân, quyền dân chủ và làm chủ xã hội của tuyệt đại đa số nhân dân lao động là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'chính trị - xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "văn hoá",
+        "weight": 0
+      },
+      {
+        "text": "tư tưởng",
+        "weight": 0
+      },
+      {
+        "text": "chính trị - xã hội",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 71: Sử dụng nhà nước của mình để cải tạo xã hội cũ và tổ chức xây dựng xã",
+    "points_possible": 1,
+    "question_text": "Sử dụng nhà nước của mình để cải tạo xã hội cũ và tổ chức xây dựng xã hội mới, phục vụ quyền và lợi ích của nhân dân lao động theo lí tưởng và mục tiêu của chủ nghĩa xã hội là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'chính trị - xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chính trị - xã hội",
+        "weight": 100
+      },
+      {
+        "text": "kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "văn hoá",
+        "weight": 0
+      },
+      {
+        "text": "tư tưởng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 72: Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, thông qua sự",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong chế độ tư bản chủ nghĩa, thông qua sự lãnh đạo của Đảng cộng sản, giai cấp công nhân […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hiểu được con đường, biện pháp đấu tranh cách mạng",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Nhận thức được vị trí, vai trò của mình trong xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Tập hợp được đông đảo quần chúng nhân dân lao động",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 73: Chọn phương án đúng nhất: Trong mối quan hệ với giai cấp công nhân và",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong mối quan hệ với giai cấp công nhân và nhân dân lao động, Đảng cộng sản là […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Bộ tham mưu chiến đấu",
+        "weight": 0
+      },
+      {
+        "text": "Đội tiên phong chiến đấu",
+        "weight": 0
+      },
+      {
+        "text": "Lãnh tụ chính trị",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 74: Chọn phương án đúng nhất: Trong mối quan hệ với Đảng cộng sản, giai cấ",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong mối quan hệ với Đảng cộng sản, giai cấp công nhân là […].",
+    "general_comment": "Đáp án đúng là 'Cơ sở xã hội của Đảng cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cơ sở chính trị của Đảng cộng sản",
+        "weight": 0
+      },
+      {
+        "text": "Cơ sở xã hội của Đảng cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Cơ sở kinh tế của Đảng cộng sản",
+        "weight": 0
+      },
+      {
+        "text": "Cơ sở văn hóa của Đảng cộng sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 75: Xây dựng hệ giá trị mới: lao động; công bằng; dân chủ; bình đăng và tự",
+    "points_possible": 1,
+    "question_text": "Xây dựng hệ giá trị mới: lao động; công bằng; dân chủ; bình đăng và tự do là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'văn hoá, tư tưởng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chính trị",
+        "weight": 0
+      },
+      {
+        "text": "văn hoá, tư tưởng",
+        "weight": 100
+      },
+      {
+        "text": "kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 76: Xây dựng và củng cố ý thức hệ tiên tiến của giai cấp công nhân, đấu tr",
+    "points_possible": 1,
+    "question_text": "Xây dựng và củng cố ý thức hệ tiên tiến của giai cấp công nhân, đấu tranh để khắc phục ý thức hệ tư sản và các tàn dư còn sót lại của các hệ tư tưởng cũ là nhiệm vụ của giai cấp công nhân trên lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'văn hoá, tư tưởng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "văn hoá, tư tưởng",
+        "weight": 100
+      },
+      {
+        "text": "chính trị",
+        "weight": 0
+      },
+      {
+        "text": "xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 77: Tiếp thu có chọn lọc, trên tinh thần phê phán những tinh hoa giá trị n",
+    "points_possible": 1,
+    "question_text": "Tiếp thu có chọn lọc, trên tinh thần phê phán những tinh hoa giá trị những thành tựu văn hoá tư tưởng của mọi thời đại, kể cả thời đại tư sản trong lịch sử văn hóa và văn minh của nhân loại là điều má giai cấp công nhàn cần chú ý khi thực hiện sứ mệnh của mình trong lĩnh vực nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Văn hoá, tư tưởng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chính trị",
+        "weight": 0
+      },
+      {
+        "text": "Kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "Văn hoá, tư tưởng",
+        "weight": 100
+      },
+      {
+        "text": "Xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 78: Cải tạo cải cũ, lỗi thời, lạc hậu, xây dựng cái mới, tiến bộ trong lĩn",
+    "points_possible": 1,
+    "question_text": "Cải tạo cải cũ, lỗi thời, lạc hậu, xây dựng cái mới, tiến bộ trong lĩnh vực ý thức tư tưởng, trong tâm lí, lối sống và trong đời sống tinh thần xã hội là nhiệm vụ của giai cấp công nhân trong lĩnh vực […].",
+    "general_comment": "Đáp án đúng là 'Văn hóa, tư tưởng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tâm lí, ý thức",
+        "weight": 0
+      },
+      {
+        "text": "Chính trị",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Văn hóa, tư tưởng",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 79: Xây dựng con người mới, đạo đức và lối sống mới xã hội chủ nghĩa là mộ",
+    "points_possible": 1,
+    "question_text": "Xây dựng con người mới, đạo đức và lối sống mới xã hội chủ nghĩa là một trong những nhiệm vụ đặt ra đối với sứ mệnh lịch sử của giai cấp công nhân trong lĩnh vực nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Văn hoá, tư tưởng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đạo đức",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Tâm lý, ý thức",
+        "weight": 0
+      },
+      {
+        "text": "Văn hoá, tư tưởng",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 80: Sứ mệnh lịch sử của giai cấp công nhân không phải là thay thế chế độ s",
+    "points_possible": 1,
+    "question_text": "Sứ mệnh lịch sử của giai cấp công nhân không phải là thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác mà là […].",
+    "general_comment": "Đáp án đúng là 'xóa bỏ triệt để tư hũu về tư liệu sản xuất chủ yếu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "xóa bỏ triệt để tư hũu về tư liệu sản xuất chủ yếu",
+        "weight": 100
+      },
+      {
+        "text": "xoá bỏ phần lớn chế độ tư hữu về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      },
+      {
+        "text": "xoá bỏ hoàn toàn chế độ công hữu về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      },
+      {
+        "text": "xoá bỏ một phần chế độ tư hữu về tư liệu sản xuất chủ yếu",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 81: Mục tiêu cao nhất trong việc thực hiện sứ mệnh lịch sử thế giới của gi",
+    "points_possible": 1,
+    "question_text": "Mục tiêu cao nhất trong việc thực hiện sứ mệnh lịch sử thế giới của giai cấp công nhân là […].",
+    "general_comment": "Đáp án đúng là 'giải phóng con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "giải phóng con người",
+        "weight": 100
+      },
+      {
+        "text": "giải phóng dân tộc khỏi ách áp bức của chủ nghĩa thực dân",
+        "weight": 0
+      },
+      {
+        "text": "giải phóng nông dân khỏi chế độ phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "giành chính quyền, thiết lập nhà nước mới",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 82: Chọn phương án đúng nhất: Trong mối quan hệ với Đảng cộng sản, giai cấ",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Trong mối quan hệ với Đảng cộng sản, giai cấp công nhân là nguồn bổ sung lực lượng cho […].",
+    "general_comment": "Đáp án đúng là 'Đảng cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đảng cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Các tổ chức chính trị - xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước xã hội chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 83: Cách mạng xã hội chủ nghĩa là cuộc cách mạng nhằm […]",
+    "points_possible": 1,
+    "question_text": "Cách mạng xã hội chủ nghĩa là cuộc cách mạng nhằm […].",
+    "general_comment": "Đáp án đúng là 'Thay chế độ tư bản chủ nghĩa bằng chế độ xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Thay chế độ chiếm hữu nô lệ bằng chế độ phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Thay chế độ tư bản chủ nghĩa bằng chế độ xã hội chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Thay chế độ phong kiến bằng chế độ tư bản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 84: Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa đ",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa được hiểu theo mấy nghĩa?",
+    "general_comment": "Đáp án đúng là '2' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "4",
+        "weight": 0
+      },
+      {
+        "text": "5",
+        "weight": 0
+      },
+      {
+        "text": "3",
+        "weight": 0
+      },
+      {
+        "text": "2",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 85: Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa đ",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa được hiểu theo nghĩa hẹp là cuộc cách mạng […].",
+    "general_comment": "Đáp án đúng là 'Chính trị' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Văn hóa",
+        "weight": 0
+      },
+      {
+        "text": "Kinh tế",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Chính trị",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 86: Chọn phương án đúng nhất: Theo quan điểm của chủ nghĩa Mác - Lênin, cá",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa được hiểu theo nghĩa rộng là cuộc cách mạng […].",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giành chính quyền nhà nước",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng chế độ xã hội chủ nghĩa và cộng sản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Cải tạo xã hội cũ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 87: Câu nói: \"Cùng với sự phát triển của đại công nghiệp (...) giai cấp tư",
+    "points_possible": 1,
+    "question_text": "Câu nói: \"Cùng với sự phát triển của đại công nghiệp (...) giai cấp tư sản sản sinh ra người đào huyệt chôn chính nó. Sự sụp đổ của giai cấp tư sản và thắng lợi của giai cảp vô sản đều là tất yếu như nhau phản ánh nội dung nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Khẳng định tính tất yếu khách quan quy định sứ mệnh lịch sử của GCCN' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Khẳng định tính tất yếu chủ quan trong sứ mệnh lịch sử của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Nhấn mạnh vai trò của Đảng Cộng sản trong việc thực hiện sứ mệnh lịch sử thế giới của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Khẳng định tính tất yếu khách quan quy định sứ mệnh lịch sử của GCCN",
+        "weight": 100
+      },
+      {
+        "text": "Khẳng định nguyện vọng được giải phóng mình của nhân dân lao động",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 88: Sứ mệnh lịch sử thế giới của giai cấp công nhân được quy định bởi […]",
+    "points_possible": 1,
+    "question_text": "Sứ mệnh lịch sử thế giới của giai cấp công nhân được quy định bởi […].",
+    "general_comment": "Đáp án đúng là 'địa vị kinh tế, chính trị — xã hội của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nguyện vọng của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "sự lãnh đạo của Đảng Cộng sản đối với giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "địa vị kinh tế, chính trị — xã hội của giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "nguyện vọng của nhân dân lao động",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 89: Giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương th",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương thức sản xuất tư bản chủ nghĩa, là chủ thể của quá trình sản xuất vật chất hiện đại, vì thế, giai cấp công nhân đại diện cho […].",
+    "general_comment": "Đáp án đúng là 'phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "phương thức sản xuất tiên tiến và lực lượng sản xuất lạc hậu",
+        "weight": 0
+      },
+      {
+        "text": "phương thức sản xuất lỗi thời và lực lượng sản xuất hiện đại",
+        "weight": 0
+      },
+      {
+        "text": "phương thức sản xuất lỗi thời và lực lượng sản xuất lạc hậu",
+        "weight": 0
+      },
+      {
+        "text": "phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 90: Giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương th",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân là sản phẩm của nền đại công nghiệp trong phương thức sản xuất tư bản chủ nghĩa, là chủ thể của quá trình sản xuất vật chất hiện đại, vì thế, giai cấp công nhân là lực lượng […].",
+    "general_comment": "Đáp án đúng là 'phá vỡ quan hệ sản xuất tư bản chủ nghĩa, giành chính quyền về tay giai cấp mình' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "phá vỡ quan hệ sản xuất tư bản chủ nghĩa, giành chính quyền về tay giai cấp mình",
+        "weight": 100
+      },
+      {
+        "text": "phá vỡ quan hệ sản xuất sản xuất tư bản chủ nghĩa, giành chính quyền cho giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "phá vỡ quan hệ sản xuất xã hội chủ nghĩa, giành chính quyền về tay giai cấp mình",
+        "weight": 0
+      },
+      {
+        "text": "phá vỡ quan hệ sản xuất phong kiến, giành chính quyền về tay giai cấp mình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 91: Tinh thần đoàn kết, ý thức tổ chức kỉ luật cao là nội dung thể hiện […",
+    "points_possible": 1,
+    "question_text": "Tinh thần đoàn kết, ý thức tổ chức kỉ luật cao là nội dung thể hiện […].",
+    "general_comment": "Đáp án đúng là 'đặc điểm chính trị - xã hội của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đặc điểm chính trị - xã hội của giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "địa vị kinh tế — xã hội của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "thói quen của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "đặc điểm vốn có của con người nói chung",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 92: Phát biểu nào dưới đây không đúng về điều kiện khách quan quy định sứ",
+    "points_possible": 1,
+    "question_text": "Phát biểu nào dưới đây không đúng về điều kiện khách quan quy định sứ mệnh lịch sử thế giới của giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân là giai cấp vô cùng nghèo khổ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân là giai cấp đại biểu cho tương lai, cho xu thế đi lên của tiến trình phát triển lịch sử",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân đại diện cho lực lượng sản xuất hiện đại",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân là giai cấp vô cùng nghèo khổ",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 93: Giai cấp công nhân đại diện cho lực lượng sản xuất hiện đại, là lực lư",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân đại diện cho lực lượng sản xuất hiện đại, là lực lượng quyết định phá vỡ […].",
+    "general_comment": "Đáp án đúng là 'quan hệ sản xuất tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chủ nghĩa tư bản độc quyền",
+        "weight": 0
+      },
+      {
+        "text": "quan hệ giữa tư sản và các giai tầng khác trong xã hội tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "quan hệ sản xuất tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "máy móc trong các nhà máy xí nghiệp của các nhà tư sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 94: Giai cấp nông dân không thể là giai cấp có sứ mệnh lịch sử thế giới xo",
+    "points_possible": 1,
+    "question_text": "Giai cấp nông dân không thể là giai cấp có sứ mệnh lịch sử thế giới xoá bỏ chế độ tư bản chủ nghĩa, xây dựng chế độ xã hội mới - cộng sản chủ nghĩa bởi […].",
+    "general_comment": "Đáp án đúng là 'họ không đại diện cho phương thức sản xuất tiên tiến' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "họ có hệ tư tưởng riêng nhưng thiếu tinh thần đoàn kết",
+        "weight": 0
+      },
+      {
+        "text": "họ có tư tưởng sở hữu lớn",
+        "weight": 0
+      },
+      {
+        "text": "họ có số lượng không đông đảo",
+        "weight": 0
+      },
+      {
+        "text": "họ không đại diện cho phương thức sản xuất tiên tiến",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 95: Chọn phương án đúng nhất: Theo quan điểm của chủ nghĩa Mác - Lênin, mụ",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Theo quan điểm của chủ nghĩa Mác - Lênin, mục tiêu chung của cách mạng xã hội chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Giải phóng xã hội, giải phóng con người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giải phóng xã hội, giải phóng con người",
+        "weight": 100
+      },
+      {
+        "text": "Giải phóng giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Giải phóng giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Giải phóng dân tộc",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 96: Theo quan điểm của chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ nhất",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Giành chính quyền nhà nước' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giải phóng xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Giải phóng con người",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 0
+      },
+      {
+        "text": "Giành chính quyền nhà nước",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 97: Theo quan điểm của chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ hai c",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ hai của cách mạng xã hội chủ nghĩa là […].",
+    "general_comment": "Đáp án đúng là 'Tổ chức và xây dựng xã hội mới về mọi mặt' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tổ chức và xây dựng xã hội mới về mọi mặt",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Giành chính quyền",
+        "weight": 0
+      },
+      {
+        "text": "Lật đổ sự thống trị của giai cấp tư sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 98: Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân sâu xa của mọi c",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân sâu xa của mọi cuộc cách mạng xã hội trong lịch sử là mâu thuẫn giữa […].",
+    "general_comment": "Đáp án đúng là 'Lực lượng sản xuất và quan hệ sản xuất' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân và giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nô lệ và giai cấp chủ nô",
+        "weight": 0
+      },
+      {
+        "text": "Lực lượng sản xuất và quan hệ sản xuất",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp nông dân và giai cấp địa chủ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 99: Nội dung nào dưới đây không phải là đặc điểm chính trị - xã hội của gi",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là đặc điểm chính trị - xã hội của giai cấp công nhân?",
+    "general_comment": "Đáp án đúng là 'Đại diện cho lực lượng sản xuất hiện đại' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đại diện cho lực lượng sản xuất hiện đại",
+        "weight": 100
+      },
+      {
+        "text": "Tiên phong cách mạng và có tinh thần cách mạng triệt để nhất",
+        "weight": 0
+      },
+      {
+        "text": "Có bản chất quốc tế",
+        "weight": 0
+      },
+      {
+        "text": "Có ý thức, kỉ luật cao",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 100: Nội dung nào dưới đây không phải là nguyên nhân của việc giai cấp công",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là nguyên nhân của việc giai cấp công nhân có tính tổ chức kỉ luật cao?",
+    "general_comment": "Đáp án đúng là 'Bản chất sẵn có của công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đặc thù môi trường làm việc là dây chuyền sản xuất công nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "Sự quản lí chặt chẽ của giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Bản chất sẵn có của công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Yêu cầu của đấu tranh cách mạng",
+        "weight": 0
+      }
+    ]
+  }
+]

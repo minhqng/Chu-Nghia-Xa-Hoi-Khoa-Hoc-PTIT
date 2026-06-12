@@ -1,0 +1,1577 @@
+[
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 1: Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư b",
+    "points_possible": 1,
+    "question_text": "Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Mâu thuẫn giữa tư liệu lao động với đối tượng lao động trong nền sản xuất hàng hóa tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Mâu thuẫn giữa phương thức sản xuất cộng sản chủ nghĩa với phương thức sản xuất tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu",
+        "weight": 100
+      },
+      {
+        "text": "Mâu thuẫn giữa các giai cấp, tầng lớp lao động trong xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 2: Tiêu chí nào là quan trọng nhất để C. Mác phân chia hai giai đoạn phát",
+    "points_possible": 1,
+    "question_text": "Tiêu chí nào là quan trọng nhất để C. Mác phân chia hai giai đoạn phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Trình độ xã hội hóa của lực lượng sản xuất' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Ý thức giác ngộ của nhân dân lao động",
+        "weight": 0
+      },
+      {
+        "text": "Trình độ xã hội hóa của lực lượng sản xuất",
+        "weight": 100
+      },
+      {
+        "text": "Trình độ dân trí của xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Trình độ quản lý của Nhà nước",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 3: Trong các dự báo sau đây của C. Mác và Ph. Ăngghen, dự báo nào thuộc g",
+    "points_possible": 1,
+    "question_text": "Trong các dự báo sau đây của C. Mác và Ph. Ăngghen, dự báo nào thuộc giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Mọi người làm theo năng lực, hưởng theo lao động, vẫn còn pháp quyền tư sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Mọi người làm theo năng lực, hưởng theo lao động, vẫn còn pháp quyền tư sản",
+        "weight": 100
+      },
+      {
+        "text": "Sự đối lập giữa lao động trí óc và lao động chân tay không còn",
+        "weight": 0
+      },
+      {
+        "text": "Mọi người làm hết năng lực, hưởng theo nhu cầu",
+        "weight": 0
+      },
+      {
+        "text": "Không còn sự phân chia giai cấp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 4: Trong các dự báo của C. Mác, dự báo nào thuộc giai đoạn cao của hình t",
+    "points_possible": 1,
+    "question_text": "Trong các dự báo của C. Mác, dự báo nào thuộc giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của mọi người' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Vẫn còn sự tồn tại kết cấu kinh tế của chủ nghĩa tư bản bên cạnh kết cấu kinh tế của chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội chưa thoát khỏi tàn tích của chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của mọi người",
+        "weight": 100
+      },
+      {
+        "text": "Xã hội vẫn còn sự phân chia giai cấp đối kháng, trong đó giai cấp công nhân là giai cấp thống trị xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 5: Tiền đề vật chất cho sự ra đời của chủ nghĩa xã hội là gì",
+    "points_possible": 1,
+    "question_text": "Tiền đề vật chất cho sự ra đời của chủ nghĩa xã hội là gì?",
+    "general_comment": "Đáp án đúng là 'Là xã hội hóa lực lượng sản xuất' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là điện khí hóa nền sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Là tự động hóa nền sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Là tin học hóa nền sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Là xã hội hóa lực lượng sản xuất",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 6: Chỉ ra luận điểm chính xác nhất",
+    "points_possible": 1,
+    "question_text": "Chỉ ra luận điểm chính xác nhất?",
+    "general_comment": "Đáp án đúng là 'Xã hội xã hội chủ nghĩa thực hiện xóa bỏ chế độ tư hữu tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ chế độ tư hữu tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ sản xuất tự cấp tự túc",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ chế độ tư hữu phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ sản xuất hàng hóa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 7: Chỉ ra luận điểm KHÔNG chính xác",
+    "points_possible": 1,
+    "question_text": "Chỉ ra luận điểm KHÔNG chính xác?",
+    "general_comment": "Đáp án đúng là 'Trong thời kỳ quá độ có thể và cần thủ tiêu mọi tàn tích của chủ nghĩa tư bản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Thời kỳ quá độ lên chủ nghĩa xã hội còn tồn tại nhiều tư tưởng - văn hóa cũ và mới đan xen, đấu tranh lẫn nhau",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước trong thời kỳ quá độ lên chủ nghĩa xã hội là nền chuyên chính cách mạng của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Trong thời kỳ quá độ có thể và cần thủ tiêu mọi tàn tích của chủ nghĩa tư bản",
+        "weight": 100
+      },
+      {
+        "text": "Giữa xã hội tư bản chủ nghĩa và xã hội xã hội chủ nghĩa là thời kỳ cải biến cách mạng lâu dài và phức tạp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 8: Đặc điểm chủ yếu của thời kỳ quá độ lên chủ nghĩa xã hội là gì",
+    "points_possible": 1,
+    "question_text": "Đặc điểm chủ yếu của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "general_comment": "Đáp án đúng là 'Tồn tại đan xen và đấu tranh lẫn nhau giữa những nhân tố của xã hội mới và những tàn dư của xã hội cũ trên mọi lĩnh vực của đời sống xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hệ tư tưởng chính trị của giai cấp công nhân là hệ tư tưởng duy nhất tồn tại trong xã hội. Giai cấp công nhân là chủ thể toàn bộ giá trị văn hóa tinh thần của xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại đan xen và đấu tranh lẫn nhau giữa những nhân tố của xã hội mới và những tàn dư của xã hội cũ trên mọi lĩnh vực của đời sống xã hội",
+        "weight": 100
+      },
+      {
+        "text": "Tồn tại kinh tế thị trường định hướng xã hội chủ nghĩa, ở đó, các chủ thể kinh tế đều chịu sự chi phối của quy luật thị trường",
+        "weight": 0
+      },
+      {
+        "text": "Chính quyền của giai cấp lao động được thành lập, nhân dân lao động hoàn toàn làm chủ xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 9: Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội nằm trong hình",
+    "points_possible": 1,
+    "question_text": "Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội nằm trong hình thái kinh tế - xã hội nào?",
+    "general_comment": "Đáp án đúng là 'Cộng sản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Chiếm hữu nô lệ",
+        "weight": 0
+      },
+      {
+        "text": "Cộng sản chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 10: Chọn phương án đúng nhất: Chủ nghĩa xã hội dựa trên chế độ sở hữu nào",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Chủ nghĩa xã hội dựa trên chế độ sở hữu nào về tư liệu sản xuất chủ yếu?",
+    "general_comment": "Đáp án đúng là 'Công hữu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Công hữu",
+        "weight": 100
+      },
+      {
+        "text": "Tư hữu",
+        "weight": 0
+      },
+      {
+        "text": "Tập thể",
+        "weight": 0
+      },
+      {
+        "text": "Hỗn hợp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 11: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế",
+    "points_possible": 1,
+    "question_text": "Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
+    "general_comment": "Đáp án đúng là 'Còn tồn tại nhiều thành phần kinh tế khác nhau' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Còn tồn tại nhiều hệ tư tưởng khác nhau",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại nhiều thành phần kinh tế khác nhau",
+        "weight": 100
+      },
+      {
+        "text": "Còn tồn tại nhiều tàn dư của chế độ cũ để lại",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại giai cấp đối kháng và đấu tranh giai cấp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 12: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực chính t",
+    "points_possible": 1,
+    "question_text": "Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực chính trị là gì?",
+    "general_comment": "Đáp án đúng là 'Còn tồn tại giai cấp đối kháng và đấu tranh giai cấp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Còn tồn tại giai cấp đối kháng và đấu tranh giai cấp",
+        "weight": 100
+      },
+      {
+        "text": "Còn tồn tại nhiều thành phần kinh tế khác nhau",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại nhiều hình thức sở hữu khác nhau",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại tàn dư tư tưởng và văn hóa của chế độ cũ để lại",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 13: Thời kì quá độ lên CNXH ở Việt Nam còn những hình thức sở hữu nào về t",
+    "points_possible": 1,
+    "question_text": "Thời kì quá độ lên CNXH ở Việt Nam còn những hình thức sở hữu nào về tư liệu sản xuất?",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tư nhân",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      },
+      {
+        "text": "Tập thể, công hữu",
+        "weight": 0
+      },
+      {
+        "text": "Hỗn hợp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 14: Cơ sở kinh tế của chủ nghĩa xã hội khác về bản chất so với chủ nghĩa t",
+    "points_possible": 1,
+    "question_text": "Cơ sở kinh tế của chủ nghĩa xã hội khác về bản chất so với chủ nghĩa tư bản là:",
+    "general_comment": "Đáp án đúng là 'Chế độ công hữu về những tư liệu sản xuất chủ yếu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chế độ tư hữu về tư liệu sản xuất",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Chế độ công hữu về những tư liệu sản xuất chủ yếu",
+        "weight": 100
+      },
+      {
+        "text": "Chế độ sở hữu về tư liệu sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 15: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực tư tưởn",
+    "points_possible": 1,
+    "question_text": "Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực tư tưởng - văn hóa là gì?",
+    "general_comment": "Đáp án đúng là 'Còn tồn tại nhiều tư tưởng - văn hóa cũ và mới đan xen, đấu tranh lẫn nhau' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Còn tồn tại nhiều thành phần kinh tế khác nhau",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại giai cấp đối kháng và đấu tranh giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Còn tồn tại nhiều tư tưởng - văn hóa cũ và mới đan xen, đấu tranh lẫn nhau",
+        "weight": 100
+      },
+      {
+        "text": "Còn tồn tại nhiều hình thức sở hữu khác nhau",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 16: Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì",
+    "points_possible": 1,
+    "question_text": "Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "general_comment": "Đáp án đúng là 'Là tiếp tục cuộc đấu tranh giai cấp giữa giai cấp công nhân, nhân dân lao động chống lại giai cấp tư sản và các thế lực đi ngược lại lợi ích của giai cấp công nhân và nhân dân lao động' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là duy trì nhiều hình thức phân phối khác nhau, trong đó phân phối theo lao động là cơ bản",
+        "weight": 0
+      },
+      {
+        "text": "Là tiếp tục cuộc đấu tranh giai cấp giữa giai cấp công nhân, nhân dân lao động chống lại giai cấp tư sản và các thế lực đi ngược lại lợi ích của giai cấp công nhân và nhân dân lao động",
+        "weight": 100
+      },
+      {
+        "text": "Là duy trì nhiều hình thức sở hữu khác nhau, trong đó sở hữu toàn dân là hình thức sở hữu chủ yếu",
+        "weight": 0
+      },
+      {
+        "text": "Là phát triển kinh tế hàng hóa nhiều thành phần theo định hướng xã hội chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 17: Chọn cụm từ dưới đây để hoàn thành luận điểm của C. Mác: “Giữa xã hội",
+    "points_possible": 1,
+    "question_text": "Chọn cụm từ dưới đây để hoàn thành luận điểm của C. Mác: “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ cải biến cách mạng từ xã hội nọ sang xã hội kia. Thích ứng với thời kỳ ấy là một (...), và nhà nước của thời kỳ ấy không thể là cái gì khác hơn là nền chuyên chính cách mạng của giai cấp vô sản”.",
+    "general_comment": "Đáp án đúng là 'Thời kỳ quá độ chính trị' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Thời kỳ phát triển kinh tế thị trường",
+        "weight": 0
+      },
+      {
+        "text": "Thời kỳ khó khăn, phức tạp và lâu dài",
+        "weight": 0
+      },
+      {
+        "text": "Thời kỳ quá độ chính trị",
+        "weight": 100
+      },
+      {
+        "text": "Thời kỳ cải biến nền văn hóa cũ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 18: Chỉ ra luận điểm KHÔNG chính xác",
+    "points_possible": 1,
+    "question_text": "Chỉ ra luận điểm KHÔNG chính xác?",
+    "general_comment": "Đáp án đúng là 'Chủ nghĩa xã hội là một xã hội tốt đẹp, xóa bỏ mọi hình thức sở hữu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chủ nghĩa xã hội là giai đoạn đầu của hình thái kinh tế-xã hội cộng sản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Chủ nghĩa xã hội là một xã hội tốt đẹp, xóa bỏ mọi hình thức sở hữu",
+        "weight": 100
+      },
+      {
+        "text": "Thời kỳ quá độ là thời kỳ tồn tại đan xen những yếu tố của xã hội cũ và những nhân tố của xã hội mới",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội hóa lực lượng sản xuất là cơ sở vật chất chủ yếu cho sự ra đời của chủ nghĩa xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 19: Đối với những nước chưa trải qua quá trình công nghiệp hóa tư bản chủ",
+    "points_possible": 1,
+    "question_text": "Đối với những nước chưa trải qua quá trình công nghiệp hóa tư bản chủ nghĩa, thời kỳ quá độ có thể phải kéo dài với nhiệm vụ trọng tâm là:",
+    "general_comment": "Đáp án đúng là 'Công nghiệp hóa xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xây dựng quan hệ sản xuất xã hội chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng nền văn hóa xã hội chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Công nghiệp hóa tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Công nghiệp hóa xã hội chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 20: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội là",
+    "points_possible": 1,
+    "question_text": "Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "general_comment": "Đáp án đúng là 'Những yếu tố của xã hội cũ đan xen với những nhân tố mới của chủ nghĩa xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Những yếu tố của xã hội cũ đan xen với những nhân tố mới của chủ nghĩa xã hội",
+        "weight": 100
+      },
+      {
+        "text": "Chỉ tồn tại những yếu tố của xã hội cũ",
+        "weight": 0
+      },
+      {
+        "text": "Chỉ tồn tại những nhân tố mới của chủ nghĩa xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 21: Điền vào chỗ trống để hoàn thiện luận điểm của C. Mác và Ph. Ăngghen",
+    "points_possible": 1,
+    "question_text": "Điền vào chỗ trống để hoàn thiện luận điểm của C. Mác và Ph. Ăngghen: “Đặc trưng của (...) không phải là xóa bỏ chế độ sở hữu nói chung, mà là xóa bỏ chế độ sở hữu tư sản”.",
+    "general_comment": "Đáp án đúng là 'Chủ nghĩa cộng sản' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chủ nghĩa cộng sản",
+        "weight": 100
+      },
+      {
+        "text": "Chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Thời kỳ quá độ lên chủ nghĩa xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 22: Thực chất của con đường quá độ lên chủ nghĩa xã hội ở Việt Nam là gì",
+    "points_possible": 1,
+    "question_text": "Thực chất của con đường quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+    "general_comment": "Đáp án đúng là 'Là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là bỏ qua sự phát triển của nền đại công nghiệp tiến thẳng lên kinh tế tri thức",
+        "weight": 0
+      },
+      {
+        "text": "Là bỏ qua cả những thành tựu và hạn chế của chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "Là bỏ qua việc phát triển sản xuất hàng hóa, xác lập nền kinh tế kế hoạch hóa, tập trung",
+        "weight": 0
+      },
+      {
+        "text": "Là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 23: Đặc điểm của con đường quá độ lên chủ nghĩa xã hội ở Việt Nam là gì",
+    "points_possible": 1,
+    "question_text": "Đặc điểm của con đường quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+    "general_comment": "Đáp án đúng là 'Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Quá độ lên chủ nghĩa xã hội bỏ qua hình thái kinh tế - xã hội tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Quá độ lên chủ nghĩa xã hội từ chủ nghĩa tư bản phát triển ở mức độ trung bình",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 24: Chọn phương án đúng nhất: Đặc điểm về mặt kinh tế trong thời kỳ quá độ",
+    "points_possible": 1,
+    "question_text": "Chọn phương án đúng nhất: Đặc điểm về mặt kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là tồn tại:",
+    "general_comment": "Đáp án đúng là 'Nền kinh tế nhiều thành phần' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Các thành phần kinh tế tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Các thành phần kinh tế phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Nền kinh tế nhiều thành phần",
+        "weight": 100
+      },
+      {
+        "text": "Các thành phần kinh tế xã hội chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 25: Đặc điểm về mặt chính trị trong thời kỳ quá độ lên chủ nghĩa xã hội ở",
+    "points_possible": 1,
+    "question_text": "Đặc điểm về mặt chính trị trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là tồn tại:",
+    "general_comment": "Đáp án đúng là 'Kết cấu xã hội - giai cấp đa dạng, phức tạp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Kết cấu xã hội - giai cấp đa dạng, phức tạp",
+        "weight": 100
+      },
+      {
+        "text": "Kết cấu xã hội - giai cấp đơn nhất",
+        "weight": 0
+      },
+      {
+        "text": "Kết cấu xã hội - giai cấp thuần nhất",
+        "weight": 0
+      },
+      {
+        "text": "Chỉ còn giai cấp công nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 26: Trong Đại hội XIII, Đảng ta xác định đến năm 2045, Việt Nam sẽ là…",
+    "points_possible": 1,
+    "question_text": "Trong Đại hội XIII, Đảng ta xác định đến năm 2045, Việt Nam sẽ là…",
+    "general_comment": "Đáp án đúng là 'Là nước phát triển, có thu nhập cao' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là nước phát triển, có thu nhập cao",
+        "weight": 100
+      },
+      {
+        "text": "Cả A, B, C đều sai",
+        "weight": 0
+      },
+      {
+        "text": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.",
+        "weight": 0
+      },
+      {
+        "text": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 27: Chọn câu trả lời đúng nhất: Cơ sở vật chất - kỹ thuật của chủ nghĩa xã",
+    "points_possible": 1,
+    "question_text": "Chọn câu trả lời đúng nhất: Cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội là…",
+    "general_comment": "Đáp án đúng là 'Nền sản xuất đại công nghiệp có trình độ cao' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nền sản xuất nông nghiệp có trình độ cao",
+        "weight": 0
+      },
+      {
+        "text": "Nền sản xuất đại công nghiệp có trình độ cao",
+        "weight": 100
+      },
+      {
+        "text": "Nền sản xuất thủ công nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "Có kiến trúc thượng tầng hiện đại",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 28: Sự khác nhau giữa giai đoạn thấp và cao của hình thái kinh tế - xã hội",
+    "points_possible": 1,
+    "question_text": "Sự khác nhau giữa giai đoạn thấp và cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Giai đoạn thấp làm theo năng lực, hưởng theo lao động, giai đoạn cao làm theo năng lực, hưởng theo nhu cầu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai đoạn thấp làm theo năng lực, hưởng theo lao động, giai đoạn cao làm theo năng lực, hưởng theo nhu cầu",
+        "weight": 100
+      },
+      {
+        "text": "Giai đoạn thấp còn sự phân chia giai cấp, giai đoạn cao còn một giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động",
+        "weight": 0
+      },
+      {
+        "text": "Giai đoạn thấp sử dụng pháp quyền tư sản, giai đoạn cao sử dụng pháp quyền xã hội chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 29: Mác đã dựa vào nhân tố nào trong sự vận động của chủ nghĩa tư bản để kết luận rằng xã hội tư bản sẽ chuyển sang xã hội xã hội chủ nghĩa?",
+    "points_possible": 1,
+    "question_text": "Mác đã dựa vào nhân tố nào trong sự vận động của chủ nghĩa tư bản để kết luận rằng xã hội tư bản sẽ chuyển sang xã hội xã hội chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'C. Mác đã phân tích những quy luật kinh tế trong chủ nghĩa tư bản' vì kết luận của Mác dựa trên sự vận động khách quan của các quy luật kinh tế trong chủ nghĩa tư bản.",
+    "answers": [
+      {
+        "text": "C. Mác đã phân tích những áp bức, bất công trong xã hội tư bản",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác đã phân tích sự phân hóa giàu nghèo trong xã hội tư bản",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác đã phân tích những hạn chế trong chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác đã phân tích những quy luật kinh tế trong chủ nghĩa tư bản",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 30: Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân sâu xa của mọi c",
+    "points_possible": 1,
+    "question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân sâu xa của mọi cuộc cách mạng xã hội trong lịch sử là mâu thuẫn giữa:",
+    "general_comment": "Đáp án đúng là 'Lực lượng sản xuất tiên tiến và quan hệ sản xuất lỗi thời, lạc hậu' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Lực lượng sản xuất tiên tiến và quan hệ sản xuất lỗi thời, lạc hậu",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân và giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nô lệ và giai cấp chủ nô",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân và giai cấp địa chủ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 31: Cách hiểu nào dưới đây không đúng về chủ nghĩa xã hội",
+    "points_possible": 1,
+    "question_text": "Cách hiểu nào dưới đây không đúng về chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Là một khoa học nghiên cứu về những quy luật chung nhất của tự nhiên, xã hội và tư duy.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là một khoa học nghiên cứu về những quy luật chung nhất của tự nhiên, xã hội và tư duy.",
+        "weight": 100
+      },
+      {
+        "text": "Là trào lưu tư tưởng, lí luận phản ánh lí tưởng giải phóng nhân dân lao động khỏi áp bức, bóc lột, bất công.",
+        "weight": 0
+      },
+      {
+        "text": "Là một chế độ xã hội hiện thực tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "Là một phong trào thực tiễn, phong trào đấu tranh của nhân dân lao động chống các giai cấp thống trị",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 32: Tác phẩm Phê phán cương lĩnh Gôta là của…",
+    "points_possible": 1,
+    "question_text": "Tác phẩm Phê phán cương lĩnh Gôta là của….",
+    "general_comment": "Đáp án đúng là 'C. Mác' vì Phê phán cương lĩnh Gôta là tác phẩm của C. Mác.",
+    "answers": [
+      {
+        "text": "C. Mác",
+        "weight": 100
+      },
+      {
+        "text": "Ph. Ăngghen",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác và Ph. Ăngghen",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 33: Điền từ ngữ thích hợp vào chỗ trống: “Giữa xã hội tư bản chủ nghĩa và",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống: “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kì cải biến cách mạng từ xã hội nọ sang xã hội kia. Thích ứng với thời kì ấy là một […] chính trị, và nhà nước của thời kì ấy không thể là cái gì khác hơn là nền chuyên chính cách mạng của giai cấp vô sản” (C. Mác).",
+    "general_comment": "Đáp án đúng là 'thời kì quá độ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "hình thái",
+        "weight": 0
+      },
+      {
+        "text": "giai đoạn",
+        "weight": 0
+      },
+      {
+        "text": "thể chế",
+        "weight": 0
+      },
+      {
+        "text": "thời kì quá độ",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 34: Điền từ ngữ thích hợp vào chỗ trống: V.I.Lênin cho rằng: “về lí luận",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống: V.I.Lênin cho rằng: “về lí luận, không thể nghi ngờ gì được rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản, có một …. nhất định”.",
+    "general_comment": "Đáp án đúng là 'thời kì quá độ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "thời kì cách mạng",
+        "weight": 0
+      },
+      {
+        "text": "thời kì chuyển giao",
+        "weight": 0
+      },
+      {
+        "text": "thời kì cải biến",
+        "weight": 0
+      },
+      {
+        "text": "thời kì quá độ",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 35: Từ thực tiễn nước Nga, V.I. Lênin cho rằng: Đối với những nước chưa có",
+    "points_possible": 1,
+    "question_text": "Từ thực tiễn nước Nga, V.I. Lênin cho rằng: Đối với những nước chưa có chủ nghĩa tư bản phát triển cao, cần phải có một thời kì quá độ…",
+    "general_comment": "Đáp án đúng là 'khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "rất lâu dài và gian khổ từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "khá nhanh chóng từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "rất nhanh từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 36: Theo các nhà sáng lập chủ nghĩa xã hội khoa học, quá độ lên chủ nghĩa",
+    "points_possible": 1,
+    "question_text": "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, quá độ lên chủ nghĩa xã hội có hai hình thức là…",
+    "general_comment": "Đáp án đúng là 'trực tiếp và gián tiếp.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "sớm và muộn.",
+        "weight": 0
+      },
+      {
+        "text": "nhanh và chậm.",
+        "weight": 0
+      },
+      {
+        "text": "trực tiếp và gián tiếp.",
+        "weight": 100
+      },
+      {
+        "text": "đơn giản và phức tạp.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 37: Điền từ ngữ thích hợp vào chỗ trống: V.I.Lênin viết: “Với sự giúp đỡ c",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống: V.I.Lênin viết: “Với sự giúp đỡ của giai cấp vô sản các nước tiên tiến, các nước lạc hậu có thể tiến tới chế độ Xô viết, và qua những giai đoạn phátBtriển nhất định, tiến tới chủ nghĩa cộng sản, không phải trải qua…. phát triển tư bản chủ nghĩa”.",
+    "general_comment": "Đáp án đúng là 'giai đoạn' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "giai đoạn",
+        "weight": 100
+      },
+      {
+        "text": "quá trình",
+        "weight": 0
+      },
+      {
+        "text": "hình thức",
+        "weight": 0
+      },
+      {
+        "text": "chế độ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 38: Nội dung nào dưới đây không phải là điều kiện dẫn tới sự ra đời của ch",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là điều kiện dẫn tới sự ra đời của chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Mong muốn chủ quan của giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Mong muốn chủ quan của giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Quan hệ sản xuất tư bản chủ nghĩa trở nên lỗi thời",
+        "weight": 0
+      },
+      {
+        "text": "Sự trưởng thành của giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Sự phát triển của lực lượng sản xuất",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 39: Giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng",
+    "points_possible": 1,
+    "question_text": "Giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện là đặc trưng của…",
+    "general_comment": "Đáp án đúng là 'chủ nghĩa xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chủ nghĩa tư bản",
+        "weight": 0
+      },
+      {
+        "text": "xã hội chiếm hữu nô lệ",
+        "weight": 0
+      },
+      {
+        "text": "chủ nghĩa xã hội",
+        "weight": 100
+      },
+      {
+        "text": "xã hội phong kiến",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 40: Đặc trưng nào dưới đây thể hiện sự khác biệt về chất giữa chủ nghĩa xã",
+    "points_possible": 1,
+    "question_text": "Đặc trưng nào dưới đây thể hiện sự khác biệt về chất giữa chủ nghĩa xã hội với các chế độ xã hội khác?",
+    "general_comment": "Đáp án đúng là 'Là chế độ giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Có nền văn hoá phát triển cao, kế thừa và phát huy những giá trị của văn hoá dân tộc và tinh hoa văn hoá nhân loại.",
+        "weight": 0
+      },
+      {
+        "text": "Là chế độ giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người.",
+        "weight": 100
+      },
+      {
+        "text": "Bảo đảm, đoàn kết giữa các dân tộc.",
+        "weight": 0
+      },
+      {
+        "text": "Có quan hệ sản xuất phù hợp với lực lượng sản xuất.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 41: Nội dung nào dưới đây là đặc trưng về phương diện kinh tế của chủ nghĩ",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là đặc trưng về phương diện kinh tế của chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "Xác lập chế độ công hữu về tư liệu sản xuất, tổ chức lao động theo trình độ cao hơn.",
+        "weight": 0
+      },
+      {
+        "text": "Phát triển lực lượng sản xuất, đẩy mạnh công nghiệp hoá, hiện đại hoá.",
+        "weight": 0
+      },
+      {
+        "text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 42: Khi phân tích về thời kì quá độ lên chủ nghĩa xã hội, người đầu tiên đ",
+    "points_possible": 1,
+    "question_text": "Khi phân tích về thời kì quá độ lên chủ nghĩa xã hội, người đầu tiên đặt vấn đề phải học tập các kinh nghiệm tổ chức, quản lí kinh tế của chủ nghĩa tư bản để cải tạo nền kinh tế tiểu nông lạc hậu là …",
+    "general_comment": "Đáp án đúng là 'V.I. Lênin.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 100
+      },
+      {
+        "text": "Ph. Ăngghen.",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 43: Ai là người đưa ra quan điểm: “Trong một nước tiểu nông, trước hết các",
+    "points_possible": 1,
+    "question_text": "Ai là người đưa ra quan điểm: “Trong một nước tiểu nông, trước hết các đồng chí phải bắc những chiếc cầu nhỏ vững chắc, đi xuyên qua chủ nghĩa tư bản nhà nước, tiến lên chủ nghĩa xã hội”?",
+    "general_comment": "Đáp án đúng là 'V.I. Lênin.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      },
+      {
+        "text": "Ph. Ăngghen.",
+        "weight": 0
+      },
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 44: Ai cho rằng: “Dùng cả hai tay mà lấy những cái tốt của nước ngoài: Chí",
+    "points_possible": 1,
+    "question_text": "Ai cho rằng: “Dùng cả hai tay mà lấy những cái tốt của nước ngoài: Chính quyền Xô viết + trật tự ở đường sắt Phổ + kĩ thuật và cách tổ chức các tơ-rớt ở Mỹ + ngành giáo dục quốc dân Mỹ etc. etc.++ = (tổng số) = chủ nghĩa xã hội”?",
+    "general_comment": "Đáp án đúng là 'V.L Lênin.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      },
+      {
+        "text": "V.L Lênin.",
+        "weight": 100
+      },
+      {
+        "text": "Ph. Ăngghen.",
+        "weight": 0
+      },
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 45: Trong chế độ xã hội chủ nghĩa, nhà nước mang bản chất của giai cấp, tầ",
+    "points_possible": 1,
+    "question_text": "Trong chế độ xã hội chủ nghĩa, nhà nước mang bản chất của giai cấp, tầng lớp nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân.",
+        "weight": 100
+      },
+      {
+        "text": "Tầng lớp trí thức.",
+        "weight": 0
+      },
+      {
+        "text": "Nhân dân lao động.",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 46: Nhà nước kiểu mới thực hiện dân chủ cho tuyệt đại đa số nhân dân và tr",
+    "points_possible": 1,
+    "question_text": "Nhà nước kiểu mới thực hiện dân chủ cho tuyệt đại đa số nhân dân và trấn áp bọn bóc lột, bọn áp bức nhân dân bằng vũ lực là…",
+    "general_comment": "Đáp án đúng là 'nhà nước vô sản.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nhà nước vô sản.",
+        "weight": 100
+      },
+      {
+        "text": "nhà nước phong kiến,",
+        "weight": 0
+      },
+      {
+        "text": "nhà nước tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "nhà nước chiếm hữu nô lệ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 47: “Người ta chỉ có thể trở thành người cộng sản khi biết làm giàu trí óc",
+    "points_possible": 1,
+    "question_text": "“Người ta chỉ có thể trở thành người cộng sản khi biết làm giàu trí óc của mình bằng sự hiểu biết tất cả những kho tàng tri thức mà nhân loại đã tạo ra” là câu nói của…",
+    "general_comment": "Đáp án đúng là 'V.I. Lênin.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Ph. Ăngghen.",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 100
+      },
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      },
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 48: Người đầu tiên đưa chủ nghĩa xã hội từ lí thuyết thành thực tiễn sinh",
+    "points_possible": 1,
+    "question_text": "Người đầu tiên đưa chủ nghĩa xã hội từ lí thuyết thành thực tiễn sinh động là…",
+    "general_comment": "Đáp án đúng là 'V.I. Lênin.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      },
+      {
+        "text": "I.V. Stalin.",
+        "weight": 0
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 100
+      },
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 49: Ai là người đưa ra tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã",
+    "points_possible": 1,
+    "question_text": "Ai là người đưa ra tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Hồ Chí Minh.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "V.I. Lênin.",
+        "weight": 0
+      },
+      {
+        "text": "Đặng Tiểu Bình.",
+        "weight": 0
+      },
+      {
+        "text": "Phạm Văn Đồng.",
+        "weight": 0
+      },
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 50: Câu nói: “Chủ nghĩa xã hội hay là chết” là của…",
+    "points_possible": 1,
+    "question_text": "Câu nói: “Chủ nghĩa xã hội hay là chết” là của…",
+    "general_comment": "Đáp án đúng là 'Fidel Castro.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 0
+      },
+      {
+        "text": "Đặng Tiểu Bình.",
+        "weight": 0
+      },
+      {
+        "text": "Fidel Castro.",
+        "weight": 100
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 51: Điền từ ngữ thích hợp để hoàn thành đoạn trích trong tác phẩm Hệ tư tư",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp để hoàn thành đoạn trích trong tác phẩm Hệ tư tưởng Đức của",
+    "general_comment": "Đáp án đúng là 'lí tưởng, trạng thái, hiện thực.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "lí tưởng, trạng thái, hiện thực.",
+        "weight": 100
+      },
+      {
+        "text": "trạng thái, hiện thực, lí tưởng. D. hiện thực, lí tưởng, trạng thái.",
+        "weight": 0
+      },
+      {
+        "text": "trạng thái, lí tưởng, hiện thực",
+        "weight": 0
+      },
+      {
+        "text": "Mác: “Đối với chúng ta, chủ nghĩa cộng sản không phải là một…. cần phải sáng tạo ra, không phải là một…. mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào… nó xoá bỏ trạng thái hiện nay”.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 52: Điền từ thích hợp vào chỗ trống: “Vậy thì danh từ ……. có nghĩa là gì",
+    "points_possible": 1,
+    "question_text": "Điền từ thích hợp vào chỗ trống: “Vậy thì danh từ ……. có nghĩa là gì? Vận dụng vào kinh tế, có phải nó có nghĩa là trong chế độ hiện nay có những thành phần, những bộ phận, những mảnh của cả chủ nghĩa tư bản lẫn chủ nghĩa xã hội? Bất cứ ai cũng đều thừa nhận là có” (V.I. Lênin).",
+    "general_comment": "Đáp án đúng là 'quá độ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đan xen.",
+        "weight": 0
+      },
+      {
+        "text": "phát triển.",
+        "weight": 0
+      },
+      {
+        "text": "nhảy vọt.",
+        "weight": 0
+      },
+      {
+        "text": "quá độ.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 53: Nội dung nào dưới đây là đặc điểm nổi bật của thời kì quá độ lên chủ n",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là đặc điểm nổi bật của thời kì quá độ lên chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Sự đan xen vừa thống nhất vừa đấu tranh giữa những yếu tố của xã hội cũ và những nhân tố mới của chủ nghĩa xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Xây dựng thành công chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Sự xác lập vai trò thống trị của giai cấp công nhân thông qua đội tiên phong là Đảng Cộng sản.",
+        "weight": 0
+      },
+      {
+        "text": "Tiến hành công nghiệp hoá, hiện đại hoá đất nước, xây dựng cơ sơ vật chất - kĩ thuật cho chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Sự đan xen vừa thống nhất vừa đấu tranh giữa những yếu tố của xã hội cũ và những nhân tố mới của chủ nghĩa xã hội.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 54: Nội dung nào dưới đây là thực chất của thời kì quá độ",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là thực chất của thời kì quá độ?",
+    "general_comment": "Đáp án đúng là 'Thời ki cải biến cách mạng từ xã hội tiền tư bản và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Thời kì giai cấp công nhân tiến hành công nghiệp hoá, hiện đại hoá đất nước.",
+        "weight": 0
+      },
+      {
+        "text": "Thời ki cải biến cách mạng từ xã hội tiền tư bản và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+        "weight": 100
+      },
+      {
+        "text": "Thời kì giai cấp công nhân phát triển kinh tế, xây dựng cơ sở vật chất - kĩ thuật cho chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Thời kì tiếp tục cuộc đấu tranh của giai cấp công nhân chống giai cấp tư sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 55: Nội dung nào dưới đây là đặc điểm kinh tế của thời kì quá độ lên chủ n",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là đặc điểm kinh tế của thời kì quá độ lên chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Tồn tại nền kinh tế nhiều thành phần.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Phát triển lực lượng sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "Tiến hành công nghiệp hoá, hiện đại hoá đất nước.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại duy nhất thành phần kinh tế tập thể.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại nền kinh tế nhiều thành phần.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 56: Nội dung nào dưới đây không phải là đặc điểm chính trị của thời kì quá",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là đặc điểm chính trị của thời kì quá độ lên chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Tồn tại nhiều tư tưởng khác nhau.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại nhiều tư tưởng khác nhau.",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân tổ chức xây dựng và bảo vệ chế độ mới.",
+        "weight": 0
+      },
+      {
+        "text": "Thiết lập, tăng cường chuyên chính vô sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 57: Tiếp tục cuộc đấu tranh giai cấp giữa giai cấp vô sản đã chiến thắng n",
+    "points_possible": 1,
+    "question_text": "Tiếp tục cuộc đấu tranh giai cấp giữa giai cấp vô sản đã chiến thắng nhưng chưa hoàn toàn chiến thắng với giai cấp tư sản đã thất bại nhưng chưa phải thất bại hoàn toàn là đặc điểm của thời kì quá độ trên phương diện…",
+    "general_comment": "Đáp án đúng là 'chính trị.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "kinh tế.",
+        "weight": 0
+      },
+      {
+        "text": "chính trị.",
+        "weight": 100
+      },
+      {
+        "text": "tư tưởng, văn hoá.",
+        "weight": 0
+      },
+      {
+        "text": "xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 58: Nội dung nào dưới đây là đặc điểm trên lĩnh vực tư tưởng, văn hoá của",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là đặc điểm trên lĩnh vực tư tưởng, văn hoá của thời kì quá độ lên chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Tồn tại nhiều tư tưởng khác nhau.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tồn tại nhiều tư tưởng khác nhau.",
+        "weight": 100
+      },
+      {
+        "text": "Tồn tại sự khác biệt giữa lao động trí óc và lao động chân tay.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại nhiều giai cấp, tầng lớp.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại nhiều thành phần kinh tế đối lập",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 59: Giai cấp công nhân từng bước xây dựng văn hoá vô sản, nền văn hoá mới",
+    "points_possible": 1,
+    "question_text": "Giai cấp công nhân từng bước xây dựng văn hoá vô sản, nền văn hoá mới xã hội chủ nghĩa, tiếp thu giá trị văn hoá dân tộc và tinh hoa văn hoá nhân loại, bảo đảm đáp ứng nhu cầu văn hoá tinh thần ngày càng tăng của nhân dân là đặc điểm của thời kì quá độ trên phương diện…",
+    "general_comment": "Đáp án đúng là 'tư tưởng, văn hoá' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "kinh tế.",
+        "weight": 0
+      },
+      {
+        "text": "chính trị.",
+        "weight": 0
+      },
+      {
+        "text": "tư tưởng, văn hoá",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 60: Nội dung nào dưới đây không phải là đặc điểm trên lĩnh vực xã hội của",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là đặc điểm trên lĩnh vực xã hội của thời kì quá độ lên chủ nghĩa xã hội?",
+    "general_comment": "Đáp án đúng là 'Tồn tại nhiều tư tưởng khác nhau.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tồn tại nhiều tư tưởng khác nhau.",
+        "weight": 100
+      },
+      {
+        "text": "Tồn tại nhiều hủ tục, tệ nạn xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại sự khác biệt giữa thành thị, nông thôn.",
+        "weight": 0
+      },
+      {
+        "text": "Tồn tại sự khác biệt giữa lao động trí óc và lao động chân tay.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 61: Nội dung nào dưới đây là con đường phát triển của cách mạng Việt Nam đ",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây là con đường phát triển của cách mạng Việt Nam được Chủ tịch Hồ Chí Minh nêu ra trong Chánh cương vắn tắt của Đảng?",
+    "general_comment": "Đáp án đúng là 'Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Làm cách mạng dân tộc dân chủ nhân dân để đi thẳng tới chế độ cộng sản chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "Làm tư sản dân quyền và thổ địa cách mạng để đi thẳng tới xã hội xã hội chủ nghĩa và cộng sản chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "Làm thổ địa cách mạng và tư sản dân quyền cách mạng để đi tới xã hội cộng sản.",
+        "weight": 0
+      },
+      {
+        "text": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 62: Con đường quá độ bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được đề cập",
+    "points_possible": 1,
+    "question_text": "Con đường quá độ bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được đề cập lần đầu tiên ở văn kiện nào dưới đây của Đảng?",
+    "general_comment": "Đáp án đúng là 'Cương lĩnh chính trị đầu tiên của Đảng tháng 2 năm 1930.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Luận cương chính trị tháng 10 năm 1930.",
+        "weight": 0
+      },
+      {
+        "text": "Cương lĩnh chính trị đầu tiên của Đảng tháng 2 năm 1930.",
+        "weight": 100
+      },
+      {
+        "text": "Chính cương của Đảng Lao động tháng 2 năm 1951.",
+        "weight": 0
+      },
+      {
+        "text": "Cương lĩnh xây dựng đất nước trong thời kì quá độ lên chủ nghĩa xã hội tháng 6 năm 1991.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 63: Con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế",
+    "points_possible": 1,
+    "question_text": "Con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu vì…",
+    "general_comment": "Đáp án đúng là 'phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đảng Cộng sản Việt Nam đã có đường lối đúng đắn.",
+        "weight": 0
+      },
+      {
+        "text": "sự phát triển của lực lượng sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại.",
+        "weight": 100
+      },
+      {
+        "text": "đáp ứng được nguyện vọng và mong ước của nhân dân ta.",
+        "weight": 0
+      }
+    ]
+  }
+]

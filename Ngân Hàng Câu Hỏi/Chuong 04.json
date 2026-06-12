@@ -1,0 +1,1870 @@
+[
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 1: So với các nền dân chủ trước đây, nền dân chủ xã hội chủ nghĩa có điểm",
+    "points_possible": 1,
+    "question_text": "So với các nền dân chủ trước đây, nền dân chủ xã hội chủ nghĩa có điểm khác biệt nào?",
+    "general_comment": "Đáp án đúng là 'Là nền dân chủ rộng rãi nhất nhưng vẫn là nền dân chủ mang tính giai cấp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là nền dân chủ rộng rãi nhất nhưng vẫn là nền dân chủ mang tính giai cấp",
+        "weight": 100
+      },
+      {
+        "text": "Là nền dân chủ cho mọi giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Là nền dân chủ thực hiện dân chủ với riêng giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Không còn mang tính giai cấp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 2: Nền dân chủ xã hội chủ nghĩa thực hiện... rộng rãi với đông đảo quần c",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa thực hiện... rộng rãi với đông đảo quần chúng nhân dân.",
+    "general_comment": "Đáp án đúng là 'Dân chủ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Dân chủ",
+        "weight": 100
+      },
+      {
+        "text": "Thống trị",
+        "weight": 0
+      },
+      {
+        "text": "Chuyên chính",
+        "weight": 0
+      },
+      {
+        "text": "Quản lý",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 3: Nhà nước xã hội chủ nghĩa là yếu tố cơ bản của",
+    "points_possible": 1,
+    "question_text": "Nhà nước xã hội chủ nghĩa là yếu tố cơ bản của...",
+    "general_comment": "Đáp án đúng là 'Nền dân chủ xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nền dân chủ chủ nô",
+        "weight": 0
+      },
+      {
+        "text": "Nền dân chủ tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Nền văn hóa XHCN",
+        "weight": 0
+      },
+      {
+        "text": "Nền dân chủ xã hội chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 4: Đặc trưng cơ bản của nhà nước xã hội chủ nghĩa đó là",
+    "points_possible": 1,
+    "question_text": "Đặc trưng cơ bản của nhà nước xã hội chủ nghĩa đó là:",
+    "general_comment": "Đáp án đúng là 'Cả A, B, C' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Một kiểu nhà nước đặc biệt",
+        "weight": 0
+      },
+      {
+        "text": "“Nhà nước không còn nguyên nghĩa”",
+        "weight": 0
+      },
+      {
+        "text": "“Nửa nhà nước”",
+        "weight": 0
+      },
+      {
+        "text": "Cả A, B, C",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 5: Đặc trưng chính trị của nền dân chủ xã hội chủ nghĩa mang bản chất của",
+    "points_possible": 1,
+    "question_text": "Đặc trưng chính trị của nền dân chủ xã hội chủ nghĩa mang bản chất của...",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đội ngũ trí thức",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Đội ngũ doanh nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 6: Trong chế độ phong kiến tồn tại nền dân chủ phong kiến",
+    "points_possible": 1,
+    "question_text": "Trong chế độ phong kiến tồn tại nền dân chủ phong kiến.",
+    "general_comment": "Đáp án đúng là 'Sai' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đúng",
+        "weight": 0
+      },
+      {
+        "text": "Sai",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 7: Nền dân chủ xã hội chủ nghĩa là nền dân chủ cho tất cả mọi người",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ cho tất cả mọi người.",
+    "general_comment": "Đáp án đúng là 'Sai' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sai",
+        "weight": 100
+      },
+      {
+        "text": "Đúng",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 8: Dân chủ là gì",
+    "points_possible": 1,
+    "question_text": "Dân chủ là gì?",
+    "general_comment": "Đáp án đúng là 'Là quyền lực thuộc về nhân dân và thực thi quyền làm chủ của nhân dân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Là công bằng trong xã hội và thực thi công bằng trong xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Là tự do của công dân và đảm bảo tự do cho công dân",
+        "weight": 0
+      },
+      {
+        "text": "Là bình đẳng của công dân và thực thi bình đẳng cho công dân",
+        "weight": 0
+      },
+      {
+        "text": "Là quyền lực thuộc về nhân dân và thực thi quyền làm chủ của nhân dân",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 9: Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là gì",
+    "points_possible": 1,
+    "question_text": "Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Lực lượng sản xuất hiện đại và quan hệ sản xuất xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nền sản xuất thủ công",
+        "weight": 0
+      },
+      {
+        "text": "Quan hệ sản xuất tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Nền sản xuất đại công nghiệp",
+        "weight": 0
+      },
+      {
+        "text": "Lực lượng sản xuất hiện đại và quan hệ sản xuất xã hội chủ nghĩa",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 10: Bản chất của nhà nước xã hội chủ nghĩa là gì",
+    "points_possible": 1,
+    "question_text": "Bản chất của nhà nước xã hội chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhà nước xã hội chủ nghĩa mang bản chất chính trị của các giai cấp, tầng lớp trong lịch sử",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước xã hội chủ nghĩa là sự liên hiệp tự nguyện của các dân tộc, tôn giáo và các cộng đồng khác trong xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước xã hội chủ nghĩa là sự liên hiệp tự nguyện của các giai cấp, tầng lớp trong xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 11: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là “nửa nhà nước”",
+    "points_possible": 1,
+    "question_text": "Kiểu nhà nước nào sau đây được V.I. Lênin gọi là “nửa nhà nước”?",
+    "general_comment": "Đáp án đúng là 'Nhà nước xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhà nước tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước chủ nô",
+        "weight": 0
+      },
+      {
+        "text": "Nhà nước xã hội chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Nhà nước phong kiến",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 12: Dân chủ là một phạm trù vĩnh viễn trong trường hợp nào",
+    "points_possible": 1,
+    "question_text": "Dân chủ là một phạm trù vĩnh viễn trong trường hợp nào?",
+    "general_comment": "Đáp án đúng là 'Khi dân chủ là một giá trị xã hội' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Khi dân chủ là một hình thái nhà nước",
+        "weight": 0
+      },
+      {
+        "text": "Khi dân chủ là một giá trị xã hội",
+        "weight": 100
+      },
+      {
+        "text": "Khi dân chủ mang tính chính trị",
+        "weight": 0
+      },
+      {
+        "text": "Khi dân chủ mang tính giai cấp",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 13: Dân chủ là một phạm trù lịch sử trong trường hợp nào",
+    "points_possible": 1,
+    "question_text": "Dân chủ là một phạm trù lịch sử trong trường hợp nào?",
+    "general_comment": "Đáp án đúng là 'Khi dân chủ là một hình thức tổ chức thiết chế chính trị' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Khi dân chủ là một hình thức tổ chức thiết chế chính trị",
+        "weight": 100
+      },
+      {
+        "text": "Khi dân chủ là quyền con người",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ là một giá trị xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ là một giá trị nhân loại",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 14: Dân chủ xã hội chủ nghĩa ra đời gắn với sự kiện nào",
+    "points_possible": 1,
+    "question_text": "Dân chủ xã hội chủ nghĩa ra đời gắn với sự kiện nào?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân giành được chính quyền, thiết lập nhà nước' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân giành được chính quyền, thiết lập nhà nước",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân bắt đầu đấu tranh chống áp bức, bóc lột",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân xây dựng xong CNXH",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân có Đảng cộng sản",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 15: Dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào",
+    "points_possible": 1,
+    "question_text": "Dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhân dân lao động",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp nông dân",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân",
+        "weight": 100
+      },
+      {
+        "text": "Tầng lớp doanh nhân",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 16: Nền dân chủ xã hội chủ nghĩa đầu tiên ra đời gắn với sự kiện lịch sử n",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa đầu tiên ra đời gắn với sự kiện lịch sử nào?",
+    "general_comment": "Đáp án đúng là 'Cách mạng Tháng Mười Nga năm 1917' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Khởi nghĩa của công nhân dệt Lion Pháp",
+        "weight": 0
+      },
+      {
+        "text": "Cách mạng Tháng Tám ở Việt Nam năm 1945",
+        "weight": 0
+      },
+      {
+        "text": "Cách mạng Tháng Mười Nga năm 1917",
+        "weight": 100
+      },
+      {
+        "text": "Cách mạng tư sản Pháp năm 1789",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 17: Chức năng của nhà nước xã hội chủ nghĩa là gì",
+    "points_possible": 1,
+    "question_text": "Chức năng của nhà nước xã hội chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Tổ chức xây dựng chủ nghĩa xã hội và trấn áp những lực lượng chống phá sự nghiệp xây dựng chủ nghĩa xã hội của nhân dân' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đoàn kết các giai cấp, tầng lớp trong xã hội để xây dựng chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Tổ chức xây dựng chủ nghĩa xã hội và trấn áp những lực lượng chống phá sự nghiệp xây dựng chủ nghĩa xã hội của nhân dân",
+        "weight": 100
+      },
+      {
+        "text": "Đoàn kết các dân tộc, tôn giáo, gia đình để xây dựng chủ nghĩa xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Tổ chức xây dựng, quản lý nền sản xuất lớn xã hội tư bản chủ nghĩa",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 18: Tổ chức nào là quan trọng nhất để thực thi quyền lực của nhân dân",
+    "points_possible": 1,
+    "question_text": "Tổ chức nào là quan trọng nhất để thực thi quyền lực của nhân dân?",
+    "general_comment": "Đáp án đúng là 'Nhà nước xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhà nước xã hội chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Đảng cộng sản",
+        "weight": 0
+      },
+      {
+        "text": "Các tổ chức chính trị - xã hội và đoàn thể của nhân dân",
+        "weight": 0
+      },
+      {
+        "text": "Mặt trận Tổ quốc",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 19: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào",
+    "points_possible": 1,
+    "question_text": "Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành được chính quyền' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành được chính quyền",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp công nhân xây dựng xong CNXH",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân đấu tranh phản đối tình trạng áp bức bóc lột của giai cấp tư sản",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân đấu tranh đòi tăng lương, giảm giờ làm, cải thiện điều kiện lao động",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 20: Dân chủ xã hội chủ nghĩa có sự khác biệt về chất so với dân chủ tư sản",
+    "points_possible": 1,
+    "question_text": "Dân chủ xã hội chủ nghĩa có sự khác biệt về chất so với dân chủ tư sản.",
+    "general_comment": "Đáp án đúng là 'Đúng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sai",
+        "weight": 0
+      },
+      {
+        "text": "Đúng",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 21: Điền từ vào chỗ trống (...) trong luận điểm sau: Dân chủ xã hội chủ ng",
+    "points_possible": 1,
+    "question_text": "Điền từ vào chỗ trống (...) trong luận điểm sau: Dân chủ xã hội chủ nghĩa vừa mang bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi, tính (...) sâu sắc.",
+    "general_comment": "Đáp án đúng là 'Dân tộc' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhân văn",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Dân tộc",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 22: Công cụ hữu hiệu nhất để Nhà nước pháp quyền xã hội chủ nghĩa quản lý",
+    "points_possible": 1,
+    "question_text": "Công cụ hữu hiệu nhất để Nhà nước pháp quyền xã hội chủ nghĩa quản lý xã hội là gì?",
+    "general_comment": "Đáp án đúng là 'Pháp luật' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Pháp luật",
+        "weight": 100
+      },
+      {
+        "text": "Đường lối",
+        "weight": 0
+      },
+      {
+        "text": "Kế hoạch",
+        "weight": 0
+      },
+      {
+        "text": "Chủ trương",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 23: Đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa là gì",
+    "points_possible": 1,
+    "question_text": "Đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+    "general_comment": "Đáp án đúng là 'Quản lý xã hội bằng pháp luật' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Quản lý xã hội bằng pháp luật",
+        "weight": 100
+      },
+      {
+        "text": "Quản lý xã hội bằng dư luận",
+        "weight": 0
+      },
+      {
+        "text": "Quản lý xã hội bằng niềm tin",
+        "weight": 0
+      },
+      {
+        "text": "Quản lý xã hội bằng mệnh lệnh hành chính",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 24: Điền từ vào chỗ trống (...) trong câu nói của Chủ tịch Hồ Chí Minh: “N",
+    "points_possible": 1,
+    "question_text": "Điền từ vào chỗ trống (...) trong câu nói của Chủ tịch Hồ Chí Minh: “Nước ta là nước dân chủ, nghĩa là nước nhà do nhân dân làm chủ. Nhân dân có quyền lợi làm chủ, thì phải có (...) làm tròn bổn phận công dân”.",
+    "general_comment": "Đáp án đúng là 'Nghĩa vụ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nguyện vọng",
+        "weight": 0
+      },
+      {
+        "text": "Khả năng",
+        "weight": 0
+      },
+      {
+        "text": "Nghĩa vụ",
+        "weight": 100
+      },
+      {
+        "text": "Quyết tâm",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 25: Sự khác biệt của nền dân chủ xã hội chủ nghĩa so với các nền dân chủ t",
+    "points_possible": 1,
+    "question_text": "Sự khác biệt của nền dân chủ xã hội chủ nghĩa so với các nền dân chủ trước là gì?",
+    "general_comment": "Đáp án đúng là 'Dân chủ xã hội chủ nghĩa là nền dân chủ rộng rãi cho nhân dân lao động' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Dân chủ xã hội chủ nghĩa là nền dân chủ cho mọi giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ xã hội chủ nghĩa chỉ mang lại lợi ích cho giai cấp công nhân",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ xã hội chủ nghĩa không mang tính giai cấp",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ xã hội chủ nghĩa là nền dân chủ rộng rãi cho nhân dân lao động",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 26: Ở Việt Nam, Nhà nước Việt Nam dân chủ cộng hòa ra đời sau thắng lợi củ",
+    "points_possible": 1,
+    "question_text": "Ở Việt Nam, Nhà nước Việt Nam dân chủ cộng hòa ra đời sau thắng lợi của cuộc Cách mạng Tháng Tám năm 1945.",
+    "general_comment": "Đáp án đúng là 'Đúng' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sai",
+        "weight": 0
+      },
+      {
+        "text": "Đúng",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 27: Đối với lực lượng chống đối, phá hoại sự nghiệp cách mạng xã hội chủ n",
+    "points_possible": 1,
+    "question_text": "Đối với lực lượng chống đối, phá hoại sự nghiệp cách mạng xã hội chủ nghĩa, nhà nước xã hội chủ nghĩa thực hiện…",
+    "general_comment": "Đáp án đúng là 'Sự trấn áp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sự trấn áp",
+        "weight": 100
+      },
+      {
+        "text": "Sự điều hành",
+        "weight": 0
+      },
+      {
+        "text": "Sự tổ chức",
+        "weight": 0
+      },
+      {
+        "text": "Quản lý",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 28: Tổ chức nào thực hiện sự trấn áp đối với lực lượng chống đối, phá hoại",
+    "points_possible": 1,
+    "question_text": "Tổ chức nào thực hiện sự trấn áp đối với lực lượng chống đối, phá hoại sự nghiệp cách mạng xã hội chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Nhà nước xã hội chủ nghĩa' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhà nước xã hội chủ nghĩa",
+        "weight": 100
+      },
+      {
+        "text": "Đảng cộng sản",
+        "weight": 0
+      },
+      {
+        "text": "Nghiệp đoàn",
+        "weight": 0
+      },
+      {
+        "text": "Công đoàn",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 29: Nền dân chủ (chế độ dân chủ) đầu tiên ra đời trong chế độ xã hội nào",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ (chế độ dân chủ) đầu tiên ra đời trong chế độ xã hội nào?",
+    "general_comment": "Đáp án đúng là 'Chiếm hữu nô lệ' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Phong kiến",
+        "weight": 0
+      },
+      {
+        "text": "Tư bản chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Cộng sản nguyên thủy",
+        "weight": 0
+      },
+      {
+        "text": "Chiếm hữu nô lệ",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 30: Dân chủ đại diện được thực hiện như thế nào",
+    "points_possible": 1,
+    "question_text": "Dân chủ đại diện được thực hiện như thế nào?",
+    "general_comment": "Đáp án đúng là 'Nhân dân giao quyền lực của mình cho hệ thống cơ quan dân cử' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Nhân dân giao quyền lực của mình cho hệ thống cơ quan dân cử",
+        "weight": 100
+      },
+      {
+        "text": "Thực hiện thông qua trưng cầu dân ý",
+        "weight": 0
+      },
+      {
+        "text": "Nhân dân tham gia vào các công việc của nhà nước và cộng đồng dân cư",
+        "weight": 0
+      },
+      {
+        "text": "Nhân dân trực tiếp thực hiện quyền làm chủ nhà nước và xã hội",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 31: “Dân chủ là dân là chủ và dân làm chủ” là quan điểm của…",
+    "points_possible": 1,
+    "question_text": "“Dân chủ là dân là chủ và dân làm chủ” là quan điểm của…",
+    "general_comment": "Đáp án đúng là 'Hồ Chí Minh' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "C. Mác.",
+        "weight": 0
+      },
+      {
+        "text": "Ph. Ăngghen.",
+        "weight": 0
+      },
+      {
+        "text": "Hồ Chí Minh",
+        "weight": 100
+      },
+      {
+        "text": "V.I. Lênin.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 32: Theo quan niệm từ thời cổ đại, dân chủ là",
+    "points_possible": 1,
+    "question_text": "Theo quan niệm từ thời cổ đại, dân chủ là",
+    "general_comment": "Đáp án đúng là 'quyền lực thuộc về nhân dân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "quyền lực thuộc về thiểu số người trong xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "quyền lực thuộc về nhân dân.",
+        "weight": 100
+      },
+      {
+        "text": "quyền tự do không giới hạn của mỗi người.",
+        "weight": 0
+      },
+      {
+        "text": "quyền bình đẳng tuyệt đối của con người.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 33: Quan niệm nào sau đây không đúng về dân chủ",
+    "points_possible": 1,
+    "question_text": "Quan niệm nào sau đây không đúng về dân chủ?",
+    "general_comment": "Đáp án đúng là 'Dân chủ là quyền tự do tuyệt đối của con người.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Dân chủ là một hình thái nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ là quyền tự do tuyệt đối của con người.",
+        "weight": 100
+      },
+      {
+        "text": "Dân chủ là một trong những nguyên tắc tổ chức quản lí nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ là một giá trị chung của nhân loại.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 34: Theo quan niệm của chủ nghĩa Mác — Lênin, dân chủ phản ánh cuộc đấu tr",
+    "points_possible": 1,
+    "question_text": "Theo quan niệm của chủ nghĩa Mác — Lênin, dân chủ phản ánh cuộc đấu tranh của nhân dân lao động chống lại áp bức, cường quyền, vì thế dân chủ được coi là một…",
+    "general_comment": "Đáp án đúng là 'giá trị xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "yếu tố xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "thành phần xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "giá trị xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "tổ chức xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 35: “Quyền lực thuộc về nhân dân, nhân dân tự tổ chức và thực hiện trước h",
+    "points_possible": 1,
+    "question_text": "“Quyền lực thuộc về nhân dân, nhân dân tự tổ chức và thực hiện trước hết và chủ yếu là thông qua nhà nước của mình” là nội dung của khái niệm nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Dân chủ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hạnh phúc.",
+        "weight": 0
+      },
+      {
+        "text": "Tự do.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ.",
+        "weight": 100
+      },
+      {
+        "text": "Bình đẳng,",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 36: Nền dân chủ xuất hiện khi…",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xuất hiện khi…",
+    "general_comment": "Đáp án đúng là 'có nhà nước.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "có công cụ lao động.",
+        "weight": 0
+      },
+      {
+        "text": "có xã hội loài người.",
+        "weight": 0
+      },
+      {
+        "text": "có nhà nước.",
+        "weight": 100
+      },
+      {
+        "text": "có nhà nước vô sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 37: Mức độ, phạm vi tham gia thật sự của quần chúng nhân dân vào công việc",
+    "points_possible": 1,
+    "question_text": "Mức độ, phạm vi tham gia thật sự của quần chúng nhân dân vào công việc quản lí nhà nước phản ánh…",
+    "general_comment": "Đáp án đúng là 'trình độ phát triển của nền dân chủ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "quá trình đấu tranh giành dân chủ.",
+        "weight": 0
+      },
+      {
+        "text": "trình độ phát triển của nền dân chủ.",
+        "weight": 100
+      },
+      {
+        "text": "sự ra đời của nền dân chủ.",
+        "weight": 0
+      },
+      {
+        "text": "cấu trúc của nền dân chủ",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 38: Dân chủ có sự ra đời, tồn tại và phát triển trong một giai đoạn nhất đ",
+    "points_possible": 1,
+    "question_text": "Dân chủ có sự ra đời, tồn tại và phát triển trong một giai đoạn nhất định và sẽ mất đi khi trong xã hội không còn giai cấp, vì thế, dân chủ là một…",
+    "general_comment": "Đáp án đúng là 'phạm trù lịch sử.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "thành phần của xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "yếu tố văn hoá.",
+        "weight": 0
+      },
+      {
+        "text": "phạm trù lịch sử.",
+        "weight": 100
+      },
+      {
+        "text": "phạm trù giai cấp.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 39: Trên phương diện quyền lực, dân chủ là…",
+    "points_possible": 1,
+    "question_text": "Trên phương diện quyền lực, dân chủ là…",
+    "general_comment": "Đáp án đúng là 'quyền lực thuộc về nhân dân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "một hình thức hay hình thái nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "một nguyên tắc - nguyên tắc dân chủ.",
+        "weight": 0
+      },
+      {
+        "text": "quyền lực thuộc về nhân dân.",
+        "weight": 100
+      },
+      {
+        "text": "một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 40: Trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là",
+    "points_possible": 1,
+    "question_text": "Trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là",
+    "general_comment": "Đáp án đúng là 'một hình thức hay hình thái nhà nước' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "quyền lực thuộc về nhân dân.",
+        "weight": 0
+      },
+      {
+        "text": "một nguyên tắc - nguyên tắc dân chủ.",
+        "weight": 0
+      },
+      {
+        "text": "một hình thức hay hình thái nhà nước",
+        "weight": 100
+      },
+      {
+        "text": "một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 41: Trên phương diện tư tưởng, dân chủ là…",
+    "points_possible": 1,
+    "question_text": "Trên phương diện tư tưởng, dân chủ là…",
+    "general_comment": "Đáp án đúng là 'một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "một nguyên tắc - nguyên tắc dân chủ.",
+        "weight": 0
+      },
+      {
+        "text": "quyền lực thuộc về nhân dân.",
+        "weight": 0
+      },
+      {
+        "text": "một hình thức hay hình thái nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 42: Trên phương diện tổ chức và quản lí xã hội, dân chủ là…",
+    "points_possible": 1,
+    "question_text": "Trên phương diện tổ chức và quản lí xã hội, dân chủ là…",
+    "general_comment": "Đáp án đúng là 'một nguyên tắc - nguyên tắc dân chủ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "một nguyên tắc - nguyên tắc dân chủ.",
+        "weight": 100
+      },
+      {
+        "text": "một hình thức hay hình thái nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "quyền lực thuộc về nhân dân.",
+        "weight": 0
+      },
+      {
+        "text": "một quan niệm - quan niệm về dân chủ, về tinh thần dân chủ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 43: Câu nói: “Chế độ ta là chế độ dân chủ, tức là nhân dân là người chủ, m",
+    "points_possible": 1,
+    "question_text": "Câu nói: “Chế độ ta là chế độ dân chủ, tức là nhân dân là người chủ, mà chính phủ là người đầy tớ trung thành của nhân dân” là của ai?",
+    "general_comment": "Đáp án đúng là 'Hồ Chí Minh.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 100
+      },
+      {
+        "text": "Võ Nguyên Giáp",
+        "weight": 0
+      },
+      {
+        "text": "Phạm Văn Đồng.",
+        "weight": 0
+      },
+      {
+        "text": "Nguyễn Phú Trọng.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 44: Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định sau của Đ",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định sau của Đảng Cộng sản Việt Nam: “Trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng xây dựng và phát huy quyền làm chủ của nhân dân lao động”.",
+    "general_comment": "Đáp án đúng là 'lấy dân làm gốc.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "lấy dân làm đích.",
+        "weight": 0
+      },
+      {
+        "text": "lấy dân làm gốc.",
+        "weight": 100
+      },
+      {
+        "text": "lấy dân làm chỗ dựa.",
+        "weight": 0
+      },
+      {
+        "text": "lấy dân làm nền tảng.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 45: Trong chế độ cộng sản nguyên thuỷ đã xuất hiện hình thức manh nha của",
+    "points_possible": 1,
+    "question_text": "Trong chế độ cộng sản nguyên thuỷ đã xuất hiện hình thức manh nha của dân chủ mà Ph. Ăngghen gọi là…",
+    "general_comment": "Đáp án đúng là 'dân chủ nguyên thuỷ.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "dân chủ cộng sản.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ công xã.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ sơ khai.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ nguyên thuỷ.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 46: Với tư cách là một hình thái nhà nước, một chế độ chính trị, lịch sử n",
+    "points_possible": 1,
+    "question_text": "Với tư cách là một hình thái nhà nước, một chế độ chính trị, lịch sử nhân loại có ba nền dân chủ là…",
+    "general_comment": "Đáp án đúng là 'dân chủ chủ nô, dân chủ tư sản và dân chủ xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "dân chủ nguyên thuỷ, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ nguyên thuỷ, dân chủ phong kiến và dân chủ tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ chủ nô, dân chủ phong kiến và dân chủ tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "dân chủ chủ nô, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 47: Hình thái kinh tế - xã hội nào dưới đây không có nền dân chủ",
+    "points_possible": 1,
+    "question_text": "Hình thái kinh tế - xã hội nào dưới đây không có nền dân chủ?",
+    "general_comment": "Đáp án đúng là 'Phong kiến.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tư bản chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "Chiếm hữu nô lệ.",
+        "weight": 0
+      },
+      {
+        "text": "Phong kiến.",
+        "weight": 100
+      },
+      {
+        "text": "Cộng sản chủ nghĩa.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 48: Nền dân chủ nào dưới đây là nền dân chủ rộng rãi nhất trong lịch sử",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ nào dưới đây là nền dân chủ rộng rãi nhất trong lịch sử?",
+    "general_comment": "Đáp án đúng là 'Dân chủ xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Dân chủ chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ cộng sản nguyên thuỷ.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ xã hội chủ nghĩa.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 49: Dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của…",
+    "points_possible": 1,
+    "question_text": "Dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của…",
+    "general_comment": "Đáp án đúng là 'giai cấp công nhân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "giai cấp công nhân và đội ngũ trí thức",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp tư sản và giai cấp tiểu tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp công nhân và giai cấp nông dân.",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp công nhân.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 50: Dân chủ xã hội chủ nghĩa là nền dân chủ do…",
+    "points_possible": 1,
+    "question_text": "Dân chủ xã hội chủ nghĩa là nền dân chủ do…",
+    "general_comment": "Đáp án đúng là 'Đảng của giai cấp công nhân lãnh đạo.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đảng của giai cấp công nhân lãnh đạo.",
+        "weight": 100
+      },
+      {
+        "text": "Đảng của nhân dân lãnh đạo.",
+        "weight": 0
+      },
+      {
+        "text": "Đảng cầm quyền lãnh đạo.",
+        "weight": 0
+      },
+      {
+        "text": "Đảng của trí thức lãnh đạo.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 51: Nền dân chủ xã hội chủ nghĩa dựa trên hệ tư tưởng của giai cấp, tầng l",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa dựa trên hệ tư tưởng của giai cấp, tầng lớp nào sau đây?",
+    "general_comment": "Đáp án đúng là 'Giai cấp công nhân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Tầng lớp trí thức.",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp công nhân.",
+        "weight": 100
+      },
+      {
+        "text": "Giai cấp nông dân.",
+        "weight": 0
+      },
+      {
+        "text": "Giai cấp tư sản.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 52: Nền dân chủ cao hơn về chất so với nền dân chủ tư sản, ở đó mọi quyền",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ cao hơn về chất so với nền dân chủ tư sản, ở đó mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ, dân chủ và pháp luật nằm trong sự thống nhất biện chứng; được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa, đặt dưới sự lãnh đạo của Đảng Cộng sản là nền dân chủ…",
+    "general_comment": "Đáp án đúng là 'xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "xã hội chủ nghĩa.",
+        "weight": 100
+      },
+      {
+        "text": "nguyên thuỷ.",
+        "weight": 0
+      },
+      {
+        "text": "chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "phong kiến.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 53: Khái niệm “dân chủ xã hội chủ nghĩa” đồng nghĩa với thuật ngữ nào dưới",
+    "points_possible": 1,
+    "question_text": "Khái niệm “dân chủ xã hội chủ nghĩa” đồng nghĩa với thuật ngữ nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Dân chủ vô sản.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Dân chủ chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ vô sản.",
+        "weight": 100
+      },
+      {
+        "text": "Dân chủ tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "Dân chủ nguyên thuỷ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 54: Nền dân chủ xã hội chủ nghĩa về cơ bản thống nhất với khái niệm nào dư",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa về cơ bản thống nhất với khái niệm nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Chuyên chính vô sản.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chuyên chính vô sản.",
+        "weight": 100
+      },
+      {
+        "text": "Chủ nghĩa xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Xã hội xã hội chủ nghĩa.",
+        "weight": 0
+      },
+      {
+        "text": "Chính đảng của giai cấp công nhân.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 55: Không ngừng mở rộng dân chủ, nâng cao mức độ giải phóng cho những ngườ",
+    "points_possible": 1,
+    "question_text": "Không ngừng mở rộng dân chủ, nâng cao mức độ giải phóng cho những người lao động, thu hút họ tham gia tự giác vào công việc quản lí nhà nước, quản lí xã hội là…",
+    "general_comment": "Đáp án đúng là 'nguyên tắc cơ bản của nền dân chủ xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "nguyên tắc cơ bản của nền dân chủ chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "nguyên tắc cơ bản của nền dân chủ tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "nguyên tắc cơ bản của nền dân chủ xã hội chủ nghĩa.",
+        "weight": 100
+      },
+      {
+        "text": "nội dung cơ bản của nền dân chủ xã hội chủ nghĩa.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 56: Nền dân chủ xã hội chủ nghĩa trên thế giới chính thức được xác lập gắn",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa trên thế giới chính thức được xác lập gắn với sự kiện nào sau đây?",
+    "general_comment": "Đáp án đúng là 'Cách mạng tháng Mười Nga (1917).' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Cách mạng tháng Tám ở Việt Nam (1945).",
+        "weight": 0
+      },
+      {
+        "text": "Cách mạng tháng Hai Nga (1917).",
+        "weight": 0
+      },
+      {
+        "text": "Cách mạng tháng Mười Nga (1917).",
+        "weight": 100
+      },
+      {
+        "text": "Công xã Pari ra đời (1871).",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 57: Nội dung nào dưới đây không phải là đặc trưng cơ bản của nền dân chủ x",
+    "points_possible": 1,
+    "question_text": "Nội dung nào dưới đây không phải là đặc trưng cơ bản của nền dân chủ xã hội chủ nghĩa?",
+    "general_comment": "Đáp án đúng là 'Thực hiện dân chủ với mọi tầng lớp, mọi giai cấp trong xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Có cơ sở kinh tế là chế độ công hữu về tư liệu sản xuất chủ yếu của xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Thực hiện dân chủ với mọi tầng lớp, mọi giai cấp trong xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "Đảm bảo quyền lực thuộc về nhân dân.",
+        "weight": 0
+      },
+      {
+        "text": "Kết hợp hài hoà lợi ích cá nhân, tập thể và xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 58: Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là…",
+    "points_possible": 1,
+    "question_text": "Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là…",
+    "general_comment": "Đáp án đúng là 'chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "nền kinh tế hàng hoá nhiều thành phần.",
+        "weight": 0
+      },
+      {
+        "text": "chế độ sở hữu tư nhân về tư liệu sản xuất.",
+        "weight": 0
+      },
+      {
+        "text": "nền kinh tế thị trường xã hội chủ nghĩa.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 59: Điền từ ngữ thích hợp vào chỗ trống: Dân chủ xã hội chủ nghĩa là nền d",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống: Dân chủ xã hội chủ nghĩa là nền dân chủ...... so với nền dân chủ tư sản, là nền dân chủ mà ở đó mọi quyền lực thuộc về nhân dân, ………, dân chủ và pháp luật nằm trong sự thống nhất biện chứng, được thực hiện bằng….., đặt dưới sự lãnh đạo của Đảng Cộng sản.",
+    "general_comment": "Đáp án đúng là 'cao hơn về chất; dân là chủ và dân làm chủ; Nhà nước pháp quyền xã hội chủ nghĩa.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "tuyệt đối; dân bàn, dân làm, dân kiểm tra; Hiến pháp và pháp luật.",
+        "weight": 0
+      },
+      {
+        "text": "tuyệt đối; dân bàn, dân làm, dân kiểm tra; Hiến pháp và pháp luật.",
+        "weight": 0
+      },
+      {
+        "text": "cao nhất; của dân, do dân, vì dân; quyền lực nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "cao hơn về chất; dân là chủ và dân làm chủ; Nhà nước pháp quyền xã hội chủ nghĩa.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 60: Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện nhận định trong tác",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện nhận định trong tác phẩm Phê phán cương lĩnh Gôta: “Quyền không bao giờ có thể ở mức độ cao hơn chế độ (….) và sự phát triển văn hoá của xã hội do chế độ đó quyết định”.",
+    "general_comment": "Đáp án đúng là 'kinh tế.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "kinh tế.",
+        "weight": 100
+      },
+      {
+        "text": "chính trị.",
+        "weight": 0
+      },
+      {
+        "text": "xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "nhà nước.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 61: Trong việc thực hiện quyền dân chủ trên lĩnh vực chính trị, công dân s",
+    "points_possible": 1,
+    "question_text": "Trong việc thực hiện quyền dân chủ trên lĩnh vực chính trị, công dân sẽ không thực hiện hành vi nào sau đây?",
+    "general_comment": "Đáp án đúng là 'Kiểm tra, thanh tra mọi hoạt động của nhà nước.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "ứng cử và bầu cử.",
+        "weight": 0
+      },
+      {
+        "text": "Kiểm tra, thanh tra mọi hoạt động của nhà nước.",
+        "weight": 100
+      },
+      {
+        "text": "Tham gia quản lí nhà nước.",
+        "weight": 0
+      },
+      {
+        "text": "Tham gia giám sát mọi hoạt động của nhà nước.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 62: “Thực hành dân chủ là cái chìa khoá vạn năng có thể giải quyết mọi khó",
+    "points_possible": 1,
+    "question_text": "“Thực hành dân chủ là cái chìa khoá vạn năng có thể giải quyết mọi khó khăn” là câu nói của…",
+    "general_comment": "Đáp án đúng là 'Hồ Chí Minh.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "V.l. Lênin.",
+        "weight": 0
+      },
+      {
+        "text": "Hồ Chí Minh.",
+        "weight": 100
+      },
+      {
+        "text": "Phạm Văn Đồng.",
+        "weight": 0
+      },
+      {
+        "text": "Mao Trạch Đông.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 63: Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng Cộng sản Việt Nam trong Cương lĩnh năm 1991: “Dân chủ gắn liền với...... xã hội phải được thực hiện trong thực tế cuộc sống trên tất cả các lĩnh vực chính trị, kinh tế, văn hoá, xã hội thông qua hoạt động của Nhà nước do nhân dân cử ra và bằng các hình thức dân chủ…”",
+    "general_comment": "Đáp án đúng là 'công bằng; trực tiếp' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "bình đẳng; trực tiếp.",
+        "weight": 0
+      },
+      {
+        "text": "công bằng; gián tiếp.",
+        "weight": 0
+      },
+      {
+        "text": "bình đẳng; gián tiếp.",
+        "weight": 0
+      },
+      {
+        "text": "công bằng; trực tiếp",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 64: Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng",
+    "points_possible": 1,
+    "question_text": "Điền từ ngữ thích hợp vào chỗ trống để hoàn thiện khẳng định của Đảng Cộng sản Việt Nam trong Cương lĩnh năm 1991: “Dân chủ đi đôi với …. kỉ cương, phải được thể chế hoá bằng…. và…….. bảo đảm”.",
+    "general_comment": "Đáp án đúng là 'kỉ luật; pháp luật; pháp luật.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "đảm bảo; hiến pháp; hiến pháp.",
+        "weight": 0
+      },
+      {
+        "text": "đảm bảo; pháp luật; pháp luật.",
+        "weight": 0
+      },
+      {
+        "text": "kỉ luật; pháp luật; pháp luật.",
+        "weight": 100
+      },
+      {
+        "text": "kỉ luật; hiến pháp; hiến pháp.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 65: Nền dân chủ xã hội chủ nghĩa có sự kết hợp hài hoà về",
+    "points_possible": 1,
+    "question_text": "Nền dân chủ xã hội chủ nghĩa có sự kết hợp hài hoà về",
+    "general_comment": "Đáp án đúng là 'lợi ích giữa cá nhân, tập thể với lợi ích của toàn xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "văn hoá giữa cá nhân, tập thể với toàn xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "quan điểm giữa cá nhân, tập thể với toàn xã hội",
+        "weight": 0
+      },
+      {
+        "text": "nhận thức giữa cá nhân, tập thể với toàn xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "lợi ích giữa cá nhân, tập thể với lợi ích của toàn xã hội.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 66: Chế độ dân chủ nhân dân ở nước ta được xác lập…",
+    "points_possible": 1,
+    "question_text": "Chế độ dân chủ nhân dân ở nước ta được xác lập…",
+    "general_comment": "Đáp án đúng là 'sau Cách mạng tháng Tám năm 1945.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "sau khi Đảng Cộng sản Việt Nam ra đời năm 1930.",
+        "weight": 0
+      },
+      {
+        "text": "sau chiến thắng Điện Biên Phủ năm 1954.",
+        "weight": 0
+      },
+      {
+        "text": "sau đại thắng mùa xuân năm 1975.",
+        "weight": 0
+      },
+      {
+        "text": "sau Cách mạng tháng Tám năm 1945.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 67: Đảng Cộng sản Việt Nam khẳng định: “Trong toàn bộ hoạt động của mình",
+    "points_possible": 1,
+    "question_text": "Đảng Cộng sản Việt Nam khẳng định: “Trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng “lấy dân làm gốc”, xây dựng và phát huy quyền làm chủ của nhân dân lao động” trong Đại hội nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Đại hội VI.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đại hội IV.",
+        "weight": 0
+      },
+      {
+        "text": "Đại hội V.",
+        "weight": 0
+      },
+      {
+        "text": "Đại hội VI.",
+        "weight": 100
+      },
+      {
+        "text": "Đại hội VII.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 68: Đảng Cộng sản Việt Nam khẳng định: “Chúng ta xác định mối quan hệ Đảng",
+    "points_possible": 1,
+    "question_text": "Đảng Cộng sản Việt Nam khẳng định: “Chúng ta xác định mối quan hệ Đảng lãnh đạo, nhân dân làm chủ, nhà nước quản lí thành cơ chế chung trong quản lí toàn bộ xã hội” trong Đại hội nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Đại hội VII.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Đại hội VII.",
+        "weight": 100
+      },
+      {
+        "text": "Đại hội VIII.",
+        "weight": 0
+      },
+      {
+        "text": "Đại hội VI.",
+        "weight": 0
+      },
+      {
+        "text": "Đại hội IX.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 69: Định hướng nào dưới đây không phải là định hướng nhằm phát huy dân chủ",
+    "points_possible": 1,
+    "question_text": "Định hướng nào dưới đây không phải là định hướng nhằm phát huy dân chủ xã hội chủ nghĩa ở Việt Nam?",
+    "general_comment": "Đáp án đúng là 'Phát huy vai trò của các tổ chức chính trị - xã hội bằng cách tách các tổ chức này ra ngoài hệ thống chính trị nhằm tăng tính độc lập của các tổ chức.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Phát huy vai trò của các tổ chức chính trị - xã hội bằng cách tách các tổ chức này ra ngoài hệ thống chính trị nhằm tăng tính độc lập của các tổ chức.",
+        "weight": 100
+      },
+      {
+        "text": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh với tư cách là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa",
+        "weight": 0
+      },
+      {
+        "text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, tạo ra cơ sở kinh tế vững chắc.",
+        "weight": 0
+      },
+      {
+        "text": "Xây dựng và từng bước hoàn thiện các hệ thống giám sát, phản biện xã hội, phát huy quyền làm chủ của nhân dân.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 70: Nguyên nhân nào dưới đây dẫn tới sự xuất hiện của nhà nước",
+    "points_possible": 1,
+    "question_text": "Nguyên nhân nào dưới đây dẫn tới sự xuất hiện của nhà nước?",
+    "general_comment": "Đáp án đúng là 'Sự xuất hiện của chế độ tư hữu và phân chia giai cấp.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Sự xuất hiện của chế độ xã hội chủ nghĩa và phân chia giai cấp.",
+        "weight": 0
+      },
+      {
+        "text": "Sự xuất hiện của chế độ tư hữu và phân chia giai cấp.",
+        "weight": 100
+      },
+      {
+        "text": "Sự xuất hiện của chế độ phong kiến và phân chia giai cấp.",
+        "weight": 0
+      },
+      {
+        "text": "Sự xuất hiện chế độ tư bản chủ nghĩa và phân chia giai cấp.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 71: Căn cứ vào tính chất của quyền lực, nhà nước có chức năng nào dưới đây",
+    "points_possible": 1,
+    "question_text": "Căn cứ vào tính chất của quyền lực, nhà nước có chức năng nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Chức năng giai cấp và chức năng xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chức năng giai cấp và chức năng xã hội.",
+        "weight": 100
+      },
+      {
+        "text": "Chức năng đối nội và chức năng đối ngoại.",
+        "weight": 0
+      },
+      {
+        "text": "Chức năng lãnh đạo và chức năng giám sát.",
+        "weight": 0
+      },
+      {
+        "text": "Chức năng quản lí kinh tế và quản lí chính trị.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 72: Căn cứ vào phạm vi tác động của quyền lực, nhà nước có chức năng nào d",
+    "points_possible": 1,
+    "question_text": "Căn cứ vào phạm vi tác động của quyền lực, nhà nước có chức năng nào dưới đây?",
+    "general_comment": "Đáp án đúng là 'Chức năng đối nội và chức năng đối ngoại.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "Chức năng giai cấp và chức năng xã hội.",
+        "weight": 0
+      },
+      {
+        "text": "Chức năng lãnh đạo và chức năng giám sát.",
+        "weight": 0
+      },
+      {
+        "text": "Chức năng đối nội và chức năng đối ngoại.",
+        "weight": 100
+      },
+      {
+        "text": "Chức năng quản lí kinh tế và quản lí chính trị.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 73: Căn cứ vào lĩnh vực tác động của quyền lực, nhà nước có…",
+    "points_possible": 1,
+    "question_text": "Căn cứ vào lĩnh vực tác động của quyền lực, nhà nước có…",
+    "general_comment": "Đáp án đúng là 'chức năng chính trị, kinh tế, văn hoá.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "chức năng đối nội và chức năng đối ngoại.",
+        "weight": 0
+      },
+      {
+        "text": "chức năng chính trị, kinh tế, văn hoá.",
+        "weight": 100
+      },
+      {
+        "text": "chức năng lãnh đạo và chức năng giám sát.",
+        "weight": 0
+      },
+      {
+        "text": "chức năng giai cấp và chức năng xã hội.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 74: Trong xã hội có giai cấp, nhà nước luôn mang bản chất của…",
+    "points_possible": 1,
+    "question_text": "Trong xã hội có giai cấp, nhà nước luôn mang bản chất của…",
+    "general_comment": "Đáp án đúng là 'giai cấp thống trị xã hội.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "giai cấp đại diện cho lực lượng sản xuất tiên tiến.",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp có trình độ cao nhất.",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp có lực lượng đông đảo nhất.",
+        "weight": 0
+      },
+      {
+        "text": "giai cấp thống trị xã hội.",
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 75: Nhà nước tư sản mang bản chất của giai cấp…",
+    "points_possible": 1,
+    "question_text": "Nhà nước tư sản mang bản chất của giai cấp…",
+    "general_comment": "Đáp án đúng là 'tư sản.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "công nhân.",
+        "weight": 0
+      },
+      {
+        "text": "chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "tư sản.",
+        "weight": 100
+      },
+      {
+        "text": "địa chủ.",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "question_type": "multiple_choice_question",
+    "name": "Câu hỏi 76: Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp…",
+    "points_possible": 1,
+    "question_text": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp…",
+    "general_comment": "Đáp án đúng là 'công nhân.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
+    "answers": [
+      {
+        "text": "công nhân.",
+        "weight": 100
+      },
+      {
+        "text": "tư sản.",
+        "weight": 0
+      },
+      {
+        "text": "chủ nô.",
+        "weight": 0
+      },
+      {
+        "text": "địa chủ.",
+        "weight": 0
+      }
+    ]
+  }
+]

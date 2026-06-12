@@ -1,0 +1,3752 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 001: [Nhận biết] Phạm vi nội dung Chương 1",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 1, nội dung nào sau đây thuộc phạm vi kiến thức cơ bản mà chương cung cấp?",
+"general_comment": "Chương 1 giới thiệu sự ra đời, các giai đoạn phát triển, đối tượng, phương pháp và ý nghĩa của việc học tập, nghiên cứu chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Lý luận chi tiết về cơ cấu giai cấp và liên minh giai cấp trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Sự ra đời, các giai đoạn phát triển, đối tượng, phương pháp và ý nghĩa nghiên cứu chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Toàn bộ lịch sử Đảng Cộng sản Việt Nam từ khi thành lập đến nay.",
+"weight": 0
+},
+{
+"text": "Các chức năng của gia đình và quan hệ hôn nhân trong xã hội hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 002: [Nhận biết] Khái niệm chủ nghĩa xã hội khoa học theo nghĩa rộng",
+"points_possible": 1,
+"question_text": "Theo nghĩa rộng, chủ nghĩa xã hội khoa học được hiểu là gì?",
+"general_comment": "Theo nghĩa rộng, chủ nghĩa xã hội khoa học chính là chủ nghĩa Mác - Lênin, luận giải sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Là một môn học độc lập chỉ nghiên cứu phong trào công nhân ở Nga.",
+"weight": 0
+},
+{
+"text": "Là học thuyết kinh tế thuần túy về giá trị thặng dư trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Là hệ thống quan điểm đạo đức về công bằng xã hội không gắn với chủ nghĩa Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Là chủ nghĩa Mác - Lênin, luận giải từ góc độ triết học, kinh tế và chính trị - xã hội về sự chuyển biến tất yếu từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 003: [Nhận biết] Khái niệm chủ nghĩa xã hội khoa học theo nghĩa hẹp",
+"points_possible": 1,
+"question_text": "Theo nghĩa hẹp, chủ nghĩa xã hội khoa học là gì?",
+"general_comment": "Theo nghĩa hẹp, chủ nghĩa xã hội khoa học là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin, luận giải từ góc độ chính trị - xã hội.",
+"answers": [
+{
+"text": "Là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin, luận giải từ góc độ chính trị - xã hội về sự chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+},
+{
+"text": "Là toàn bộ chủ nghĩa Mác - Lênin xét trên cả ba phương diện triết học, kinh tế và chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Là phần học thuyết chỉ bàn về phương pháp luận của chủ nghĩa duy vật biện chứng.",
+"weight": 0
+},
+{
+"text": "Là hệ tư tưởng của chủ nghĩa xã hội không tưởng - phê phán trước Mác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 004: [Nhận biết] Phạm vi nghiên cứu của môn học",
+"points_possible": 1,
+"question_text": "Trong khuôn khổ môn học được trình bày trong chương, chủ nghĩa xã hội khoa học được nghiên cứu theo nghĩa nào?",
+"general_comment": "Giáo trình nêu rõ trong khuôn khổ môn học này, chủ nghĩa xã hội khoa học được nghiên cứu theo nghĩa hẹp.",
+"answers": [
+{
+"text": "Theo nghĩa rộng.",
+"weight": 0
+},
+{
+"text": "Theo nghĩa triết học thuần túy.",
+"weight": 0
+},
+{
+"text": "Theo nghĩa hẹp.",
+"weight": 100
+},
+{
+"text": "Theo nghĩa kinh tế chính trị học cổ điển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 005: [Nhận biết] Điều kiện kinh tế - xã hội ra đời chủ nghĩa xã hội khoa học",
+"points_possible": 1,
+"question_text": "Điều kiện kinh tế - xã hội nổi bật trong những năm 40 của thế kỷ XIX làm tiền đề cho sự ra đời của chủ nghĩa xã hội khoa học là gì?",
+"general_comment": "Những năm 40 thế kỷ XIX, cách mạng công nghiệp phát triển mạnh mẽ, tạo nên nền đại công nghiệp.",
+"answers": [
+{
+"text": "Nông nghiệp phong kiến phục hồi và trở thành lực lượng sản xuất chủ đạo.",
+"weight": 0
+},
+{
+"text": "Cách mạng công nghiệp phát triển mạnh mẽ, tạo nên nền đại công nghiệp.",
+"weight": 100
+},
+{
+"text": "Chế độ chiếm hữu nô lệ tan rã và nhà nước cổ đại suy vong.",
+"weight": 0
+},
+{
+"text": "Kinh tế hàng hóa giản đơn bị thay thế hoàn toàn bởi kinh tế tự cấp tự túc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 006: [Nhận biết] Hai giai cấp cơ bản trong nền đại công nghiệp",
+"points_possible": 1,
+"question_text": "Sự phát triển của nền đại công nghiệp trong những năm 40 thế kỷ XIX làm xuất hiện hai giai cấp cơ bản đối lập nhau về lợi ích là những giai cấp nào?",
+"general_comment": "Giáo trình xác định hai giai cấp cơ bản đối lập về lợi ích là giai cấp tư sản và giai cấp công nhân.",
+"answers": [
+{
+"text": "Giai cấp địa chủ và giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Giai cấp quý tộc và tầng lớp tăng lữ.",
+"weight": 0
+},
+{
+"text": "Giai cấp tư sản và giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Tầng lớp tiểu thương và trí thức thị dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 007: [Nhận biết] Mâu thuẫn kinh tế - xã hội trực tiếp",
+"points_possible": 1,
+"question_text": "Theo giáo trình, mâu thuẫn diễn ra gay gắt trong điều kiện kinh tế - xã hội ra đời chủ nghĩa xã hội khoa học là mâu thuẫn nào?",
+"general_comment": "Mâu thuẫn được nêu là giữa giai cấp công nhân, đại diện lực lượng sản xuất mang tính xã hội, với giai cấp tư sản, đại diện quan hệ sản xuất dựa trên chiếm hữu tư nhân tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn giữa nông dân và địa chủ phong kiến trong công xã nông thôn.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các trường phái triết học duy tâm và duy vật trong nước Đức.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các dân tộc thuộc địa với chế độ quân chủ chuyên chế châu Âu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 008: [Nhận biết] Nhu cầu lý luận của phong trào công nhân",
+"points_possible": 1,
+"question_text": "Sự phát triển phong trào đấu tranh của giai cấp công nhân đòi hỏi cấp thiết điều gì?",
+"general_comment": "Phong trào công nhân đòi hỏi một hệ thống lý luận soi đường và một cương lĩnh chính trị làm kim chỉ nam cho hành động.",
+"answers": [
+{
+"text": "Một học thuyết thần học để điều hòa mâu thuẫn giai cấp.",
+"weight": 0
+},
+{
+"text": "Một chính sách phục hồi đặc quyền của chế độ quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Một lý thuyết kinh tế nhằm bảo vệ chế độ chiếm hữu tư nhân tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Một hệ thống lý luận soi đường và một cương lĩnh chính trị làm kim chỉ nam cho hành động.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 009: [Nhận biết] Ba phát minh khoa học tự nhiên vạch thời đại",
+"points_possible": 1,
+"question_text": "Ba phát minh “vạch thời đại” trong khoa học tự nhiên được nêu là tiền đề cho sự ra đời của chủ nghĩa xã hội khoa học gồm những gì?",
+"general_comment": "Giáo trình liệt kê ba phát minh: học thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tế bào.",
+"answers": [
+{
+"text": "Học thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tế bào.",
+"weight": 100
+},
+{
+"text": "Cơ học lượng tử, thuyết tương đối, học thuyết tế bào.",
+"weight": 0
+},
+{
+"text": "Định luật vạn vật hấp dẫn, hình học phi Euclid, thuyết nhật tâm.",
+"weight": 0
+},
+{
+"text": "Thuyết khế ước xã hội, học thuyết trọng thương, định luật cung cầu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 010: [Nhận biết] Ý nghĩa của tiền đề khoa học tự nhiên",
+"points_possible": 1,
+"question_text": "Ba phát minh khoa học tự nhiên “vạch thời đại” là tiền đề khoa học trực tiếp cho sự ra đời của học thuyết nào?",
+"general_comment": "Ba phát minh này là tiền đề khoa học cho chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử.",
+"answers": [
+{
+"text": "Chủ nghĩa duy tâm khách quan và phép siêu hình.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa trọng nông và chủ nghĩa trọng thương.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội không tưởng - phê phán và kinh tế học tân cổ điển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 011: [Nhận biết] Triết học cổ điển Đức",
+"points_possible": 1,
+"question_text": "Triết học cổ điển Đức trong tiền đề lý luận của chủ nghĩa xã hội khoa học gắn với hai tên tuổi nào?",
+"general_comment": "Giáo trình nêu triết học cổ điển Đức gắn với Ph. Hêghen và L. Phoiơbắc.",
+"answers": [
+{
+"text": "A. Xmít và D. Ricácđô.",
+"weight": 0
+},
+{
+"text": "H. Xanh Ximông và S. Phuriê.",
+"weight": 0
+},
+{
+"text": "R. Oen và G. Đi-mi-trốp.",
+"weight": 0
+},
+{
+"text": "Ph. Hêghen và L. Phoiơbắc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 012: [Nhận biết] Kinh tế chính trị học cổ điển Anh",
+"points_possible": 1,
+"question_text": "Kinh tế chính trị học cổ điển Anh trong tiền đề lý luận của chủ nghĩa xã hội khoa học gắn với những đại biểu nào?",
+"general_comment": "Giáo trình nêu A. Xmít và D. Ricácđô là các đại biểu của kinh tế chính trị học cổ điển Anh.",
+"answers": [
+{
+"text": "A. Xmít và D. Ricácđô.",
+"weight": 100
+},
+{
+"text": "Ph. Hêghen và L. Phoiơbắc.",
+"weight": 0
+},
+{
+"text": "H. Xanh Ximông và S. Phuriê.",
+"weight": 0
+},
+{
+"text": "C. Mác và G. Đi-mi-trốp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 013: [Nhận biết] Đại biểu chủ nghĩa không tưởng phê phán",
+"points_possible": 1,
+"question_text": "Các đại biểu tiêu biểu của chủ nghĩa không tưởng phê phán được giáo trình nêu là ai?",
+"general_comment": "Giáo trình liệt kê H. Xanh Ximông, S. Phuriê và R. Oen.",
+"answers": [
+{
+"text": "Ph. Hêghen, L. Phoiơbắc và I. Cantơ.",
+"weight": 0
+},
+{
+"text": "H. Xanh Ximông, S. Phuriê và R. Oen.",
+"weight": 100
+},
+{
+"text": "A. Xmít, D. Ricácđô và T. Mantuýt.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin, J. Xtalin và G. Đi-mi-trốp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 014: [Nhận biết] Ưu điểm của chủ nghĩa xã hội không tưởng - phê phán",
+"points_possible": 1,
+"question_text": "Một ưu điểm của chủ nghĩa xã hội không tưởng - phê phán được giáo trình nêu là gì?",
+"general_comment": "Chủ nghĩa không tưởng phê phán có tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ tư bản chủ nghĩa đầy bất công, xung đột.",
+"answers": [
+{
+"text": "Phát hiện đầy đủ quy luật vận động của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Chỉ ra chính xác giai cấp công nhân là lực lượng tiên phong thực hiện cách mạng.",
+"weight": 0
+},
+{
+"text": "Thể hiện tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ tư bản chủ nghĩa bất công.",
+"weight": 100
+},
+{
+"text": "Đưa ra hệ thống biện pháp hiện thực để xây dựng xã hội cộng sản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 015: [Nhận biết] Luận điểm có giá trị về xã hội tương lai",
+"points_possible": 1,
+"question_text": "Trong các luận điểm có giá trị về xã hội tương lai của chủ nghĩa xã hội không tưởng - phê phán, nội dung nào được giáo trình nêu?",
+"general_comment": "Giáo trình nêu các luận điểm về tổ chức sản xuất và phân phối sản phẩm xã hội, vai trò công nghiệp và khoa học - kỹ thuật, xóa bỏ đối lập giữa lao động chân tay và trí óc, giải phóng phụ nữ, vai trò lịch sử của nhà nước.",
+"answers": [
+{
+"text": "Khẳng định chuyên chính vô sản là hình thức nhà nước tất yếu sau cách mạng.",
+"weight": 0
+},
+{
+"text": "Yêu cầu xóa bỏ sự đối lập giữa lao động chân tay và lao động trí óc.",
+"weight": 100
+},
+{
+"text": "Phân tích giá trị thặng dư là nguồn gốc kinh tế của bóc lột tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Nêu quy luật phát triển không đều của chủ nghĩa tư bản trong thời kỳ đế quốc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 016: [Nhận biết] Hạn chế của chủ nghĩa xã hội không tưởng - phê phán",
+"points_possible": 1,
+"question_text": "Hạn chế nào sau đây thuộc về chủ nghĩa xã hội không tưởng - phê phán theo giáo trình?",
+"general_comment": "Một hạn chế cơ bản là không phát hiện được quy luật vận động, phát triển của xã hội loài người và chủ nghĩa tư bản.",
+"answers": [
+{
+"text": "Không phê phán chế độ quân chủ chuyên chế và chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Không quan tâm đến vấn đề tổ chức sản xuất và phân phối sản phẩm xã hội.",
+"weight": 0
+},
+{
+"text": "Không đề cập đến yêu cầu giải phóng phụ nữ trong xã hội tương lai.",
+"weight": 0
+},
+{
+"text": "Không phát hiện ra quy luật vận động, phát triển của xã hội loài người nói chung và chủ nghĩa tư bản nói riêng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 017: [Nhận biết] Năm sinh và năm mất của C. Mác",
+"points_possible": 1,
+"question_text": "Theo giáo trình, C. Mác sống trong khoảng thời gian nào?",
+"general_comment": "Giáo trình ghi C. Mác: 1818-1883.",
+"answers": [
+{
+"text": "1818-1883.",
+"weight": 100
+},
+{
+"text": "1820-1895.",
+"weight": 0
+},
+{
+"text": "1870-1924.",
+"weight": 0
+},
+{
+"text": "1770-1831.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 018: [Nhận biết] Năm sinh và năm mất của Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Theo giáo trình, Ph. Ăngghen sống trong khoảng thời gian nào?",
+"general_comment": "Giáo trình ghi Ph. Ăngghen: 1820-1895.",
+"answers": [
+{
+"text": "1818-1883.",
+"weight": 0
+},
+{
+"text": "1870-1924.",
+"weight": 0
+},
+{
+"text": "1820-1895.",
+"weight": 100
+},
+{
+"text": "1804-1872.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 019: [Nhận biết] Câu lạc bộ Hêghen trẻ",
+"points_possible": 1,
+"question_text": "Khi bước vào hoạt động khoa học, C. Mác và Ph. Ăngghen là hai thành viên tích cực của tổ chức nào?",
+"general_comment": "Giáo trình nêu ban đầu C. Mác và Ph. Ăngghen là hai thành viên tích cực của câu lạc bộ Hêghen trẻ.",
+"answers": [
+{
+"text": "Quốc tế I.",
+"weight": 0
+},
+{
+"text": "Quốc tế III.",
+"weight": 0
+},
+{
+"text": "Công xã Pari.",
+"weight": 0
+},
+{
+"text": "Câu lạc bộ Hêghen trẻ.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 020: [Nhận biết] Đặc điểm triết học Hêghen và Phoiơbắc",
+"points_possible": 1,
+"question_text": "Theo bảng trong giáo trình, Hêghen và Phoiơbắc lần lượt gắn với đặc điểm nào?",
+"general_comment": "Bảng nêu Hêghen là duy tâm khách quan nhưng có phép biện chứng; Phoiơbắc là duy vật nhưng siêu hình.",
+"answers": [
+{
+"text": "Hêghen: duy tâm khách quan và biện chứng; Phoiơbắc: duy vật và siêu hình.",
+"weight": 100
+},
+{
+"text": "Hêghen: duy vật và siêu hình; Phoiơbắc: duy tâm khách quan và biện chứng.",
+"weight": 0
+},
+{
+"text": "Hêghen: duy vật lịch sử; Phoiơbắc: duy vật biện chứng.",
+"weight": 0
+},
+{
+"text": "Hêghen: kinh tế chính trị học; Phoiơbắc: chủ nghĩa không tưởng phê phán.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 021: [Nhận biết] Tác phẩm đánh dấu chuyển biến của C. Mác",
+"points_possible": 1,
+"question_text": "Tác phẩm nào của C. Mác đánh dấu sự chuyển biến từ thế giới quan duy tâm sang thế giới quan duy vật và từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa?",
+"general_comment": "Giáo trình nêu tác phẩm “Góp phần phê phán triết học pháp quyền của Hêghen - Lời nói đầu” đánh dấu sự chuyển biến này.",
+"answers": [
+{
+"text": "“Tình cảnh nước Anh”.",
+"weight": 0
+},
+{
+"text": "“Góp phần phê phán triết học pháp quyền của Hêghen - Lời nói đầu”.",
+"weight": 100
+},
+{
+"text": "“Lược khảo khoa kinh tế - chính trị”.",
+"weight": 0
+},
+{
+"text": "“Làm gì?”.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 022: [Nhận biết] Tác phẩm đánh dấu chuyển biến của Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Những tác phẩm nào của Ph. Ăngghen năm 1843 được giáo trình nêu là đánh dấu sự chuyển biến lập trường của ông?",
+"general_comment": "Giáo trình nêu “Tình cảnh nước Anh” và “Lược khảo khoa kinh tế - chính trị” năm 1843.",
+"answers": [
+{
+"text": "“Chống Đuyrinh” và “Làm gì?”.",
+"weight": 0
+},
+{
+"text": "“Tư bản” tập 1 và “Tuyên ngôn của Đảng Cộng sản”.",
+"weight": 0
+},
+{
+"text": "“Tình cảnh nước Anh” và “Lược khảo khoa kinh tế - chính trị”.",
+"weight": 100
+},
+{
+"text": "“Đấu tranh giai cấp ở Pháp” và “Nhà nước và cách mạng”.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 023: [Nhận biết] Ba phát kiến vĩ đại của C. Mác và Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Ba phát kiến vĩ đại của C. Mác và Ph. Ăngghen được giáo trình nêu gồm những gì?",
+"general_comment": "Ba phát kiến gồm chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư, và học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+"answers": [
+{
+"text": "Phép biện chứng duy tâm, học thuyết tế bào, học thuyết tiến hóa.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa dân túy tự do, phái kinh tế, phái Mác xít hợp pháp.",
+"weight": 0
+},
+{
+"text": "Cương lĩnh dân tộc, kinh tế hàng hóa nhiều thành phần, chủ nghĩa tư bản nhà nước.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư, học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 024: [Nhận biết] Tuyên ngôn của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học theo giáo trình?",
+"general_comment": "Giáo trình xác định “Tuyên ngôn của Đảng Cộng sản” do C. Mác và Ph. Ăngghen soạn thảo tháng 2/1848 đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "“Tuyên ngôn của Đảng Cộng sản” do C. Mác và Ph. Ăngghen soạn thảo tháng 2/1848.",
+"weight": 100
+},
+{
+"text": "“Chống Đuyrinh” do Ph. Ăngghen viết năm 1878.",
+"weight": 0
+},
+{
+"text": "“Tư bản” tập 1 của C. Mác xuất bản năm 1867.",
+"weight": 0
+},
+{
+"text": "“Làm gì?” của V.I. Lênin viết năm 1902.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 025: [Thông hiểu] Điều kiện cần và điều kiện đủ",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình phân biệt “điều kiện cần” và “điều kiện đủ” trong sự ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Các điều kiện kinh tế - xã hội và tiền đề khoa học, lý luận chỉ là điều kiện cần; vai trò sáng tạo của C. Mác và Ph. Ăngghen là điều kiện đủ để học thuyết khoa học, cách mạng ra đời.",
+"answers": [
+{
+"text": "Vì điều kiện kinh tế - xã hội chỉ xuất hiện sau khi C. Mác và Ph. Ăngghen đã hoàn thành học thuyết.",
+"weight": 0
+},
+{
+"text": "Vì hoàn cảnh kinh tế - xã hội và các tiền đề khoa học, lý luận tạo cơ sở cần thiết, còn vai trò của C. Mác và Ph. Ăngghen mới biến các tiền đề đó thành học thuyết khoa học, cách mạng.",
+"weight": 100
+},
+{
+"text": "Vì tiền đề khoa học tự nhiên không có ảnh hưởng nào đến phương pháp luận của chủ nghĩa xã hội khoa học.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội khoa học ra đời hoàn toàn từ phong trào tự phát của công nhân, không cần vai trò lý luận.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 026: [Thông hiểu] Ý nghĩa phương pháp luận của phát minh khoa học tự nhiên",
+"points_possible": 1,
+"question_text": "Ý nghĩa phương pháp luận của ba phát minh khoa học tự nhiên đối với sự ra đời của chủ nghĩa xã hội khoa học là gì?",
+"general_comment": "Giáo trình nêu chúng là tiền đề cho chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử, qua đó cung cấp cơ sở phương pháp luận cho việc nghiên cứu các vấn đề chính trị - xã hội.",
+"answers": [
+{
+"text": "Chúng trực tiếp thay thế vai trò của kinh tế chính trị học cổ điển Anh trong phân tích chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Chúng chứng minh rằng không cần nghiên cứu xã hội bằng phương pháp lịch sử cụ thể.",
+"weight": 0
+},
+{
+"text": "Chúng tạo tiền đề khoa học cho chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử, làm cơ sở phương pháp luận nghiên cứu vấn đề chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Chúng chỉ cung cấp ví dụ kỹ thuật cho nền đại công nghiệp, không liên quan đến phương pháp luận.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 027: [Thông hiểu] Ưu điểm và hạn chế của chủ nghĩa không tưởng",
+"points_possible": 1,
+"question_text": "Nhận định nào phản ánh đúng sự khác nhau giữa ưu điểm và hạn chế của chủ nghĩa xã hội không tưởng - phê phán?",
+"general_comment": "Chủ nghĩa không tưởng phê phán có giá trị phê phán và dự báo xã hội tương lai, nhưng không phát hiện được quy luật, lực lượng và biện pháp hiện thực để cải tạo xã hội.",
+"answers": [
+{
+"text": "Nó phê phán xã hội cũ và nêu nhiều dự báo có giá trị, nhưng chưa chỉ ra quy luật vận động, lực lượng tiên phong và biện pháp hiện thực để cải tạo xã hội.",
+"weight": 100
+},
+{
+"text": "Nó phát hiện đầy đủ quy luật vận động của chủ nghĩa tư bản nhưng không phê phán được bất công xã hội.",
+"weight": 0
+},
+{
+"text": "Nó xác định đúng giai cấp công nhân là lực lượng tiên phong nhưng phủ nhận vai trò khoa học - kỹ thuật.",
+"weight": 0
+},
+{
+"text": "Nó xây dựng được chuyên chính vô sản nhưng chưa đề cập đến giải phóng phụ nữ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 028: [Thông hiểu] Cách Mác và Ăngghen kế thừa Hêghen và Phoiơbắc",
+"points_possible": 1,
+"question_text": "C. Mác và Ph. Ăngghen đã xử lý di sản triết học của Hêghen và Phoiơbắc như thế nào để xây dựng chủ nghĩa duy vật biện chứng?",
+"general_comment": "Các ông kế thừa hạt nhân hợp lý của phép biện chứng ở Hêghen, tiếp thu quan niệm duy vật của Phoiơbắc, đồng thời loại bỏ cái vỏ duy tâm, thần bí và tính siêu hình.",
+"answers": [
+{
+"text": "Giữ nguyên hệ thống duy tâm khách quan của Hêghen và phủ nhận hoàn toàn Phoiơbắc.",
+"weight": 0
+},
+{
+"text": "Tiếp thu nguyên vẹn phép siêu hình của Phoiơbắc và bác bỏ toàn bộ phép biện chứng.",
+"weight": 0
+},
+{
+"text": "Chỉ dựa vào kinh tế chính trị cổ điển Anh, không sử dụng di sản triết học Đức.",
+"weight": 0
+},
+{
+"text": "Kế thừa phép biện chứng của Hêghen, quan niệm duy vật của Phoiơbắc, đồng thời cải tạo và loại bỏ yếu tố duy tâm, thần bí, siêu hình.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 029: [Thông hiểu] Ý nghĩa chuyển biến lập trường của Mác và Ăngghen",
+"points_possible": 1,
+"question_text": "Vì sao sự chuyển biến lập trường triết học và chính trị của C. Mác và Ph. Ăngghen là điều kiện không thể thiếu cho sự ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Giáo trình nêu nếu không có sự chuyển biến từ duy tâm sang duy vật, từ dân chủ cách mạng sang cộng sản chủ nghĩa thì chắc chắn không có chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Vì chỉ trên lập trường duy vật và cộng sản chủ nghĩa, các ông mới có thể xây dựng học thuyết khoa học về sự chuyển biến cách mạng của xã hội.",
+"weight": 100
+},
+{
+"text": "Vì sự chuyển biến đó giúp các ông từ bỏ hoàn toàn phong trào công nhân để tập trung vào triết học thuần túy.",
+"weight": 0
+},
+{
+"text": "Vì lập trường dân chủ cách mạng đã đủ để giải thích sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Vì thế giới quan duy tâm là cơ sở trực tiếp của chủ nghĩa duy vật lịch sử.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 030: [Thông hiểu] Ý nghĩa của chủ nghĩa duy vật lịch sử",
+"points_possible": 1,
+"question_text": "Phát kiến chủ nghĩa duy vật lịch sử có ý nghĩa gì trong hệ thống ba phát kiến của C. Mác và Ph. Ăngghen?",
+"general_comment": "Giáo trình nêu chủ nghĩa duy vật lịch sử khẳng định sự phát triển lịch sử của xã hội loài người là quá trình lịch sử tự nhiên, tuân theo quy luật khách quan.",
+"answers": [
+{
+"text": "Nó chứng minh nhà nước tư sản có thể tự chuyển hóa thành nhà nước vô sản mà không cần đấu tranh giai cấp.",
+"weight": 0
+},
+{
+"text": "Nó khẳng định sự phát triển lịch sử xã hội loài người là quá trình lịch sử tự nhiên, tuân theo quy luật khách quan.",
+"weight": 100
+},
+{
+"text": "Nó chỉ giải thích quy luật sinh học của tiến hóa loài người, không liên quan đến xã hội.",
+"weight": 0
+},
+{
+"text": "Nó thay thế học thuyết giá trị thặng dư trong việc phân tích kinh tế chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 031: [Thông hiểu] Ý nghĩa học thuyết giá trị thặng dư",
+"points_possible": 1,
+"question_text": "Học thuyết giá trị thặng dư khẳng định điều gì về phương diện kinh tế?",
+"general_comment": "Giáo trình nêu học thuyết giá trị thặng dư khẳng định về phương diện kinh tế sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Sự tồn tại vĩnh viễn của quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự trung hòa hoàn toàn giữa lợi ích của công nhân và tư sản.",
+"weight": 0
+},
+{
+"text": "Sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Sự phụ thuộc của chủ nghĩa xã hội vào lòng nhân đạo của giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 032: [Thông hiểu] Phát kiến về sứ mệnh lịch sử giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân khắc phục hạn chế nào của chủ nghĩa xã hội không tưởng - phê phán?",
+"general_comment": "Giáo trình nêu phát kiến này khắc phục triệt để hạn chế không phát hiện lực lượng xã hội tiên phong thực hiện chuyển biến cách mạng.",
+"answers": [
+{
+"text": "Khắc phục hạn chế không biết phê phán chế độ quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Khắc phục hạn chế không đưa ra lý tưởng xã hội tương lai.",
+"weight": 0
+},
+{
+"text": "Khắc phục hạn chế không đề cập đến vai trò của công nghiệp và khoa học - kỹ thuật.",
+"weight": 0
+},
+{
+"text": "Khắc phục hạn chế không xác định được lực lượng xã hội tiên phong có thể thủ tiêu chủ nghĩa tư bản và xây dựng chủ nghĩa xã hội, chủ nghĩa cộng sản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 033: [Thông hiểu] Ý nghĩa của Tuyên ngôn của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Vì sao “Tuyên ngôn của Đảng Cộng sản” được xem là dấu mốc ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Giáo trình nêu tác phẩm phân tích có hệ thống, lịch sử và logic hoàn chỉnh các vấn đề cơ bản, thâu tóm hầu như toàn bộ luận điểm của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Vì tác phẩm trình bày có hệ thống, súc tích, chặt chẽ những vấn đề cơ bản và hầu như toàn bộ luận điểm của chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Vì đây là tác phẩm đầu tiên của V.I. Lênin biến chủ nghĩa xã hội thành hiện thực.",
+"weight": 0
+},
+{
+"text": "Vì đây là văn kiện tổng kết 9 quy luật chung xây dựng chủ nghĩa xã hội năm 1957.",
+"weight": 0
+},
+{
+"text": "Vì tác phẩm chủ yếu trình bày kỹ thuật quản lý kinh tế hàng hóa nhiều thành phần.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 034: [Thông hiểu] Bộ Tư bản và quan niệm duy vật lịch sử",
+"points_possible": 1,
+"question_text": "Ý nghĩa nhận định của V.I. Lênin rằng từ khi bộ “Tư bản” ra đời, quan niệm duy vật lịch sử không còn là giả thuyết là gì?",
+"general_comment": "Theo giáo trình, V.I. Lênin đánh giá bộ “Tư bản” chứng minh quan niệm duy vật lịch sử một cách khoa học và là tác phẩm chủ yếu, cơ bản trình bày chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Bộ “Tư bản” bác bỏ hoàn toàn nhu cầu nghiên cứu hình thái kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Bộ “Tư bản” chứng minh quan niệm duy vật lịch sử bằng phân tích khoa học về sự vận hành và phát triển của một hình thái xã hội.",
+"weight": 100
+},
+{
+"text": "Bộ “Tư bản” chỉ là tác phẩm đạo đức học, không liên quan đến khoa học xã hội.",
+"weight": 0
+},
+{
+"text": "Bộ “Tư bản” thay thế “Tuyên ngôn của Đảng Cộng sản” như văn kiện chính trị của phong trào cộng sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 035: [Thông hiểu] Phát triển lý luận giai đoạn 1848-1871",
+"points_possible": 1,
+"question_text": "Nội dung phát triển nào của C. Mác và Ph. Ăngghen được giáo trình gắn với việc tổng kết kinh nghiệm cách mạng 1848-1852?",
+"general_comment": "Giáo trình nêu các tư tưởng: đập tan bộ máy nhà nước tư sản, thiết lập chuyên chính vô sản, cách mạng không ngừng, liên minh công - nông.",
+"answers": [
+{
+"text": "Tư tưởng phát triển kinh tế hàng hóa nhiều thành phần và chủ nghĩa tư bản nhà nước.",
+"weight": 0
+},
+{
+"text": "Tư tưởng “một quốc gia, hai chế độ” và xây dựng chủ nghĩa xã hội đặc sắc Trung Quốc.",
+"weight": 0
+},
+{
+"text": "Tư tưởng đưa ra khái niệm thời đại hiện nay và 9 quy luật chung năm 1957.",
+"weight": 0
+},
+{
+"text": "Tư tưởng đập tan bộ máy nhà nước tư sản, thiết lập chuyên chính vô sản, kết hợp đấu tranh vô sản với phong trào nông dân và xây dựng liên minh công - nông.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 036: [Thông hiểu] Bài học nhà nước từ Công xã Pari",
+"points_possible": 1,
+"question_text": "Sau Công xã Pari, C. Mác và Ph. Ăngghen đã bổ sung điểm nào về vấn đề nhà nước?",
+"general_comment": "Giáo trình nêu sau Công xã Pari, các ông bổ sung tư tưởng đập tan bộ máy nhà nước quan liêu, không phải đập tan toàn bộ bộ máy nhà nước tư sản nói chung.",
+"answers": [
+{
+"text": "Cần đập tan bộ máy nhà nước quan liêu, không phải đập tan toàn bộ bộ máy nhà nước tư sản nói chung.",
+"weight": 100
+},
+{
+"text": "Cần duy trì nguyên vẹn toàn bộ bộ máy nhà nước tư sản để cải tạo dần dần.",
+"weight": 0
+},
+{
+"text": "Cần phủ nhận mọi hình thức nhà nước của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Cần thay thế nhà nước bằng thị trường tự điều tiết ngay sau cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 037: [Thông hiểu] Công xã Pari trong nhận thức của Mác và Ăngghen",
+"points_possible": 1,
+"question_text": "Theo giáo trình, Công xã Pari được C. Mác và Ph. Ăngghen thừa nhận là gì?",
+"general_comment": "Giáo trình nêu Công xã Pari được thừa nhận là hình thái nhà nước của giai cấp công nhân rốt cuộc đã tìm ra.",
+"answers": [
+{
+"text": "Một mô hình nhà nước tư sản dân chủ nhất của châu Âu.",
+"weight": 0
+},
+{
+"text": "Một hình thái nhà nước của giai cấp công nhân rốt cuộc đã tìm ra.",
+"weight": 100
+},
+{
+"text": "Một phong trào nông dân thuần túy không liên quan đến giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Một tổ chức quốc tế của các đảng cộng sản và công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 038: [Thông hiểu] Nhiệm vụ nghiên cứu của chủ nghĩa xã hội khoa học",
+"points_possible": 1,
+"question_text": "Nhiệm vụ nghiên cứu của chủ nghĩa xã hội khoa học do C. Mác và Ph. Ăngghen nêu tập trung vào nội dung nào?",
+"general_comment": "Giáo trình trích dẫn nhiệm vụ: nghiên cứu điều kiện lịch sử và bản chất của sự biến đổi, giúp giai cấp bị áp bức hiểu điều kiện và bản chất sự nghiệp của chính họ.",
+"answers": [
+{
+"text": "Chỉ mô tả các hiện tượng chính trị hiện thời mà không gắn với phong trào vô sản.",
+"weight": 0
+},
+{
+"text": "Chỉ dự báo kỹ thuật sản xuất tương lai mà không nghiên cứu điều kiện lịch sử.",
+"weight": 0
+},
+{
+"text": "Nghiên cứu điều kiện lịch sử và bản chất của sự biến đổi để giai cấp bị áp bức hiểu điều kiện, bản chất sự nghiệp giải phóng của mình.",
+"weight": 100
+},
+{
+"text": "Chỉ bảo vệ nguyên trạng xã hội tư bản bằng các cải cách hành chính.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 039: [Thông hiểu] Chủ nghĩa xã hội khoa học không phải giáo điều",
+"points_possible": 1,
+"question_text": "Quan điểm C. Mác và Ph. Ăngghen không coi học thuyết của mình là “nhất thành bất biến” có ý nghĩa gì?",
+"general_comment": "Giáo trình nhấn mạnh các ông xem học thuyết là những gợi ý cho suy nghĩ và hành động, cần tiếp tục bổ sung, phát triển phù hợp điều kiện lịch sử mới.",
+"answers": [
+{
+"text": "Chủ nghĩa xã hội khoa học chỉ có giá trị trong năm 1848 và không còn ý nghĩa sau đó.",
+"weight": 0
+},
+{
+"text": "Mọi nguyên lý của chủ nghĩa Mác đều có thể bị phủ nhận tùy tiện theo hoàn cảnh.",
+"weight": 0
+},
+{
+"text": "Học thuyết chỉ là quan điểm đạo đức cá nhân, không có cơ sở khoa học.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội khoa học phải được bổ sung, phát triển sáng tạo phù hợp với điều kiện lịch sử mới, không biến thành giáo điều.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 040: [Thông hiểu] Công lao của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Công lao của V.I. Lênin so với C. Mác và Ph. Ăngghen được giáo trình khái quát như thế nào?",
+"general_comment": "Giáo trình so sánh: Mác và Ăngghen phát triển chủ nghĩa xã hội từ không tưởng thành khoa học; Lênin biến chủ nghĩa xã hội từ khoa học, từ lý luận thành hiện thực.",
+"answers": [
+{
+"text": "Nếu C. Mác và Ph. Ăngghen phát triển chủ nghĩa xã hội từ không tưởng thành khoa học, thì V.I. Lênin biến chủ nghĩa xã hội từ khoa học, lý luận thành hiện thực.",
+"weight": 100
+},
+{
+"text": "Nếu C. Mác và Ph. Ăngghen xây dựng Nhà nước Xô viết, thì V.I. Lênin chỉ tổng kết Công xã Pari.",
+"weight": 0
+},
+{
+"text": "Nếu C. Mác và Ph. Ăngghen phủ nhận chủ nghĩa Mác, thì V.I. Lênin khôi phục chủ nghĩa không tưởng.",
+"weight": 0
+},
+{
+"text": "Nếu C. Mác và Ph. Ăngghen nêu 9 quy luật năm 1957, thì V.I. Lênin mở cửa cải cách năm 1978.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 041: [Thông hiểu] Lênin đấu tranh chống trào lưu phi Mác xít",
+"points_possible": 1,
+"question_text": "Việc V.I. Lênin đấu tranh chống chủ nghĩa dân túy tự do, phái kinh tế và phái Mác xít hợp pháp nhằm mục đích gì?",
+"general_comment": "Giáo trình nêu mục đích là bảo vệ chủ nghĩa Mác và mở đường cho chủ nghĩa Mác thâm nhập mạnh mẽ vào Nga.",
+"answers": [
+{
+"text": "Thay thế chủ nghĩa Mác bằng chủ nghĩa dân túy tự do.",
+"weight": 0
+},
+{
+"text": "Bảo vệ chủ nghĩa Mác và mở đường cho chủ nghĩa Mác thâm nhập mạnh mẽ vào Nga.",
+"weight": 100
+},
+{
+"text": "Tách phong trào công nhân Nga khỏi mọi hoạt động chính trị.",
+"weight": 0
+},
+{
+"text": "Hạn chế sự hình thành đảng cách mạng kiểu mới của giai cấp công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 042: [Thông hiểu] Lênin và đảng cách mạng kiểu mới",
+"points_possible": 1,
+"question_text": "Đóng góp của V.I. Lênin về chính đảng của giai cấp công nhân là gì?",
+"general_comment": "Giáo trình nêu V.I. Lênin kế thừa di sản lý luận của Mác và Ăngghen để xây dựng lý luận về đảng cách mạng kiểu mới, các nguyên tắc tổ chức, cương lĩnh, sách lược.",
+"answers": [
+{
+"text": "Xây dựng lý luận về đảng nghị viện tư sản hoạt động ngoài phong trào công nhân.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò của cương lĩnh và sách lược trong hoạt động của đảng.",
+"weight": 0
+},
+{
+"text": "Xây dựng lý luận về đảng cách mạng kiểu mới của giai cấp công nhân, về nguyên tắc tổ chức, cương lĩnh và sách lược.",
+"weight": 100
+},
+{
+"text": "Chuyển trọng tâm từ đấu tranh giai cấp sang hòa giải vĩnh viễn với chế độ Nga hoàng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 043: [Thông hiểu] Quy luật phát triển không đều",
+"points_possible": 1,
+"question_text": "Từ nghiên cứu chủ nghĩa đế quốc, V.I. Lênin rút ra kết luận nào về khả năng thắng lợi của cách mạng vô sản?",
+"general_comment": "Giáo trình nêu V.I. Lênin phát hiện quy luật phát triển không đều về kinh tế và chính trị của chủ nghĩa tư bản, kết luận cách mạng vô sản có thể thắng lợi ở một số nước, thậm chí một nước riêng lẻ là khâu yếu nhất.",
+"answers": [
+{
+"text": "Cách mạng vô sản chỉ có thể thắng lợi đồng thời ở tất cả các nước tư bản phát triển nhất.",
+"weight": 0
+},
+{
+"text": "Cách mạng vô sản không thể xảy ra trong thời kỳ chủ nghĩa đế quốc.",
+"weight": 0
+},
+{
+"text": "Cách mạng vô sản chỉ là phong trào cải cách nghị viện trong các nước thuộc địa.",
+"weight": 0
+},
+{
+"text": "Cách mạng vô sản có thể nổ ra và thắng lợi ở một số nước, thậm chí ở một nước riêng lẻ là khâu yếu nhất của dây chuyền tư bản chủ nghĩa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 044: [Thông hiểu] Bản chất dân chủ của chuyên chính vô sản",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, chuyên chính vô sản là hình thức nhà nước như thế nào?",
+"general_comment": "Giáo trình nêu chuyên chính vô sản là nhà nước dân chủ đối với người vô sản và những người không có của, chuyên chính đối với giai cấp tư sản.",
+"answers": [
+{
+"text": "Một hình thức nhà nước dân chủ đối với người vô sản và người không có của, chuyên chính đối với giai cấp tư sản.",
+"weight": 100
+},
+{
+"text": "Một hình thức nhà nước dân chủ thuần túy đối với mọi giai cấp, không có tính giai cấp.",
+"weight": 0
+},
+{
+"text": "Một cơ chế hành chính trung lập chỉ quản lý kinh tế, không liên quan đến quyền lực chính trị.",
+"weight": 0
+},
+{
+"text": "Một hình thức nhà nước tư sản được cải lương bằng các chính sách phúc lợi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 045: [Thông hiểu] Nguyên tắc cao nhất của chuyên chính vô sản",
+"points_possible": 1,
+"question_text": "Cơ sở và nguyên tắc cao nhất của chuyên chính vô sản theo V.I. Lênin là gì?",
+"general_comment": "Giáo trình nêu cơ sở và nguyên tắc cao nhất là liên minh giữa giai cấp công nhân với giai cấp nông dân và toàn thể nhân dân lao động dưới sự lãnh đạo của giai cấp công nhân.",
+"answers": [
+{
+"text": "Sự thỏa hiệp chính trị lâu dài giữa giai cấp công nhân và giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Sự liên minh của giai cấp công nhân với giai cấp nông dân và toàn thể nhân dân lao động dưới sự lãnh đạo của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Sự tự quản của từng địa phương không cần sự lãnh đạo của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Sự thống trị độc lập của nông dân, tách khỏi giai cấp công nhân và các tầng lớp lao động khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 046: [Thông hiểu] Chuyên chính vô sản không chỉ là bạo lực",
+"points_possible": 1,
+"question_text": "V.I. Lênin phê phán quan điểm xem chuyên chính vô sản chỉ là bạo lực bằng luận điểm nào?",
+"general_comment": "Giáo trình nêu Lênin khẳng định chuyên chính vô sản không chủ yếu là bạo lực, mà là việc giai cấp công nhân tổ chức lao động xã hội cao hơn chủ nghĩa tư bản.",
+"answers": [
+{
+"text": "Chuyên chính vô sản chỉ là bạo lực quân sự, không liên quan đến kinh tế, giáo dục hay hành chính.",
+"weight": 0
+},
+{
+"text": "Chuyên chính vô sản phải từ bỏ mọi cuộc đấu tranh chống thế lực và tập tục xã hội cũ.",
+"weight": 0
+},
+{
+"text": "Chuyên chính vô sản không chủ yếu là bạo lực, mà là việc tổ chức lao động xã hội cao hơn chủ nghĩa tư bản.",
+"weight": 100
+},
+{
+"text": "Chuyên chính vô sản là sự tiếp tục nguyên vẹn của bộ máy quan liêu tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 047: [Thông hiểu] Dân chủ tư sản và dân chủ vô sản",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, nhận định nào đúng về chế độ dân chủ?",
+"general_comment": "Giáo trình nêu Lênin khẳng định chỉ có dân chủ tư sản hoặc dân chủ vô sản, không có dân chủ thuần túy hay dân chủ nói chung.",
+"answers": [
+{
+"text": "Dân chủ luôn tồn tại ngoài mọi quan hệ giai cấp và không mang nội dung xã hội cụ thể.",
+"weight": 0
+},
+{
+"text": "Dân chủ vô sản kém dân chủ hơn mọi hình thức dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ tư sản và dân chủ vô sản giống nhau hoàn toàn về bản chất giai cấp.",
+"weight": 0
+},
+{
+"text": "Chỉ có dân chủ tư sản hoặc dân chủ vô sản, không có dân chủ thuần túy hay dân chủ nói chung.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 048: [Thông hiểu] Cải cách bộ máy nhà nước theo Lênin",
+"points_possible": 1,
+"question_text": "V.I. Lênin yêu cầu gì về cải cách hành chính bộ máy nhà nước sau khi bước vào xây dựng xã hội mới?",
+"general_comment": "Giáo trình nêu cần đội ngũ cộng sản cách mạng được tôi luyện và bộ máy nhà nước tinh, gọn, không hành chính, quan liêu.",
+"answers": [
+{
+"text": "Có đội ngũ cộng sản cách mạng được tôi luyện và bộ máy nhà nước tinh, gọn, không hành chính, quan liêu.",
+"weight": 100
+},
+{
+"text": "Mở rộng tối đa bộ máy quan liêu để kiểm soát toàn bộ xã hội.",
+"weight": 0
+},
+{
+"text": "Bãi bỏ mọi tổ chức chính trị và chỉ duy trì cơ chế thị trường tự phát.",
+"weight": 0
+},
+{
+"text": "Giữ nguyên đội ngũ cũ và cơ cấu cũ của nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 049: [Thông hiểu] Cương lĩnh xây dựng chủ nghĩa xã hội ở Nga",
+"points_possible": 1,
+"question_text": "Trong Cương lĩnh xây dựng chủ nghĩa xã hội ở nước Nga, V.I. Lênin nhấn mạnh những nội dung nào?",
+"general_comment": "Giáo trình nêu các nội dung như bước quá độ nhỏ, giữ chính quyền Xô viết, điện khí hóa, xã hội hóa tư liệu sản xuất cơ bản, công nghiệp hiện đại, cải tạo tiểu nông, cách mạng văn hóa.",
+"answers": [
+{
+"text": "Cần bỏ qua mọi hình thức quá độ và lập tức xóa bỏ toàn bộ thương nghiệp.",
+"weight": 0
+},
+{
+"text": "Cần trao quyền sở hữu tư liệu sản xuất cơ bản cho các nhà tư bản lớn.",
+"weight": 0
+},
+{
+"text": "Cần có những bước quá độ nhỏ, giữ vững chính quyền Xô viết, điện khí hóa, xã hội hóa tư liệu sản xuất cơ bản và cải tạo kinh tế tiểu nông theo nguyên tắc xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Cần phục hồi chế độ quân chủ để phát triển công nghiệp hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 050: [Thông hiểu] Chủ nghĩa tư bản nhà nước trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "V.I. Lênin sử dụng hình thức chủ nghĩa tư bản nhà nước trong thời kỳ quá độ nhằm mục đích gì?",
+"general_comment": "Giáo trình nêu việc sử dụng rộng rãi chủ nghĩa tư bản nhà nước để dần dần cải tiến chế độ sở hữu của các nhà tư bản hạng trung và hạng nhỏ thành sở hữu công cộng.",
+"answers": [
+{
+"text": "Củng cố vĩnh viễn sở hữu tư nhân tư bản chủ nghĩa như mục tiêu cuối cùng.",
+"weight": 0
+},
+{
+"text": "Dần dần cải tiến chế độ sở hữu của các nhà tư bản hạng trung và hạng nhỏ thành sở hữu công cộng.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ vai trò của chính quyền Xô viết trong quản lý kinh tế.",
+"weight": 0
+},
+{
+"text": "Thay thế cải tạo xã hội chủ nghĩa bằng phục hồi quan hệ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 051: [Thông hiểu] Kinh tế hàng hóa nhiều thành phần",
+"points_possible": 1,
+"question_text": "V.I. Lênin đặc biệt nhấn mạnh điều gì về kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Giáo trình nêu Lênin nhấn mạnh cần phát triển kinh tế hàng hóa nhiều thành phần trong thời kỳ quá độ.",
+"answers": [
+{
+"text": "Phải xóa bỏ ngay mọi quan hệ hàng hóa và thương nghiệp.",
+"weight": 0
+},
+{
+"text": "Chỉ được tồn tại một hình thức kinh tế tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Không cần học kỹ thuật và kinh nghiệm quản lý kinh tế của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Cần thiết phải phát triển kinh tế hàng hóa nhiều thành phần.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 052: [Thông hiểu] Cương lĩnh dân tộc của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Ba nguyên tắc cơ bản trong Cương lĩnh dân tộc của V.I. Lênin là gì?",
+"general_comment": "Giáo trình nêu ba nguyên tắc: quyền bình đẳng dân tộc, quyền dân tộc tự quyết, tình đoàn kết của giai cấp vô sản thuộc tất cả các dân tộc.",
+"answers": [
+{
+"text": "Quyền bình đẳng dân tộc, quyền dân tộc tự quyết, tình đoàn kết của giai cấp vô sản thuộc tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Quyền ưu tiên dân tộc lớn, quyền đồng hóa bắt buộc, quyền tách phong trào công nhân khỏi vấn đề dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền tự do thương mại, quyền sở hữu tư bản, quyền cạnh tranh giữa các dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền quân chủ dân tộc, quyền phong kiến, quyền bảo hộ thuộc địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 053: [Thông hiểu] Vai trò của Liên Xô trong Chiến tranh thế giới thứ hai",
+"points_possible": 1,
+"question_text": "Theo giáo trình, vai trò của Liên Xô trong phe đồng minh chống phát xít có ý nghĩa gì đối với chủ nghĩa xã hội thế giới?",
+"general_comment": "Giáo trình nêu Liên Xô góp phần quyết định chấm dứt chiến tranh, cứu nhân loại khỏi chủ nghĩa phát xít và tạo điều kiện hình thành hệ thống xã hội chủ nghĩa thế giới.",
+"answers": [
+{
+"text": "Làm tan rã ngay lập tức toàn bộ phong trào cộng sản quốc tế.",
+"weight": 0
+},
+{
+"text": "Tạo điều kiện phục hồi chủ nghĩa quân chủ chuyên chế ở Tây Âu.",
+"weight": 0
+},
+{
+"text": "Góp phần quyết định chấm dứt chiến tranh, cứu nhân loại khỏi thảm họa phát xít và tạo điều kiện hình thành hệ thống xã hội chủ nghĩa thế giới.",
+"weight": 100
+},
+{
+"text": "Chứng minh chủ nghĩa xã hội không thể trở thành lực lượng quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 054: [Thông hiểu] Thời đoạn Xtalin",
+"points_possible": 1,
+"question_text": "Nội dung nào phản ánh đúng “Thời đoạn Xtalin” theo giáo trình?",
+"general_comment": "Giáo trình nêu từ 1924 đến 1953 là thời đoạn Xtalin trực tiếp vận dụng và phát triển chủ nghĩa xã hội khoa học; Xtalin và Đảng Cộng sản Liên Xô gắn lý luận và tên tuổi C. Mác với V.I. Lênin thành chủ nghĩa Mác - Lênin.",
+"answers": [
+{
+"text": "Từ 1848 đến 1871, Xtalin lãnh đạo Quốc tế I và viết “Tuyên ngôn của Đảng Cộng sản”.",
+"weight": 0
+},
+{
+"text": "Từ 1924 đến 1953, Xtalin trực tiếp vận dụng, phát triển chủ nghĩa xã hội khoa học và gắn lý luận C. Mác với V.I. Lênin thành chủ nghĩa Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Từ 1978 đến 2002, Xtalin lãnh đạo cải cách mở cửa ở Trung Quốc.",
+"weight": 0
+},
+{
+"text": "Từ 1986 đến nay, Xtalin khởi xướng công cuộc đổi mới ở Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 055: [Thông hiểu] Hội nghị Matxcơva tháng 11-1957",
+"points_possible": 1,
+"question_text": "Hội nghị đại biểu các Đảng Cộng sản và công nhân quốc tế tại Matxcơva tháng 11-1957 có ý nghĩa gì?",
+"general_comment": "Giáo trình nêu hội nghị tổng kết và thông qua 9 quy luật chung của công cuộc cải tạo xã hội chủ nghĩa và xây dựng chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Đề ra đường lối cải cách mở cửa của Trung Quốc.",
+"weight": 0
+},
+{
+"text": "Đánh dấu sự ra đời của Nhà nước Xô viết đầu tiên.",
+"weight": 0
+},
+{
+"text": "Tổng kết và thông qua 9 quy luật chung của công cuộc cải tạo xã hội chủ nghĩa và xây dựng chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Thông qua “Tuyên ngôn của Đảng Cộng sản”.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 056: [Thông hiểu] Hội nghị 81 Đảng năm 1960",
+"points_possible": 1,
+"question_text": "Hội nghị đại biểu 81 Đảng Cộng sản và công nhân quốc tế tại Matxcơva tháng 1-1960 đã xác định nhiệm vụ hàng đầu nào?",
+"general_comment": "Giáo trình nêu nhiệm vụ hàng đầu là bảo vệ và củng cố hòa bình, ngăn chặn đế quốc hiếu chiến phát động chiến tranh thế giới mới.",
+"answers": [
+{
+"text": "Xóa bỏ mọi phong trào giải phóng dân tộc để tập trung vào cạnh tranh kinh tế.",
+"weight": 0
+},
+{
+"text": "Bảo vệ và củng cố hòa bình, ngăn chặn các thế lực đế quốc hiếu chiến phát động chiến tranh thế giới mới.",
+"weight": 100
+},
+{
+"text": "Phủ nhận hoàn toàn sự cần thiết của đoàn kết phong trào cộng sản.",
+"weight": 0
+},
+{
+"text": "Chuyển phong trào cộng sản quốc tế thành phong trào trung lập phi chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 057: [Vận dụng/Phân tích] Phân biệt nghĩa rộng và nghĩa hẹp",
+"points_possible": 1,
+"question_text": "Một sinh viên nói: “Trong môn học này, chủ nghĩa xã hội khoa học chính là toàn bộ chủ nghĩa Mác - Lênin ở cả ba bộ phận”. Nhận xét nào đúng nhất?",
+"general_comment": "Giáo trình phân biệt nghĩa rộng và nghĩa hẹp; trong khuôn khổ môn học, chủ nghĩa xã hội khoa học được nghiên cứu theo nghĩa hẹp, là một trong ba bộ phận của chủ nghĩa Mác - Lênin.",
+"answers": [
+{
+"text": "Nhận xét đó nhầm giữa nghĩa rộng và nghĩa hẹp; môn học nghiên cứu chủ nghĩa xã hội khoa học theo nghĩa hẹp, như một bộ phận hợp thành chủ nghĩa Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Nhận xét hoàn toàn đúng vì giáo trình không phân biệt nghĩa rộng và nghĩa hẹp.",
+"weight": 0
+},
+{
+"text": "Nhận xét sai vì chủ nghĩa xã hội khoa học không liên quan đến chủ nghĩa Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Nhận xét đúng nếu chỉ xét các nội dung về kinh tế chính trị học cổ điển Anh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 058: [Vận dụng/Phân tích] Nhận diện tiền đề lý luận",
+"points_possible": 1,
+"question_text": "Nếu một luận điểm nhấn mạnh nguồn gốc lý luận của chủ nghĩa xã hội khoa học từ Ph. Hêghen, L. Phoiơbắc, A. Xmít, D. Ricácđô, H. Xanh Ximông, S. Phuriê và R. Oen, thì luận điểm đó đang nói đến nhóm tiền đề nào?",
+"general_comment": "Các tên tuổi này thuộc các nguồn tiền đề lý luận: triết học cổ điển Đức, kinh tế chính trị học cổ điển Anh và chủ nghĩa không tưởng phê phán.",
+"answers": [
+{
+"text": "Điều kiện kinh tế - xã hội trực tiếp của nền đại công nghiệp.",
+"weight": 0
+},
+{
+"text": "Tiền đề lý luận của chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Ba phát minh khoa học tự nhiên “vạch thời đại”.",
+"weight": 0
+},
+{
+"text": "Các bài học đổi mới của Việt Nam sau năm 1986.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 059: [Vận dụng/Phân tích] Phân loại ưu điểm và hạn chế của chủ nghĩa không tưởng",
+"points_possible": 1,
+"question_text": "Một học thuyết phê phán gay gắt bất công của chủ nghĩa tư bản, dự báo về phân phối sản phẩm xã hội hợp lý hơn, nhưng không chỉ ra giai cấp nào có khả năng thực hiện cách mạng. Theo giáo trình, học thuyết đó gần nhất với đặc điểm nào?",
+"general_comment": "Mô tả này phù hợp với ưu điểm và hạn chế của chủ nghĩa xã hội không tưởng - phê phán: có phê phán và dự báo, nhưng chưa phát hiện lực lượng xã hội tiên phong.",
+"answers": [
+{
+"text": "Chủ nghĩa duy vật lịch sử: đã chỉ ra đầy đủ quy luật khách quan của xã hội.",
+"weight": 0
+},
+{
+"text": "Học thuyết giá trị thặng dư: đã chứng minh nguồn gốc bóc lột tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội không tưởng - phê phán: có giá trị phê phán và dự báo, nhưng còn hạn chế vì không phát hiện giai cấp công nhân là lực lượng tiên phong.",
+"weight": 100
+},
+{
+"text": "Cương lĩnh dân tộc của V.I. Lênin: đã xác lập quyền bình đẳng và tự quyết dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 060: [Vận dụng/Phân tích] Tiêu chí nhận diện tính không tưởng",
+"points_possible": 1,
+"question_text": "Khi đánh giá một tư tưởng xã hội chủ nghĩa trước Mác, tiêu chí nào cho thấy rõ nó chưa vượt khỏi tính không tưởng theo nội dung giáo trình?",
+"general_comment": "Tính không tưởng thể hiện ở chỗ không phát hiện quy luật, lực lượng tiên phong và biện pháp hiện thực để cải tạo xã hội áp bức, bất công.",
+"answers": [
+{
+"text": "Nó phê phán chế độ quân chủ chuyên chế và bất công tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Nó đề cập đến giải phóng phụ nữ và vai trò lịch sử của nhà nước.",
+"weight": 0
+},
+{
+"text": "Nó thức tỉnh công nhân và người lao động chống bất công xã hội.",
+"weight": 0
+},
+{
+"text": "Nó không chỉ ra được quy luật vận động của xã hội, lực lượng xã hội tiên phong và biện pháp hiện thực để cải tạo xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 061: [Vận dụng/Phân tích] Vai trò cá nhân trong sự ra đời học thuyết",
+"points_possible": 1,
+"question_text": "Vì sao không thể giải thích sự ra đời của chủ nghĩa xã hội khoa học chỉ bằng cách mạng công nghiệp và phong trào công nhân?",
+"general_comment": "Theo giáo trình, các điều kiện khách quan là điều kiện cần; vai trò lý luận, khoa học và cách mạng của C. Mác và Ph. Ăngghen là điều kiện đủ để hình thành học thuyết.",
+"answers": [
+{
+"text": "Vì các điều kiện khách quan chỉ tạo tiền đề; cần sự tổng hợp, cải tạo và sáng tạo lý luận của C. Mác và Ph. Ăngghen để hình thành học thuyết khoa học.",
+"weight": 100
+},
+{
+"text": "Vì cách mạng công nghiệp không tạo ra giai cấp công nhân và giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Vì phong trào công nhân đã tự có cương lĩnh khoa học hoàn chỉnh trước Mác.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội khoa học là sản phẩm thuần túy của khoa học tự nhiên, không liên quan xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 062: [Vận dụng/Phân tích] Từ Hêghen và Phoiơbắc đến chủ nghĩa duy vật biện chứng",
+"points_possible": 1,
+"question_text": "Nếu cần mô tả chính xác thao tác lý luận của C. Mác và Ph. Ăngghen đối với Hêghen và Phoiơbắc, lựa chọn nào phù hợp nhất?",
+"general_comment": "Các ông không sao chép nguyên vẹn, mà kế thừa có chọn lọc, cải tạo và loại bỏ vỏ duy tâm, thần bí, siêu hình để xây dựng chủ nghĩa duy vật biện chứng.",
+"answers": [
+{
+"text": "Cộng cơ học toàn bộ hệ thống của Hêghen và toàn bộ hệ thống của Phoiơbắc mà không phê phán.",
+"weight": 0
+},
+{
+"text": "Tiếp thu có chọn lọc, kết hợp hạt nhân biện chứng của Hêghen với quan niệm duy vật của Phoiơbắc, đồng thời cải tạo các yếu tố hạn chế.",
+"weight": 100
+},
+{
+"text": "Giữ lại duy tâm khách quan của Hêghen và phép siêu hình của Phoiơbắc làm nền tảng.",
+"weight": 0
+},
+{
+"text": "Loại bỏ hoàn toàn cả Hêghen lẫn Phoiơbắc để chỉ dựa vào khoa học tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 063: [Vận dụng/Phân tích] Liên hệ ba phát kiến vĩ đại",
+"points_possible": 1,
+"question_text": "Trong một bài phân tích, sinh viên muốn chứng minh sự diệt vong của chủ nghĩa tư bản vừa có cơ sở kinh tế vừa có cơ sở chính trị - xã hội. Cặp phát kiến nào cần được liên hệ trực tiếp nhất?",
+"general_comment": "Học thuyết giá trị thặng dư khẳng định phương diện kinh tế; học thuyết sứ mệnh lịch sử của giai cấp công nhân khẳng định phương diện chính trị - xã hội.",
+"answers": [
+{
+"text": "Học thuyết tế bào và định luật bảo toàn, chuyển hóa năng lượng.",
+"weight": 0
+},
+{
+"text": "Triết học Hêghen và chủ nghĩa không tưởng của R. Oen.",
+"weight": 0
+},
+{
+"text": "Học thuyết giá trị thặng dư và học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Cương lĩnh dân tộc và chính sách ngoại giao hòa bình, độc lập tự chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 064: [Vận dụng/Phân tích] Khắc phục tính không tưởng",
+"points_possible": 1,
+"question_text": "Vì sao phát kiến về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân làm cho chủ nghĩa xã hội vượt khỏi khuôn khổ không tưởng?",
+"general_comment": "Phát kiến này xác định lực lượng xã hội hiện thực có khả năng thủ tiêu chủ nghĩa tư bản và xây dựng chủ nghĩa xã hội, chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Vì nó phủ nhận vai trò của mọi phong trào đấu tranh giai cấp trong lịch sử.",
+"weight": 0
+},
+{
+"text": "Vì nó biến chủ nghĩa xã hội thành một lý tưởng đạo đức không cần lực lượng thực hiện.",
+"weight": 0
+},
+{
+"text": "Vì nó thay thế phân tích chính trị - xã hội bằng các phát minh sinh học.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ ra chủ thể xã hội hiện thực của quá trình chuyển biến cách mạng: giai cấp công nhân với sứ mệnh thủ tiêu chủ nghĩa tư bản và xây dựng xã hội mới.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 065: [Vận dụng/Phân tích] Tuyên ngôn như cương lĩnh chính trị",
+"points_possible": 1,
+"question_text": "Khi nói “Tuyên ngôn của Đảng Cộng sản” vừa là cương lĩnh chính trị vừa là kim chỉ nam hành động, ý nào dưới đây thể hiện đúng nhất?",
+"general_comment": "Giáo trình nêu Tuyên ngôn là cương lĩnh, kim chỉ nam của phong trào cộng sản và công nhân quốc tế, dẫn dắt đấu tranh chống chủ nghĩa tư bản và giải phóng loài người khỏi áp bức, bóc lột.",
+"answers": [
+{
+"text": "Tác phẩm không chỉ trình bày lý luận mà còn định hướng hành động chính trị của phong trào cộng sản và công nhân quốc tế.",
+"weight": 100
+},
+{
+"text": "Tác phẩm chủ yếu là sách giáo khoa khoa học tự nhiên về học thuyết tiến hóa.",
+"weight": 0
+},
+{
+"text": "Tác phẩm chỉ tổng kết tình hình nước Nga sau Cách mạng Tháng Mười.",
+"weight": 0
+},
+{
+"text": "Tác phẩm là văn kiện hành chính của Hội nghị Matxcơva năm 1960.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 066: [Vận dụng/Phân tích] Ý nghĩa rộng của bộ Tư bản",
+"points_possible": 1,
+"question_text": "Trong lập luận của V.I. Lênin về bộ “Tư bản”, vì sao “Tư bản” có giá trị vượt quá một công trình kinh tế học thuần túy?",
+"general_comment": "Lênin đánh giá “Tư bản” chứng minh quan niệm duy vật lịch sử về sự vận hành và phát triển của hình thái xã hội, nên có ý nghĩa khoa học xã hội rộng lớn.",
+"answers": [
+{
+"text": "Vì nó chỉ bàn về kỹ thuật điện khí hóa của nước Nga sau năm 1917.",
+"weight": 0
+},
+{
+"text": "Vì nó chứng minh quan niệm duy vật lịch sử qua phân tích sự vận hành và phát triển của một hình thái xã hội, do đó có ý nghĩa phương pháp luận xã hội học rộng.",
+"weight": 100
+},
+{
+"text": "Vì nó thay thế hoàn toàn mọi hình thức đấu tranh chính trị của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Vì nó bác bỏ nhu cầu nghiên cứu quy luật khách quan của lịch sử xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 067: [Vận dụng/Phân tích] Bài học từ dự báo sai của Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Việc Ph. Ăngghen thừa nhận dự báo sai về khả năng nổ ra cách mạng vô sản ở châu Âu gợi ra bài học phương pháp luận nào?",
+"general_comment": "Giáo trình dùng chi tiết này để nhấn mạnh học thuyết không phải giáo điều “nhất thành bất biến”, cần phát triển phù hợp điều kiện lịch sử mới.",
+"answers": [
+{
+"text": "Cần từ bỏ hoàn toàn chủ nghĩa Mác vì mọi dự báo đều không có giá trị.",
+"weight": 0
+},
+{
+"text": "Cần xem mọi luận điểm lý luận là chân lý bất biến, không cần thực tiễn kiểm tra.",
+"weight": 0
+},
+{
+"text": "Cần kiểm nghiệm lý luận bằng điều kiện lịch sử cụ thể và tiếp tục bổ sung, phát triển học thuyết thay vì giáo điều hóa.",
+"weight": 100
+},
+{
+"text": "Cần phủ nhận vai trò của điều kiện kinh tế trong khả năng cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 068: [Vận dụng/Phân tích] Quy luật không đều và khâu yếu",
+"points_possible": 1,
+"question_text": "Nếu một nước tư bản chưa phát triển nhất nhưng là nơi tập trung mâu thuẫn gay gắt và là “khâu yếu” của hệ thống tư bản, lập luận của V.I. Lênin sẽ dẫn đến kết luận nào?",
+"general_comment": "Theo Lênin, do quy luật phát triển không đều, cách mạng vô sản có thể nổ ra và thắng lợi ở một số nước hoặc một nước riêng lẻ là khâu yếu nhất của dây chuyền tư bản.",
+"answers": [
+{
+"text": "Cách mạng vô sản tuyệt đối không thể thắng lợi vì chỉ nước phát triển nhất mới có khả năng cách mạng.",
+"weight": 0
+},
+{
+"text": "Cách mạng chỉ có thể là cải cách hành chính trong khuôn khổ nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Nước đó phải chờ tất cả các nước tư bản khác đồng loạt cách mạng trong cùng một ngày.",
+"weight": 0
+},
+{
+"text": "Cách mạng vô sản vẫn có thể nổ ra và thắng lợi ở đó, dù nước ấy không phải nước tư bản phát triển nhất.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 069: [Vận dụng/Phân tích] Phê phán hiểu sai về chuyên chính vô sản",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng chuyên chính vô sản chỉ là bạo lực trấn áp. Theo V.I. Lênin trong giáo trình, phản biện nào đúng nhất?",
+"general_comment": "Lênin khẳng định chuyên chính vô sản không chỉ và không chủ yếu là bạo lực; cốt lõi là tổ chức lao động xã hội cao hơn chủ nghĩa tư bản, đồng thời đấu tranh bằng nhiều hình thức.",
+"answers": [
+{
+"text": "Quan điểm đó phiến diện, vì chuyên chính vô sản còn là tổ chức lao động xã hội cao hơn chủ nghĩa tư bản và đấu tranh bằng kinh tế, giáo dục, hành chính, hòa bình lẫn bạo lực khi cần.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng hoàn toàn vì chuyên chính vô sản không có chức năng xã hội.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó sai vì chuyên chính vô sản không bao giờ sử dụng bất kỳ hình thức cưỡng chế nào.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì Lênin phủ nhận mọi nhiệm vụ xây dựng chủ nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 070: [Vận dụng/Phân tích] Cải cách hành chính theo quan điểm Lênin",
+"points_possible": 1,
+"question_text": "Từ quan điểm của V.I. Lênin về bộ máy nhà nước trong thời kỳ xây dựng xã hội mới, yêu cầu nào phù hợp nhất khi cải cách hành chính?",
+"general_comment": "Giáo trình nêu bộ máy nhà nước phải tinh, gọn, không hành chính, quan liêu, gắn với đội ngũ cộng sản cách mạng được tôi luyện.",
+"answers": [
+{
+"text": "Tăng tầng nấc trung gian để bảo đảm kiểm soát hình thức.",
+"weight": 0
+},
+{
+"text": "Xây dựng bộ máy tinh gọn, chống quan liêu, đồng thời rèn luyện đội ngũ cán bộ cách mạng có phẩm chất và năng lực.",
+"weight": 100
+},
+{
+"text": "Giữ nguyên thói quen quan liêu của bộ máy cũ để ổn định.",
+"weight": 0
+},
+{
+"text": "Tách đội ngũ cán bộ khỏi yêu cầu chính trị và đạo đức cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 071: [Vận dụng/Phân tích] Quá độ ở nước có nền tiểu nông phổ biến",
+"points_possible": 1,
+"question_text": "Trong một nước quá độ lên chủ nghĩa xã hội với nền tiểu nông còn phổ biến, cách tiếp cận nào phù hợp nhất với các luận điểm của V.I. Lênin?",
+"general_comment": "Lênin nêu cần các bước quá độ nhỏ, cải tạo kinh tế tiểu nông bằng hợp tác xã, phát triển công nghiệp hiện đại, điện khí hóa, học kỹ thuật và quản lý của chủ nghĩa tư bản, phát triển kinh tế hàng hóa nhiều thành phần.",
+"answers": [
+{
+"text": "Xóa bỏ ngay toàn bộ sản xuất hàng hóa và thương nghiệp, không cần bước trung gian.",
+"weight": 0
+},
+{
+"text": "Duy trì tiểu nông tự phát như mô hình cuối cùng của chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Tiến hành các bước quá độ nhỏ; cải tạo tiểu nông qua hợp tác xã; phát triển công nghiệp, điện khí hóa và kinh tế hàng hóa nhiều thành phần.",
+"weight": 100
+},
+{
+"text": "Phủ nhận học tập kỹ thuật, quản lý và chuyên gia từ xã hội tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 072: [Vận dụng/Phân tích] Vấn đề dân tộc trong quốc gia đa dân tộc",
+"points_possible": 1,
+"question_text": "Trong một quốc gia có nhiều tộc người, cách xử lý nào phù hợp nhất với Cương lĩnh dân tộc của V.I. Lênin?",
+"general_comment": "Ba nguyên tắc của Lênin là bình đẳng dân tộc, dân tộc tự quyết và đoàn kết vô sản thuộc tất cả các dân tộc.",
+"answers": [
+{
+"text": "Ưu tiên dân tộc lớn và áp đặt đồng hóa để thống nhất xã hội.",
+"weight": 0
+},
+{
+"text": "Tách phong trào công nhân của mỗi dân tộc khỏi đoàn kết quốc tế vô sản.",
+"weight": 0
+},
+{
+"text": "Xem vấn đề dân tộc là không liên quan đến cách mạng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Bảo đảm bình đẳng dân tộc, tôn trọng quyền dân tộc tự quyết và củng cố tình đoàn kết của giai cấp vô sản thuộc mọi dân tộc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 073: [Vận dụng/Phân tích] Nhận định về sụp đổ Liên Xô và Đông Âu",
+"points_possible": 1,
+"question_text": "Khi phân tích sự sụp đổ của mô hình xã hội chủ nghĩa ở Liên Xô và Đông Âu, cách kết luận nào phù hợp nhất với giáo trình?",
+"general_comment": "Giáo trình coi đây là thử thách nghiêm trọng do tác động tiêu cực, phức tạp từ bên trong và bên ngoài, không phải sự cáo chung của chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Đó là sự sụp đổ của một mô hình cụ thể và là thử thách nghiêm trọng, không phải bằng chứng cho sự cáo chung tất yếu của chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Đó là chứng cứ giáo trình dùng để khẳng định chủ nghĩa xã hội đã hết sức sống lịch sử.",
+"weight": 0
+},
+{
+"text": "Đó là sự kiện không có tác động nào đến chủ nghĩa Mác - Lênin và chủ nghĩa xã hội khoa học.",
+"weight": 0
+},
+{
+"text": "Đó là nguyên nhân trực tiếp làm tất cả các nước xã hội chủ nghĩa và định hướng xã hội chủ nghĩa biến mất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 074: [Vận dụng/Phân tích] So sánh vận dụng lý luận ở Trung Quốc và Việt Nam",
+"points_possible": 1,
+"question_text": "Điểm chung nào thể hiện sự vận dụng, phát triển chủ nghĩa xã hội khoa học ở Trung Quốc và Việt Nam sau những biến động cuối thế kỷ XX?",
+"general_comment": "Giáo trình nêu các Đảng Cộng sản ở những nước còn xã hội chủ nghĩa hoặc định hướng xã hội chủ nghĩa từng bước bổ sung, phát triển lý luận Mác - Lênin và chủ nghĩa xã hội khoa học phù hợp bối cảnh mới.",
+"answers": [
+{
+"text": "Đều từ bỏ vai trò lãnh đạo của Đảng Cộng sản để chuyển sang mô hình tư sản tự do.",
+"weight": 0
+},
+{
+"text": "Đều do Đảng Cộng sản lãnh đạo, tiến hành cải cách/đổi mới và bổ sung, phát triển lý luận phù hợp với điều kiện lịch sử, thực tiễn quốc gia.",
+"weight": 100
+},
+{
+"text": "Đều phủ nhận chủ nghĩa Mác - Lênin và không còn định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Đều xem cải cách kinh tế là tách rời hoàn toàn khỏi mục tiêu chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 075: [Vận dụng/Phân tích] Đổi mới kinh tế và đổi mới chính trị ở Việt Nam",
+"points_possible": 1,
+"question_text": "Trong điều kiện đổi mới ở Việt Nam, vì sao giáo trình nhấn mạnh “lấy đổi mới kinh tế làm trung tâm” nhưng vẫn phải đổi mới chính trị từng bước?",
+"general_comment": "Giáo trình nêu kết hợp đổi mới kinh tế với đổi mới chính trị để vừa phát triển kinh tế - xã hội, vừa giữ vững ổn định chính trị và tạo môi trường thuận lợi cho đổi mới.",
+"answers": [
+{
+"text": "Vì phát triển kinh tế cần ổn định chính trị và môi trường thể chế phù hợp; đổi mới chính trị từng bước giúp bảo đảm điều kiện cho đổi mới, phát triển kinh tế - xã hội.",
+"weight": 100
+},
+{
+"text": "Vì đổi mới chính trị càng nhanh, càng tách khỏi kinh tế thì càng bảo đảm ổn định.",
+"weight": 0
+},
+{
+"text": "Vì đổi mới kinh tế không cần bất kỳ điều kiện chính trị - xã hội nào.",
+"weight": 0
+},
+{
+"text": "Vì mục tiêu của đổi mới là thay thế độc lập dân tộc gắn với chủ nghĩa xã hội bằng chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 076: [Vận dụng/Phân tích] Ba trụ cột phát triển ở Việt Nam",
+"points_possible": 1,
+"question_text": "Theo đóng góp lý luận của Đảng Cộng sản Việt Nam, phát triển nhanh và bền vững cần gắn phát triển kinh tế, xây dựng Đảng và phát triển văn hóa như thế nào?",
+"general_comment": "Giáo trình nêu phát triển kinh tế là nhiệm vụ trung tâm, xây dựng Đảng là khâu then chốt, phát triển văn hóa là nền tảng tinh thần của xã hội, tạo ba trụ cột cho phát triển.",
+"answers": [
+{
+"text": "Kinh tế là phụ, xây dựng Đảng là hình thức, văn hóa không liên quan phát triển.",
+"weight": 0
+},
+{
+"text": "Văn hóa là trung tâm duy nhất, còn kinh tế và xây dựng Đảng không cần đặt ra.",
+"weight": 0
+},
+{
+"text": "Kinh tế là nhiệm vụ trung tâm, xây dựng Đảng là khâu then chốt, văn hóa là nền tảng tinh thần của xã hội.",
+"weight": 100
+},
+{
+"text": "Xây dựng Đảng chỉ là vấn đề sau cùng, không gắn với phát triển bền vững.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 077: [Vận dụng/Phân tích] Tăng trưởng, công bằng, văn hóa và môi trường",
+"points_possible": 1,
+"question_text": "Một chính sách chỉ theo đuổi tăng trưởng GDP, bỏ qua tiến bộ, công bằng xã hội, văn hóa và môi trường. Theo giáo trình, chính sách đó mâu thuẫn với định hướng nào của Việt Nam?",
+"general_comment": "Giáo trình nêu phát triển kinh tế thị trường định hướng xã hội chủ nghĩa phải giải quyết đúng quan hệ tăng trưởng với tiến bộ, công bằng xã hội, gắn với văn hóa và môi trường.",
+"answers": [
+{
+"text": "Phù hợp hoàn toàn vì giáo trình chỉ coi tăng trưởng kinh tế là mục tiêu duy nhất.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn với yêu cầu xây dựng kinh tế thị trường định hướng xã hội chủ nghĩa gắn tăng trưởng với tiến bộ, công bằng xã hội, bản sắc văn hóa và bảo vệ môi trường.",
+"weight": 100
+},
+{
+"text": "Phù hợp vì kinh tế thị trường định hướng xã hội chủ nghĩa không cần vai trò Nhà nước.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn chỉ với chính sách đối ngoại, không liên quan đến mô hình phát triển kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 078: [Vận dụng/Phân tích] Dân chủ xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Nếu một cải cách chính trị ở Việt Nam làm tăng quyền làm chủ của nhân dân và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa, nó phù hợp với đóng góp lý luận nào được giáo trình nêu?",
+"general_comment": "Giáo trình nêu phát huy dân chủ, xây dựng Nhà nước pháp quyền Việt Nam xã hội chủ nghĩa, hoàn thiện hệ thống chính trị và nền dân chủ bảo đảm quyền lực thuộc về nhân dân.",
+"answers": [
+{
+"text": "Tách quyền lực nhà nước khỏi nhân dân để tăng hiệu quả quan liêu.",
+"weight": 0
+},
+{
+"text": "Đóng cửa hệ thống chính trị, không đổi mới để giữ nguyên mọi cơ chế cũ.",
+"weight": 0
+},
+{
+"text": "Phát huy dân chủ, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa và hoàn thiện hệ thống chính trị để quyền lực thuộc về nhân dân.",
+"weight": 100
+},
+{
+"text": "Thay thế dân chủ xã hội chủ nghĩa bằng dân chủ thuần túy không có nội dung giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 079: [Vận dụng/Phân tích] Đại đoàn kết và sức mạnh thời đại",
+"points_possible": 1,
+"question_text": "Một chiến lược phát triển quốc gia vừa huy động mọi giai cấp, tầng lớp, dân tộc, tôn giáo, kiều bào, vừa chủ động tranh thủ hợp tác quốc tế. Theo giáo trình, chiến lược đó thể hiện kết hợp nào?",
+"general_comment": "Giáo trình nêu mở rộng đại đoàn kết toàn dân tộc và quan hệ đối ngoại, hội nhập quốc tế nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+"answers": [
+{
+"text": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại thông qua đại đoàn kết toàn dân tộc và hội nhập quốc tế.",
+"weight": 100
+},
+{
+"text": "Tách sức mạnh dân tộc khỏi mọi nguồn lực quốc tế.",
+"weight": 0
+},
+{
+"text": "Chỉ dựa vào lực lượng bên ngoài và xem nhẹ khối đại đoàn kết dân tộc.",
+"weight": 0
+},
+{
+"text": "Thu hẹp đoàn kết xã hội để ưu tiên một nhóm lợi ích duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 080: [Vận dụng/Phân tích] Chủ nghĩa xã hội khoa học trả lời câu hỏi con đường",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình nói chủ nghĩa xã hội khoa học là khoa học trả lời câu hỏi “bằng con đường nào” để thực hiện bước chuyển từ chủ nghĩa tư bản lên chủ nghĩa xã hội?",
+"general_comment": "Triết học và kinh tế chính trị học mácxít luận giải tính tất yếu, nguyên nhân và điều kiện; chủ nghĩa xã hội khoa học chỉ ra con đường đấu tranh cách mạng của giai cấp công nhân dưới sự lãnh đạo của Đảng Cộng sản.",
+"answers": [
+{
+"text": "Vì nó thay thế hoàn toàn triết học và kinh tế chính trị học mácxít trong mọi lĩnh vực.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ nghiên cứu phát minh khoa học tự nhiên mà không bàn đến chính trị.",
+"weight": 0
+},
+{
+"text": "Vì nó không chỉ chứng minh tính tất yếu mà còn chỉ ra con đường thực hiện: đấu tranh cách mạng của giai cấp công nhân dưới sự lãnh đạo của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Vì nó cho rằng chủ nghĩa tư bản tự động biến mất mà không cần lực lượng xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 081: [Nhận biết] Phương pháp luận chung của chủ nghĩa xã hội khoa học",
+"points_possible": 1,
+"question_text": "Phương pháp luận chung nhất của chủ nghĩa xã hội khoa học là gì?",
+"general_comment": "Chủ nghĩa xã hội khoa học lấy chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử làm phương pháp luận chung nhất.",
+"answers": [
+{
+"text": "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa duy tâm khách quan và phép siêu hình.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa kinh nghiệm và chủ nghĩa thực chứng thuần túy.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa không tưởng - phê phán trước Mác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 082: [Nhận biết] Phương pháp kết hợp lôgíc và lịch sử",
+"points_possible": 1,
+"question_text": "Một trong những phương pháp nghiên cứu đặc thù của chủ nghĩa xã hội khoa học là phương pháp nào sau đây?",
+"general_comment": "Giáo trình nêu phương pháp kết hợp lôgíc và lịch sử là một phương pháp quan trọng trong nghiên cứu chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Phương pháp kết hợp lôgíc và lịch sử.",
+"weight": 100
+},
+{
+"text": "Phương pháp thần học kinh viện.",
+"weight": 0
+},
+{
+"text": "Phương pháp trực giác siêu hình.",
+"weight": 0
+},
+{
+"text": "Phương pháp phủ nhận hoàn toàn lịch sử.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 083: [Thông hiểu] Ý nghĩa của phương pháp lôgíc",
+"points_possible": 1,
+"question_text": "Trong nghiên cứu chủ nghĩa xã hội khoa học, phương pháp lôgíc có tác dụng chủ yếu nào?",
+"general_comment": "Phương pháp lôgíc giúp nhận thức bản chất, quy luật, tính tất yếu và mối liên hệ bên trong của các hiện tượng chính trị - xã hội.",
+"answers": [
+{
+"text": "Làm rõ bản chất, quy luật, tính tất yếu và mối liên hệ bên trong của các quá trình chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ ghi chép tuần tự các sự kiện theo ngày tháng mà không cần phân tích bản chất.",
+"weight": 0
+},
+{
+"text": "Tách hoàn toàn lý luận khỏi thực tiễn lịch sử.",
+"weight": 0
+},
+{
+"text": "Thay thế mọi căn cứ khoa học bằng niềm tin cảm tính.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 084: [Thông hiểu] Ý nghĩa của phương pháp lịch sử",
+"points_possible": 1,
+"question_text": "Trong nghiên cứu chủ nghĩa xã hội khoa học, phương pháp lịch sử yêu cầu điều gì?",
+"general_comment": "Phương pháp lịch sử yêu cầu xem xét sự vật, hiện tượng trong quá trình hình thành, vận động và phát triển cụ thể của nó.",
+"answers": [
+{
+"text": "Xem xét sự vật, hiện tượng trong quá trình hình thành, vận động và phát triển cụ thể.",
+"weight": 100
+},
+{
+"text": "Chỉ xem xét sự vật như những khái niệm bất biến, không có quá trình phát triển.",
+"weight": 0
+},
+{
+"text": "Loại bỏ hoàn toàn điều kiện lịch sử - cụ thể khỏi quá trình nghiên cứu.",
+"weight": 0
+},
+{
+"text": "Quy toàn bộ lịch sử xã hội về ý muốn của một cá nhân kiệt xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 085: [Thông hiểu] Kết hợp lôgíc và lịch sử",
+"points_possible": 1,
+"question_text": "Vì sao nghiên cứu chủ nghĩa xã hội khoa học phải kết hợp phương pháp lôgíc và phương pháp lịch sử?",
+"general_comment": "Kết hợp hai phương pháp này giúp vừa thấy quá trình lịch sử cụ thể, vừa nắm được bản chất và quy luật phát triển của các hiện tượng chính trị - xã hội.",
+"answers": [
+{
+"text": "Để vừa thấy quá trình lịch sử cụ thể, vừa nắm được bản chất và quy luật phát triển của hiện tượng.",
+"weight": 100
+},
+{
+"text": "Để thay thế hoàn toàn lịch sử bằng suy luận trừu tượng.",
+"weight": 0
+},
+{
+"text": "Để phủ nhận vai trò của quy luật khách quan trong đời sống xã hội.",
+"weight": 0
+},
+{
+"text": "Để chứng minh rằng mọi hiện tượng xã hội đều ngẫu nhiên và không thể nhận thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 086: [Nhận biết] Phương pháp khảo sát chính trị - xã hội",
+"points_possible": 1,
+"question_text": "Trong nghiên cứu chủ nghĩa xã hội khoa học, phương pháp khảo sát và phân tích chính trị - xã hội phải đặt trong điều kiện nào?",
+"general_comment": "Phương pháp khảo sát và phân tích chính trị - xã hội phải đặt trong điều kiện kinh tế - xã hội cụ thể.",
+"answers": [
+{
+"text": "Trong điều kiện kinh tế - xã hội cụ thể.",
+"weight": 100
+},
+{
+"text": "Trong trạng thái tách rời hoàn toàn khỏi đời sống kinh tế.",
+"weight": 0
+},
+{
+"text": "Trong phạm vi thuần túy tâm lý cá nhân.",
+"weight": 0
+},
+{
+"text": "Trong quan niệm thần học về nguồn gốc xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 087: [Nhận biết] Phương pháp so sánh",
+"points_possible": 1,
+"question_text": "Phương pháp nào được sử dụng trong nghiên cứu chủ nghĩa xã hội khoa học để đối chiếu các mô hình, quá trình, hiện tượng chính trị - xã hội?",
+"general_comment": "Phương pháp so sánh là một trong những phương pháp nghiên cứu được sử dụng trong chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Phương pháp so sánh.",
+"weight": 100
+},
+{
+"text": "Phương pháp chiêm tinh.",
+"weight": 0
+},
+{
+"text": "Phương pháp thần bí hóa lịch sử.",
+"weight": 0
+},
+{
+"text": "Phương pháp duy tâm chủ quan.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 088: [Nhận biết] Phương pháp tổng kết thực tiễn",
+"points_possible": 1,
+"question_text": "Một phương pháp nghiên cứu quan trọng của chủ nghĩa xã hội khoa học là gắn lý luận với hoạt động nào?",
+"general_comment": "Giáo trình nêu phương pháp gắn lý luận với tổng kết thực tiễn là phương pháp cần thiết của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Tổng kết thực tiễn.",
+"weight": 100
+},
+{
+"text": "Tuyệt đối hóa suy đoán thuần túy.",
+"weight": 0
+},
+{
+"text": "Phủ nhận kinh nghiệm cách mạng.",
+"weight": 0
+},
+{
+"text": "Loại bỏ mọi căn cứ lịch sử.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 089: [Thông hiểu] Lý luận gắn với tổng kết thực tiễn",
+"points_possible": 1,
+"question_text": "Vì sao chủ nghĩa xã hội khoa học phải gắn lý luận với tổng kết thực tiễn?",
+"general_comment": "Chủ nghĩa xã hội khoa học là khoa học gắn với phong trào cách mạng, do đó lý luận phải được kiểm nghiệm, bổ sung và phát triển từ thực tiễn.",
+"answers": [
+{
+"text": "Vì lý luận cần được kiểm nghiệm, bổ sung và phát triển từ thực tiễn cách mạng.",
+"weight": 100
+},
+{
+"text": "Vì thực tiễn không có vai trò gì trong việc phát triển lý luận.",
+"weight": 0
+},
+{
+"text": "Vì lý luận càng xa rời thực tiễn thì càng khoa học.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội khoa học chỉ là hệ thống suy tưởng đạo đức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 090: [Nhận biết] Phương pháp liên ngành",
+"points_possible": 1,
+"question_text": "Ngoài các phương pháp chuyên biệt, chủ nghĩa xã hội khoa học còn sử dụng nhóm phương pháp nào để nghiên cứu các vấn đề chính trị - xã hội phức hợp?",
+"general_comment": "Giáo trình nêu chủ nghĩa xã hội khoa học sử dụng các phương pháp có tính liên ngành.",
+"answers": [
+{
+"text": "Các phương pháp có tính liên ngành.",
+"weight": 100
+},
+{
+"text": "Các phương pháp thần học thuần túy.",
+"weight": 0
+},
+{
+"text": "Các phương pháp phủ nhận khoa học xã hội.",
+"weight": 0
+},
+{
+"text": "Các phương pháp bói toán và kinh nghiệm cá nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 091: [Nhận biết] Ý nghĩa lý luận của việc nghiên cứu CNXHKH",
+"points_possible": 1,
+"question_text": "Về mặt lý luận, việc nghiên cứu chủ nghĩa xã hội khoa học giúp trang bị cho người học nội dung nào?",
+"general_comment": "Việc nghiên cứu chủ nghĩa xã hội khoa học trang bị nhận thức chính trị - xã hội và phương pháp luận khoa học về quá trình hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Nhận thức chính trị - xã hội và phương pháp luận khoa học về quá trình hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Kỹ thuật quản trị doanh nghiệp tư bản hiện đại.",
+"weight": 0
+},
+{
+"text": "Tri thức tôn giáo thuần túy về nguồn gốc vũ trụ.",
+"weight": 0
+},
+{
+"text": "Phương pháp loại bỏ hoàn toàn nghiên cứu chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 092: [Thông hiểu] Chủ nghĩa xã hội khoa học và cải tạo thế giới",
+"points_possible": 1,
+"question_text": "Theo ý nghĩa lý luận được nêu trong giáo trình, chủ nghĩa xã hội khoa học không chỉ giải thích thế giới mà căn bản còn nhằm mục tiêu nào?",
+"general_comment": "Chủ nghĩa xã hội khoa học không chỉ giải thích thế giới mà căn bản là cải tạo thế giới theo quy luật phù hợp với tiến bộ và văn minh.",
+"answers": [
+{
+"text": "Cải tạo thế giới theo quy luật phù hợp với tiến bộ và văn minh.",
+"weight": 100
+},
+{
+"text": "Bảo vệ nguyên trạng mọi quan hệ áp bức, bóc lột.",
+"weight": 0
+},
+{
+"text": "Phủ nhận khả năng nhận thức thế giới.",
+"weight": 0
+},
+{
+"text": "Tách con người khỏi mọi hoạt động thực tiễn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 093: [Nhận biết] Định hướng chính trị - xã hội",
+"points_possible": 1,
+"question_text": "Chủ nghĩa xã hội khoa học góp phần định hướng chính trị - xã hội cho hoạt động thực tiễn của những chủ thể nào?",
+"general_comment": "Giáo trình nêu chủ nghĩa xã hội khoa học góp phần định hướng cho Đảng Cộng sản, Nhà nước xã hội chủ nghĩa và nhân dân trong cách mạng xã hội chủ nghĩa, xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Đảng Cộng sản, Nhà nước xã hội chủ nghĩa và nhân dân.",
+"weight": 100
+},
+{
+"text": "Chỉ riêng các doanh nghiệp tư nhân.",
+"weight": 0
+},
+{
+"text": "Chỉ riêng các tổ chức tôn giáo.",
+"weight": 0
+},
+{
+"text": "Chỉ riêng tầng lớp quý tộc phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 094: [Thông hiểu] Cảnh giác trước nhận thức sai lệch",
+"points_possible": 1,
+"question_text": "Nghiên cứu chủ nghĩa xã hội khoa học tạo căn cứ nhận thức khoa học để thực hiện nhiệm vụ nào?",
+"general_comment": "Nghiên cứu chủ nghĩa xã hội khoa học giúp cảnh giác, phân tích đúng và đấu tranh chống nhận thức sai lệch, tuyên truyền chống phá chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Cảnh giác, phân tích đúng và đấu tranh chống nhận thức sai lệch, tuyên truyền chống phá chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Chấp nhận mọi quan điểm chống chủ nghĩa xã hội như nhau.",
+"weight": 0
+},
+{
+"text": "Loại bỏ hoàn toàn cơ sở khoa học của niềm tin xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Tách rời lý luận khỏi việc bảo vệ Đảng, Nhà nước và chế độ xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 095: [Nhận biết] Ý nghĩa thực tiễn của việc nghiên cứu CNXHKH",
+"points_possible": 1,
+"question_text": "Về mặt thực tiễn, nghiên cứu chủ nghĩa xã hội khoa học góp phần vào nhiệm vụ nào trong Đảng và xã hội?",
+"general_comment": "Giáo trình nêu việc nghiên cứu chủ nghĩa xã hội khoa học góp phần xây dựng, chỉnh đốn Đảng, chống biểu hiện cơ hội chủ nghĩa, dao động, thoái hóa, biến chất.",
+"answers": [
+{
+"text": "Xây dựng, chỉnh đốn Đảng, chống biểu hiện cơ hội chủ nghĩa, dao động, thoái hóa, biến chất.",
+"weight": 100
+},
+{
+"text": "Khuyến khích chủ nghĩa cơ hội trong Đảng và xã hội.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò giáo dục lý luận chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Tách thanh niên, sinh viên khỏi mục tiêu lý tưởng xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 096: [Nhận biết] Giáo dục niềm tin khoa học",
+"points_possible": 1,
+"question_text": "Một ý nghĩa thực tiễn của việc nghiên cứu chủ nghĩa xã hội khoa học là giáo dục cho nhân dân niềm tin khoa học vào nội dung nào?",
+"general_comment": "Giáo trình nêu việc nghiên cứu chủ nghĩa xã hội khoa học góp phần giáo dục niềm tin khoa học vào mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Mục tiêu, lý tưởng xã hội chủ nghĩa và con đường đi lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Sự phục hồi tất yếu của chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Sự vĩnh viễn bất biến của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Việc phủ nhận mọi lý tưởng chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 097: [Nhận biết] Đối tượng nghiên cứu khái quát",
+"points_possible": 1,
+"question_text": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là những quy luật, tính quy luật thuộc lĩnh vực nào của quá trình hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+"general_comment": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Sinh học - di truyền.",
+"weight": 0
+},
+{
+"text": "Thiên văn - vật lý.",
+"weight": 0
+},
+{
+"text": "Tâm linh - thần học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 098: [Thông hiểu] Giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Trong đối tượng nghiên cứu của chủ nghĩa xã hội khoa học, giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa được gọi là gì?",
+"general_comment": "Giáo trình xác định giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa là chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa tư bản độc quyền.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa phong kiến.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa dân túy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 099: [Nhận biết] Nội dung đối tượng nghiên cứu",
+"points_possible": 1,
+"question_text": "Ngoài các quy luật chính trị - xã hội, chủ nghĩa xã hội khoa học còn nghiên cứu nội dung nào?",
+"general_comment": "Chủ nghĩa xã hội khoa học nghiên cứu những nguyên tắc cơ bản, điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp công nhân và nhân dân lao động.",
+"answers": [
+{
+"text": "Những nguyên tắc cơ bản, điều kiện, con đường, hình thức và phương pháp đấu tranh cách mạng của giai cấp công nhân và nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Chỉ các quy luật tự nhiên của sinh giới.",
+"weight": 0
+},
+{
+"text": "Chỉ các quy tắc giao dịch thương mại tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Chỉ các nghi lễ tôn giáo trong xã hội cổ đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 100: [Thông hiểu] Chủ nghĩa xã hội khoa học trả lời vấn đề con đường",
+"points_possible": 1,
+"question_text": "Chủ nghĩa xã hội khoa học nghiên cứu con đường, hình thức và phương pháp đấu tranh cách mạng nhằm hiện thực hóa sự chuyển biến nào?",
+"general_comment": "Chủ nghĩa xã hội khoa học nghiên cứu con đường và phương pháp đấu tranh nhằm hiện thực hóa sự chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+},
+{
+"text": "Từ chủ nghĩa cộng sản trở lại chủ nghĩa chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Từ chủ nghĩa phong kiến lên chế độ quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Từ xã hội hiện đại trở lại công xã nguyên thủy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 101: [Nhận biết] Nhiệm vụ phê phán tư tưởng chống cộng",
+"points_possible": 1,
+"question_text": "Một nhiệm vụ quan trọng của chủ nghĩa xã hội khoa học là gì?",
+"general_comment": "Giáo trình nêu nhiệm vụ quan trọng của chủ nghĩa xã hội khoa học là phê phán, đấu tranh bác bỏ các trào lưu tư tưởng chống cộng, chống chủ nghĩa xã hội, bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin.",
+"answers": [
+{
+"text": "Phê phán, đấu tranh bác bỏ các trào lưu tư tưởng chống cộng, chống chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Cổ vũ các trào lưu tư tưởng chống cộng và chống chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Từ bỏ việc bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Chỉ nghiên cứu kỹ thuật sản xuất mà không quan tâm đến chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 102: [Nhận biết] Khủng hoảng kinh tế đầu tiên của CNTB",
+"points_possible": 1,
+"question_text": "Trong phương thức sản xuất tư bản chủ nghĩa, mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất bộc lộ qua cuộc khủng hoảng kinh tế lần thứ nhất vào năm nào?",
+"general_comment": "Ngân hàng câu hỏi Chương 1 xác định cuộc khủng hoảng kinh tế đầu tiên của chủ nghĩa tư bản diễn ra năm 1825.",
+"answers": [
+{
+"text": "1825.",
+"weight": 100
+},
+{
+"text": "1824.",
+"weight": 0
+},
+{
+"text": "1826.",
+"weight": 0
+},
+{
+"text": "1827.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 103: [Nhận biết] Cách mạng công nghiệp lần thứ nhất",
+"points_possible": 1,
+"question_text": "Cuộc cách mạng công nghiệp lần thứ nhất trong phương thức sản xuất tư bản chủ nghĩa diễn ra đầu tiên ở quốc gia nào?",
+"general_comment": "Cách mạng công nghiệp lần thứ nhất diễn ra đầu tiên ở Anh.",
+"answers": [
+{
+"text": "Anh.",
+"weight": 100
+},
+{
+"text": "Pháp.",
+"weight": 0
+},
+{
+"text": "Đức.",
+"weight": 0
+},
+{
+"text": "Nga.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 104: [Nhận biết] Phong trào Hiến chương",
+"points_possible": 1,
+"question_text": "Phong trào đấu tranh nào của người lao động ở Anh là một trong những biểu hiện của điều kiện kinh tế - xã hội cho sự ra đời chủ nghĩa xã hội khoa học?",
+"general_comment": "Phong trào Hiến chương của người lao động ở Anh là một phong trào tiêu biểu của giai cấp công nhân thế kỷ XIX.",
+"answers": [
+{
+"text": "Phong trào Hiến chương.",
+"weight": 100
+},
+{
+"text": "Cách mạng Tháng Mười Nga.",
+"weight": 0
+},
+{
+"text": "Cách mạng Tháng Tám ở Việt Nam.",
+"weight": 0
+},
+{
+"text": "Công xã Pari.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 105: [Nhận biết] Phong trào công nhân dệt Lyon",
+"points_possible": 1,
+"question_text": "Phong trào công nhân dệt ở thành phố Lyon thuộc quốc gia nào?",
+"general_comment": "Phong trào công nhân dệt Lyon là phong trào công nhân ở Pháp.",
+"answers": [
+{
+"text": "Pháp.",
+"weight": 100
+},
+{
+"text": "Anh.",
+"weight": 0
+},
+{
+"text": "Đức.",
+"weight": 0
+},
+{
+"text": "Nga.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 106: [Nhận biết] Phong trào không thuộc điều kiện ra đời CNXHKH",
+"points_possible": 1,
+"question_text": "Phong trào nào dưới đây không phải là điều kiện kinh tế - xã hội trực tiếp cho sự ra đời của chủ nghĩa xã hội khoa học ở Tây Âu những năm 30, 40 thế kỷ XIX?",
+"general_comment": "Phong trào công nhân ở Nga không phải là một trong những phong trào tiêu biểu ở Tây Âu những năm 30, 40 thế kỷ XIX được nêu trong ngân hàng Chương 1.",
+"answers": [
+{
+"text": "Phong trào công nhân ở Nga.",
+"weight": 100
+},
+{
+"text": "Phong trào công nhân dệt ở Lyon.",
+"weight": 0
+},
+{
+"text": "Phong trào Hiến chương của người lao động ở Anh.",
+"weight": 0
+},
+{
+"text": "Phong trào công nhân dệt ở thành phố Lion.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 107: [Thông hiểu] Ý nghĩa phong trào vô sản những năm 30, 40 thế kỷ XIX",
+"points_possible": 1,
+"question_text": "Phong trào đấu tranh của giai cấp vô sản những năm 30, 40 của thế kỷ XIX chứng tỏ điều gì?",
+"general_comment": "Phong trào đấu tranh của giai cấp vô sản thời kỳ này chứng tỏ giai cấp vô sản đã trở thành một lực lượng chính trị - xã hội độc lập.",
+"answers": [
+{
+"text": "Giai cấp vô sản là một lực lượng chính trị - xã hội độc lập.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản là lực lượng duy nhất có khả năng cách mạng.",
+"weight": 0
+},
+{
+"text": "Phong trào vô sản đã hoàn toàn tự giác ngay từ đầu.",
+"weight": 0
+},
+{
+"text": "Giai cấp vô sản cần liên minh với địa chủ phong kiến để chống công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 108: [Nhận biết] Mảnh đất hiện thực của CNXHKH",
+"points_possible": 1,
+"question_text": "Mảnh đất hiện thực để chủ nghĩa xã hội khoa học ra đời là gì?",
+"general_comment": "Mảnh đất hiện thực của chủ nghĩa xã hội khoa học là sự phát triển kinh tế - xã hội, khoa học - kỹ thuật, văn hóa - tư tưởng ở châu Âu những năm 40 của thế kỷ XIX.",
+"answers": [
+{
+"text": "Sự phát triển kinh tế - xã hội, khoa học - kỹ thuật, văn hóa - tư tưởng ở châu Âu những năm 40 của thế kỷ XIX.",
+"weight": 100
+},
+{
+"text": "Sự phát triển kinh tế - xã hội ở châu Âu những năm 40 của thế kỷ XVIII.",
+"weight": 0
+},
+{
+"text": "Sự phát triển kinh tế - xã hội ở châu Âu những năm 40 của thế kỷ XX.",
+"weight": 0
+},
+{
+"text": "Sự phát triển văn hóa - tư tưởng cuối thế kỷ XX.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 109: [Nhận biết] Tiền đề tư tưởng lý luận trực tiếp",
+"points_possible": 1,
+"question_text": "Ba nguồn gốc lý luận trực tiếp hình thành chủ nghĩa Mác là gì?",
+"general_comment": "Ba nguồn gốc lý luận trực tiếp là triết học cổ điển Đức, kinh tế chính trị học cổ điển Anh và chủ nghĩa xã hội không tưởng Pháp.",
+"answers": [
+{
+"text": "Triết học cổ điển Đức, kinh tế chính trị học cổ điển Anh và chủ nghĩa xã hội không tưởng Pháp.",
+"weight": 100
+},
+{
+"text": "Học thuyết giá trị thặng dư, chủ nghĩa duy vật lịch sử và sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tế bào.",
+"weight": 0
+},
+{
+"text": "Triết học, kinh tế chính trị học và chủ nghĩa xã hội khoa học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Nhận biết] Tiền đề khoa học tự nhiên không đúng",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là tiền đề khoa học tự nhiên cho sự ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Thuyết tương đối không thuộc ba phát minh khoa học tự nhiên vạch thời đại được giáo trình nêu cho sự ra đời của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Thuyết tương đối.",
+"weight": 100
+},
+{
+"text": "Học thuyết tiến hóa.",
+"weight": 0
+},
+{
+"text": "Định luật bảo toàn và chuyển hóa năng lượng.",
+"weight": 0
+},
+{
+"text": "Học thuyết tế bào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Nhận biết] Tiền đề tư tưởng lý luận không đúng",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là tiền đề tư tưởng lý luận cho sự ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Định luật chuyển động Newton không phải là tiền đề tư tưởng lý luận; các tiền đề lý luận gồm triết học cổ điển Đức, kinh tế chính trị cổ điển Anh và chủ nghĩa xã hội không tưởng Pháp.",
+"answers": [
+{
+"text": "Định luật chuyển động Newton.",
+"weight": 100
+},
+{
+"text": "Triết học cổ điển Đức.",
+"weight": 0
+},
+{
+"text": "Kinh tế chính trị cổ điển Anh.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội không tưởng Pháp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Nhận biết] Chủ nghĩa duy vật lịch sử thuộc bộ phận nào",
+"points_possible": 1,
+"question_text": "Chủ nghĩa duy vật lịch sử là phát kiến vĩ đại của C. Mác và Ph. Ăngghen trong lĩnh vực nào?",
+"general_comment": "Chủ nghĩa duy vật lịch sử là phát kiến vĩ đại trong triết học Mác - Lênin.",
+"answers": [
+{
+"text": "Triết học Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Kinh tế chính trị Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội khoa học.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội hiện thực.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Nhận biết] Học thuyết giá trị thặng dư thuộc bộ phận nào",
+"points_possible": 1,
+"question_text": "Học thuyết giá trị thặng dư là phát kiến vĩ đại của C. Mác và Ph. Ăngghen trong lĩnh vực nào?",
+"general_comment": "Học thuyết giá trị thặng dư là phát kiến vĩ đại trong kinh tế chính trị Mác - Lênin.",
+"answers": [
+{
+"text": "Kinh tế chính trị Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Triết học Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội khoa học.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội hiện thực.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Nhận biết] Học thuyết sứ mệnh lịch sử của GCCN thuộc bộ phận nào",
+"points_possible": 1,
+"question_text": "Học thuyết về sứ mệnh lịch sử thế giới của giai cấp công nhân là phát kiến vĩ đại trong lĩnh vực nào?",
+"general_comment": "Học thuyết về sứ mệnh lịch sử thế giới của giai cấp công nhân là phát kiến vĩ đại trong chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Triết học Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Kinh tế chính trị Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội hiện thực.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Thông hiểu] Nội dung của chủ nghĩa duy vật lịch sử",
+"points_possible": 1,
+"question_text": "Chủ nghĩa duy vật lịch sử khẳng định điều gì về sự phát triển lịch sử của xã hội loài người?",
+"general_comment": "Chủ nghĩa duy vật lịch sử khẳng định sự phát triển lịch sử xã hội loài người là một quá trình lịch sử tự nhiên, tuân theo quy luật khách quan.",
+"answers": [
+{
+"text": "Là một quá trình lịch sử tự nhiên, tuân theo quy luật khách quan.",
+"weight": 100
+},
+{
+"text": "Là kết quả hoàn toàn ngẫu nhiên, không có quy luật.",
+"weight": 0
+},
+{
+"text": "Là sản phẩm thuần túy của ý niệm tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Là quá trình chỉ do các cá nhân kiệt xuất quyết định.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Thông hiểu] Ý nghĩa học thuyết giá trị thặng dư",
+"points_possible": 1,
+"question_text": "Học thuyết giá trị thặng dư khẳng định điều gì về phương diện kinh tế?",
+"general_comment": "Học thuyết giá trị thặng dư khẳng định về phương diện kinh tế sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Sự vĩnh viễn bất biến của quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự phù hợp tuyệt đối giữa bóc lột giá trị thặng dư và tự do con người.",
+"weight": 0
+},
+{
+"text": "Sự cần thiết phải khôi phục chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Thông hiểu] Ý nghĩa học thuyết sứ mệnh lịch sử của GCCN",
+"points_possible": 1,
+"question_text": "Học thuyết về sứ mệnh lịch sử thế giới của giai cấp công nhân khẳng định điều gì?",
+"general_comment": "Học thuyết này khẳng định giai cấp công nhân có sứ mệnh thủ tiêu chủ nghĩa tư bản, xây dựng thành công chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Giai cấp công nhân có sứ mệnh thủ tiêu chủ nghĩa tư bản, xây dựng chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản có sứ mệnh xây dựng xã hội cộng sản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ là lực lượng tiên phong của xã hội hiện đại.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân chỉ có vai trò kinh tế, không có vai trò chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Nhận biết] Tác phẩm đánh dấu sự ra đời CNXHKH",
+"points_possible": 1,
+"question_text": "Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+"general_comment": "Tuyên ngôn của Đảng Cộng sản do C. Mác và Ph. Ăngghen soạn thảo tháng 2 năm 1848, đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Tuyên ngôn của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Hệ tư tưởng Đức.",
+"weight": 0
+},
+{
+"text": "Phê phán Cương lĩnh Gôta.",
+"weight": 0
+},
+{
+"text": "Tình cảnh giai cấp lao động ở Anh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Nhận biết] Thời điểm ra đời Tuyên ngôn của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Tác phẩm Tuyên ngôn của Đảng Cộng sản ra đời vào thời điểm nào?",
+"general_comment": "Tuyên ngôn của Đảng Cộng sản ra đời vào tháng 2 năm 1848.",
+"answers": [
+{
+"text": "Tháng 2 năm 1848.",
+"weight": 100
+},
+{
+"text": "Tháng 2 năm 1842.",
+"weight": 0
+},
+{
+"text": "Tháng 8 năm 1842.",
+"weight": 0
+},
+{
+"text": "Tháng 8 năm 1848.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Nhận biết] Cương lĩnh chính trị đầu tiên của GCCN",
+"points_possible": 1,
+"question_text": "Tác phẩm nào là cương lĩnh chính trị đầu tiên của giai cấp công nhân?",
+"general_comment": "Tuyên ngôn của Đảng Cộng sản là cương lĩnh chính trị đầu tiên của giai cấp công nhân.",
+"answers": [
+{
+"text": "Tuyên ngôn của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Phê phán Cương lĩnh Gôta.",
+"weight": 0
+},
+{
+"text": "Hệ tư tưởng Đức.",
+"weight": 0
+},
+{
+"text": "Bộ Tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Thông hiểu] Tuyên ngôn của Đảng Cộng sản và phong trào công nhân",
+"points_possible": 1,
+"question_text": "Tuyên ngôn của Đảng Cộng sản có vai trò gì đối với phong trào cộng sản và công nhân quốc tế?",
+"general_comment": "Tuyên ngôn của Đảng Cộng sản là cương lĩnh chính trị, kim chỉ nam hành động của toàn bộ phong trào cộng sản và công nhân quốc tế.",
+"answers": [
+{
+"text": "Là cương lĩnh chính trị, kim chỉ nam hành động của toàn bộ phong trào cộng sản và công nhân quốc tế.",
+"weight": 100
+},
+{
+"text": "Là văn kiện chỉ dùng trong nội bộ phong trào tư sản tự do.",
+"weight": 0
+},
+{
+"text": "Là học thuyết kinh tế thuần túy không liên quan đến đấu tranh chính trị.",
+"weight": 0
+},
+{
+"text": "Là văn bản phủ nhận vai trò lịch sử của giai cấp công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Thông hiểu] Nội dung lý luận của Tuyên ngôn",
+"points_possible": 1,
+"question_text": "Tuyên ngôn của Đảng Cộng sản đã trình bày những vấn đề cơ bản của chủ nghĩa xã hội khoa học theo cách nào?",
+"general_comment": "Giáo trình nêu Tuyên ngôn phân tích một cách có hệ thống lịch sử và lôgíc hoàn chỉnh, đầy đủ, súc tích và chặt chẽ những luận điểm cơ bản của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Một cách có hệ thống lịch sử và lôgíc hoàn chỉnh, đầy đủ, súc tích và chặt chẽ.",
+"weight": 100
+},
+{
+"text": "Một cách rời rạc, cảm tính và không có hệ thống.",
+"weight": 0
+},
+{
+"text": "Theo hình thức thần học và không liên quan đến thực tiễn cách mạng.",
+"weight": 0
+},
+{
+"text": "Theo cách phủ nhận toàn bộ phong trào công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Nhận biết] Thời kỳ 1848 đến Công xã Pari",
+"points_possible": 1,
+"question_text": "Trong giai đoạn C. Mác và Ph. Ăngghen phát triển chủ nghĩa xã hội khoa học, thời kỳ từ năm 1848 đến Công xã Pari kết thúc vào năm nào?",
+"general_comment": "Thời kỳ từ năm 1848 đến Công xã Pari kết thúc với sự kiện Công xã Pari năm 1871.",
+"answers": [
+{
+"text": "1871.",
+"weight": 100
+},
+{
+"text": "1864.",
+"weight": 0
+},
+{
+"text": "1867.",
+"weight": 0
+},
+{
+"text": "1895.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Nhận biết] Quốc tế I",
+"points_possible": 1,
+"question_text": "Trong thời kỳ từ năm 1848 đến Công xã Pari, tổ chức Quốc tế I được thành lập vào năm nào?",
+"general_comment": "Giáo trình nêu Quốc tế I được thành lập năm 1864.",
+"answers": [
+{
+"text": "1864.",
+"weight": 100
+},
+{
+"text": "1848.",
+"weight": 0
+},
+{
+"text": "1867.",
+"weight": 0
+},
+{
+"text": "1871.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Nhận biết] Bộ Tư bản tập I",
+"points_possible": 1,
+"question_text": "Tập I của bộ Tư bản của C. Mác được xuất bản vào năm nào?",
+"general_comment": "Giáo trình nêu tập I bộ Tư bản của C. Mác được xuất bản năm 1867.",
+"answers": [
+{
+"text": "1867.",
+"weight": 100
+},
+{
+"text": "1848.",
+"weight": 0
+},
+{
+"text": "1864.",
+"weight": 0
+},
+{
+"text": "1871.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Thông hiểu] Ý nghĩa Bộ Tư bản theo Lênin",
+"points_possible": 1,
+"question_text": "Theo nhận xét của V.I. Lênin được giáo trình dẫn, từ khi bộ Tư bản ra đời, quan niệm duy vật lịch sử có địa vị như thế nào?",
+"general_comment": "Giáo trình dẫn nhận xét của V.I. Lênin rằng từ khi bộ Tư bản ra đời, quan niệm duy vật lịch sử không còn là giả thuyết mà là một nguyên lý đã được chứng minh một cách khoa học.",
+"answers": [
+{
+"text": "Không còn là giả thuyết mà là một nguyên lý đã được chứng minh một cách khoa học.",
+"weight": 100
+},
+{
+"text": "Trở thành một giả thuyết thuần túy chưa có căn cứ khoa học.",
+"weight": 0
+},
+{
+"text": "Bị thay thế hoàn toàn bởi chủ nghĩa duy tâm khách quan.",
+"weight": 0
+},
+{
+"text": "Chỉ còn là quan niệm đạo đức cá nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Thông hiểu] Nội dung phát triển sau cách mạng 1848-1852",
+"points_possible": 1,
+"question_text": "Sau khi tổng kết kinh nghiệm cách mạng 1848-1852, C. Mác và Ph. Ăngghen phát triển thêm tư tưởng nào?",
+"general_comment": "Giáo trình nêu các ông phát triển tư tưởng về đập tan bộ máy nhà nước tư sản, thiết lập chuyên chính vô sản; cách mạng không ngừng; liên minh công - nông.",
+"answers": [
+{
+"text": "Đập tan bộ máy nhà nước tư sản, thiết lập chuyên chính vô sản, cách mạng không ngừng và liên minh công - nông.",
+"weight": 100
+},
+{
+"text": "Giữ nguyên bộ máy nhà nước tư sản và từ bỏ đấu tranh giai cấp.",
+"weight": 0
+},
+{
+"text": "Phục hồi chế độ quân chủ chuyên chế để cải tạo xã hội.",
+"weight": 0
+},
+{
+"text": "Thay thế phong trào công nhân bằng phong trào quý tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Nhận biết] Điều kiện tiên quyết của cách mạng phát triển không ngừng",
+"points_possible": 1,
+"question_text": "Theo sự phát triển lý luận của C. Mác và Ph. Ăngghen, điều kiện tiên quyết bảo đảm cho cách mạng phát triển không ngừng là gì?",
+"general_comment": "Giáo trình nêu tư tưởng xây dựng khối liên minh giữa giai cấp công nhân và giai cấp nông dân là điều kiện tiên quyết bảo đảm cách mạng phát triển không ngừng.",
+"answers": [
+{
+"text": "Xây dựng khối liên minh giữa giai cấp công nhân và giai cấp nông dân.",
+"weight": 100
+},
+{
+"text": "Từ bỏ vai trò lãnh đạo của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Liên minh với địa chủ phong kiến để duy trì trật tự cũ.",
+"weight": 0
+},
+{
+"text": "Tách phong trào vô sản khỏi mọi phong trào của nhân dân lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Nhận biết] Công xã Pari",
+"points_possible": 1,
+"question_text": "Công xã Pari được C. Mác và Ph. Ăngghen thừa nhận là hình thái nhà nước của giai cấp nào?",
+"general_comment": "Giáo trình nêu Công xã Pari là hình thái nhà nước của giai cấp công nhân rốt cuộc đã tìm ra.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giai cấp quý tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Nhận biết] Tác phẩm Chống Đuyrinh",
+"points_possible": 1,
+"question_text": "Tác phẩm Chống Đuyrinh của Ph. Ăngghen ra đời vào năm nào?",
+"general_comment": "Giáo trình nêu tác phẩm Chống Đuyrinh ra đời năm 1878.",
+"answers": [
+{
+"text": "1878.",
+"weight": 100
+},
+{
+"text": "1848.",
+"weight": 0
+},
+{
+"text": "1867.",
+"weight": 0
+},
+{
+"text": "1902.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Thông hiểu] Nội dung tác phẩm Chống Đuyrinh",
+"points_possible": 1,
+"question_text": "Trong tác phẩm Chống Đuyrinh, Ph. Ăngghen đã luận chứng nội dung nào?",
+"general_comment": "Giáo trình nêu trong Chống Đuyrinh, Ph. Ăngghen luận chứng sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học và đánh giá công lao của các nhà xã hội chủ nghĩa không tưởng Anh, Pháp.",
+"answers": [
+{
+"text": "Sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học.",
+"weight": 100
+},
+{
+"text": "Sự phát triển của chủ nghĩa tư bản từ tự do cạnh tranh đến phong kiến.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận hoàn toàn vai trò của các nhà xã hội chủ nghĩa không tưởng.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi tất yếu của chế độ quân chủ chuyên chế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Nhận biết] Tác phẩm không thuộc giai đoạn 1848-1871",
+"points_possible": 1,
+"question_text": "Tác phẩm nào dưới đây không thuộc giai đoạn C. Mác và Ph. Ăngghen viết từ năm 1848 đến Công xã Pari năm 1871?",
+"general_comment": "Chống Đuyrinh ra đời năm 1878, thuộc thời kỳ sau Công xã Pari đến năm 1895, không thuộc giai đoạn 1848-1871.",
+"answers": [
+{
+"text": "Chống Đuyrinh.",
+"weight": 100
+},
+{
+"text": "Ngày mười tám tháng Sương mù của Lui Bônapáctơ.",
+"weight": 0
+},
+{
+"text": "Chiến tranh nông dân ở Đức.",
+"weight": 0
+},
+{
+"text": "Cách mạng và phản cách mạng ở Đức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Nhận biết] Tác phẩm không thuộc giai đoạn sau Công xã Pari đến 1895",
+"points_possible": 1,
+"question_text": "Tác phẩm nào dưới đây không thuộc giai đoạn sau Công xã Pari đến năm 1895 của C. Mác và Ph. Ăngghen?",
+"general_comment": "Ngày mười tám tháng Sương mù của Lui Bônapáctơ thuộc giai đoạn trước Công xã Pari, không thuộc giai đoạn sau Công xã Pari đến năm 1895.",
+"answers": [
+{
+"text": "Ngày mười tám tháng Sương mù của Lui Bônapáctơ.",
+"weight": 100
+},
+{
+"text": "Nội chiến ở Pháp.",
+"weight": 0
+},
+{
+"text": "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Thông hiểu] Tính không giáo điều của học thuyết Mác - Ăngghen",
+"points_possible": 1,
+"question_text": "C. Mác và Ph. Ăngghen nhìn nhận học thuyết của mình như thế nào?",
+"general_comment": "Giáo trình nêu C. Mác và Ph. Ăngghen không xem học thuyết của mình là hệ thống giáo điều, nhất thành bất biến, mà yêu cầu tiếp tục bổ sung, phát triển phù hợp với điều kiện lịch sử mới.",
+"answers": [
+{
+"text": "Không phải hệ thống giáo điều, nhất thành bất biến; cần tiếp tục bổ sung, phát triển theo điều kiện lịch sử mới.",
+"weight": 100
+},
+{
+"text": "Là hệ thống giáo điều bất biến, không được phép bổ sung trong mọi hoàn cảnh.",
+"weight": 0
+},
+{
+"text": "Là học thuyết chỉ đúng trong đạo đức cá nhân, không liên quan đến lịch sử.",
+"weight": 0
+},
+{
+"text": "Là học thuyết phủ nhận mọi vai trò của thực tiễn cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Nhận biết] Công lao của C. Mác và Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Công lao cơ bản của C. Mác và Ph. Ăngghen đối với chủ nghĩa xã hội là gì?",
+"general_comment": "Giáo trình nêu công lao của C. Mác và Ph. Ăngghen là phát triển chủ nghĩa xã hội từ không tưởng thành khoa học.",
+"answers": [
+{
+"text": "Đưa chủ nghĩa xã hội từ không tưởng trở thành khoa học.",
+"weight": 100
+},
+{
+"text": "Đưa chủ nghĩa xã hội từ lý luận thành hiện thực.",
+"weight": 0
+},
+{
+"text": "Đưa chủ nghĩa xã hội hiện thực từ một nước trở thành hệ thống.",
+"weight": 0
+},
+{
+"text": "Đưa chủ nghĩa xã hội từ phương Tây sang phương Đông.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Nhận biết] Công lao của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Công lao cơ bản của V.I. Lênin đối với chủ nghĩa xã hội được giáo trình nêu là gì?",
+"general_comment": "Giáo trình nêu công lao của V.I. Lênin là biến chủ nghĩa xã hội từ khoa học, từ lý luận thành hiện thực, đánh dấu bằng sự ra đời của Nhà nước Xô viết năm 1917.",
+"answers": [
+{
+"text": "Biến chủ nghĩa xã hội từ khoa học, từ lý luận thành hiện thực.",
+"weight": 100
+},
+{
+"text": "Đưa chủ nghĩa xã hội từ không tưởng thành khoa học.",
+"weight": 0
+},
+{
+"text": "Sáng lập triết học cổ điển Đức.",
+"weight": 0
+},
+{
+"text": "Sáng lập kinh tế chính trị học cổ điển Anh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Nhận biết] Nhà nước xã hội chủ nghĩa đầu tiên",
+"points_possible": 1,
+"question_text": "Sự kiện nào đánh dấu việc chủ nghĩa xã hội từ lý luận trở thành hiện thực theo giáo trình?",
+"general_comment": "Giáo trình nêu sự ra đời của Nhà nước xã hội chủ nghĩa đầu tiên trên thế giới - Nhà nước Xô viết, năm 1917.",
+"answers": [
+{
+"text": "Sự ra đời của Nhà nước Xô viết năm 1917.",
+"weight": 100
+},
+{
+"text": "Sự ra đời của Tuyên ngôn của Đảng Cộng sản năm 1848.",
+"weight": 0
+},
+{
+"text": "Sự xuất bản tập I bộ Tư bản năm 1867.",
+"weight": 0
+},
+{
+"text": "Sự thành lập Quốc tế I năm 1864.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Nhận biết] Lênin trước Cách mạng Tháng Mười",
+"points_possible": 1,
+"question_text": "Trước Cách mạng Tháng Mười Nga, V.I. Lênin đã đấu tranh chống các trào lưu nào nhằm bảo vệ chủ nghĩa Mác?",
+"general_comment": "Giáo trình nêu V.I. Lênin đấu tranh chống chủ nghĩa dân túy tự do, phái kinh tế, phái Mác-xít hợp pháp để bảo vệ chủ nghĩa Mác.",
+"answers": [
+{
+"text": "Chủ nghĩa dân túy tự do, phái kinh tế, phái Mác-xít hợp pháp.",
+"weight": 100
+},
+{
+"text": "Triết học cổ điển Đức, kinh tế chính trị học Anh, chủ nghĩa xã hội không tưởng Pháp.",
+"weight": 0
+},
+{
+"text": "Học thuyết tế bào, thuyết tiến hóa, định luật bảo toàn năng lượng.",
+"weight": 0
+},
+{
+"text": "Công xã Pari, Quốc tế I, Đồng minh những người cộng sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Thông hiểu] Mục đích đấu tranh chống trào lưu phi Mác-xít",
+"points_possible": 1,
+"question_text": "Mục đích của V.I. Lênin khi đấu tranh chống các trào lưu phi Mác-xít trước Cách mạng Tháng Mười là gì?",
+"general_comment": "V.I. Lênin đấu tranh chống các trào lưu phi Mác-xít nhằm bảo vệ chủ nghĩa Mác và mở đường cho chủ nghĩa Mác thâm nhập mạnh mẽ vào Nga.",
+"answers": [
+{
+"text": "Bảo vệ chủ nghĩa Mác và mở đường cho chủ nghĩa Mác thâm nhập mạnh mẽ vào Nga.",
+"weight": 100
+},
+{
+"text": "Bảo vệ chế độ Nga hoàng và ngăn chủ nghĩa Mác vào Nga.",
+"weight": 0
+},
+{
+"text": "Phủ nhận hoàn toàn phong trào công nhân Nga.",
+"weight": 0
+},
+{
+"text": "Tách chủ nghĩa Mác khỏi cách mạng vô sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Thông hiểu] Quy luật phát triển không đều",
+"points_possible": 1,
+"question_text": "Từ việc nghiên cứu chủ nghĩa đế quốc, V.I. Lênin phát hiện quy luật nào của chủ nghĩa tư bản?",
+"general_comment": "V.I. Lênin phát hiện quy luật phát triển không đều về kinh tế và chính trị của chủ nghĩa tư bản trong thời kỳ đế quốc chủ nghĩa.",
+"answers": [
+{
+"text": "Quy luật phát triển không đều về kinh tế và chính trị của chủ nghĩa tư bản.",
+"weight": 100
+},
+{
+"text": "Quy luật phát triển đồng đều tuyệt đối của mọi nước tư bản.",
+"weight": 0
+},
+{
+"text": "Quy luật triệt tiêu hoàn toàn mâu thuẫn giai cấp trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Quy luật phục hồi tất yếu của chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Thông hiểu] Khả năng thắng lợi của cách mạng vô sản",
+"points_possible": 1,
+"question_text": "Từ quy luật phát triển không đều của chủ nghĩa tư bản, V.I. Lênin kết luận gì về khả năng thắng lợi của cách mạng vô sản?",
+"general_comment": "V.I. Lênin kết luận cách mạng vô sản có thể nổ ra và thắng lợi ở một số nước, thậm chí ở một nước riêng lẻ là khâu yếu nhất của dây chuyền tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Có thể thắng lợi ở một số nước, thậm chí ở một nước riêng lẻ là khâu yếu nhất của dây chuyền tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chỉ có thể thắng lợi đồng thời ở tất cả các nước tư bản phát triển.",
+"weight": 0
+},
+{
+"text": "Không thể thắng lợi trong thời kỳ chủ nghĩa đế quốc.",
+"weight": 0
+},
+{
+"text": "Chỉ có thể thắng lợi bằng cải cách nghị viện tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Nhận biết] Đảng kiểu mới của giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Một đóng góp của V.I. Lênin đối với chủ nghĩa xã hội khoa học là xây dựng lý luận về tổ chức nào?",
+"general_comment": "V.I. Lênin có đóng góp trong việc xây dựng lý luận về đảng kiểu mới của giai cấp công nhân.",
+"answers": [
+{
+"text": "Đảng kiểu mới của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Đảng kiểu mới của giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Đảng của nhiều giai cấp bóc lột.",
+"weight": 0
+},
+{
+"text": "Đảng của tầng lớp quý tộc phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Nhận biết] Cách mạng dân chủ kiểu mới",
+"points_possible": 1,
+"question_text": "Một đóng góp của V.I. Lênin đối với chủ nghĩa xã hội khoa học là xây dựng lý luận về loại hình cách mạng nào?",
+"general_comment": "Ngân hàng Chương 1 nêu một đóng góp của V.I. Lênin là xây dựng lý luận về cách mạng dân chủ kiểu mới.",
+"answers": [
+{
+"text": "Cách mạng dân chủ kiểu mới.",
+"weight": 100
+},
+{
+"text": "Cách mạng phong kiến kiểu mới.",
+"weight": 0
+},
+{
+"text": "Cách mạng công nghệ thuần túy.",
+"weight": 0
+},
+{
+"text": "Cách mạng quý tộc kiểu mới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Nhận biết] Quốc tế Cộng sản",
+"points_possible": 1,
+"question_text": "V.I. Lênin là người sáng lập tổ chức quốc tế nào?",
+"general_comment": "V.I. Lênin gắn với việc sáng lập Quốc tế III, còn gọi là Quốc tế Cộng sản.",
+"answers": [
+{
+"text": "Quốc tế III, tức Quốc tế Cộng sản.",
+"weight": 100
+},
+{
+"text": "Đồng minh những người cộng sản.",
+"weight": 0
+},
+{
+"text": "Quốc tế I.",
+"weight": 0
+},
+{
+"text": "Quốc tế II.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Nhận biết] Khẩu hiệu của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Điền vào chỗ trống trong khẩu hiệu của V.I. Lênin: “Vô sản tất cả các nước, các (...) bị áp bức đoàn kết lại”.",
+"general_comment": "Khẩu hiệu của V.I. Lênin là: “Vô sản tất cả các nước, các dân tộc bị áp bức đoàn kết lại”.",
+"answers": [
+{
+"text": "Dân tộc.",
+"weight": 100
+},
+{
+"text": "Giai cấp.",
+"weight": 0
+},
+{
+"text": "Tổ chức.",
+"weight": 0
+},
+{
+"text": "Tầng lớp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Nhận biết] Luận điểm của Lênin về học thuyết Mác",
+"points_possible": 1,
+"question_text": "Điền vào chỗ trống trong luận điểm của V.I. Lênin: “Học thuyết của Mác là học thuyết (...) vì nó là một học thuyết chính xác”.",
+"general_comment": "Ngân hàng Chương 1 chọn từ “vạn năng” trong luận điểm này của V.I. Lênin.",
+"answers": [
+{
+"text": "Vạn năng.",
+"weight": 100
+},
+{
+"text": "Khoa học.",
+"weight": 0
+},
+{
+"text": "Cách mạng.",
+"weight": 0
+},
+{
+"text": "Tiến bộ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Nhận biết] Tác phẩm trước Cách mạng Tháng Mười",
+"points_possible": 1,
+"question_text": "Tác phẩm nào dưới đây không thuộc giai đoạn trước Cách mạng Tháng Mười Nga của V.I. Lênin?",
+"general_comment": "Bàn về nhà nước không thuộc nhóm tác phẩm trước Cách mạng Tháng Mười được nêu trong ngân hàng Chương 1.",
+"answers": [
+{
+"text": "Bàn về nhà nước.",
+"weight": 100
+},
+{
+"text": "Làm gì?",
+"weight": 0
+},
+{
+"text": "Một bước tiến, hai bước lùi.",
+"weight": 0
+},
+{
+"text": "Nhà nước và cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Nhận biết] Tác phẩm sau Cách mạng Tháng Mười",
+"points_possible": 1,
+"question_text": "Tác phẩm nào dưới đây không thuộc giai đoạn sau Cách mạng Tháng Mười Nga của V.I. Lênin?",
+"general_comment": "Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ ra sao? không thuộc giai đoạn sau Cách mạng Tháng Mười Nga.",
+"answers": [
+{
+"text": "Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ ra sao?",
+"weight": 100
+},
+{
+"text": "Cách mạng vô sản và tên phản bội Causky.",
+"weight": 0
+},
+{
+"text": "Những nhiệm vụ trước mắt của chính quyền Xô viết.",
+"weight": 0
+},
+{
+"text": "Bàn về nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Nhận biết] Đóng góp của Đảng Cộng sản Việt Nam",
+"points_possible": 1,
+"question_text": "Một đóng góp quan trọng của Đảng Cộng sản Việt Nam vào lý luận chủ nghĩa xã hội khoa học là tư tưởng nào?",
+"general_comment": "Ngân hàng Chương 1 nêu một đóng góp quan trọng của Đảng Cộng sản Việt Nam là tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Dân chủ tư sản gắn liền với chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Nhân văn phi giai cấp tách khỏi chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Đoàn kết dân tộc tách khỏi mục tiêu xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Vận dụng/Phân tích] Tổng hợp phương pháp và ý nghĩa nghiên cứu",
+"points_possible": 1,
+"question_text": "Một sinh viên học chủ nghĩa xã hội khoa học không chỉ ghi nhớ khái niệm mà còn phân tích hiện tượng chính trị - xã hội trong điều kiện kinh tế - xã hội cụ thể, đối chiếu lịch sử, tổng kết thực tiễn và cảnh giác trước quan điểm sai lệch. Cách học đó phù hợp nhất với yêu cầu nào của Chương 1?",
+"general_comment": "Cách học này kết hợp đúng phương pháp nghiên cứu và ý nghĩa lý luận - thực tiễn của việc học tập chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Kết hợp phương pháp nghiên cứu khoa học với ý nghĩa lý luận và thực tiễn của việc học chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Học thuộc máy móc, tách lý luận khỏi thực tiễn và không cần phân tích điều kiện lịch sử cụ thể.",
+"weight": 0
+},
+{
+"text": "Chỉ học các mốc năm mà bỏ qua đối tượng, phương pháp và ý nghĩa nghiên cứu.",
+"weight": 0
+},
+{
+"text": "Chỉ dựa vào cảm tính cá nhân, không cần phương pháp luận duy vật biện chứng và duy vật lịch sử.",
+"weight": 0
+}
+]
+}
+]

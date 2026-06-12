@@ -1,0 +1,6077 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 001: [Nhận biết] Mục tiêu Chương 6",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 6, nội dung trọng tâm sinh viên cần nắm là gì?",
+"general_comment": "Chương 6 xác định trọng tâm là vấn đề dân tộc, tôn giáo, quan hệ dân tộc - tôn giáo và chính sách của Đảng, Nhà nước Việt Nam. ",
+"answers": [
+{
+"text": "Quan điểm về gia đình, hôn nhân và chức năng giáo dục của gia đình.",
+"weight": 0
+},
+{
+"text": "Quan điểm Mác - Lênin về vấn đề dân tộc, tôn giáo, quan hệ dân tộc - tôn giáo và chính sách dân tộc, tôn giáo của Đảng, Nhà nước Việt Nam.",
+"weight": 100
+},
+{
+"text": "Quan điểm Mác - Lênin về giá trị thặng dư và sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Quan điểm về dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 002: [Nhận biết] Khái niệm dân tộc",
+"points_possible": 1,
+"question_text": "Theo giáo trình, dân tộc được định nghĩa khái quát là gì?",
+"general_comment": "Khái niệm trong giáo trình nhấn mạnh tính cộng đồng người ổn định, gắn với quốc gia, lãnh thổ, kinh tế, ngôn ngữ, văn hóa và nhà nước.",
+"answers": [
+{
+"text": "Một hình thức cộng đồng người ổn định, bền vững hợp thành nhân dân của một quốc gia, có lãnh thổ chung, kinh tế thống nhất, quốc ngữ chung, truyền thống văn hóa và đấu tranh chung dưới sự quản lý của Nhà nước.",
+"weight": 100
+},
+{
+"text": "Một nhóm tín đồ cùng giáo lý, giáo luật và cùng cơ sở thờ tự.",
+"weight": 0
+},
+{
+"text": "Một tầng lớp xã hội có cùng địa vị trong quan hệ sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Một nhóm nghề nghiệp được hình thành do phân công lao động xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 003: [Nhận biết] Dân tộc theo nghĩa hẹp",
+"points_possible": 1,
+"question_text": "Theo nghĩa hẹp, dân tộc chỉ cộng đồng người có đặc điểm nào?",
+"general_comment": "Theo nghĩa hẹp, dân tộc gần với cộng đồng tộc người có kinh tế, ngôn ngữ và văn hóa đặc thù.",
+"answers": [
+{
+"text": "Có cùng một đức tin, giáo lý và nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Có mối liên hệ chặt chẽ và bền vững, có sinh hoạt kinh tế riêng, ngôn ngữ riêng và văn hóa có đặc thù.",
+"weight": 100
+},
+{
+"text": "Có nhà nước pháp quyền và hệ thống chính trị thống nhất.",
+"weight": 0
+},
+{
+"text": "Có quốc ngữ chung, lãnh thổ quốc gia và nền kinh tế thống nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 004: [Nhận biết] Dân tộc theo nghĩa rộng",
+"points_possible": 1,
+"question_text": "Theo nghĩa rộng, dân tộc được hiểu là gì?",
+"general_comment": "Theo nghĩa rộng, dân tộc tương ứng với quốc gia - dân tộc, gắn với nhân dân một nước và sự thống nhất quốc gia.",
+"answers": [
+{
+"text": "Cộng đồng nghề nghiệp hình thành theo phân công lao động xã hội.",
+"weight": 0
+},
+{
+"text": "Cộng đồng có cùng mức sinh, mức tử và cơ cấu tuổi.",
+"weight": 0
+},
+{
+"text": "Cộng đồng người ổn định làm thành nhân dân một nước, có lãnh thổ quốc gia, nền kinh tế thống nhất, quốc ngữ chung và ý thức về sự thống nhất của mình.",
+"weight": 100
+},
+{
+"text": "Cộng đồng người chỉ được xác định bằng niềm tin tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 005: [Nhận biết] Hình thành dân tộc ở phương Tây",
+"points_possible": 1,
+"question_text": "Theo giáo trình, ở phương Tây dân tộc xuất hiện gắn liền với yếu tố nào?",
+"general_comment": "Giáo trình nêu ở phương Tây, dân tộc xuất hiện gắn với phương thức sản xuất tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Phương thức sản xuất chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng thờ cúng tổ tiên.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế tiểu nông phân tán.",
+"weight": 0
+},
+{
+"text": "Phương thức sản xuất tư bản chủ nghĩa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 006: [Nhận biết] Hình thành dân tộc ở phương Đông",
+"points_possible": 1,
+"question_text": "Ở phương Đông, dân tộc được hình thành trên cơ sở nào?",
+"general_comment": "Ở phương Đông, dân tộc không hình thành chủ yếu từ tư bản chủ nghĩa phát triển, mà từ nền văn hóa, tâm lý dân tộc và cộng đồng kinh tế còn phân tán.",
+"answers": [
+{
+"text": "Một nền văn hóa, tâm lý dân tộc phát triển tương đối chín muồi và cộng đồng kinh tế còn kém phát triển, phân tán.",
+"weight": 100
+},
+{
+"text": "Một nền đại công nghiệp tư bản chủ nghĩa hoàn chỉnh.",
+"weight": 0
+},
+{
+"text": "Một hệ thống giáo hội thống nhất toàn xã hội.",
+"weight": 0
+},
+{
+"text": "Một cơ cấu xã hội - giai cấp đã mất hết khác biệt.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 007: [Nhận biết] Dân tộc nation",
+"points_possible": 1,
+"question_text": "Theo nghĩa thứ nhất, dân tộc nation hay quốc gia dân tộc là cộng đồng gì?",
+"general_comment": "Giáo trình gọi dân tộc nation là cộng đồng chính trị - xã hội với những đặc trưng cơ bản.",
+"answers": [
+{
+"text": "Cộng đồng nghề nghiệp tạm thời.",
+"weight": 0
+},
+{
+"text": "Cộng đồng chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Cộng đồng tín ngưỡng thuần túy.",
+"weight": 0
+},
+{
+"text": "Cộng đồng sinh học tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 008: [Nhận biết] Đặc trưng quốc gia dân tộc",
+"points_possible": 1,
+"question_text": "Đặc trưng nào thuộc dân tộc nation hay quốc gia dân tộc?",
+"general_comment": "Dân tộc nation được xác định bằng các đặc trưng kinh tế, lãnh thổ, nhà nước, ngôn ngữ và tâm lý - văn hóa.",
+"answers": [
+{
+"text": "Chỉ có chung nghề nghiệp do phân công lao động.",
+"weight": 0
+},
+{
+"text": "Chỉ có chung độ tuổi, giới tính và mức sinh.",
+"weight": 0
+},
+{
+"text": "Có chung phương thức sinh hoạt kinh tế, lãnh thổ ổn định, nhà nước quản lý, ngôn ngữ chung và nét tâm lý qua văn hóa dân tộc.",
+"weight": 100
+},
+{
+"text": "Chỉ có chung giáo lý và lễ nghi tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 009: [Nhận biết] Dân tộc tộc người",
+"points_possible": 1,
+"question_text": "Theo nghĩa thứ hai, dân tộc tộc người ethnies là gì?",
+"general_comment": "Dân tộc tộc người được giáo trình mô tả là cộng đồng người hình thành lâu dài trong lịch sử.",
+"answers": [
+{
+"text": "Cộng đồng chính trị - xã hội có nhà nước quản lý.",
+"weight": 0
+},
+{
+"text": "Cộng đồng những người cùng tham gia một tổ chức chính trị.",
+"weight": 0
+},
+{
+"text": "Cộng đồng những người cùng một giai cấp trong quan hệ sản xuất.",
+"weight": 0
+},
+{
+"text": "Cộng đồng người được hình thành lâu dài trong lịch sử.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 010: [Nhận biết] Ba đặc trưng tộc người",
+"points_possible": 1,
+"question_text": "Ba đặc trưng cơ bản của dân tộc tộc người là gì?",
+"general_comment": "Ba tiêu chí ngôn ngữ, văn hóa và ý thức tự giác tộc người tạo nên sự ổn định của mỗi tộc người.",
+"answers": [
+{
+"text": "Cộng đồng về ngôn ngữ, cộng đồng về văn hóa và ý thức tự giác tộc người.",
+"weight": 100
+},
+{
+"text": "Cộng đồng về nhà nước, quốc ngữ và lãnh thổ quốc gia.",
+"weight": 0
+},
+{
+"text": "Cộng đồng về nghề nghiệp, thu nhập và thị trường lao động.",
+"weight": 0
+},
+{
+"text": "Cộng đồng về giáo hội, giáo luật và lễ nghi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 011: [Nhận biết] Tiêu chí phân định tộc người",
+"points_possible": 1,
+"question_text": "Ba tiêu chí ngôn ngữ, văn hóa, ý thức tự giác tộc người được dùng để làm gì ở Việt Nam?",
+"general_comment": "Giáo trình nêu ba tiêu chí này là căn cứ xem xét và phân định các tộc người ở Việt Nam.",
+"answers": [
+{
+"text": "Phân định tôn giáo hợp pháp và mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Xem xét và phân định các tộc người ở Việt Nam hiện nay.",
+"weight": 100
+},
+{
+"text": "Phân loại các hình thức sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Xác định hệ thống chính sách tiền lương.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 012: [Nhận biết] Xu hướng dân tộc thứ nhất",
+"points_possible": 1,
+"question_text": "Xu hướng khách quan thứ nhất của sự phát triển quan hệ dân tộc là gì?",
+"general_comment": "Xu hướng thứ nhất là xu hướng tách ra để hình thành dân tộc độc lập.",
+"answers": [
+{
+"text": "Các dân tộc ngừng mọi giao lưu kinh tế và văn hóa.",
+"weight": 0
+},
+{
+"text": "Các dân tộc hợp nhất thành một tôn giáo chung.",
+"weight": 0
+},
+{
+"text": "Cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập.",
+"weight": 100
+},
+{
+"text": "Các dân tộc xóa bỏ hoàn toàn bản sắc riêng ngay lập tức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 013: [Nhận biết] Thời gian xu hướng thứ nhất",
+"points_possible": 1,
+"question_text": "Xu hướng cộng đồng dân cư muốn tách ra để hình thành dân tộc độc lập xuất hiện nổi bật trong giai đoạn nào?",
+"general_comment": "Giáo trình xác định thời gian của xu hướng thứ nhất là giai đoạn đầu của chủ nghĩa tư bản.",
+"answers": [
+{
+"text": "Giai đoạn chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc.",
+"weight": 0
+},
+{
+"text": "Giai đoạn xã hội cộng sản nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Giai đoạn chủ nghĩa xã hội phát triển cao.",
+"weight": 0
+},
+{
+"text": "Giai đoạn đầu của chủ nghĩa tư bản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 014: [Nhận biết] Nguyên nhân xu hướng thứ nhất",
+"points_possible": 1,
+"question_text": "Nguyên nhân trực tiếp của xu hướng dân tộc thứ nhất là gì?",
+"general_comment": "Cộng đồng dân cư muốn tách ra do ý thức dân tộc và ý thức về quyền sống trưởng thành.",
+"answers": [
+{
+"text": "Sự thức tỉnh, trưởng thành của ý thức dân tộc và ý thức về quyền sống của các cộng đồng dân cư.",
+"weight": 100
+},
+{
+"text": "Sự mất đi hoàn toàn của ý thức dân tộc.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của giáo hội và nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Sự tách rời tuyệt đối giữa kinh tế và chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 015: [Nhận biết] Biểu hiện xu hướng thứ nhất",
+"points_possible": 1,
+"question_text": "Xu hướng thứ nhất được thể hiện rõ trong phong trào nào?",
+"general_comment": "Giáo trình nêu xu hướng tách ra thể hiện trong phong trào thuộc địa, phụ thuộc chống áp bức, bóc lột của thực dân, đế quốc.",
+"answers": [
+{
+"text": "Phong trào hợp nhất mọi tộc người thành một tôn giáo duy nhất.",
+"weight": 0
+},
+{
+"text": "Phong trào đấu tranh giành độc lập dân tộc của các dân tộc thuộc địa và phụ thuộc.",
+"weight": 100
+},
+{
+"text": "Phong trào mở rộng thị trường của các nước đế quốc.",
+"weight": 0
+},
+{
+"text": "Phong trào đô thị hóa và di dân cơ học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 016: [Nhận biết] Xu hướng dân tộc thứ hai",
+"points_possible": 1,
+"question_text": "Xu hướng khách quan thứ hai của sự phát triển quan hệ dân tộc là gì?",
+"general_comment": "Xu hướng thứ hai là xu hướng liên hiệp, xích lại gần nhau giữa các dân tộc.",
+"answers": [
+{
+"text": "Các tộc người đều tan biến thành nhóm nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Các dân tộc đều từ bỏ mọi lợi ích chung.",
+"weight": 0
+},
+{
+"text": "Các dân tộc trong từng quốc gia, thậm chí nhiều quốc gia, muốn liên hiệp lại với nhau.",
+"weight": 100
+},
+{
+"text": "Các dân tộc đều muốn đóng kín tuyệt đối và không giao lưu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 017: [Nhận biết] Thời gian xu hướng thứ hai",
+"points_possible": 1,
+"question_text": "Xu hướng liên hiệp giữa các dân tộc nổi lên trong giai đoạn nào?",
+"general_comment": "Giáo trình nêu xu hướng thứ hai nổi lên khi chủ nghĩa tư bản phát triển thành chủ nghĩa đế quốc.",
+"answers": [
+{
+"text": "Giai đoạn chủ nghĩa tư bản phát triển thành chủ nghĩa đế quốc đi bóc lột thuộc địa.",
+"weight": 100
+},
+{
+"text": "Giai đoạn đầu của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Giai đoạn công xã nguyên thủy chưa có dân tộc.",
+"weight": 0
+},
+{
+"text": "Giai đoạn phong kiến phân quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 018: [Nhận biết] Nguyên nhân xu hướng thứ hai",
+"points_possible": 1,
+"question_text": "Nguyên nhân của xu hướng các dân tộc muốn liên hiệp lại là gì?",
+"general_comment": "Lực lượng sản xuất, khoa học - công nghệ và giao lưu kinh tế - văn hóa thúc đẩy các dân tộc xích lại gần nhau.",
+"answers": [
+{
+"text": "Sự tan rã của mọi nhu cầu lợi ích chung.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của lực lượng sản xuất, khoa học - công nghệ, giao lưu kinh tế và văn hóa làm xuất hiện nhu cầu xóa bỏ hàng rào ngăn cách.",
+"weight": 100
+},
+{
+"text": "Sự suy giảm tuyệt đối của giao lưu kinh tế và văn hóa.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi quan hệ sản xuất phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 019: [Nhận biết] Biểu hiện hiện nay của xu hướng liên hiệp",
+"points_possible": 1,
+"question_text": "Ngày nay, xu hướng xích lại gần nhau giữa các dân tộc thể hiện ở đâu?",
+"general_comment": "Giáo trình nêu ngày nay xu hướng xích lại gần nhau thể hiện ở liên minh dân tộc trên cơ sở lợi ích chung.",
+"answers": [
+{
+"text": "Sự thay thế quan hệ dân tộc bằng quan hệ huyết thống gia đình.",
+"weight": 0
+},
+{
+"text": "Sự liên minh của các dân tộc trên cơ sở lợi ích chung về kinh tế, chính trị, văn hóa, quân sự.",
+"weight": 100
+},
+{
+"text": "Sự cô lập tuyệt đối giữa các quốc gia và dân tộc.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận mọi lợi ích chung giữa các dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 020: [Nhận biết] Ba nội dung Cương lĩnh dân tộc",
+"points_possible": 1,
+"question_text": "Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin gồm những nội dung cơ bản nào?",
+"general_comment": "Cương lĩnh dân tộc Mác - Lênin gồm ba nội dung: bình đẳng, tự quyết và liên hiệp công nhân các dân tộc.",
+"answers": [
+{
+"text": "Tự do tín ngưỡng; giáo hội thống nhất; nghi lễ chung.",
+"weight": 0
+},
+{
+"text": "Bình đẳng giới; hôn nhân tự nguyện; gia đình tiến bộ.",
+"weight": 0
+},
+{
+"text": "Các dân tộc hoàn toàn bình đẳng; các dân tộc được quyền tự quyết; liên hiệp công nhân tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Dân chủ tư sản; tự do thương mại; cạnh tranh thị trường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 021: [Nhận biết] Bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Nội dung “các dân tộc hoàn toàn bình đẳng” được hiểu như thế nào?",
+"general_comment": "Bình đẳng dân tộc đòi hỏi quyền và nghĩa vụ ngang nhau trên các lĩnh vực xã hội.",
+"answers": [
+{
+"text": "Dân tộc đông người luôn có nhiều quyền hơn dân tộc ít người.",
+"weight": 0
+},
+{
+"text": "Chỉ bình đẳng về văn hóa, không bình đẳng về chính trị.",
+"weight": 0
+},
+{
+"text": "Chỉ dân tộc có trình độ kinh tế cao mới có quyền bình đẳng.",
+"weight": 0
+},
+{
+"text": "Các dân tộc đều có nghĩa vụ và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 022: [Nhận biết] Cơ sở pháp lý của bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Theo giáo trình, quyền bình đẳng dân tộc phải được thực hiện trên cơ sở nào?",
+"general_comment": "Bình đẳng dân tộc phải được bảo đảm bằng pháp lý, không chỉ là tuyên bố hình thức.",
+"answers": [
+{
+"text": "Cơ sở pháp lý.",
+"weight": 100
+},
+{
+"text": "Cơ sở huyền thoại tôn giáo.",
+"weight": 0
+},
+{
+"text": "Cơ sở đặc quyền của dân tộc lớn.",
+"weight": 0
+},
+{
+"text": "Cơ sở áp đặt của nước đế quốc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 023: [Nhận biết] Ý nghĩa bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Bình đẳng dân tộc có ý nghĩa gì trong Cương lĩnh dân tộc?",
+"general_comment": "Giáo trình xác định bình đẳng dân tộc là quyền cơ bản và cơ sở cho tự quyết, liên hiệp công nhân.",
+"answers": [
+{
+"text": "Là cơ sở để phủ nhận quyền tự quyết của các dân tộc.",
+"weight": 0
+},
+{
+"text": "Là quyền cơ bản, thiêng liêng, là cơ sở để thực hiện quyền dân tộc tự quyết và liên hiệp công nhân các dân tộc.",
+"weight": 100
+},
+{
+"text": "Là quyền phụ thuộc hoàn toàn vào dân tộc chiếm đa số.",
+"weight": 0
+},
+{
+"text": "Là nội dung chỉ có ý nghĩa văn hóa, không liên quan chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 024: [Nhận biết] Quyền dân tộc tự quyết",
+"points_possible": 1,
+"question_text": "Quyền dân tộc tự quyết là gì?",
+"general_comment": "Quyền tự quyết nhấn mạnh quyền tự định đoạt vận mệnh, chế độ chính trị và con đường phát triển của dân tộc.",
+"answers": [
+{
+"text": "Quyền của giáo hội quyết định toàn bộ chính sách quốc gia.",
+"weight": 0
+},
+{
+"text": "Quyền của một giai cấp áp đặt vĩnh viễn lên các dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền của các dân tộc tự quyết định vận mệnh dân tộc mình, tự lựa chọn chế độ chính trị và con đường phát triển.",
+"weight": 100
+},
+{
+"text": "Quyền của dân tộc lớn quyết định thay cho dân tộc nhỏ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 025: [Nhận biết] Nội dung quyền tự quyết",
+"points_possible": 1,
+"question_text": "Quyền dân tộc tự quyết bao gồm những quyền nào?",
+"general_comment": "Giáo trình nêu quyền tự quyết gồm quyền độc lập riêng và quyền tự nguyện liên hiệp bình đẳng.",
+"answers": [
+{
+"text": "Quyền áp bức dân tộc khác và quyền phủ nhận bình đẳng.",
+"weight": 0
+},
+{
+"text": "Quyền cưỡng bức sáp nhập dân tộc khác và quyền đồng hóa.",
+"weight": 0
+},
+{
+"text": "Quyền từ bỏ mọi bản sắc văn hóa và ngôn ngữ riêng.",
+"weight": 0
+},
+{
+"text": "Quyền tách ra thành lập quốc gia dân tộc độc lập và quyền tự nguyện liên hiệp với dân tộc khác trên cơ sở bình đẳng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 026: [Nhận biết] Ý nghĩa quyền tự quyết",
+"points_possible": 1,
+"question_text": "Quyền dân tộc tự quyết có ý nghĩa gì theo giáo trình?",
+"general_comment": "Quyền tự quyết gắn với đấu tranh chống âm mưu, thủ đoạn của thế lực thù địch, phản động.",
+"answers": [
+{
+"text": "Đấu tranh chống lại mọi âm mưu, thủ đoạn của các thế lực thù địch, phản động.",
+"weight": 100
+},
+{
+"text": "Tạo cơ sở cho các thế lực đế quốc can thiệp dân tộc khác.",
+"weight": 0
+},
+{
+"text": "Hợp pháp hóa sự áp bức của dân tộc lớn đối với dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ quyền bình đẳng giữa các dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 027: [Nhận biết] Liên hiệp công nhân các dân tộc",
+"points_possible": 1,
+"question_text": "Nội dung “liên hiệp công nhân tất cả các dân tộc” phản ánh điều gì?",
+"general_comment": "Liên hiệp công nhân các dân tộc thống nhất tinh thần yêu nước với chủ nghĩa quốc tế chân chính.",
+"answers": [
+{
+"text": "Sự thay thế liên minh công nhân bằng liên minh tôn giáo.",
+"weight": 0
+},
+{
+"text": "Sự gắn bó chặt chẽ giữa chủ nghĩa yêu nước và chủ nghĩa quốc tế chân chính.",
+"weight": 100
+},
+{
+"text": "Sự đối lập tuyệt đối giữa yêu nước và quốc tế.",
+"weight": 0
+},
+{
+"text": "Sự tách rời công nhân khỏi phong trào dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 028: [Nhận biết] Ý nghĩa liên hiệp công nhân",
+"points_possible": 1,
+"question_text": "Liên hiệp công nhân tất cả các dân tộc có ý nghĩa gì trong Cương lĩnh dân tộc?",
+"general_comment": "Giáo trình xác định liên hiệp công nhân là nội dung chủ yếu và giải pháp liên kết Cương lĩnh dân tộc.",
+"answers": [
+{
+"text": "Là cơ sở để phủ nhận độc lập dân tộc.",
+"weight": 0
+},
+{
+"text": "Là công cụ duy trì chia rẽ dân tộc.",
+"weight": 0
+},
+{
+"text": "Là nội dung chủ yếu và giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể.",
+"weight": 100
+},
+{
+"text": "Là nội dung phụ, không liên quan đến bình đẳng và tự quyết.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 029: [Nhận biết] Việt Nam đa dân tộc",
+"points_possible": 1,
+"question_text": "Theo giáo trình, Việt Nam là quốc gia có đặc điểm dân tộc tổng quát nào?",
+"general_comment": "Mục 6.1.3 mở đầu bằng nhận định Việt Nam là quốc gia đa dân tộc người.",
+"answers": [
+{
+"text": "Việt Nam là quốc gia đơn dân tộc tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Việt Nam là quốc gia không có tộc người thiểu số.",
+"weight": 0
+},
+{
+"text": "Việt Nam là quốc gia chỉ được cấu thành bởi cộng đồng tôn giáo.",
+"weight": 0
+},
+{
+"text": "Việt Nam là một quốc gia đa dân tộc người.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 030: [Nhận biết] Chênh lệch dân số tộc người",
+"points_possible": 1,
+"question_text": "Một đặc điểm dân tộc ở Việt Nam là gì về số dân giữa các tộc người?",
+"general_comment": "Giáo trình nêu chênh lệch số dân giữa các tộc người là đặc điểm nổi bật của Việt Nam.",
+"answers": [
+{
+"text": "Có sự chênh lệch về số dân giữa các tộc người.",
+"weight": 100
+},
+{
+"text": "Các tộc người có số dân hoàn toàn bằng nhau.",
+"weight": 0
+},
+{
+"text": "Chỉ có một tộc người duy nhất nên không có chênh lệch.",
+"weight": 0
+},
+{
+"text": "Số dân không liên quan đến vấn đề dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 031: [Nhận biết] Cư trú xen kẽ",
+"points_possible": 1,
+"question_text": "Đặc điểm cư trú của các dân tộc ở Việt Nam là gì?",
+"general_comment": "Giáo trình nêu các dân tộc ở Việt Nam cư trú xen kẽ nhau.",
+"answers": [
+{
+"text": "Các dân tộc chỉ cư trú theo đơn vị tôn giáo.",
+"weight": 0
+},
+{
+"text": "Các dân tộc cư trú xen kẽ nhau.",
+"weight": 100
+},
+{
+"text": "Các dân tộc cư trú biệt lập tuyệt đối, không giao lưu.",
+"weight": 0
+},
+{
+"text": "Mỗi dân tộc chỉ cư trú ở một quốc gia riêng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 032: [Nhận biết] Địa bàn chiến lược",
+"points_possible": 1,
+"question_text": "Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở đâu?",
+"general_comment": "Giáo trình nhấn mạnh các dân tộc thiểu số phân bố chủ yếu trên địa bàn chiến lược.",
+"answers": [
+{
+"text": "Chỉ ở trung tâm đô thị lớn.",
+"weight": 0
+},
+{
+"text": "Chỉ ở các vùng không có tài nguyên và biên giới.",
+"weight": 0
+},
+{
+"text": "Ở địa bàn có vị trí chiến lược quan trọng.",
+"weight": 100
+},
+{
+"text": "Ở những nơi không có ý nghĩa quốc phòng - an ninh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 033: [Nhận biết] Trình độ phát triển dân tộc",
+"points_possible": 1,
+"question_text": "Một đặc điểm về trình độ phát triển của các dân tộc Việt Nam là gì?",
+"general_comment": "Giáo trình nêu trình độ phát triển không đều là đặc điểm cần chú ý trong chính sách dân tộc.",
+"answers": [
+{
+"text": "Các dân tộc có trình độ phát triển hoàn toàn giống nhau.",
+"weight": 0
+},
+{
+"text": "Chỉ dân tộc đa số có văn hóa, dân tộc thiểu số không có văn hóa.",
+"weight": 0
+},
+{
+"text": "Trình độ phát triển không phải vấn đề của chính sách dân tộc.",
+"weight": 0
+},
+{
+"text": "Các dân tộc ở Việt Nam có trình độ phát triển không đều.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 034: [Nhận biết] Truyền thống đoàn kết dân tộc",
+"points_possible": 1,
+"question_text": "Các dân tộc Việt Nam có truyền thống nào trong cộng đồng quốc gia thống nhất?",
+"general_comment": "Giáo trình nhấn mạnh truyền thống đoàn kết gắn bó lâu đời của các dân tộc Việt Nam.",
+"answers": [
+{
+"text": "Truyền thống đoàn kết gắn bó lâu đời.",
+"weight": 100
+},
+{
+"text": "Truyền thống biệt lập và đối kháng vĩnh viễn.",
+"weight": 0
+},
+{
+"text": "Truyền thống phủ nhận cộng đồng quốc gia thống nhất.",
+"weight": 0
+},
+{
+"text": "Truyền thống không có quan hệ lịch sử chung.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 035: [Nhận biết] Bản sắc văn hóa dân tộc",
+"points_possible": 1,
+"question_text": "Mỗi dân tộc ở Việt Nam có đóng góp gì cho nền văn hóa Việt Nam thống nhất?",
+"general_comment": "Giáo trình coi bản sắc riêng của từng dân tộc là yếu tố làm phong phú văn hóa Việt Nam thống nhất.",
+"answers": [
+{
+"text": "Chỉ tồn tại như một hiện tượng tôn giáo biệt lập.",
+"weight": 0
+},
+{
+"text": "Có bản sắc văn hóa riêng, góp phần tạo nên sự phong phú, đa dạng của nền văn hóa Việt Nam thống nhất.",
+"weight": 100
+},
+{
+"text": "Làm mất hoàn toàn tính thống nhất của văn hóa Việt Nam.",
+"weight": 0
+},
+{
+"text": "Không có giá trị văn hóa riêng cần bảo tồn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 036: [Nhận biết] Vấn đề dân tộc và đoàn kết dân tộc",
+"points_possible": 1,
+"question_text": "Theo quan điểm của Đảng, vấn đề dân tộc và đoàn kết dân tộc là vấn đề gì của cách mạng Việt Nam?",
+"general_comment": "Quan điểm của Đảng xác định vấn đề dân tộc và đoàn kết dân tộc có tính chiến lược, cơ bản, lâu dài và cấp bách.",
+"answers": [
+{
+"text": "Vấn đề chỉ thuộc lĩnh vực nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vấn đề không liên quan đến cách mạng Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vấn đề chiến lược cơ bản, lâu dài và cấp bách hiện nay.",
+"weight": 100
+},
+{
+"text": "Vấn đề tạm thời, chỉ xuất hiện trong một năm.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 037: [Nhận biết] Bình đẳng, đoàn kết, tương trợ",
+"points_possible": 1,
+"question_text": "Quan điểm của Đảng về quan hệ giữa các dân tộc trong đại gia đình Việt Nam là gì?",
+"general_comment": "Đảng xác định các dân tộc bình đẳng, đoàn kết, tương trợ, giúp nhau phát triển, cùng xây dựng và bảo vệ Tổ quốc.",
+"answers": [
+{
+"text": "Đồng hóa, cưỡng bức, chia rẽ và đối kháng.",
+"weight": 0
+},
+{
+"text": "Chỉ ưu tiên dân tộc đông người, bỏ qua dân tộc thiểu số.",
+"weight": 0
+},
+{
+"text": "Tách các dân tộc khỏi sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+"weight": 0
+},
+{
+"text": "Bình đẳng, đoàn kết, tương trợ, giúp nhau cùng phát triển.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 038: [Nhận biết] Phát triển toàn diện vùng dân tộc",
+"points_possible": 1,
+"question_text": "Quan điểm của Đảng yêu cầu phát triển toàn diện các lĩnh vực nào ở vùng dân tộc và miền núi?",
+"general_comment": "Giáo trình nêu phải phát triển toàn diện chính trị, kinh tế, văn hóa, xã hội, an ninh - quốc phòng ở vùng dân tộc và miền núi.",
+"answers": [
+{
+"text": "Chính trị, kinh tế, văn hóa, xã hội và an ninh - quốc phòng.",
+"weight": 100
+},
+{
+"text": "Chỉ phát triển kinh tế, bỏ qua văn hóa và quốc phòng.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển tín ngưỡng truyền thống.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển đô thị, bỏ qua miền núi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 039: [Nhận biết] Ưu tiên đầu tư vùng dân tộc",
+"points_possible": 1,
+"question_text": "Đảng chủ trương ưu tiên đầu tư phát triển kinh tế - xã hội vùng dân tộc, miền núi trước hết tập trung vào lĩnh vực nào?",
+"general_comment": "Quan điểm của Đảng nhấn mạnh ưu tiên giao thông, hạ tầng, xóa đói giảm nghèo, khai thác tiềm năng và bảo vệ môi trường.",
+"answers": [
+{
+"text": "Chỉ đầu tư cho vùng đã phát triển, bỏ qua vùng khó khăn.",
+"weight": 0
+},
+{
+"text": "Phát triển giao thông, cơ sở hạ tầng, xóa đói giảm nghèo và khai thác hiệu quả tiềm năng từng vùng.",
+"weight": 100
+},
+{
+"text": "Phục hồi kinh tế tự cấp tự túc và đóng cửa vùng dân tộc.",
+"weight": 0
+},
+{
+"text": "Chỉ xây dựng cơ sở thờ tự tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 040: [Nhận biết] Chủ thể công tác dân tộc",
+"points_possible": 1,
+"question_text": "Công tác dân tộc và thực hiện chính sách dân tộc là nhiệm vụ của ai?",
+"general_comment": "Giáo trình xác định công tác dân tộc là trách nhiệm của cả hệ thống chính trị và toàn xã hội.",
+"answers": [
+{
+"text": "Chỉ của đồng bào dân tộc thiểu số.",
+"weight": 0
+},
+{
+"text": "Chỉ của các tổ chức tôn giáo.",
+"weight": 0
+},
+{
+"text": "Toàn Đảng, toàn dân, toàn quân, các cấp, các ngành và toàn bộ hệ thống chính trị.",
+"weight": 100
+},
+{
+"text": "Chỉ của một cơ quan chuyên trách duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 041: [Nhận biết] Chính sách dân tộc về chính trị",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về chính trị tập trung vào nội dung nào?",
+"general_comment": "Chính sách chính trị hướng tới bình đẳng, đoàn kết, tôn trọng, giúp nhau phát triển và thống nhất mục tiêu chung.",
+"answers": [
+{
+"text": "Khuyến khích chia rẽ dân tộc để dễ quản lý.",
+"weight": 0
+},
+{
+"text": "Từ bỏ mục tiêu độc lập dân tộc và chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Đặt một dân tộc ngoài khuôn khổ pháp luật.",
+"weight": 0
+},
+{
+"text": "Thực hiện bình đẳng, đoàn kết, tôn trọng, giúp nhau cùng phát triển giữa các dân tộc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 042: [Nhận biết] Chính sách dân tộc về kinh tế",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về kinh tế nhằm mục tiêu nào?",
+"general_comment": "Chính sách kinh tế nhằm phát triển miền núi, vùng sâu, vùng xa, biên giới và thu hẹp chênh lệch.",
+"answers": [
+{
+"text": "Phát huy tiềm năng, từng bước khắc phục khoảng cách chênh lệch giữa các vùng, các dân tộc.",
+"weight": 100
+},
+{
+"text": "Tăng khoảng cách chênh lệch giữa các vùng.",
+"weight": 0
+},
+{
+"text": "Tách vùng dân tộc khỏi chiến lược phát triển kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển kinh tế ở vùng trung tâm đô thị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 043: [Nhận biết] Chính sách dân tộc về văn hóa",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về văn hóa có nội dung nào?",
+"general_comment": "Chính sách văn hóa vừa xây dựng văn hóa Việt Nam thống nhất vừa giữ gìn giá trị văn hóa của các tộc người.",
+"answers": [
+{
+"text": "Chỉ bảo tồn văn hóa của một dân tộc duy nhất.",
+"weight": 0
+},
+{
+"text": "Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc; giữ gìn và phát huy giá trị văn hóa truyền thống của các tộc người.",
+"weight": 100
+},
+{
+"text": "Đồng hóa và xóa bỏ toàn bộ bản sắc văn hóa tộc người.",
+"weight": 0
+},
+{
+"text": "Tách văn hóa dân tộc khỏi nền văn hóa Việt Nam thống nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 044: [Nhận biết] Chính sách dân tộc về xã hội",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về xã hội hướng tới điều gì?",
+"general_comment": "Chính sách xã hội hướng tới an sinh, bình đẳng, công bằng, giảm nghèo và nâng cao các dịch vụ xã hội.",
+"answers": [
+{
+"text": "Tăng bất bình đẳng xã hội giữa các tộc người.",
+"weight": 0
+},
+{
+"text": "Chỉ chú trọng nghi lễ mà không quan tâm y tế, giáo dục.",
+"weight": 0
+},
+{
+"text": "Bảo đảm an sinh xã hội, từng bước thực hiện bình đẳng, công bằng, xóa đói giảm nghèo, phát triển dân số, y tế, giáo dục phù hợp đặc thù vùng, dân tộc.",
+"weight": 100
+},
+{
+"text": "Bỏ qua an sinh xã hội ở vùng dân tộc thiểu số.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 045: [Nhận biết] Chính sách dân tộc về an ninh - quốc phòng",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về an ninh - quốc phòng yêu cầu nội dung nào?",
+"general_comment": "Chính sách an ninh - quốc phòng gắn ổn định chính trị, trật tự xã hội, phối hợp lực lượng và xây dựng thế trận quốc phòng toàn dân.",
+"answers": [
+{
+"text": "Giảm quan hệ quân dân ở vùng đồng bào dân tộc.",
+"weight": 0
+},
+{
+"text": "Tách vùng dân tộc khỏi nhiệm vụ bảo vệ Tổ quốc.",
+"weight": 0
+},
+{
+"text": "Không cần phối hợp lực lượng trên từng địa bàn.",
+"weight": 0
+},
+{
+"text": "Tăng cường sức mạnh bảo vệ Tổ quốc, bảo đảm ổn định chính trị, an ninh chính trị, trật tự an toàn xã hội và thế trận quốc phòng toàn dân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 046: [Nhận biết] Bản chất của tôn giáo",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa Mác - Lênin, tôn giáo về bản chất là gì?",
+"general_comment": "Mác - Lênin coi tôn giáo là hình thái ý thức xã hội, phản ánh hiện thực khách quan một cách hư ảo.",
+"answers": [
+{
+"text": "Một hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan.",
+"weight": 100
+},
+{
+"text": "Một hình thái kinh tế quyết định trực tiếp cơ cấu giai cấp.",
+"weight": 0
+},
+{
+"text": "Một hình thức nhà nước quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Một phương thức sản xuất vật chất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 047: [Nhận biết] Tôn giáo như thực thể xã hội",
+"points_possible": 1,
+"question_text": "Khi tiếp cận tôn giáo như một thực thể xã hội, tiêu chí nào được nêu trong giáo trình?",
+"general_comment": "Giáo trình nêu tôn giáo cụ thể có niềm tin, giáo lý - giáo luật - lễ nghi, cơ sở thờ tự, tổ chức và tín đồ.",
+"answers": [
+{
+"text": "Có quốc ngữ chung, lãnh thổ chung và nhà nước chung.",
+"weight": 0
+},
+{
+"text": "Có niềm tin vào đấng siêu nhiên, hệ thống giáo thuyết, cơ sở thờ tự, tổ chức nhân sự và hệ thống tín đồ.",
+"weight": 100
+},
+{
+"text": "Có quan hệ sở hữu tư liệu sản xuất, quản lý sản xuất và phân phối thu nhập.",
+"weight": 0
+},
+{
+"text": "Có mức sinh, mức tử, di dân và cơ cấu tuổi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 048: [Nhận biết] Tôn giáo là hiện tượng xã hội - văn hóa",
+"points_possible": 1,
+"question_text": "Giáo trình xác định tôn giáo là hiện tượng xã hội - văn hóa do ai sáng tạo ra?",
+"general_comment": "Giáo trình nêu tôn giáo là hiện tượng xã hội - văn hóa do con người sáng tạo vì mục đích, lợi ích của họ.",
+"answers": [
+{
+"text": "Nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Một giai cấp duy nhất ngoài xã hội.",
+"weight": 0
+},
+{
+"text": "Con người.",
+"weight": 100
+},
+{
+"text": "Thần linh trực tiếp tạo ra theo quan điểm Mác - Lênin.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 049: [Nhận biết] Thế giới quan của tôn giáo",
+"points_possible": 1,
+"question_text": "Về phương diện thế giới quan, các tôn giáo mang thế giới quan nào?",
+"general_comment": "Giáo trình chỉ rõ các tôn giáo mang thế giới quan duy tâm, khác với thế giới quan duy vật biện chứng của chủ nghĩa Mác - Lênin.",
+"answers": [
+{
+"text": "Thế giới quan duy vật biện chứng.",
+"weight": 0
+},
+{
+"text": "Thế giới quan khoa học Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Thế giới quan kinh tế thị trường.",
+"weight": 0
+},
+{
+"text": "Thế giới quan duy tâm.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 050: [Nhận biết] Thái độ của người cộng sản",
+"points_possible": 1,
+"question_text": "Theo lập trường Mác - Lênin, người cộng sản có thái độ thế nào đối với nhu cầu tín ngưỡng, tôn giáo của nhân dân?",
+"general_comment": "Giáo trình nhấn mạnh dù khác biệt thế giới quan, người cộng sản tôn trọng quyền tự do tín ngưỡng và không tín ngưỡng.",
+"answers": [
+{
+"text": "Không xem thường hoặc trấn áp, mà tôn trọng quyền tự do tín ngưỡng, theo hoặc không theo tôn giáo.",
+"weight": 100
+},
+{
+"text": "Xem thường và trấn áp mọi nhu cầu tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Cưỡng bức toàn dân phải theo một tôn giáo.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ quyền không theo tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 051: [Nhận biết] Khái niệm tín ngưỡng",
+"points_possible": 1,
+"question_text": "Theo giáo trình, tín ngưỡng là gì?",
+"general_comment": "Tín ngưỡng là niềm tin và cách thức thể hiện niềm tin vào cái linh thiêng nhằm cầu mong che chở, giúp đỡ.",
+"answers": [
+{
+"text": "Một chính sách dân tộc về an ninh - quốc phòng.",
+"weight": 0
+},
+{
+"text": "Hệ thống niềm tin, sự ngưỡng mộ và cách thức thể hiện niềm tin trước các sự vật, hiện tượng, lực lượng có tính thần thánh, linh thiêng để cầu mong che chở, giúp đỡ.",
+"weight": 100
+},
+{
+"text": "Một tôn giáo có đầy đủ giáo hội, giáo luật và tín đồ đông đảo.",
+"weight": 0
+},
+{
+"text": "Một quan hệ sở hữu tư liệu sản xuất trong xã hội có giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 052: [Nhận biết] Mê tín dị đoan",
+"points_possible": 1,
+"question_text": "Mê tín dị đoan được giáo trình mô tả là gì?",
+"general_comment": "Mê tín dị đoan khác tín ngưỡng, tôn giáo hợp pháp ở mức mê muội, cực đoan và gây tổn hại cho cá nhân, xã hội, cộng đồng.",
+"answers": [
+{
+"text": "Sự tự do lựa chọn theo hoặc không theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Hệ thống giáo lý chính thống của các tôn giáo được thừa nhận.",
+"weight": 0
+},
+{
+"text": "Niềm tin vào lực lượng siêu nhiên đến mức mê muội, cuồng tín, dẫn đến hành vi cực đoan, sai lệch, trái văn hóa, đạo đức, pháp luật, gây tổn hại.",
+"weight": 100
+},
+{
+"text": "Niềm tin tôn giáo hợp pháp được Nhà nước bảo hộ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 053: [Nhận biết] Nguồn gốc tự nhiên, kinh tế - xã hội của tôn giáo",
+"points_possible": 1,
+"question_text": "Nguồn gốc tự nhiên, kinh tế - xã hội của tôn giáo được giải thích như thế nào?",
+"general_comment": "Nguồn gốc này gắn với sự bất lực trước tự nhiên và xã hội, đặc biệt trong điều kiện sản xuất thấp, áp bức và bất công.",
+"answers": [
+{
+"text": "Do khoa học đã giải thích đầy đủ mọi hiện tượng tự nhiên và xã hội.",
+"weight": 0
+},
+{
+"text": "Do con người hoàn toàn làm chủ tự nhiên và xã hội ngay từ đầu.",
+"weight": 0
+},
+{
+"text": "Do xã hội không có bất kỳ sự sợ hãi hay áp bức nào.",
+"weight": 0
+},
+{
+"text": "Do lực lượng sản xuất chưa phát triển, con người gán cho tự nhiên sức mạnh thần bí; khi xã hội có áp bức, bất công, con người trông chờ vào lực lượng siêu nhiên.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 054: [Nhận biết] Nguồn gốc nhận thức của tôn giáo",
+"points_possible": 1,
+"question_text": "Nguồn gốc nhận thức của tôn giáo xuất phát từ điều gì?",
+"general_comment": "Khi còn khoảng cách giữa biết và chưa biết, những điều khoa học chưa giải thích hoặc dân trí chưa tiếp nhận đầy đủ có thể được giải thích bằng tôn giáo.",
+"answers": [
+{
+"text": "Giới hạn nhận thức của con người về tự nhiên, xã hội và bản thân; khoảng cách giữa cái biết và chưa biết.",
+"weight": 100
+},
+{
+"text": "Nhận thức khoa học đã hoàn toàn đầy đủ và phổ biến trong toàn dân.",
+"weight": 0
+},
+{
+"text": "Sự mất đi hoàn toàn của nhu cầu giải thích thế giới.",
+"weight": 0
+},
+{
+"text": "Sự phát triển hoàn chỉnh của thế giới quan duy vật trong mọi người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 055: [Nhận biết] Nguồn gốc tâm lý của tôn giáo",
+"points_possible": 1,
+"question_text": "Nguồn gốc tâm lý của tôn giáo liên quan đến trạng thái nào của con người?",
+"general_comment": "Giáo trình nêu các trạng thái tâm lý như sợ hãi, mong bình yên, biết ơn, kính trọng có thể dẫn con người đến với tôn giáo hoặc tín ngưỡng.",
+"answers": [
+{
+"text": "Sự tồn tại duy nhất của lý trí khoa học, không có tình cảm.",
+"weight": 0
+},
+{
+"text": "Sợ hãi trước hiện tượng tự nhiên, xã hội, ốm đau, rủi ro; mong bình yên; tình cảm yêu thương, biết ơn, kính trọng.",
+"weight": 100
+},
+{
+"text": "Sự phủ nhận mọi cảm xúc và tâm lý trong đời sống con người.",
+"weight": 0
+},
+{
+"text": "Sự biến mất hoàn toàn của lo âu, may rủi và nhu cầu bình yên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 056: [Nhận biết] Tính lịch sử của tôn giáo",
+"points_possible": 1,
+"question_text": "Tính lịch sử của tôn giáo được hiểu như thế nào?",
+"general_comment": "Tính lịch sử thể hiện ở sự ra đời, tồn tại, phát triển và biến đổi của tôn giáo theo các giai đoạn lịch sử.",
+"answers": [
+{
+"text": "Tôn giáo không bao giờ biến đổi trong lịch sử.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ tồn tại trong một ngày lịch sử nhất định.",
+"weight": 0
+},
+{
+"text": "Tôn giáo hình thành, tồn tại, phát triển trong những giai đoạn lịch sử nhất định và có khả năng biến đổi để thích nghi với nhiều chế độ chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Tôn giáo không chịu tác động của điều kiện xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 057: [Nhận biết] Tính quần chúng của tôn giáo",
+"points_possible": 1,
+"question_text": "Tính quần chúng của tôn giáo thể hiện ở điểm nào?",
+"general_comment": "Tôn giáo có tính quần chúng vì phổ biến, có đông tín đồ và đáp ứng một phần nhu cầu văn hóa, tinh thần của quần chúng.",
+"answers": [
+{
+"text": "Tôn giáo chỉ là hiện tượng cá nhân đơn lẻ, không có tín đồ.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ tồn tại trong tầng lớp thống trị, không liên quan quần chúng.",
+"weight": 0
+},
+{
+"text": "Tôn giáo không có bất kỳ chức năng sinh hoạt tinh thần nào.",
+"weight": 0
+},
+{
+"text": "Tôn giáo là hiện tượng xã hội phổ biến, có số lượng tín đồ đông đảo, là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 058: [Nhận biết] Tính chính trị của tôn giáo",
+"points_possible": 1,
+"question_text": "Tính chính trị của tôn giáo được giáo trình xác định như thế nào?",
+"general_comment": "Tính chính trị thể hiện khi tôn giáo gắn với quan hệ giai cấp và bị giai cấp thống trị lợi dụng.",
+"answers": [
+{
+"text": "Tôn giáo phản ánh mối quan hệ giữa các giai cấp; trong xã hội đối kháng, giai cấp thống trị sử dụng tôn giáo phục vụ lợi ích của mình.",
+"weight": 100
+},
+{
+"text": "Tôn giáo luôn tách tuyệt đối khỏi mọi quan hệ giai cấp.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ là hiện tượng sinh học cá nhân.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ phản ánh quan hệ giữa các thế hệ trong gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 059: [Nhận biết] Nguyên tắc giải quyết tôn giáo",
+"points_possible": 1,
+"question_text": "Nguyên tắc nào thuộc quan điểm Mác - Lênin về giải quyết vấn đề tôn giáo trong thời kỳ quá độ?",
+"general_comment": "Nguyên tắc đầu tiên là tôn trọng, bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân.",
+"answers": [
+{
+"text": "Đồng nhất tôn giáo hợp pháp với mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Tôn trọng, bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân.",
+"weight": 100
+},
+{
+"text": "Cưỡng bức nhân dân từ bỏ mọi tín ngưỡng ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Chỉ giải quyết tôn giáo bằng biện pháp hành chính trấn áp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 060: [Nhận biết] Đặc điểm tôn giáo ở Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc điểm nào sau đây là đặc điểm tôn giáo ở Việt Nam?",
+"general_comment": "Giáo trình nêu Việt Nam có nhiều tôn giáo, đa dạng, đan xen, chung sống hòa bình, không có chiến tranh tôn giáo.",
+"answers": [
+{
+"text": "Các tôn giáo ở Việt Nam luôn chiến tranh tôn giáo kéo dài.",
+"weight": 0
+},
+{
+"text": "Tín đồ tôn giáo ở Việt Nam không phải là nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Việt Nam là quốc gia có nhiều tôn giáo; tôn giáo đa dạng, đan xen, chung sống hòa bình và không có xung đột, chiến tranh tôn giáo.",
+"weight": 100
+},
+{
+"text": "Việt Nam chỉ có một tôn giáo duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 061: [Thông hiểu] Phân biệt nghĩa rộng và nghĩa hẹp của dân tộc",
+"points_possible": 1,
+"question_text": "Điểm khác cơ bản giữa dân tộc theo nghĩa rộng và dân tộc theo nghĩa hẹp là gì?",
+"general_comment": "Nghĩa rộng tương ứng nation/quốc gia dân tộc; nghĩa hẹp gần với cộng đồng tộc người có bản sắc riêng.",
+"answers": [
+{
+"text": "Nghĩa rộng chỉ tôn giáo, nghĩa hẹp chỉ nhà nước.",
+"weight": 0
+},
+{
+"text": "Nghĩa rộng chỉ cơ cấu tuổi, nghĩa hẹp chỉ cơ cấu giới tính.",
+"weight": 0
+},
+{
+"text": "Hai nghĩa hoàn toàn đồng nhất, không có khác biệt nào.",
+"weight": 0
+},
+{
+"text": "Nghĩa rộng nhấn mạnh quốc gia - dân tộc với lãnh thổ, nhà nước, kinh tế thống nhất; nghĩa hẹp nhấn mạnh cộng đồng tộc người với kinh tế, ngôn ngữ, văn hóa đặc thù.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 062: [Thông hiểu] Nation và ethnies",
+"points_possible": 1,
+"question_text": "Nhận định nào phân biệt đúng dân tộc nation và dân tộc tộc người ethnies?",
+"general_comment": "Giáo trình trình bày hai nghĩa: quốc gia dân tộc và tộc người, với tiêu chí nhận diện khác nhau.",
+"answers": [
+{
+"text": "Nation là cộng đồng chính trị - xã hội; ethnies là cộng đồng người hình thành lâu dài với ngôn ngữ, văn hóa và ý thức tự giác tộc người.",
+"weight": 100
+},
+{
+"text": "Nation là tín ngưỡng, ethnies là nhà nước pháp quyền.",
+"weight": 0
+},
+{
+"text": "Nation là nghề nghiệp, ethnies là cơ cấu dân số.",
+"weight": 0
+},
+{
+"text": "Nation và ethnies đều chỉ một tổ chức tôn giáo cụ thể.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 063: [Thông hiểu] Ba tiêu chí tộc người",
+"points_possible": 1,
+"question_text": "Vì sao ngôn ngữ, văn hóa và ý thức tự giác tộc người được coi là tiêu chí quan trọng của tộc người?",
+"general_comment": "Ba tiêu chí này vừa phản ánh bản sắc vừa giúp nhận diện, phân định các tộc người trong thực tiễn.",
+"answers": [
+{
+"text": "Vì ba tiêu chí này không liên quan đến bản sắc tộc người.",
+"weight": 0
+},
+{
+"text": "Vì ba tiêu chí này tạo nên sự ổn định của mỗi tộc người và là căn cứ xem xét, phân định tộc người ở Việt Nam.",
+"weight": 100
+},
+{
+"text": "Vì ba tiêu chí này thay thế hoàn toàn lãnh thổ quốc gia và nhà nước.",
+"weight": 0
+},
+{
+"text": "Vì ba tiêu chí này chỉ dùng để phân loại tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 064: [Thông hiểu] Hai xu hướng dân tộc",
+"points_possible": 1,
+"question_text": "Hai xu hướng khách quan của sự phát triển quan hệ dân tộc vừa khác nhau vừa thống nhất ở điểm nào?",
+"general_comment": "Hai xu hướng phản ánh hai nhu cầu khách quan: độc lập dân tộc và liên hiệp, hợp tác giữa các dân tộc.",
+"answers": [
+{
+"text": "Cả hai đều chỉ là hiện tượng tôn giáo, không liên quan kinh tế - chính trị.",
+"weight": 0
+},
+{
+"text": "Một xu hướng là chính trị, xu hướng kia hoàn toàn là sinh học.",
+"weight": 0
+},
+{
+"text": "Một xu hướng nhấn mạnh tách ra để độc lập, xu hướng kia nhấn mạnh liên hiệp; cả hai đều xuất phát từ nhu cầu phát triển khách quan của các dân tộc.",
+"weight": 100
+},
+{
+"text": "Cả hai đều phủ nhận quyền độc lập dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 065: [Thông hiểu] Ý thức dân tộc và quyền sống",
+"points_possible": 1,
+"question_text": "Vì sao sự trưởng thành của ý thức dân tộc dẫn đến xu hướng tách ra thành dân tộc độc lập?",
+"general_comment": "Xu hướng tách ra gắn với sự thức tỉnh dân tộc và đấu tranh chống áp bức, bóc lột của thực dân, đế quốc.",
+"answers": [
+{
+"text": "Vì ý thức dân tộc làm mất mọi nhu cầu độc lập.",
+"weight": 0
+},
+{
+"text": "Vì cộng đồng dân cư không còn quan tâm quyền sống.",
+"weight": 0
+},
+{
+"text": "Vì ý thức dân tộc chỉ tạo ra nhu cầu hợp nhất tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì cộng đồng dân cư nhận thức rõ quyền sống và quyền tự quyết của mình, nên muốn thoát khỏi áp bức để lập cộng đồng dân tộc độc lập.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 066: [Thông hiểu] Lực lượng sản xuất và liên hiệp dân tộc",
+"points_possible": 1,
+"question_text": "Vì sao sự phát triển lực lượng sản xuất, khoa học - công nghệ thúc đẩy các dân tộc xích lại gần nhau?",
+"general_comment": "Phát triển sản xuất và giao lưu làm tăng phụ thuộc, hợp tác, liên minh trên cơ sở lợi ích chung.",
+"answers": [
+{
+"text": "Vì nó mở rộng giao lưu kinh tế, văn hóa, làm xuất hiện nhu cầu xóa bỏ hàng rào ngăn cách giữa các dân tộc.",
+"weight": 100
+},
+{
+"text": "Vì nó làm các dân tộc phải cô lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Vì nó xóa bỏ mọi lợi ích chung giữa các dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ tạo ra khác biệt ngôn ngữ, không liên quan hợp tác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 067: [Thông hiểu] Bình đẳng là cơ sở tự quyết",
+"points_possible": 1,
+"question_text": "Vì sao bình đẳng dân tộc là cơ sở để thực hiện quyền dân tộc tự quyết?",
+"general_comment": "Bình đẳng bảo đảm các dân tộc có vị thế ngang nhau để thực hiện tự quyết và tự nguyện liên hiệp.",
+"answers": [
+{
+"text": "Vì quyền tự quyết chỉ thuộc về dân tộc lớn.",
+"weight": 0
+},
+{
+"text": "Vì chỉ khi các dân tộc có quyền và nghĩa vụ ngang nhau, quyền tự lựa chọn vận mệnh, chế độ chính trị và con đường phát triển mới có cơ sở thực chất.",
+"weight": 100
+},
+{
+"text": "Vì bình đẳng dân tộc phủ nhận quyền tự quyết.",
+"weight": 0
+},
+{
+"text": "Vì bình đẳng dân tộc không cần cơ sở pháp lý.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 068: [Thông hiểu] Tự quyết không đồng nghĩa ly khai tuyệt đối",
+"points_possible": 1,
+"question_text": "Hiểu đúng về quyền dân tộc tự quyết theo Cương lĩnh dân tộc là gì?",
+"general_comment": "Giáo trình trình bày quyền tự quyết theo hai khả năng: độc lập hoặc liên hiệp tự nguyện, đều trên cơ sở bình đẳng.",
+"answers": [
+{
+"text": "Tự quyết là quyền của dân tộc lớn cưỡng bức dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Tự quyết là từ bỏ mọi bình đẳng giữa các dân tộc.",
+"weight": 0
+},
+{
+"text": "Tự quyết gồm cả quyền tách ra thành lập quốc gia độc lập và quyền tự nguyện liên hiệp với dân tộc khác trên cơ sở bình đẳng.",
+"weight": 100
+},
+{
+"text": "Tự quyết chỉ có nghĩa là bắt buộc tách ra khỏi mọi dân tộc khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 069: [Thông hiểu] Liên hiệp công nhân và chủ nghĩa quốc tế",
+"points_possible": 1,
+"question_text": "Vì sao liên hiệp công nhân tất cả các dân tộc gắn chủ nghĩa yêu nước với chủ nghĩa quốc tế?",
+"general_comment": "Liên hiệp công nhân là sự thống nhất giữa giải phóng dân tộc và đoàn kết quốc tế của giai cấp công nhân.",
+"answers": [
+{
+"text": "Vì liên hiệp công nhân phủ nhận mọi tình cảm yêu nước.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa quốc tế chân chính luôn chống độc lập dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì liên hiệp công nhân chỉ phục vụ lợi ích của một dân tộc thống trị.",
+"weight": 0
+},
+{
+"text": "Vì công nhân các dân tộc đoàn kết vì độc lập dân tộc và tiến bộ xã hội, không đối lập lợi ích dân tộc chân chính với đoàn kết quốc tế.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 070: [Thông hiểu] Đặc điểm dân tộc Việt Nam và chính sách",
+"points_possible": 1,
+"question_text": "Vì sao đặc điểm “trình độ phát triển không đều” đòi hỏi chính sách dân tộc phù hợp?",
+"general_comment": "Trình độ không đều là cơ sở để xây dựng chính sách phát triển có trọng tâm, phù hợp vùng và tộc người.",
+"answers": [
+{
+"text": "Vì chính sách phải tính đến chênh lệch phát triển giữa vùng, dân tộc để ưu tiên đầu tư, giảm nghèo, nâng cao dân trí và thu hẹp khoảng cách.",
+"weight": 100
+},
+{
+"text": "Vì mọi dân tộc đã phát triển ngang nhau nên không cần chính sách.",
+"weight": 0
+},
+{
+"text": "Vì chênh lệch phát triển không ảnh hưởng đời sống xã hội.",
+"weight": 0
+},
+{
+"text": "Vì chính sách dân tộc chỉ liên quan nghi lễ tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 071: [Thông hiểu] Cư trú xen kẽ và đoàn kết",
+"points_possible": 1,
+"question_text": "Đặc điểm các dân tộc Việt Nam cư trú xen kẽ đặt ra yêu cầu nào?",
+"general_comment": "Cư trú xen kẽ làm quan hệ dân tộc gần gũi, nên chính sách phải củng cố đoàn kết và phòng chống chia rẽ.",
+"answers": [
+{
+"text": "Phải xóa bỏ bản sắc văn hóa của các tộc người.",
+"weight": 0
+},
+{
+"text": "Phải tăng cường đoàn kết, bình đẳng, tương trợ và chống mọi âm mưu chia rẽ dân tộc.",
+"weight": 100
+},
+{
+"text": "Phải tách cư trú tuyệt đối giữa các dân tộc.",
+"weight": 0
+},
+{
+"text": "Phải ưu tiên một dân tộc và hạn chế dân tộc khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 072: [Thông hiểu] Địa bàn chiến lược của dân tộc thiểu số",
+"points_possible": 1,
+"question_text": "Vì sao phân bố của dân tộc thiểu số ở địa bàn chiến lược làm chính sách dân tộc gắn với quốc phòng - an ninh?",
+"general_comment": "Địa bàn chiến lược đòi hỏi phát triển kinh tế - xã hội đi đôi với giữ vững an ninh, quốc phòng và thế trận quốc phòng toàn dân.",
+"answers": [
+{
+"text": "Vì quốc phòng - an ninh chỉ là vấn đề của đô thị.",
+"weight": 0
+},
+{
+"text": "Vì chính sách dân tộc không cần phối hợp lực lượng.",
+"weight": 0
+},
+{
+"text": "Vì vùng dân tộc thiểu số thường liên quan trực tiếp đến ổn định chính trị, biên giới, quốc phòng toàn dân và an ninh quốc gia.",
+"weight": 100
+},
+{
+"text": "Vì vùng dân tộc không có ý nghĩa gì về an ninh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 073: [Thông hiểu] Bản sắc riêng và thống nhất văn hóa",
+"points_possible": 1,
+"question_text": "Nêu cách hiểu đúng về quan hệ giữa bản sắc riêng của mỗi dân tộc và nền văn hóa Việt Nam thống nhất.",
+"general_comment": "Giáo trình nhấn mạnh sự thống nhất trong đa dạng của văn hóa Việt Nam.",
+"answers": [
+{
+"text": "Bản sắc riêng luôn phá vỡ mọi thống nhất quốc gia.",
+"weight": 0
+},
+{
+"text": "Muốn thống nhất phải xóa bỏ toàn bộ bản sắc tộc người.",
+"weight": 0
+},
+{
+"text": "Văn hóa Việt Nam thống nhất không cần sự đóng góp của các tộc người.",
+"weight": 0
+},
+{
+"text": "Bản sắc riêng không đối lập với thống nhất, mà góp phần làm phong phú, đa dạng nền văn hóa Việt Nam thống nhất.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 074: [Thông hiểu] Vấn đề chiến lược và cấp bách",
+"points_possible": 1,
+"question_text": "Vì sao Đảng coi vấn đề dân tộc và đoàn kết dân tộc vừa lâu dài vừa cấp bách?",
+"general_comment": "Tính chiến lược, lâu dài gắn với mục tiêu phát triển; tính cấp bách gắn với yêu cầu đoàn kết và chống chia rẽ hiện nay.",
+"answers": [
+{
+"text": "Vì nó gắn với ổn định, phát triển, xây dựng và bảo vệ Tổ quốc; đồng thời luôn có yêu cầu xử lý kịp thời trước khó khăn và âm mưu chia rẽ.",
+"weight": 100
+},
+{
+"text": "Vì vấn đề dân tộc chỉ tồn tại trong quá khứ.",
+"weight": 0
+},
+{
+"text": "Vì đoàn kết dân tộc không ảnh hưởng cách mạng Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vì chính sách dân tộc chỉ có ý nghĩa trong lĩnh vực văn nghệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 075: [Thông hiểu] Chính sách chính trị và mục tiêu chung",
+"points_possible": 1,
+"question_text": "Chính sách dân tộc về chính trị thống nhất các dân tộc quanh mục tiêu nào?",
+"general_comment": "Chính sách chính trị nâng cao nhận thức đoàn kết, thống nhất mục tiêu độc lập dân tộc và chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Tách vùng dân tộc khỏi mục tiêu chung của đất nước.",
+"weight": 0
+},
+{
+"text": "Độc lập dân tộc và chủ nghĩa xã hội, dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+"weight": 100
+},
+{
+"text": "Đặc quyền dân tộc lớn và bất bình đẳng xã hội.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi quyền chính trị của công dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 076: [Thông hiểu] Chính sách kinh tế và khoảng cách phát triển",
+"points_possible": 1,
+"question_text": "Chính sách kinh tế đối với vùng dân tộc thiểu số có ý nghĩa gì?",
+"general_comment": "Chính sách kinh tế nhằm phát triển miền núi, vùng sâu, vùng xa, biên giới và thu hẹp chênh lệch phát triển.",
+"answers": [
+{
+"text": "Chỉ phục vụ các vùng đã phát triển cao.",
+"weight": 0
+},
+{
+"text": "Tách vùng dân tộc khỏi nền kinh tế quốc gia.",
+"weight": 0
+},
+{
+"text": "Phát huy tiềm năng, phát triển vùng khó khăn và từng bước khắc phục chênh lệch giữa vùng, dân tộc.",
+"weight": 100
+},
+{
+"text": "Duy trì khoảng cách chênh lệch như một mục tiêu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 077: [Thông hiểu] Chính sách văn hóa dân tộc",
+"points_possible": 1,
+"question_text": "Vì sao chính sách văn hóa dân tộc vừa phải giữ gìn truyền thống vừa phải chống “diễn biến hòa bình” trên mặt trận tư tưởng - văn hóa?",
+"general_comment": "Chính sách văn hóa bảo tồn bản sắc, nâng cao đời sống văn hóa và phòng chống lợi dụng tư tưởng - văn hóa để phá hoại đoàn kết.",
+"answers": [
+{
+"text": "Vì giữ gìn văn hóa truyền thống đồng nghĩa với đóng cửa văn hóa.",
+"weight": 0
+},
+{
+"text": "Vì chống diễn biến hòa bình chỉ là nhiệm vụ kinh tế.",
+"weight": 0
+},
+{
+"text": "Vì văn hóa không liên quan đến đoàn kết dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì văn hóa là nền tảng bản sắc, đồng thời các thế lực thù địch có thể lợi dụng văn hóa, tư tưởng để chia rẽ dân tộc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 078: [Thông hiểu] Chính sách xã hội vùng dân tộc",
+"points_possible": 1,
+"question_text": "Vì sao chính sách xã hội vùng dân tộc phải chú ý tính đặc thù của từng vùng, từng dân tộc?",
+"general_comment": "Tính đặc thù là căn cứ để chính sách an sinh, giảm nghèo, giáo dục, y tế đạt hiệu quả thực chất.",
+"answers": [
+{
+"text": "Vì điều kiện kinh tế, văn hóa, dân số, y tế, giáo dục và trình độ phát triển giữa các vùng, dân tộc không giống nhau.",
+"weight": 100
+},
+{
+"text": "Vì mọi vùng dân tộc có điều kiện hoàn toàn giống nhau.",
+"weight": 0
+},
+{
+"text": "Vì chính sách xã hội không cần quan tâm người dân.",
+"weight": 0
+},
+{
+"text": "Vì đặc thù vùng dân tộc chỉ là yếu tố hình thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 079: [Thông hiểu] Tôn giáo phản ánh hư ảo",
+"points_possible": 1,
+"question_text": "Câu “tôn giáo phản ánh hư ảo hiện thực khách quan” có nghĩa gì?",
+"general_comment": "Theo Mác - Lênin, tôn giáo có nguồn gốc hiện thực nhưng phản ánh bằng hình ảnh hư ảo, thần bí.",
+"answers": [
+{
+"text": "Tôn giáo là hình thức sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Tôn giáo phản ánh đời sống hiện thực nhưng bằng hình thức siêu nhiên, thần bí, không phải phản ánh khoa học trực tiếp.",
+"weight": 100
+},
+{
+"text": "Tôn giáo hoàn toàn không liên quan hiện thực xã hội.",
+"weight": 0
+},
+{
+"text": "Tôn giáo là khoa học thực nghiệm về tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 080: [Thông hiểu] Tôn giáo và con người",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình nói con người sáng tạo ra tôn giáo nhưng lại có thể lệ thuộc vào tôn giáo?",
+"general_comment": "Giáo trình nêu nghịch lý: tôn giáo do con người tạo ra, nhưng con người lại có thể tuyệt đối hóa và lệ thuộc vào nó.",
+"answers": [
+{
+"text": "Vì con người luôn hoàn toàn kiểm soát tôn giáo, không bao giờ bị lệ thuộc.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo chỉ là quan hệ kinh tế vật chất.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo phản ánh ước mơ, nguyện vọng của con người, nhưng khi được tuyệt đối hóa, con người có thể phục tùng nó vô điều kiện.",
+"weight": 100
+},
+{
+"text": "Vì tôn giáo không do con người sáng tạo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 081: [Thông hiểu] Khác biệt thế giới quan và thái độ chính trị",
+"points_possible": 1,
+"question_text": "Vì sao dù tôn giáo mang thế giới quan duy tâm, người cộng sản không trấn áp nhu cầu tôn giáo của nhân dân?",
+"general_comment": "Giáo trình phân biệt khác biệt thế giới quan với chính sách tôn trọng quyền tự do tín ngưỡng, không tín ngưỡng.",
+"answers": [
+{
+"text": "Vì người cộng sản thừa nhận thế giới quan duy tâm là nền tảng khoa học của mình.",
+"weight": 0
+},
+{
+"text": "Vì trấn áp tôn giáo là nguyên tắc đầu tiên của Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Vì tự do tín ngưỡng không có giá trị trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Vì quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân phải được tôn trọng; người có và không có tôn giáo có thể cùng xây dựng xã hội tốt đẹp trong hiện thực.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 082: [Thông hiểu] Tôn giáo và tín ngưỡng",
+"points_possible": 1,
+"question_text": "Nhận định nào đúng về quan hệ giữa tôn giáo và tín ngưỡng?",
+"general_comment": "Giáo trình nêu cần phân biệt tôn giáo với tín ngưỡng, đồng thời thừa nhận giữa chúng có giao thoa.",
+"answers": [
+{
+"text": "Tôn giáo và tín ngưỡng không đồng nhất, nhưng có sự giao thoa nhất định.",
+"weight": 100
+},
+{
+"text": "Tôn giáo và tín ngưỡng hoàn toàn đồng nhất, không cần phân biệt.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng luôn là mê tín dị đoan và trái pháp luật.",
+"weight": 0
+},
+{
+"text": "Tôn giáo không bao giờ có niềm tin linh thiêng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 083: [Thông hiểu] Tín ngưỡng và mê tín dị đoan",
+"points_possible": 1,
+"question_text": "Điểm khác cơ bản giữa tín ngưỡng và mê tín dị đoan là gì?",
+"general_comment": "Khác biệt nằm ở mức độ mê muội, hành vi cực đoan và tác hại của mê tín dị đoan.",
+"answers": [
+{
+"text": "Không có bất kỳ tiêu chí nào để phân biệt hai hiện tượng này.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng là niềm tin, sự ngưỡng mộ cái linh thiêng; mê tín dị đoan là niềm tin mê muội, cuồng tín dẫn tới hành vi sai lệch, trái văn hóa, đạo đức, pháp luật, gây tổn hại.",
+"weight": 100
+},
+{
+"text": "Tín ngưỡng luôn gây tổn hại, còn mê tín dị đoan luôn được pháp luật bảo hộ.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng chỉ có trong tôn giáo lớn, mê tín chỉ có trong khoa học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 084: [Thông hiểu] Nguồn gốc tự nhiên và xã hội của tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao trong xã hội nguyên thủy và xã hội có áp bức bất công, tôn giáo có điều kiện nảy sinh?",
+"general_comment": "Nguồn gốc tự nhiên, kinh tế - xã hội của tôn giáo gắn với hạn chế sản xuất, bất lực và lo sợ trước tự nhiên, xã hội.",
+"answers": [
+{
+"text": "Vì không có sự sợ hãi nào trong đời sống.",
+"weight": 0
+},
+{
+"text": "Vì mọi bất công xã hội đã được giải quyết triệt để.",
+"weight": 0
+},
+{
+"text": "Vì con người bất lực trước tự nhiên và xã hội, không giải thích được hiện tượng, áp bức, bất công nên gán sức mạnh cho lực lượng siêu nhiên.",
+"weight": 100
+},
+{
+"text": "Vì con người đã hiểu đầy đủ tự nhiên và xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 085: [Thông hiểu] Nguồn gốc nhận thức và dân trí",
+"points_possible": 1,
+"question_text": "Vì sao trình độ dân trí thấp có thể là điều kiện để tôn giáo tiếp tục tồn tại, phát triển?",
+"general_comment": "Giáo trình nêu hạn chế nhận thức và dân trí là “mảnh đất” cho tôn giáo ra đời, tồn tại, phát triển.",
+"answers": [
+{
+"text": "Vì dân trí thấp làm con người tự động có thế giới quan duy vật biện chứng.",
+"weight": 0
+},
+{
+"text": "Vì dân trí thấp xóa bỏ mọi nhu cầu tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo chỉ tồn tại khi khoa học đã phổ cập đầy đủ.",
+"weight": 0
+},
+{
+"text": "Vì ngay cả vấn đề khoa học đã chứng minh, nếu dân trí chưa nhận thức đầy đủ thì vẫn có thể được giải thích bằng lăng kính tôn giáo.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 086: [Thông hiểu] Nguồn gốc tâm lý và thờ anh hùng dân tộc",
+"points_possible": 1,
+"question_text": "Vì sao tình cảm tích cực như lòng biết ơn, kính trọng cũng có thể dẫn tới tín ngưỡng, tôn giáo?",
+"general_comment": "Nguồn gốc tâm lý của tôn giáo không chỉ là sợ hãi mà còn gồm tình cảm tích cực như biết ơn, kính trọng.",
+"answers": [
+{
+"text": "Vì con người có thể thiêng liêng hóa, thờ phụng người có công với nước, với dân như anh hùng dân tộc, thành hoàng làng.",
+"weight": 100
+},
+{
+"text": "Vì tình cảm tích cực luôn trái với mọi hình thức tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Vì lòng biết ơn làm con người không cần nghi lễ nào.",
+"weight": 0
+},
+{
+"text": "Vì tín ngưỡng chỉ bắt nguồn từ lợi ích kinh tế trực tiếp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 087: [Thông hiểu] Tính lịch sử và sự tiêu vong tôn giáo",
+"points_possible": 1,
+"question_text": "Theo Mác - Lênin, vì sao tôn giáo có thể dần mất vị trí khi khoa học và giáo dục phát triển?",
+"general_comment": "Giáo trình nói tôn giáo có tính lịch sử và có thể mất dần vị trí khi khoa học, giáo dục nâng cao nhận thức của quần chúng.",
+"answers": [
+{
+"text": "Vì giáo dục không liên quan đến nhận thức của con người.",
+"weight": 0
+},
+{
+"text": "Vì khi đại đa số quần chúng hiểu bản chất các hiện tượng tự nhiên, xã hội, cơ sở nhận thức của niềm tin tôn giáo hư ảo sẽ suy giảm.",
+"weight": 100
+},
+{
+"text": "Vì khoa học phát triển làm tôn giáo lập tức biến mất bằng mệnh lệnh hành chính.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo không có tính lịch sử nên không thay đổi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 088: [Thông hiểu] Tính quần chúng và khát vọng nhân văn",
+"points_possible": 1,
+"question_text": "Vì sao tôn giáo có thể thu hút nhiều quần chúng lao động tin theo?",
+"general_comment": "Tôn giáo có tính quần chúng vì đáp ứng một phần nhu cầu tinh thần và phản ánh khát vọng nhân đạo của người lao động.",
+"answers": [
+{
+"text": "Vì tôn giáo chỉ phục vụ trực tiếp lợi ích của khoa học thực nghiệm.",
+"weight": 0
+},
+{
+"text": "Vì quần chúng lao động luôn bị cấm tham gia sinh hoạt tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì dù hướng tới hạnh phúc hư ảo, tôn giáo phản ánh khát vọng nhân văn, nhân đạo, hướng thiện của người lao động về một xã hội tự do.",
+"weight": 100
+},
+{
+"text": "Vì tôn giáo không có nội dung tinh thần nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 089: [Thông hiểu] Tính chính trị và lợi dụng tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao trong xã hội có đối kháng giai cấp, tôn giáo có thể bị giai cấp thống trị lợi dụng?",
+"general_comment": "Tính chính trị của tôn giáo thể hiện ở khả năng bị sử dụng trong quan hệ lợi ích giai cấp.",
+"answers": [
+{
+"text": "Vì tôn giáo không có ảnh hưởng nào đối với quần chúng.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo không bao giờ liên quan chính trị.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp thống trị luôn tôn trọng tôn giáo một cách trung lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo phản ánh quan hệ giai cấp và có ảnh hưởng quần chúng, nên giai cấp thống trị có thể dùng nó phục vụ lợi ích chính trị của mình.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 090: [Thông hiểu] Khắc phục ảnh hưởng tiêu cực của tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao khắc phục ảnh hưởng tiêu cực của tôn giáo phải gắn với cải tạo xã hội cũ và xây dựng xã hội mới?",
+"general_comment": "Mác - Lênin không giải quyết tôn giáo thuần túy bằng cấm đoán mà gắn với cải tạo điều kiện xã hội sinh ra ảnh hưởng tiêu cực.",
+"answers": [
+{
+"text": "Vì nguồn gốc xã hội của tôn giáo gắn với điều kiện kinh tế - xã hội, áp bức, bất công và hạn chế nhận thức; muốn khắc phục phải biến đổi các điều kiện đó.",
+"weight": 100
+},
+{
+"text": "Vì chỉ cần cấm đoán hành chính là giải quyết triệt để tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo không có nguồn gốc xã hội.",
+"weight": 0
+},
+{
+"text": "Vì xây dựng xã hội mới không liên quan đến đời sống tinh thần.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 091: [Thông hiểu] Mặt chính trị và mặt tư tưởng của tôn giáo",
+"points_possible": 1,
+"question_text": "Phân biệt đúng mặt chính trị và mặt tư tưởng trong vấn đề tôn giáo là gì?",
+"general_comment": "Giáo trình yêu cầu phân biệt mâu thuẫn đối kháng do lợi dụng tôn giáo với khác biệt niềm tin không đối kháng.",
+"answers": [
+{
+"text": "Mặt tư tưởng luôn nguy hiểm hơn mặt chính trị và phải trấn áp.",
+"weight": 0
+},
+{
+"text": "Mặt chính trị là mâu thuẫn đối kháng lợi ích do lợi dụng tôn giáo chống cách mạng; mặt tư tưởng là khác biệt niềm tin, thường không mang tính đối kháng.",
+"weight": 100
+},
+{
+"text": "Mặt chính trị là khác biệt niềm tin, còn mặt tư tưởng là bạo lực vũ trang.",
+"weight": 0
+},
+{
+"text": "Cả hai mặt đều luôn là mâu thuẫn đối kháng như nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 092: [Thông hiểu] Quan điểm lịch sử cụ thể về tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao phải có quan điểm lịch sử cụ thể khi giải quyết vấn đề tôn giáo?",
+"general_comment": "Quan điểm lịch sử cụ thể tránh đánh giá cứng nhắc, đồng nhất mọi tôn giáo trong mọi bối cảnh.",
+"answers": [
+{
+"text": "Vì chính sách tôn giáo không cần căn cứ thực tiễn.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo là hiện tượng bất biến ngoài lịch sử.",
+"weight": 0
+},
+{
+"text": "Vì vai trò, tác động của từng tôn giáo đối với đời sống xã hội không giống nhau trong các thời kỳ lịch sử và bối cảnh cụ thể.",
+"weight": 100
+},
+{
+"text": "Vì mọi tôn giáo luôn có tác động hoàn toàn giống nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 093: [Thông hiểu] Tôn giáo Việt Nam chung sống hòa bình",
+"points_possible": 1,
+"question_text": "Đặc điểm tôn giáo Việt Nam đa dạng, đan xen, chung sống hòa bình có ý nghĩa gì?",
+"general_comment": "Tôn giáo Việt Nam đa dạng nhưng không có chiến tranh tôn giáo, nên chính sách phải phát huy truyền thống hòa bình, đoàn kết.",
+"answers": [
+{
+"text": "Đó là bằng chứng Việt Nam luôn có chiến tranh tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đó là lý do phải xóa bỏ mọi tôn giáo hợp pháp.",
+"weight": 0
+},
+{
+"text": "Đó là cơ sở để phủ nhận chính sách đại đoàn kết.",
+"weight": 0
+},
+{
+"text": "Đó là điều kiện thuận lợi để củng cố đoàn kết tôn giáo, đại đoàn kết dân tộc và ổn định xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 094: [Thông hiểu] Tín đồ tôn giáo Việt Nam",
+"points_possible": 1,
+"question_text": "Vì sao chính sách tôn giáo ở Việt Nam nhấn mạnh đoàn kết đồng bào có đạo và không có đạo?",
+"general_comment": "Đoàn kết đồng bào theo và không theo tôn giáo là nội dung của chính sách đại đoàn kết dân tộc.",
+"answers": [
+{
+"text": "Vì tín đồ tôn giáo Việt Nam phần lớn là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc, là bộ phận của khối đại đoàn kết toàn dân.",
+"weight": 100
+},
+{
+"text": "Vì tín đồ tôn giáo không thuộc cộng đồng dân tộc Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vì người không theo tôn giáo phải bị loại khỏi đoàn kết dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì chính sách tôn giáo chỉ phục vụ chức sắc, không liên quan tín đồ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 095: [Thông hiểu] Chức sắc tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao hàng ngũ chức sắc tôn giáo được coi là có vai trò quan trọng trong giáo hội và cộng đồng tín đồ?",
+"general_comment": "Giáo trình nêu chức sắc có vị trí trong giáo hội và uy tín, ảnh hưởng với tín đồ nên cần chú ý trong công tác tôn giáo.",
+"answers": [
+{
+"text": "Vì họ không có vai trò trong sinh hoạt tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì họ có uy tín, vị trí trong giáo hội và ảnh hưởng đối với tín đồ.",
+"weight": 100
+},
+{
+"text": "Vì họ không có quan hệ nào với tín đồ.",
+"weight": 0
+},
+{
+"text": "Vì họ chỉ là lực lượng hành chính của nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 096: [Thông hiểu] Quan hệ quốc tế của tôn giáo Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc điểm các tôn giáo ở Việt Nam có quan hệ với tổ chức, cá nhân tôn giáo ở nước ngoài đặt ra yêu cầu gì?",
+"general_comment": "Quan hệ ngoài nước là đặc điểm khách quan, cần quản lý đúng pháp luật và phòng ngừa lợi dụng.",
+"answers": [
+{
+"text": "Cần cấm tuyệt đối mọi quan hệ tôn giáo hợp pháp với nước ngoài.",
+"weight": 0
+},
+{
+"text": "Cần xem mọi quan hệ quốc tế của tôn giáo là không có tác động xã hội.",
+"weight": 0
+},
+{
+"text": "Cần quản lý, bảo đảm hoạt động theo pháp luật, đồng thời cảnh giác việc lợi dụng quan hệ tôn giáo quốc tế để chống phá.",
+"weight": 100
+},
+{
+"text": "Cần bỏ qua pháp luật trong hoạt động tôn giáo quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 097: [Thông hiểu] Tôn giáo là nhu cầu tinh thần",
+"points_possible": 1,
+"question_text": "Chính sách “tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân” hàm ý gì?",
+"general_comment": "Quan điểm này là cơ sở cho chính sách tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo.",
+"answers": [
+{
+"text": "Nhà nước coi mọi tôn giáo là mê tín dị đoan cần xóa bỏ ngay.",
+"weight": 0
+},
+{
+"text": "Nhà nước bắt buộc toàn dân theo một tôn giáo.",
+"weight": 0
+},
+{
+"text": "Nhà nước phủ nhận sự tồn tại của đồng bào tôn giáo.",
+"weight": 0
+},
+{
+"text": "Nhà nước thừa nhận nhu cầu tinh thần chính đáng, tôn trọng tự do tín ngưỡng và không tín ngưỡng trong khuôn khổ pháp luật.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 098: [Thông hiểu] Giá trị tích cực của tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao chính sách tôn giáo của Việt Nam vừa giữ gìn giá trị tích cực của tôn giáo vừa nghiêm cấm lợi dụng tôn giáo?",
+"general_comment": "Chính sách phân biệt tôn giáo hợp pháp, giá trị tích cực với hành vi lợi dụng tôn giáo vì mục đích xấu.",
+"answers": [
+{
+"text": "Vì tôn giáo có giá trị đạo đức, văn hóa tích cực, nhưng cũng có thể bị lợi dụng để mê tín, vi phạm pháp luật, chia rẽ nhân dân, xâm phạm an ninh.",
+"weight": 100
+},
+{
+"text": "Vì mọi hoạt động tôn giáo đều là vi phạm pháp luật.",
+"weight": 0
+},
+{
+"text": "Vì giá trị tích cực của tôn giáo không cần được phát huy.",
+"weight": 0
+},
+{
+"text": "Vì lợi dụng tôn giáo không gây hại cho xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 099: [Thông hiểu] Cốt lõi công tác tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng?",
+"general_comment": "Công tác tôn giáo lấy vận động, đoàn kết, chăm lo lợi ích của đồng bào tôn giáo làm trung tâm.",
+"answers": [
+{
+"text": "Vì quần chúng tín đồ không có vai trò trong đời sống tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì mục tiêu là động viên đồng bào tôn giáo yêu nước, bảo vệ độc lập, thống nhất đất nước và bảo đảm lợi ích vật chất, tinh thần thông qua chính sách kinh tế - xã hội, quốc phòng - an ninh.",
+"weight": 100
+},
+{
+"text": "Vì công tác tôn giáo chỉ là xử phạt hành chính.",
+"weight": 0
+},
+{
+"text": "Vì vận động quần chúng không liên quan đại đoàn kết.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 100: [Thông hiểu] Trách nhiệm hệ thống chính trị",
+"points_possible": 1,
+"question_text": "Vì sao công tác tôn giáo là trách nhiệm của cả hệ thống chính trị?",
+"general_comment": "Tôn giáo là vấn đề chính trị - xã hội rộng, nên cần sự tham gia đồng bộ của toàn hệ thống chính trị.",
+"answers": [
+{
+"text": "Vì công tác tôn giáo không liên quan Nhà nước.",
+"weight": 0
+},
+{
+"text": "Vì chỉ chức sắc tôn giáo mới có trách nhiệm quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo liên quan đến đoàn kết dân tộc, an ninh, chính sách xã hội, quyền công dân và xây dựng, bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Vì tôn giáo chỉ là việc riêng của một cơ sở thờ tự.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 101: [Thông hiểu] Theo đạo và truyền đạo",
+"points_possible": 1,
+"question_text": "Hiểu đúng về quyền theo đạo và truyền đạo theo chính sách của Việt Nam là gì?",
+"general_comment": "Chính sách bảo đảm quyền tôn giáo hợp pháp, đồng thời đặt hoạt động tôn giáo trong khuôn khổ Hiến pháp và pháp luật.",
+"answers": [
+{
+"text": "Theo đạo và truyền đạo được làm trái pháp luật nếu nhân danh tôn giáo.",
+"weight": 0
+},
+{
+"text": "Nhà nước không bảo hộ bất cứ tổ chức tôn giáo nào.",
+"weight": 0
+},
+{
+"text": "Người dân bị ép buộc phải theo đạo mới được hành đạo.",
+"weight": 0
+},
+{
+"text": "Mọi tín đồ có quyền hành đạo tại gia đình, cơ sở thờ tự hợp pháp; tổ chức tôn giáo được thừa nhận hoạt động theo pháp luật và được bảo hộ, nhưng mọi hoạt động phải tuân thủ Hiến pháp, pháp luật.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 102: [Thông hiểu] Đạo với đời ở Việt Nam",
+"points_possible": 1,
+"question_text": "Câu “các tôn giáo ở Việt Nam gắn bó với dân tộc, đồng hành cùng dân tộc, gắn đạo với đời” phản ánh điều gì?",
+"general_comment": "Giáo trình nêu quan hệ dân tộc - tôn giáo ở Việt Nam được củng cố trên cơ sở quốc gia dân tộc thống nhất.",
+"answers": [
+{
+"text": "Phản ánh truyền thống các tôn giáo hòa nhập với cộng đồng quốc gia - dân tộc, cùng tham gia xây dựng và bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Phản ánh tôn giáo Việt Nam luôn tách khỏi dân tộc.",
+"weight": 0
+},
+{
+"text": "Phản ánh tôn giáo chỉ phục vụ lợi ích bên ngoài quốc gia.",
+"weight": 0
+},
+{
+"text": "Phản ánh tôn giáo không có quan hệ với đời sống xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 103: [Thông hiểu] Tín ngưỡng truyền thống và tôn giáo ngoại sinh",
+"points_possible": 1,
+"question_text": "Vì sao nhiều tôn giáo bên ngoài khi du nhập vào Việt Nam phải biến đổi để phù hợp với truyền thống dân tộc?",
+"general_comment": "Tín ngưỡng truyền thống làm nên nét đặc thù và tác động đến quá trình “cắm rễ” của tôn giáo ngoại sinh ở Việt Nam.",
+"answers": [
+{
+"text": "Vì văn hóa bản địa không có ảnh hưởng đến tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì quan hệ dân tộc - tôn giáo ở Việt Nam chịu chi phối mạnh bởi tín ngưỡng truyền thống và nền tảng văn hóa bản địa, nhất là thờ cúng tổ tiên.",
+"weight": 100
+},
+{
+"text": "Vì Việt Nam không có tín ngưỡng truyền thống.",
+"weight": 0
+},
+{
+"text": "Vì mọi tôn giáo ngoại sinh đều bị cấm tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 104: [Thông hiểu] Hiện tượng tôn giáo mới",
+"points_possible": 1,
+"question_text": "Vì sao các hiện tượng tôn giáo mới cần được quản lý tốt?",
+"general_comment": "Giáo trình nhấn mạnh quản lý hiện tượng tôn giáo mới nhằm bảo đảm ổn định chính trị và quan hệ dân tộc - tôn giáo.",
+"answers": [
+{
+"text": "Vì chúng chỉ là hiện tượng kinh tế, không liên quan cộng đồng.",
+"weight": 0
+},
+{
+"text": "Vì mọi hiện tượng tôn giáo mới đều tự động làm xã hội ổn định hơn.",
+"weight": 0
+},
+{
+"text": "Vì chúng có xu hướng phát triển mạnh, có thể ảnh hưởng đời sống cộng đồng, khối đại đoàn kết toàn dân tộc và ổn định chính trị.",
+"weight": 100
+},
+{
+"text": "Vì quản lý tôn giáo không liên quan chính trị quốc gia.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 105: [Thông hiểu] Lợi dụng dân tộc và tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao các thế lực thù địch thường lợi dụng vấn đề dân tộc, tôn giáo?",
+"general_comment": "Giáo trình cảnh báo âm mưu lợi dụng dân tộc, tôn giáo để chia rẽ, gây bất ổn.",
+"answers": [
+{
+"text": "Vì vấn đề dân tộc, tôn giáo không ảnh hưởng đoàn kết xã hội.",
+"weight": 0
+},
+{
+"text": "Vì các tôn giáo Việt Nam không có quan hệ với cộng đồng dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì chính sách dân tộc và tôn giáo không có cơ sở pháp luật.",
+"weight": 0
+},
+{
+"text": "Vì đây là những vấn đề nhạy cảm liên quan đoàn kết, ổn định chính trị, an ninh quốc gia và có thể bị kích động để thực hiện “diễn biến hòa bình”.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 106: [Thông hiểu] Quan hệ dân tộc - tôn giáo là vấn đề chiến lược",
+"points_possible": 1,
+"question_text": "Vì sao tăng cường quan hệ tốt đẹp giữa dân tộc và tôn giáo là vấn đề chiến lược, cơ bản, lâu dài và cấp bách?",
+"general_comment": "Định hướng của giáo trình coi quan hệ dân tộc - tôn giáo là vấn đề lớn, lâu dài, gắn với cách mạng Việt Nam.",
+"answers": [
+{
+"text": "Vì quan hệ này trực tiếp tác động đến đại đoàn kết toàn dân tộc, đoàn kết tôn giáo, ổn định xã hội, xây dựng và bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Vì quan hệ này chỉ liên quan đến sinh hoạt cá nhân.",
+"weight": 0
+},
+{
+"text": "Vì đoàn kết tôn giáo không ảnh hưởng cách mạng Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vì vấn đề này có thể giải quyết một lần là xong.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 107: [Thông hiểu] Tôn giáo trên cơ sở dân tộc",
+"points_possible": 1,
+"question_text": "Vì sao giải quyết vấn đề tôn giáo ở Việt Nam phải trên cơ sở vấn đề dân tộc?",
+"general_comment": "Giáo trình yêu cầu giải quyết tôn giáo trên cơ sở dân tộc, không làm tổn hại lợi ích quốc gia - dân tộc.",
+"answers": [
+{
+"text": "Vì tôn giáo phải tách khỏi cộng đồng quốc gia dân tộc thống nhất.",
+"weight": 0
+},
+{
+"text": "Vì lợi ích quốc gia - dân tộc, độc lập, chủ quyền, thống nhất đất nước là nền tảng; tôn giáo phải gắn với đại đoàn kết toàn dân tộc và bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Vì vấn đề tôn giáo cao hơn lợi ích quốc gia - dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì giải quyết tôn giáo được phép làm tổn hại độc lập, chủ quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 108: [Thông hiểu] Tự do tôn giáo và chống lợi dụng",
+"points_possible": 1,
+"question_text": "Định hướng giải quyết quan hệ dân tộc - tôn giáo kết hợp hai yêu cầu nào?",
+"general_comment": "Định hướng của giáo trình là vừa bảo đảm quyền, vừa đấu tranh chống lợi dụng quyền vào mục đích chính trị.",
+"answers": [
+{
+"text": "Chống lợi dụng tôn giáo bằng cách phủ nhận mọi quyền tự do tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Tách vấn đề dân tộc khỏi vấn đề tôn giáo trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Bảo đảm quyền tự do tín ngưỡng, tôn giáo và quyền của các dân tộc thiểu số; đồng thời kiên quyết chống lợi dụng dân tộc, tôn giáo vào mục đích chính trị.",
+"weight": 100
+},
+{
+"text": "Bảo đảm tự do tôn giáo nhưng bỏ qua quyền dân tộc thiểu số.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 109: [Thông hiểu] Ý nghĩa nhận diện quan hệ dân tộc - tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao cần nhận diện rõ đặc điểm quan hệ dân tộc và tôn giáo ở Việt Nam hiện nay?",
+"general_comment": "Nhận diện đúng đặc điểm giúp vừa phát huy mặt tích cực vừa chủ động phòng chống tác động tiêu cực.",
+"answers": [
+{
+"text": "Để xóa bỏ mọi tín ngưỡng truyền thống.",
+"weight": 0
+},
+{
+"text": "Để thay thế chính sách dân tộc bằng chính sách tôn giáo đơn thuần.",
+"weight": 0
+},
+{
+"text": "Để bỏ qua mọi hiện tượng tôn giáo mới.",
+"weight": 0
+},
+{
+"text": "Để phát huy quan hệ tốt đẹp tạo đồng thuận, đoàn kết; đồng thời phòng ngừa, ngăn chặn và đấu tranh chống lợi dụng gây mất ổn định.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Thông hiểu] Bốn khu vực trọng điểm",
+"points_possible": 1,
+"question_text": "Bốn khu vực trọng điểm thường bị lợi dụng vấn đề dân tộc, tôn giáo cho “diễn biến hòa bình” cần hiểu như thế nào?",
+"general_comment": "Giáo trình nêu các thế lực thù địch tập trung lợi dụng vấn đề dân tộc, tôn giáo ở bốn khu vực trọng điểm này.",
+"answers": [
+{
+"text": "Đó là các địa bàn nhạy cảm về dân tộc, tôn giáo, an ninh - quốc phòng: Tây Bắc, Tây Nguyên, Tây Nam Bộ và Tây duyên hải miền Trung.",
+"weight": 100
+},
+{
+"text": "Đó là bốn khu vực không có đồng bào dân tộc, tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đó là các khu vực chỉ có ý nghĩa du lịch, không liên quan an ninh.",
+"weight": 0
+},
+{
+"text": "Đó là các khu vực được miễn mọi chính sách dân tộc, tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Thông hiểu] Tín ngưỡng thờ cúng tổ tiên",
+"points_possible": 1,
+"question_text": "Vì sao tín ngưỡng thờ cúng tổ tiên có vai trò đặc thù trong quan hệ dân tộc - tôn giáo ở Việt Nam?",
+"general_comment": "Giáo trình đặc biệt nhắc tín ngưỡng thờ cúng tổ tiên như yếu tố chi phối quan hệ dân tộc - tôn giáo ở Việt Nam.",
+"answers": [
+{
+"text": "Vì nó không liên quan đến văn hóa Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vì nó là tín ngưỡng truyền thống có sức chi phối mạnh, làm các tôn giáo ngoại sinh phải thích nghi với nền tảng văn hóa bản địa.",
+"weight": 100
+},
+{
+"text": "Vì nó là tôn giáo ngoại sinh mới du nhập.",
+"weight": 0
+},
+{
+"text": "Vì nó làm mọi tôn giáo không thể tồn tại ở Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Thông hiểu] Đại đoàn kết dân tộc và đoàn kết tôn giáo",
+"points_possible": 1,
+"question_text": "Quan hệ giữa đại đoàn kết toàn dân tộc và đoàn kết tôn giáo trong Chương 6 được hiểu đúng như thế nào?",
+"general_comment": "Chính sách tôn giáo của Việt Nam đặt đồng bào tôn giáo trong khối đại đoàn kết toàn dân tộc.",
+"answers": [
+{
+"text": "Đại đoàn kết dân tộc chỉ gồm người không theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đoàn kết tôn giáo không có ý nghĩa chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Đoàn kết tôn giáo là bộ phận quan trọng trong củng cố khối đại đoàn kết toàn dân tộc.",
+"weight": 100
+},
+{
+"text": "Đoàn kết tôn giáo đối lập với đại đoàn kết toàn dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Thông hiểu] Dân tộc và tôn giáo trong xây dựng Tổ quốc",
+"points_possible": 1,
+"question_text": "Tại sao giải quyết tốt quan hệ dân tộc - tôn giáo góp phần xây dựng Việt Nam dân giàu, nước mạnh, dân chủ, công bằng, văn minh?",
+"general_comment": "Tóm lại của chương nhấn mạnh phát huy quan hệ tốt đẹp dân tộc - tôn giáo để tạo đoàn kết, đồng thuận và phát triển đất nước.",
+"answers": [
+{
+"text": "Vì nó cho phép chia rẽ dân tộc để quản lý dễ hơn.",
+"weight": 0
+},
+{
+"text": "Vì nó tách tôn giáo khỏi lợi ích quốc gia.",
+"weight": 0
+},
+{
+"text": "Vì nó bỏ qua ổn định chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Vì nó tạo đồng thuận, đoàn kết dân tộc và đoàn kết tôn giáo, hạn chế xung đột, giữ ổn định để phát triển đất nước.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Thông hiểu] Phân biệt hoạt động tôn giáo hợp pháp và lợi dụng tôn giáo",
+"points_possible": 1,
+"question_text": "Cách phân biệt đúng giữa hoạt động tôn giáo hợp pháp và lợi dụng tôn giáo là gì?",
+"general_comment": "Chính sách Việt Nam bảo hộ hoạt động tôn giáo hợp pháp nhưng nghiêm cấm lợi dụng tôn giáo gây hại.",
+"answers": [
+{
+"text": "Hoạt động tôn giáo hợp pháp tuân thủ Hiến pháp, pháp luật; lợi dụng tôn giáo là dùng tôn giáo để tuyên truyền tà đạo, mê tín dị đoan, trái pháp luật, chia rẽ, gây rối, xâm phạm an ninh.",
+"weight": 100
+},
+{
+"text": "Mọi hoạt động tôn giáo đều là lợi dụng tôn giáo.",
+"weight": 0
+},
+{
+"text": "Mọi hành vi nhân danh tôn giáo đều được miễn trừ pháp luật.",
+"weight": 0
+},
+{
+"text": "Chỉ người không theo tôn giáo mới có thể vi phạm pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Thông hiểu] Pháp luật và chính sách tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao các tổ chức tôn giáo được Nhà nước thừa nhận vừa được bảo hộ vừa phải tuân thủ pháp luật?",
+"general_comment": "Chính sách tôn giáo kết hợp bảo hộ quyền hợp pháp với yêu cầu tuân thủ Hiến pháp, pháp luật.",
+"answers": [
+{
+"text": "Vì pháp luật chỉ áp dụng cho người không theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì quyền tự do tôn giáo được bảo đảm trong khuôn khổ Hiến pháp, pháp luật nhằm bảo vệ quyền công dân, trật tự xã hội và an ninh quốc gia.",
+"weight": 100
+},
+{
+"text": "Vì tổ chức tôn giáo được đứng ngoài pháp luật.",
+"weight": 0
+},
+{
+"text": "Vì Nhà nước không có trách nhiệm bảo hộ tôn giáo hợp pháp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Thông hiểu] Khoa học phát triển và tôn giáo vẫn tồn tại",
+"points_possible": 1,
+"question_text": "Theo quan điểm trong chương, vì sao khi khoa học phát triển mạnh, tín ngưỡng, tôn giáo vẫn có thể tồn tại?",
+"general_comment": "Tôn giáo có nhiều nguồn gốc: tự nhiên - xã hội, nhận thức, tâm lý; vì vậy không mất đi đơn giản chỉ do khoa học phát triển.",
+"answers": [
+{
+"text": "Vì tôn giáo không có nguồn gốc tâm lý hoặc xã hội.",
+"weight": 0
+},
+{
+"text": "Vì tất cả vấn đề khoa học đều chưa bao giờ được chứng minh.",
+"weight": 0
+},
+{
+"text": "Vì nguồn gốc tôn giáo không chỉ do thiếu hiểu biết khoa học mà còn do điều kiện xã hội, tâm lý, nhu cầu tinh thần và trình độ tiếp nhận tri thức của quần chúng.",
+"weight": 100
+},
+{
+"text": "Vì khoa học phát triển tự động làm tôn giáo mạnh lên không cần điều kiện xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Thông hiểu] Mục tiêu chính sách dân tộc và tôn giáo",
+"points_possible": 1,
+"question_text": "Điểm chung trong chính sách dân tộc và chính sách tôn giáo của Việt Nam là gì?",
+"general_comment": "Cả chính sách dân tộc và tôn giáo đều đặt trong mục tiêu đoàn kết, ổn định, xây dựng và bảo vệ Tổ quốc.",
+"answers": [
+{
+"text": "Đều nhằm chia rẽ các cộng đồng dân cư để dễ quản lý.",
+"weight": 0
+},
+{
+"text": "Đều phủ nhận quyền tự do tín ngưỡng và quyền của dân tộc thiểu số.",
+"weight": 0
+},
+{
+"text": "Đều chỉ phục vụ một nhóm xã hội riêng biệt.",
+"weight": 0
+},
+{
+"text": "Đều hướng tới đại đoàn kết toàn dân tộc, ổn định chính trị - xã hội, bảo vệ độc lập, thống nhất đất nước và phát triển theo định hướng xã hội chủ nghĩa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Vận dụng/Phân tích] Nhận diện nghĩa rộng của dân tộc",
+"points_possible": 1,
+"question_text": "Một văn bản nói về cộng đồng người có lãnh thổ quốc gia, nền kinh tế thống nhất, quốc ngữ chung, nhà nước quản lý và ý thức thống nhất. Theo giáo trình, đây là dân tộc theo nghĩa nào?",
+"general_comment": "Các dấu hiệu lãnh thổ quốc gia, kinh tế thống nhất, quốc ngữ, nhà nước thuộc nghĩa rộng của dân tộc.",
+"answers": [
+{
+"text": "Dân tộc theo nghĩa rộng, tức quốc gia dân tộc.",
+"weight": 100
+},
+{
+"text": "Dân tộc theo nghĩa tộc người.",
+"weight": 0
+},
+{
+"text": "Một tín ngưỡng truyền thống.",
+"weight": 0
+},
+{
+"text": "Một tầng lớp xã hội - nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Vận dụng/Phân tích] Nhận diện tộc người",
+"points_possible": 1,
+"question_text": "Một cộng đồng được nhận diện chủ yếu bằng ngôn ngữ, văn hóa và ý thức tự giác tộc người. Theo giáo trình, đó là khái niệm nào?",
+"general_comment": "Ba tiêu chí ngôn ngữ, văn hóa, ý thức tự giác tộc người là đặc trưng của dân tộc tộc người.",
+"answers": [
+{
+"text": "Cơ cấu xã hội - nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Dân tộc tộc người ethnies.",
+"weight": 100
+},
+{
+"text": "Quốc gia dân tộc nation.",
+"weight": 0
+},
+{
+"text": "Tổ chức tôn giáo cụ thể.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Vận dụng/Phân tích] Xu hướng đấu tranh thuộc địa",
+"points_possible": 1,
+"question_text": "Một dân tộc thuộc địa đấu tranh thoát khỏi áp bức, bóc lột của thực dân để thành lập quốc gia độc lập. Hiện tượng này thể hiện xu hướng nào?",
+"general_comment": "Phong trào thuộc địa giành độc lập là biểu hiện điển hình của xu hướng dân tộc thứ nhất.",
+"answers": [
+{
+"text": "Xu hướng đồng hóa tôn giáo ngoại sinh.",
+"weight": 0
+},
+{
+"text": "Xu hướng mê tín dị đoan trong đời sống xã hội.",
+"weight": 0
+},
+{
+"text": "Xu hướng cộng đồng dân cư tách ra để hình thành cộng đồng dân tộc độc lập.",
+"weight": 100
+},
+{
+"text": "Xu hướng liên hiệp các dân tộc trên cơ sở lợi ích chung.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Vận dụng/Phân tích] Xu hướng hội nhập dân tộc",
+"points_possible": 1,
+"question_text": "Các quốc gia liên minh trên cơ sở lợi ích chung về kinh tế, chính trị, văn hóa và an ninh. Hiện tượng này phù hợp với xu hướng nào?",
+"general_comment": "Liên minh trên cơ sở lợi ích chung là biểu hiện hiện nay của xu hướng xích lại gần nhau.",
+"answers": [
+{
+"text": "Xu hướng tách ra thành dân tộc độc lập trong giai đoạn đầu tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Xu hướng phục hồi cộng đồng thị tộc.",
+"weight": 0
+},
+{
+"text": "Xu hướng phủ nhận mọi quan hệ dân tộc.",
+"weight": 0
+},
+{
+"text": "Xu hướng các dân tộc liên hiệp, xích lại gần nhau.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Vận dụng/Phân tích] Đánh giá quyền tự quyết",
+"points_possible": 1,
+"question_text": "Một quan điểm nói: “Quyền tự quyết chỉ có nghĩa là tách ra, không bao gồm quyền tự nguyện liên hiệp.” Theo giáo trình, đánh giá nào đúng?",
+"general_comment": "Giáo trình nêu quyền tự quyết có hai nội dung: độc lập riêng và tự nguyện liên hiệp trên cơ sở bình đẳng.",
+"answers": [
+{
+"text": "Quan điểm sai vì quyền tự quyết bao gồm cả quyền tách ra lập quốc gia độc lập và quyền tự nguyện liên hiệp bình đẳng với dân tộc khác.",
+"weight": 100
+},
+{
+"text": "Quan điểm đúng vì liên hiệp dân tộc phủ nhận tự quyết.",
+"weight": 0
+},
+{
+"text": "Quan điểm đúng vì tự quyết chỉ dành cho dân tộc lớn.",
+"weight": 0
+},
+{
+"text": "Quan điểm sai vì quyền tự quyết không liên quan đến chế độ chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Vận dụng/Phân tích] Bình đẳng dân tộc và pháp lý",
+"points_possible": 1,
+"question_text": "Một chính sách công nhận bình đẳng dân tộc trên khẩu hiệu nhưng không có bảo đảm pháp luật. Theo giáo trình, thiếu điều kiện nào?",
+"general_comment": "Cương lĩnh dân tộc yêu cầu bình đẳng phải được thực hiện trên cơ sở pháp lý.",
+"answers": [
+{
+"text": "Thiếu việc phủ nhận quyền tự quyết.",
+"weight": 0
+},
+{
+"text": "Thiếu cơ sở pháp lý để thực hiện bình đẳng dân tộc.",
+"weight": 100
+},
+{
+"text": "Thiếu sự áp bức của dân tộc lớn.",
+"weight": 0
+},
+{
+"text": "Thiếu sự đồng hóa cưỡng bức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Vận dụng/Phân tích] Chống chia rẽ dân tộc",
+"points_possible": 1,
+"question_text": "Một thế lực kích động chia rẽ các dân tộc ở Việt Nam để phá hoại xây dựng và bảo vệ Tổ quốc. Quan điểm của Đảng yêu cầu xử lý thế nào?",
+"general_comment": "Quan điểm của Đảng nhấn mạnh đoàn kết dân tộc và kiên quyết chống mọi âm mưu chia rẽ.",
+"answers": [
+{
+"text": "Tách các dân tộc ra khỏi cộng đồng quốc gia thống nhất.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo vệ quyền của dân tộc đông người.",
+"weight": 0
+},
+{
+"text": "Kiên quyết đấu tranh với mọi âm mưu chia rẽ dân tộc, củng cố bình đẳng, đoàn kết, tương trợ, giúp nhau cùng phát triển.",
+"weight": 100
+},
+{
+"text": "Thỏa hiệp với âm mưu chia rẽ để giữ ổn định trước mắt.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Vận dụng/Phân tích] Chênh lệch phát triển vùng dân tộc",
+"points_possible": 1,
+"question_text": "Một vùng dân tộc thiểu số có hạ tầng yếu, nghèo cao, giáo dục và y tế khó khăn. Theo chính sách dân tộc, ưu tiên phù hợp là gì?",
+"general_comment": "Chính sách dân tộc yêu cầu ưu tiên vùng dân tộc, miền núi, thu hẹp chênh lệch và bảo đảm an sinh xã hội.",
+"answers": [
+{
+"text": "Rút toàn bộ chính sách hỗ trợ để vùng tự phát triển.",
+"weight": 0
+},
+{
+"text": "Chỉ yêu cầu bảo tồn văn hóa, không cần phát triển kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Tăng khoảng cách phát triển để tạo cạnh tranh.",
+"weight": 0
+},
+{
+"text": "Ưu tiên đầu tư phát triển kinh tế - xã hội, giao thông, hạ tầng, xóa đói giảm nghèo, giáo dục, y tế phù hợp đặc thù vùng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Vận dụng/Phân tích] Văn hóa tộc người",
+"points_possible": 1,
+"question_text": "Một địa phương muốn phát triển du lịch bằng cách xóa bỏ ngôn ngữ và lễ hội truyền thống của tộc người để “đồng nhất hóa”. Theo chính sách dân tộc, sai ở đâu?",
+"general_comment": "Giáo trình nhấn mạnh xây dựng văn hóa Việt Nam thống nhất nhưng phải bảo tồn và phát huy bản sắc từng tộc người.",
+"answers": [
+{
+"text": "Sai vì chính sách văn hóa phải giữ gìn, phát huy giá trị văn hóa truyền thống, phát triển ngôn ngữ và xây dựng đời sống văn hóa phù hợp từng tộc người.",
+"weight": 100
+},
+{
+"text": "Sai vì phải cấm mọi giao lưu văn hóa.",
+"weight": 0
+},
+{
+"text": "Đúng vì thống nhất văn hóa đòi hỏi xóa bỏ mọi bản sắc riêng.",
+"weight": 0
+},
+{
+"text": "Đúng vì văn hóa tộc người không đóng góp cho văn hóa Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Vận dụng/Phân tích] An ninh vùng dân tộc",
+"points_possible": 1,
+"question_text": "Ở một địa bàn dân tộc thiểu số có vị trí biên giới chiến lược, cần phối hợp phát triển kinh tế với nhiệm vụ nào?",
+"general_comment": "Chính sách an ninh - quốc phòng vùng dân tộc yêu cầu phát triển đi đôi với bảo vệ Tổ quốc và ổn định xã hội.",
+"answers": [
+{
+"text": "Bỏ qua ổn định chính trị vì chỉ cần tăng trưởng kinh tế.",
+"weight": 0
+},
+{
+"text": "Bảo đảm an ninh chính trị, trật tự an toàn xã hội, tăng cường quan hệ quân dân và thế trận quốc phòng toàn dân.",
+"weight": 100
+},
+{
+"text": "Tách kinh tế khỏi quốc phòng - an ninh.",
+"weight": 0
+},
+{
+"text": "Giảm sự phối hợp của các lực lượng trên địa bàn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Vận dụng/Phân tích] Tôn giáo phản ánh hiện thực",
+"points_possible": 1,
+"question_text": "Một sinh viên nói: “Theo Mác - Lênin, tôn giáo hoàn toàn không có nguồn gốc từ hiện thực.” Nhận định đúng hay sai?",
+"general_comment": "Mác - Lênin không phủ nhận nguồn gốc hiện thực của tôn giáo, mà chỉ rõ cách phản ánh hư ảo của nó.",
+"answers": [
+{
+"text": "Đúng, vì tôn giáo là hiện tượng không liên quan xã hội.",
+"weight": 0
+},
+{
+"text": "Đúng, vì tôn giáo chỉ là sản phẩm ngoài lịch sử.",
+"weight": 0
+},
+{
+"text": "Sai, vì tôn giáo phản ánh hiện thực khách quan nhưng bằng hình thức hư ảo, siêu nhiên, thần bí.",
+"weight": 100
+},
+{
+"text": "Sai, vì tôn giáo là khoa học thực nghiệm về tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Vận dụng/Phân tích] Tôn trọng tự do tín ngưỡng",
+"points_possible": 1,
+"question_text": "Một cán bộ cho rằng do tôn giáo mang thế giới quan duy tâm nên phải trấn áp mọi sinh hoạt tôn giáo. Theo giáo trình, phản biện nào đúng nhất?",
+"general_comment": "Giáo trình nêu người cộng sản không xem thường, trấn áp nhu cầu tín ngưỡng mà tôn trọng quyền tự do tín ngưỡng và không tín ngưỡng.",
+"answers": [
+{
+"text": "Đúng; trấn áp là nguyên tắc đầu tiên khi giải quyết tôn giáo.",
+"weight": 0
+},
+{
+"text": "Sai; vì tôn giáo có thế giới quan duy vật biện chứng.",
+"weight": 0
+},
+{
+"text": "Đúng; mọi tín ngưỡng đều là mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Sai; dù khác biệt thế giới quan, phải tôn trọng quyền tự do tín ngưỡng, theo hoặc không theo tôn giáo của nhân dân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Vận dụng/Phân tích] Phân biệt tín ngưỡng và mê tín",
+"points_possible": 1,
+"question_text": "Một nhóm nhân danh tâm linh ép người dân nộp tiền, thực hiện hành vi trái pháp luật, gây tổn hại sức khỏe. Hiện tượng này gần nhất với khái niệm nào?",
+"general_comment": "Mê tín dị đoan là niềm tin mê muội, cuồng tín dẫn đến hành vi sai lệch, trái pháp luật và gây tổn hại.",
+"answers": [
+{
+"text": "Mê tín dị đoan.",
+"weight": 100
+},
+{
+"text": "Tín ngưỡng hợp pháp.",
+"weight": 0
+},
+{
+"text": "Tôn giáo được Nhà nước bảo hộ.",
+"weight": 0
+},
+{
+"text": "Công tác vận động quần chúng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Vận dụng/Phân tích] Nguồn gốc nhận thức",
+"points_possible": 1,
+"question_text": "Một hiện tượng tự nhiên chưa được người dân hiểu rõ nên được giải thích bằng thần linh. Trường hợp này minh họa nguồn gốc nào của tôn giáo?",
+"general_comment": "Nguồn gốc nhận thức xuất hiện khi có khoảng cách giữa cái biết và chưa biết, điều khoa học chưa giải thích hoặc chưa được nhận thức đầy đủ.",
+"answers": [
+{
+"text": "Quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Nguồn gốc nhận thức.",
+"weight": 100
+},
+{
+"text": "Nguồn gốc chính sách dân tộc.",
+"weight": 0
+},
+{
+"text": "Tính chính trị của tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Vận dụng/Phân tích] Nguồn gốc tâm lý",
+"points_possible": 1,
+"question_text": "Một người trước khi làm việc lớn thường tìm đến nghi lễ cầu bình an vì lo sợ rủi ro. Theo giáo trình, đây là biểu hiện của nguồn gốc nào?",
+"general_comment": "Nguồn gốc tâm lý liên quan sự sợ hãi, mong bình yên trước rủi ro, ốm đau hoặc biến cố lớn.",
+"answers": [
+{
+"text": "Tính chính trị của dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Nguồn gốc tâm lý của tôn giáo.",
+"weight": 100
+},
+{
+"text": "Nguồn gốc pháp lý của tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Vận dụng/Phân tích] Tính quần chúng",
+"points_possible": 1,
+"question_text": "Một tôn giáo có số lượng tín đồ đông đảo, là nơi sinh hoạt tinh thần của nhiều quần chúng lao động. Đây là biểu hiện của tính chất nào?",
+"general_comment": "Tính quần chúng thể hiện ở phạm vi phổ biến, tín đồ đông đảo và vai trò sinh hoạt tinh thần.",
+"answers": [
+{
+"text": "Tính pháp lý của dân tộc.",
+"weight": 0
+},
+{
+"text": "Tính tự quyết của tộc người.",
+"weight": 0
+},
+{
+"text": "Tính cư trú xen kẽ của dân tộc.",
+"weight": 0
+},
+{
+"text": "Tính quần chúng của tôn giáo.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Vận dụng/Phân tích] Tính chính trị của tôn giáo",
+"points_possible": 1,
+"question_text": "Một giai cấp thống trị sử dụng tôn giáo để bảo vệ lợi ích chính trị của mình. Đây là biểu hiện của tính chất nào của tôn giáo?",
+"general_comment": "Tính chính trị của tôn giáo biểu hiện trong quan hệ giai cấp và việc giai cấp thống trị lợi dụng tôn giáo.",
+"answers": [
+{
+"text": "Tính chính trị.",
+"weight": 100
+},
+{
+"text": "Tính quần chúng thuần túy.",
+"weight": 0
+},
+{
+"text": "Tính văn hóa không giai cấp.",
+"weight": 0
+},
+{
+"text": "Tính tự giác tộc người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Vận dụng/Phân tích] Giải quyết tôn giáo bằng cấm đoán",
+"points_possible": 1,
+"question_text": "Một chính sách muốn xóa bỏ tôn giáo ngay bằng cấm đoán hành chính, không cải thiện điều kiện xã hội, dân trí và đời sống nhân dân. Theo Mác - Lênin, sai ở đâu?",
+"general_comment": "Giáo trình không đặt vấn đề giải quyết tôn giáo bằng cấm đoán đơn giản, mà gắn với biến đổi điều kiện xã hội và tôn trọng quyền tự do tín ngưỡng.",
+"answers": [
+{
+"text": "Đúng vì cấm đoán là con đường duy nhất để giải quyết tôn giáo.",
+"weight": 0
+},
+{
+"text": "Sai vì khắc phục ảnh hưởng tiêu cực của tôn giáo phải gắn với cải tạo xã hội cũ, xây dựng xã hội mới và nâng cao điều kiện sống, nhận thức của quần chúng.",
+"weight": 100
+},
+{
+"text": "Sai vì tôn giáo không có ảnh hưởng tiêu cực nào trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Đúng vì quyền tự do tín ngưỡng không cần được tôn trọng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Vận dụng/Phân tích] Mặt chính trị trong vấn đề tôn giáo",
+"points_possible": 1,
+"question_text": "Một tổ chức lợi dụng tôn giáo để chống lại sự nghiệp cách mạng và lợi ích của nhân dân lao động. Đây thuộc mặt nào cần phân biệt khi giải quyết vấn đề tôn giáo?",
+"general_comment": "Mặt chính trị phản ánh mâu thuẫn đối kháng giữa thế lực lợi dụng tôn giáo chống cách mạng với lợi ích nhân dân.",
+"answers": [
+{
+"text": "Tín ngưỡng truyền thống hợp pháp.",
+"weight": 0
+},
+{
+"text": "Ý thức tự giác tộc người.",
+"weight": 0
+},
+{
+"text": "Mặt chính trị.",
+"weight": 100
+},
+{
+"text": "Mặt tư tưởng không đối kháng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Vận dụng/Phân tích] Mặt tư tưởng trong tôn giáo",
+"points_possible": 1,
+"question_text": "Sự khác nhau về mức độ niềm tin giữa người theo tôn giáo và người không theo tôn giáo, nếu không bị lợi dụng chống phá, thuộc mặt nào?",
+"general_comment": "Mặt tư tưởng biểu hiện khác biệt niềm tin, thường không phải mâu thuẫn đối kháng.",
+"answers": [
+{
+"text": "Mặt chính trị đối kháng cần trấn áp ngay.",
+"weight": 0
+},
+{
+"text": "Xung đột dân tộc có quyền tự quyết.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của chính sách kinh tế vùng dân tộc.",
+"weight": 0
+},
+{
+"text": "Mặt tư tưởng, phản ánh mâu thuẫn không mang tính đối kháng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Vận dụng/Phân tích] Quan điểm lịch sử cụ thể",
+"points_possible": 1,
+"question_text": "Một địa phương áp dụng cùng một biện pháp cứng nhắc cho mọi tôn giáo, mọi thời kỳ, không xét bối cảnh cụ thể. Theo giáo trình, thiếu quan điểm nào?",
+"general_comment": "Giáo trình yêu cầu xem xét vai trò, tác động của từng tôn giáo trong từng thời kỳ và bối cảnh cụ thể.",
+"answers": [
+{
+"text": "Quan điểm lịch sử cụ thể trong giải quyết vấn đề tín ngưỡng, tôn giáo.",
+"weight": 100
+},
+{
+"text": "Quan điểm bình đẳng dân tộc theo nghĩa pháp lý.",
+"weight": 0
+},
+{
+"text": "Quan điểm cộng đồng ngôn ngữ tộc người.",
+"weight": 0
+},
+{
+"text": "Quan điểm cư trú xen kẽ dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Vận dụng/Phân tích] Tôn giáo Việt Nam và đại đoàn kết",
+"points_possible": 1,
+"question_text": "Một hoạt động vận động đồng bào có đạo nêu cao lòng yêu nước, bảo vệ độc lập và thống nhất đất nước. Hoạt động này thể hiện nội dung cốt lõi nào?",
+"general_comment": "Công tác tôn giáo ở Việt Nam cốt lõi là vận động quần chúng, động viên đồng bào tôn giáo yêu nước và bảo vệ Tổ quốc.",
+"answers": [
+{
+"text": "Chính sách đồng hóa văn hóa tộc người.",
+"weight": 0
+},
+{
+"text": "Công tác vận động quần chúng trong công tác tôn giáo.",
+"weight": 100
+},
+{
+"text": "Quyền tách ra lập quốc gia dân tộc độc lập.",
+"weight": 0
+},
+{
+"text": "Mê tín dị đoan trong đời sống cộng đồng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Vận dụng/Phân tích] Đoàn kết tôn giáo và không tôn giáo",
+"points_possible": 1,
+"question_text": "Một chính sách chỉ đoàn kết người theo cùng một tôn giáo, loại người không theo tôn giáo khỏi khối đoàn kết. Theo chính sách của Đảng, sai ở đâu?",
+"general_comment": "Chính sách tôn giáo nhất quán với đại đoàn kết dân tộc, bao gồm cả người theo và không theo tôn giáo.",
+"answers": [
+{
+"text": "Sai vì chính sách tôn giáo không cần đoàn kết.",
+"weight": 0
+},
+{
+"text": "Đúng vì người không theo tôn giáo không thuộc nhân dân.",
+"weight": 0
+},
+{
+"text": "Sai vì Đảng, Nhà nước đoàn kết đồng bào theo các tôn giáo khác nhau và đoàn kết đồng bào theo tôn giáo với đồng bào không theo tôn giáo.",
+"weight": 100
+},
+{
+"text": "Đúng vì đại đoàn kết chỉ gồm người theo tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Vận dụng/Phân tích] Giá trị tích cực và hành vi lợi dụng tôn giáo",
+"points_possible": 1,
+"question_text": "Một tổ chức tôn giáo tham gia từ thiện, giáo dục đạo đức nhưng một nhóm khác nhân danh tôn giáo để kích động chia rẽ dân tộc. Cách tiếp cận đúng là gì?",
+"general_comment": "Chính sách Việt Nam phân biệt giá trị tích cực của tôn giáo với hành vi lợi dụng tôn giáo trái pháp luật.",
+"answers": [
+{
+"text": "Đồng nhất cả hai hiện tượng và cấm toàn bộ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Bỏ qua hành vi kích động vì nhân danh tôn giáo.",
+"weight": 0
+},
+{
+"text": "Chỉ xử lý hoạt động từ thiện, không xử lý chia rẽ dân tộc.",
+"weight": 0
+},
+{
+"text": "Phát huy giá trị tích cực của tôn giáo, đồng thời nghiêm cấm và xử lý hành vi lợi dụng tôn giáo để chia rẽ, vi phạm pháp luật.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Vận dụng/Phân tích] Theo đạo, truyền đạo và pháp luật",
+"points_possible": 1,
+"question_text": "Một tổ chức tôn giáo được thừa nhận muốn mở rộng hoạt động nhưng không tuân thủ Hiến pháp và pháp luật. Theo chính sách hiện hành, đánh giá nào đúng?",
+"general_comment": "Chính sách tôn giáo bảo đảm quyền tự do hành đạo nhưng không cho phép lợi dụng tôn giáo để vi phạm pháp luật.",
+"answers": [
+{
+"text": "Hoạt động tôn giáo được bảo hộ khi hợp pháp, nhưng theo đạo, truyền đạo và mọi hoạt động tôn giáo đều phải tuân thủ Hiến pháp, pháp luật.",
+"weight": 100
+},
+{
+"text": "Tổ chức tôn giáo được đứng ngoài pháp luật nếu có đông tín đồ.",
+"weight": 0
+},
+{
+"text": "Nhà nước không bảo hộ bất kỳ tổ chức tôn giáo nào kể cả hợp pháp.",
+"weight": 0
+},
+{
+"text": "Theo đạo và truyền đạo chỉ cần niềm tin, không cần cơ sở pháp lý.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Vận dụng/Phân tích] Ép buộc theo đạo",
+"points_possible": 1,
+"question_text": "Một cá nhân ép buộc người khác theo đạo bằng áp lực vật chất và tinh thần. Theo giáo trình, hành vi này có được chấp nhận không?",
+"general_comment": "Giáo trình nêu rõ không được ép buộc người dân theo đạo.",
+"answers": [
+{
+"text": "Không; vì mọi hoạt động tôn giáo đều bị cấm.",
+"weight": 0
+},
+{
+"text": "Không; việc theo đạo, truyền đạo phải tuân thủ pháp luật và không được ép buộc người dân theo đạo.",
+"weight": 100
+},
+{
+"text": "Có; vì truyền đạo được miễn mọi giới hạn.",
+"weight": 0
+},
+{
+"text": "Có; nếu người ép buộc là chức sắc tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Vận dụng/Phân tích] Tuyên truyền tà đạo",
+"points_possible": 1,
+"question_text": "Một nhóm lợi dụng tôn giáo để tuyên truyền tà đạo và mê tín dị đoan. Theo chính sách tôn giáo, cần xử lý thế nào?",
+"general_comment": "Chính sách tôn giáo phân biệt hoạt động hợp pháp với lợi dụng tôn giáo cho tà đạo, mê tín dị đoan.",
+"answers": [
+{
+"text": "Xem đó là quyền tự do tuyệt đối không giới hạn.",
+"weight": 0
+},
+{
+"text": "Chuyển thành chính sách dân tộc về văn hóa.",
+"weight": 0
+},
+{
+"text": "Nghiêm cấm, vì hoạt động tôn giáo phải tuân thủ Hiến pháp, pháp luật và không được lợi dụng tôn giáo để tuyên truyền tà đạo, mê tín dị đoan.",
+"weight": 100
+},
+{
+"text": "Bảo hộ vô điều kiện vì nhân danh tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Vận dụng/Phân tích] Gắn đạo với đời",
+"points_possible": 1,
+"question_text": "Một phong trào của tín đồ tôn giáo tham gia bảo vệ môi trường, giúp đỡ người nghèo, xây dựng cộng đồng. Hiện tượng này phù hợp với đặc điểm nào của tôn giáo Việt Nam?",
+"general_comment": "Giáo trình nêu các tôn giáo Việt Nam có truyền thống gắn bó với dân tộc và đồng hành trong đời sống xã hội.",
+"answers": [
+{
+"text": "Truyền thống tách tôn giáo khỏi dân tộc.",
+"weight": 0
+},
+{
+"text": "Tính đối kháng tất yếu giữa đạo và đời.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận đại đoàn kết toàn dân tộc.",
+"weight": 0
+},
+{
+"text": "Truyền thống gắn bó với dân tộc, đồng hành cùng dân tộc, gắn đạo với đời.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Vận dụng/Phân tích] Tôn giáo ngoại sinh thích nghi",
+"points_possible": 1,
+"question_text": "Một tôn giáo từ bên ngoài du nhập vào Việt Nam biến đổi nghi lễ để phù hợp tín ngưỡng thờ cúng tổ tiên và văn hóa bản địa. Hiện tượng này minh họa điều gì?",
+"general_comment": "Giáo trình nêu tôn giáo ngoại sinh muốn phát triển ở Việt Nam phải biến đổi phù hợp truyền thống dân tộc, đặc biệt tín ngưỡng thờ cúng tổ tiên.",
+"answers": [
+{
+"text": "Quan hệ dân tộc - tôn giáo ở Việt Nam chịu chi phối mạnh bởi tín ngưỡng truyền thống và nền tảng văn hóa bản địa.",
+"weight": 100
+},
+{
+"text": "Tôn giáo ngoại sinh không bao giờ thích nghi ở Việt Nam.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng truyền thống không ảnh hưởng tôn giáo.",
+"weight": 0
+},
+{
+"text": "Việt Nam không có nền văn hóa bản địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Vận dụng/Phân tích] Quản lý hiện tượng tôn giáo mới",
+"points_possible": 1,
+"question_text": "Một hiện tượng tôn giáo mới phát triển nhanh, gây xáo trộn cộng đồng và làm suy giảm đoàn kết địa phương. Theo Chương 6, yêu cầu đặt ra là gì?",
+"general_comment": "Giáo trình cảnh báo hiện tượng tôn giáo mới có thể ảnh hưởng đời sống cộng đồng và khối đại đoàn kết, cần quản lý tốt.",
+"answers": [
+{
+"text": "Xem đó chỉ là vấn đề kinh tế, không liên quan cộng đồng.",
+"weight": 0
+},
+{
+"text": "Phải quản lý tốt để bảo đảm ổn định chính trị quốc gia và giải quyết tốt quan hệ dân tộc - tôn giáo.",
+"weight": 100
+},
+{
+"text": "Bỏ mặc vì mọi hiện tượng tôn giáo mới đều vô hại.",
+"weight": 0
+},
+{
+"text": "Cấm đoán tất cả tín ngưỡng truyền thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Vận dụng/Phân tích] Diễn biến hòa bình ở khu vực trọng điểm",
+"points_possible": 1,
+"question_text": "Một thế lực lợi dụng vấn đề dân tộc, tôn giáo ở Tây Nguyên để kích động chia rẽ, gây rối. Đây là biểu hiện của âm mưu nào được giáo trình cảnh báo?",
+"general_comment": "Giáo trình nêu các thế lực thù địch thường lợi dụng vấn đề dân tộc, tôn giáo ở một số khu vực trọng điểm để thực hiện “diễn biến hòa bình”.",
+"answers": [
+{
+"text": "Phát huy giá trị tích cực của tôn giáo.",
+"weight": 0
+},
+{
+"text": "Xây dựng văn hóa Việt Nam tiên tiến.",
+"weight": 0
+},
+{
+"text": "Lợi dụng dân tộc, tôn giáo để thực hiện “diễn biến hòa bình”.",
+"weight": 100
+},
+{
+"text": "Thực hiện quyền tự do tín ngưỡng hợp pháp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Vận dụng/Phân tích] Giải quyết tôn giáo trên cơ sở dân tộc",
+"points_possible": 1,
+"question_text": "Một đề xuất giải quyết vấn đề tôn giáo nhưng chấp nhận làm tổn hại độc lập, chủ quyền và thống nhất đất nước. Theo định hướng của Chương 6, sai ở đâu?",
+"general_comment": "Định hướng của giáo trình đặt lợi ích quốc gia - dân tộc, độc lập, chủ quyền, thống nhất lên hàng đầu.",
+"answers": [
+{
+"text": "Đúng nếu đề xuất nhận được sự ủng hộ của một nhóm tín đồ.",
+"weight": 0
+},
+{
+"text": "Sai vì vấn đề tôn giáo phải tách khỏi cộng đồng quốc gia dân tộc.",
+"weight": 0
+},
+{
+"text": "Sai vì giải quyết tôn giáo phải trên cơ sở vấn đề dân tộc, không được làm tổn hại lợi ích quốc gia - dân tộc, phải giữ vững độc lập, chủ quyền, thống nhất.",
+"weight": 100
+},
+{
+"text": "Đúng vì tôn giáo cao hơn lợi ích quốc gia - dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Vận dụng/Phân tích] Quyền tự do tôn giáo và quyền dân tộc thiểu số",
+"points_possible": 1,
+"question_text": "Một chính sách bảo đảm tự do tín ngưỡng nhưng không chú ý quyền của dân tộc thiểu số trong vùng có đông đồng bào theo đạo. Theo Chương 6, thiếu yêu cầu nào?",
+"general_comment": "Định hướng giải quyết quan hệ dân tộc - tôn giáo phải bảo đảm cả quyền tôn giáo và quyền dân tộc thiểu số.",
+"answers": [
+{
+"text": "Thiếu việc phủ nhận mọi quyền tôn giáo.",
+"weight": 0
+},
+{
+"text": "Thiếu việc tách vấn đề tôn giáo khỏi vấn đề dân tộc.",
+"weight": 0
+},
+{
+"text": "Thiếu việc ưu tiên một tôn giáo lên trên dân tộc.",
+"weight": 0
+},
+{
+"text": "Thiếu yêu cầu đồng thời bảo đảm quyền tự do tín ngưỡng, tôn giáo và quyền của các dân tộc thiểu số.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 151: [Vận dụng/Phân tích] Đánh giá hoạt động tôn giáo nước ngoài",
+"points_possible": 1,
+"question_text": "Một tổ chức tôn giáo trong nước có quan hệ với cá nhân, tổ chức tôn giáo ở nước ngoài. Cách đánh giá phù hợp theo giáo trình là gì?",
+"general_comment": "Giáo trình nêu tôn giáo ở Việt Nam có quan hệ với nước ngoài và thường bị thế lực xấu lợi dụng, nên cần quản lý đúng pháp luật.",
+"answers": [
+{
+"text": "Đặc điểm này chỉ có ở chính sách dân tộc, không liên quan tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đây là đặc điểm của tôn giáo ở Việt Nam; cần bảo đảm hoạt động hợp pháp và cảnh giác việc các thế lực phản động lợi dụng.",
+"weight": 100
+},
+{
+"text": "Mọi quan hệ tôn giáo với nước ngoài đều tự động là bất hợp pháp.",
+"weight": 0
+},
+{
+"text": "Quan hệ với nước ngoài không cần chịu sự điều chỉnh của pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 152: [Vận dụng/Phân tích] Sinh viên thực hiện đoàn kết dân tộc, tôn giáo",
+"points_possible": 1,
+"question_text": "Sinh viên PTIT có thể góp phần thực hiện nhiệm vụ đoàn kết dân tộc, đoàn kết tôn giáo bằng hành vi nào phù hợp nhất?",
+"general_comment": "Chương 6 định hướng sinh viên xác định trách nhiệm tuyên truyền, thực hiện chủ trương, chính sách, pháp luật về dân tộc, tôn giáo.",
+"answers": [
+{
+"text": "Ép bạn bè theo hoặc bỏ một tôn giáo.",
+"weight": 0
+},
+{
+"text": "Xem nhẹ pháp luật về dân tộc, tín ngưỡng, tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tìm hiểu chính sách dân tộc, tôn giáo; tôn trọng khác biệt văn hóa, tín ngưỡng; không chia sẻ nội dung kích động chia rẽ; tham gia tuyên truyền, thực hiện pháp luật.",
+"weight": 100
+},
+{
+"text": "Phát tán thông tin kích động định kiến dân tộc, tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 153: [Vận dụng/Phân tích] Toàn cầu hóa và quan hệ dân tộc",
+"points_possible": 1,
+"question_text": "Trong bối cảnh hội nhập quốc tế, quan điểm phù hợp nhất về quan hệ dân tộc là gì?",
+"general_comment": "Hai xu hướng khách quan cho thấy cần kết hợp quyền độc lập, tự quyết với liên hiệp, hợp tác bình đẳng.",
+"answers": [
+{
+"text": "Chỉ hội nhập mà bỏ qua độc lập, chủ quyền.",
+"weight": 0
+},
+{
+"text": "Chỉ đóng cửa tuyệt đối, phủ nhận mọi liên hiệp dân tộc.",
+"weight": 0
+},
+{
+"text": "Chỉ nhấn mạnh tôn giáo, không cần quan hệ dân tộc.",
+"weight": 0
+},
+{
+"text": "Vừa phát huy xu hướng liên hiệp, hợp tác giữa các dân tộc trên cơ sở lợi ích chung, vừa bảo đảm độc lập, tự quyết và bình đẳng dân tộc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 154: [Vận dụng/Phân tích] Ứng xử với khác biệt niềm tin trong lớp học",
+"points_possible": 1,
+"question_text": "Trong một lớp học có sinh viên theo tôn giáo khác nhau và sinh viên không theo tôn giáo. Cách ứng xử đúng theo tinh thần Chương 6 là gì?",
+"general_comment": "Nguyên tắc giải quyết vấn đề tôn giáo là tôn trọng tự do tín ngưỡng, không tín ngưỡng và bảo đảm đoàn kết.",
+"answers": [
+{
+"text": "Tôn trọng quyền tự do tín ngưỡng và không tín ngưỡng, không kỳ thị, không ép buộc, đồng thời tuân thủ pháp luật và quy định chung.",
+"weight": 100
+},
+{
+"text": "Chia nhóm theo tôn giáo để tránh tiếp xúc.",
+"weight": 0
+},
+{
+"text": "Ép tất cả sinh viên theo cùng một niềm tin.",
+"weight": 0
+},
+{
+"text": "Cấm mọi trao đổi tôn trọng về văn hóa, tín ngưỡng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 155: [Vận dụng/Phân tích] Xử lý nội dung kích động trên mạng",
+"points_possible": 1,
+"question_text": "Một bài viết trên mạng xuyên tạc chính sách dân tộc, tôn giáo, kích động chia rẽ giữa các cộng đồng. Theo Chương 6, phản ứng phù hợp nhất là gì?",
+"general_comment": "Chương 6 yêu cầu chống lợi dụng dân tộc, tôn giáo để chia rẽ, gây rối, xâm phạm an ninh quốc gia.",
+"answers": [
+{
+"text": "Bỏ qua vì chia rẽ dân tộc, tôn giáo không ảnh hưởng xã hội.",
+"weight": 0
+},
+{
+"text": "Không lan truyền; kiểm chứng thông tin; tuyên truyền chính sách đúng; báo cơ quan, nền tảng có thẩm quyền nếu có dấu hiệu vi phạm pháp luật.",
+"weight": 100
+},
+{
+"text": "Chia sẻ rộng rãi để “mọi người tự đánh giá”.",
+"weight": 0
+},
+{
+"text": "Tham gia kích động vì đó là quyền tự do tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 156: [Vận dụng/Phân tích] Chính sách văn hóa ở vùng đa dân tộc, đa tôn giáo",
+"points_possible": 1,
+"question_text": "Một địa phương đa dân tộc, đa tôn giáo muốn xây dựng chương trình văn hóa. Lựa chọn nào đúng định hướng nhất?",
+"general_comment": "Định hướng của chương là phát huy thống nhất trong đa dạng, gắn văn hóa với đoàn kết dân tộc và tôn giáo.",
+"answers": [
+{
+"text": "Chỉ ưu tiên văn hóa của nhóm đông người.",
+"weight": 0
+},
+{
+"text": "Tách văn hóa khỏi nhiệm vụ đoàn kết dân tộc, tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tôn trọng bản sắc tộc người, tín ngưỡng truyền thống, phát huy giá trị tích cực của tôn giáo và củng cố cộng đồng quốc gia - dân tộc thống nhất.",
+"weight": 100
+},
+{
+"text": "Đồng hóa mọi bản sắc văn hóa và cấm mọi tín ngưỡng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 157: [Vận dụng/Phân tích] Phát triển kinh tế vùng dân tộc và môi trường",
+"points_possible": 1,
+"question_text": "Một dự án khai thác tiềm năng vùng dân tộc giúp tăng trưởng nhưng gây hại môi trường sinh thái lâu dài. Theo quan điểm của Đảng, cần điều chỉnh thế nào?",
+"general_comment": "Quan điểm về đầu tư vùng dân tộc nêu rõ khai thác tiềm năng phải gắn với bảo vệ môi trường sinh thái bền vững.",
+"answers": [
+{
+"text": "Ưu tiên tăng trưởng bằng mọi giá, bỏ qua môi trường.",
+"weight": 0
+},
+{
+"text": "Dừng mọi phát triển kinh tế ở vùng dân tộc.",
+"weight": 0
+},
+{
+"text": "Chỉ quan tâm hạ tầng, không cần đời sống đồng bào.",
+"weight": 0
+},
+{
+"text": "Khai thác tiềm năng phải đi đôi với bảo vệ bền vững môi trường sinh thái và phát huy nội lực của đồng bào.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 158: [Vận dụng/Phân tích] Xử lý hành vi kỳ thị dân tộc",
+"points_possible": 1,
+"question_text": "Một sinh viên sử dụng lời lẽ miệt thị văn hóa của một tộc người thiểu số. Hành vi này trái với nội dung nào của chính sách dân tộc?",
+"general_comment": "Chính sách dân tộc nhấn mạnh tôn trọng, bình đẳng và phát huy bản sắc văn hóa của các tộc người.",
+"answers": [
+{
+"text": "Trái với bình đẳng, đoàn kết, tôn trọng, giúp nhau cùng phát triển và giữ gìn bản sắc văn hóa các dân tộc.",
+"weight": 100
+},
+{
+"text": "Trái với nguyên tắc tách tôn giáo khỏi dân tộc.",
+"weight": 0
+},
+{
+"text": "Phù hợp với chính sách đồng hóa văn hóa.",
+"weight": 0
+},
+{
+"text": "Phù hợp với quyền tự do ngôn luận không giới hạn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 159: [Vận dụng/Phân tích] Hành đạo tại gia đình và cơ sở thờ tự",
+"points_possible": 1,
+"question_text": "Một tín đồ thực hiện nghi lễ tại gia đình và cơ sở thờ tự hợp pháp, không vi phạm pháp luật. Theo chính sách của Việt Nam, hoạt động này được nhìn nhận thế nào?",
+"general_comment": "Giáo trình nêu mọi tín đồ có quyền tự do hành đạo tại gia đình và cơ sở thờ tự hợp pháp theo quy định pháp luật.",
+"answers": [
+{
+"text": "Không được pháp luật bảo hộ trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Được bảo đảm như quyền tự do hành đạo hợp pháp của tín đồ.",
+"weight": 100
+},
+{
+"text": "Bị cấm vì mọi hành đạo đều là mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Chỉ được phép nếu ép thêm người khác theo đạo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 160: [Vận dụng/Phân tích] Mâu thuẫn không đối kháng về niềm tin",
+"points_possible": 1,
+"question_text": "Hai nhóm tín đồ khác nhau tranh luận về giáo lý nhưng không vi phạm pháp luật, không kích động thù hận. Theo phân tích của giáo trình, đây chủ yếu là loại khác biệt nào?",
+"general_comment": "Khác biệt niềm tin giữa người có tôn giáo khác nhau thuộc mặt tư tưởng nếu không bị lợi dụng thành chống phá.",
+"answers": [
+{
+"text": "Xung đột dân tộc có quyền tự quyết.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của chính sách kinh tế vùng dân tộc.",
+"weight": 0
+},
+{
+"text": "Khác biệt tư tưởng, niềm tin, phản ánh mâu thuẫn không mang tính đối kháng.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn chính trị đối kháng cần xử lý như chống phá.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 161: [Vận dụng/Phân tích] Cố ý lợi dụng quyền tự do tôn giáo",
+"points_possible": 1,
+"question_text": "Một nhóm tuyên bố “tự do tôn giáo” để biện minh cho việc gây rối, xâm phạm an ninh quốc gia. Theo Chương 6, đánh giá nào đúng?",
+"general_comment": "Chính sách tôn giáo nghiêm cấm lợi dụng tín ngưỡng, tôn giáo để gây rối, chia rẽ, xâm phạm an ninh quốc gia.",
+"answers": [
+{
+"text": "Đây là quyền tự do tuyệt đối phải bảo vệ trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Đây là hoạt động tôn giáo hợp pháp vì có danh nghĩa tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đây chỉ là khác biệt niềm tin không cần xử lý.",
+"weight": 0
+},
+{
+"text": "Đó là lợi dụng tín ngưỡng, tôn giáo trái pháp luật; tự do tôn giáo không bao gồm quyền gây rối, xâm phạm an ninh quốc gia.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 162: [Vận dụng/Phân tích] Lựa chọn ưu tiên theo từng giai đoạn",
+"points_possible": 1,
+"question_text": "Một địa phương giải quyết quan hệ dân tộc - tôn giáo theo một công thức cố định, không xét vấn đề mới nảy sinh. Theo định hướng Chương 6, thiếu gì?",
+"general_comment": "Định hướng giải quyết quan hệ dân tộc - tôn giáo yêu cầu phù hợp bối cảnh lịch sử và vấn đề mới phát sinh.",
+"answers": [
+{
+"text": "Thiếu cách tiếp cận phù hợp từng giai đoạn, nhận diện đầy đủ và giải quyết hiệu quả vấn đề mới nảy sinh.",
+"weight": 100
+},
+{
+"text": "Thiếu việc tách tôn giáo khỏi cộng đồng dân tộc thống nhất.",
+"weight": 0
+},
+{
+"text": "Thiếu việc bỏ qua hoàn toàn yếu tố lịch sử cụ thể.",
+"weight": 0
+},
+{
+"text": "Thiếu việc ưu tiên lợi ích của một nhóm tôn giáo duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 163: [Vận dụng/Phân tích] Kết hợp phát huy và phòng ngừa",
+"points_possible": 1,
+"question_text": "Một báo cáo chỉ nêu nguy cơ bị lợi dụng tôn giáo mà không đề cập phát huy giá trị tích cực, đoàn kết tôn giáo. Theo Chương 6, thiếu điểm nào?",
+"general_comment": "Tóm lại của Chương 6 nhấn mạnh đồng thời phát huy mặt tích cực và chủ động chống lợi dụng dân tộc, tôn giáo.",
+"answers": [
+{
+"text": "Thiếu việc bỏ qua vấn đề ổn định chính trị.",
+"weight": 0
+},
+{
+"text": "Thiếu cách nhìn hai mặt: vừa phát huy quan hệ tốt đẹp dân tộc - tôn giáo, vừa phòng ngừa, ngăn chặn và đấu tranh chống lợi dụng.",
+"weight": 100
+},
+{
+"text": "Thiếu việc phủ nhận toàn bộ vai trò của tôn giáo.",
+"weight": 0
+},
+{
+"text": "Thiếu việc xem mọi tôn giáo là phản động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 164: [Vận dụng/Phân tích] Chọn nguyên tắc xử lý xung đột giả định",
+"points_possible": 1,
+"question_text": "Nếu phát sinh tranh chấp giữa một nhóm tôn giáo và cộng đồng dân cư địa phương, nguyên tắc xử lý phù hợp nhất là gì?",
+"general_comment": "Định hướng giải quyết quan hệ dân tộc - tôn giáo kết hợp quyền, pháp luật, đoàn kết và lợi ích quốc gia - dân tộc.",
+"answers": [
+{
+"text": "Ưu tiên tuyệt đối yêu sách của một bên bất chấp pháp luật.",
+"weight": 0
+},
+{
+"text": "Tách vụ việc khỏi lợi ích quốc gia - dân tộc.",
+"weight": 0
+},
+{
+"text": "Đặt trong cộng đồng quốc gia - dân tộc thống nhất, bảo đảm quyền tự do tín ngưỡng, quyền dân tộc thiểu số, tuân thủ pháp luật và không làm tổn hại lợi ích quốc gia - dân tộc.",
+"weight": 100
+},
+{
+"text": "Xử lý bằng định kiến tôn giáo thay vì căn cứ pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 165: [Nhận biết] Trình tự phát triển cộng đồng người",
+"points_possible": 1,
+"question_text": "Trình tự phát triển của các hình thức cộng đồng người trong lịch sử là gì?",
+"general_comment": "Trình tự thường được nêu là thị tộc, bộ lạc, bộ tộc, dân tộc.",
+"answers": [
+{
+"text": "Thị tộc - bộ lạc - bộ tộc - dân tộc.",
+"weight": 100
+},
+{
+"text": "Bộ lạc - bộ tộc - thị tộc - dân tộc.",
+"weight": 0
+},
+{
+"text": "Bộ tộc - bộ lạc - dân tộc - thị tộc.",
+"weight": 0
+},
+{
+"text": "Thị tộc - bộ tộc - bộ lạc - dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 166: [Nhận biết] Nguyên nhân khác nhau trong hình thành dân tộc",
+"points_possible": 1,
+"question_text": "Nội dung nào là nguyên nhân dẫn đến việc hình thành dân tộc có sự khác nhau giữa các khu vực trên thế giới?",
+"general_comment": "Ngân hàng Chương 6 nhấn mạnh sự khác nhau về yếu tố kinh tế, xã hội và ý thức tộc người.",
+"answers": [
+{
+"text": "Sự khác nhau về yếu tố kinh tế, xã hội và ý thức tộc người.",
+"weight": 100
+},
+{
+"text": "Sự khác nhau về tín ngưỡng tôn giáo thuần túy.",
+"weight": 0
+},
+{
+"text": "Sự khác nhau về khí hậu và địa hình בלבד.",
+"weight": 0
+},
+{
+"text": "Sự khác nhau về số lượng tôn giáo trong mỗi quốc gia.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 167: [Nhận biết] Thời điểm ra đời dân tộc ở phương Tây",
+"points_possible": 1,
+"question_text": "Ở các nước phương Tây, dân tộc ra đời vào khoảng thời gian nào?",
+"general_comment": "Ngân hàng Chương 6 xác định dân tộc ở phương Tây ra đời vào khoảng thế kỷ XV.",
+"answers": [
+{
+"text": "Thế kỷ XV.",
+"weight": 100
+},
+{
+"text": "Thế kỷ XI.",
+"weight": 0
+},
+{
+"text": "Thế kỷ XII.",
+"weight": 0
+},
+{
+"text": "Thế kỷ XIII.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 168: [Nhận biết] Yếu tố quyết định dân tộc phương Tây",
+"points_possible": 1,
+"question_text": "Yếu tố nào có ý nghĩa quyết định nhất đến sự ra đời của dân tộc ở phương Tây?",
+"general_comment": "Dân tộc ở phương Tây gắn với sự phát triển của lực lượng sản xuất trong sản xuất hàng hóa tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Sự phát triển của lực lượng sản xuất trong sản xuất hàng hóa tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Sự chín muồi của tín ngưỡng truyền thống.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi chế độ công xã nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Sự thống nhất giáo hội trong xã hội phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 169: [Nhận biết] Nguyên nhân dân tộc phương Tây gắn với CNTB",
+"points_possible": 1,
+"question_text": "Nội dung nào là nguyên nhân dẫn đến sự ra đời của dân tộc ở phương Tây gắn liền với sự ra đời của chủ nghĩa tư bản?",
+"general_comment": "Sự phát triển lực lượng sản xuất trong chủ nghĩa tư bản thúc đẩy phá vỡ tình trạng cát cứ, khép kín và hình thành quốc gia dân tộc.",
+"answers": [
+{
+"text": "Lực lượng sản xuất trong chủ nghĩa tư bản phát triển.",
+"weight": 100
+},
+{
+"text": "Ý thức tư sản tự nó thay thế hoàn toàn cơ sở kinh tế.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa tư bản đi chiếm thuộc địa nên dân tộc xuất hiện ở mọi nơi giống nhau.",
+"weight": 0
+},
+{
+"text": "Giữa các địa phương không còn bất kỳ khác biệt nào về kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 170: [Nhận biết] Cơ sở hình thành dân tộc ở phương Đông",
+"points_possible": 1,
+"question_text": "Ở phương Đông, yếu tố nào có ý nghĩa quyết định đối với sự ra đời của dân tộc theo ngân hàng câu hỏi thi?",
+"general_comment": "Ngân hàng Chương 6 nêu sự phát triển của phương thức sản xuất châu Á và chế độ sở hữu công cộng về ruộng đất là yếu tố quyết định.",
+"answers": [
+{
+"text": "Sự phát triển của phương thức sản xuất châu Á và chế độ sở hữu công cộng về ruộng đất.",
+"weight": 100
+},
+{
+"text": "Sự phát triển hoàn chỉnh của đại công nghiệp tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự thống nhất của thị trường tư bản châu Âu.",
+"weight": 0
+},
+{
+"text": "Sự xuất hiện của nhà nước tư sản đại nghị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 171: [Nhận biết] Loại hình dân tộc phương Tây",
+"points_possible": 1,
+"question_text": "Dân tộc ở phương Tây là loại hình dân tộc nào?",
+"general_comment": "Ngân hàng Chương 6 xác định dân tộc ở phương Tây là loại hình dân tộc tư sản.",
+"answers": [
+{
+"text": "Dân tộc tư sản.",
+"weight": 100
+},
+{
+"text": "Dân tộc tiền phong kiến.",
+"weight": 0
+},
+{
+"text": "Dân tộc phong kiến.",
+"weight": 0
+},
+{
+"text": "Dân tộc hậu tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 172: [Nhận biết] Dân tộc ở châu Mỹ",
+"points_possible": 1,
+"question_text": "Sự hình thành một số dân tộc có sự tham gia của nhóm người nhập cư từ châu Âu và các châu lục khác trong quá trình xâm lược thuộc địa của chủ nghĩa đế quốc, thực dân là đặc điểm nổi bật ở đâu?",
+"general_comment": "Ngân hàng Chương 6 gắn nội dung này với sự hình thành một số dân tộc ở châu Mỹ.",
+"answers": [
+{
+"text": "Châu Mỹ.",
+"weight": 100
+},
+{
+"text": "Châu Á.",
+"weight": 0
+},
+{
+"text": "Châu Phi.",
+"weight": 0
+},
+{
+"text": "Châu Âu thời cổ đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 173: [Nhận biết] Đặc điểm không thuộc dân tộc nghĩa rộng",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là đặc điểm của dân tộc theo nghĩa rộng?",
+"general_comment": "Dân tộc theo nghĩa rộng có quốc ngữ chung; không phải mỗi vùng miền sử dụng riêng một loại ngôn ngữ như tiêu chí của quốc gia dân tộc.",
+"answers": [
+{
+"text": "Mỗi vùng miền sử dụng riêng một loại ngôn ngữ.",
+"weight": 100
+},
+{
+"text": "Có chung một vùng lãnh thổ ổn định.",
+"weight": 0
+},
+{
+"text": "Có chung một phương thức sinh hoạt kinh tế.",
+"weight": 0
+},
+{
+"text": "Có chung nền văn hóa và tâm lý.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 174: [Nhận biết] Lãnh thổ trong quốc gia dân tộc",
+"points_possible": 1,
+"question_text": "Dấu hiệu xác định không gian sinh tồn, vị trí địa lý của một dân tộc, biểu thị vùng đất, vùng trời, vùng biển mà dân tộc được quyền sở hữu là gì?",
+"general_comment": "Đó là nội dung của khái niệm lãnh thổ trong quốc gia dân tộc.",
+"answers": [
+{
+"text": "Lãnh thổ.",
+"weight": 100
+},
+{
+"text": "Địa giới hành chính.",
+"weight": 0
+},
+{
+"text": "Biên giới hành chính nội bộ.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng truyền thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 175: [Nhận biết] Chủ quyền trong tương quan quốc gia dân tộc",
+"points_possible": 1,
+"question_text": "Yếu tố nào thể hiện đầy đủ chủ quyền của một dân tộc trong tương quan với các quốc gia dân tộc khác?",
+"general_comment": "Lãnh thổ là dấu hiệu thể hiện không gian chủ quyền của quốc gia dân tộc.",
+"answers": [
+{
+"text": "Lãnh thổ.",
+"weight": 100
+},
+{
+"text": "Địa giới hành chính.",
+"weight": 0
+},
+{
+"text": "Lễ nghi tôn giáo.",
+"weight": 0
+},
+{
+"text": "Nghề nghiệp xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 176: [Nhận biết] Trách nhiệm cao nhất của thành viên dân tộc",
+"points_possible": 1,
+"question_text": "Nhiệm vụ nào là nghĩa vụ và trách nhiệm cao nhất của mỗi thành viên dân tộc?",
+"general_comment": "Ngân hàng Chương 6 xác định bảo vệ chủ quyền quốc gia là nghĩa vụ và trách nhiệm cao nhất của mỗi thành viên dân tộc.",
+"answers": [
+{
+"text": "Bảo vệ chủ quyền quốc gia.",
+"weight": 100
+},
+{
+"text": "Xây dựng phong tục riêng biệt tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển lợi ích cá nhân.",
+"weight": 0
+},
+{
+"text": "Chỉ tham gia hoạt động tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 177: [Nhận biết] Đặc trưng kinh tế của quốc gia dân tộc",
+"points_possible": 1,
+"question_text": "Đặc trưng nào là cơ sở quan trọng gắn kết các bộ phận, các thành viên trong dân tộc, tạo nên tính thống nhất, ổn định, bền vững của dân tộc?",
+"general_comment": "Ngân hàng Chương 6 nhấn mạnh đặc trưng chung một phương thức sinh hoạt kinh tế.",
+"answers": [
+{
+"text": "Chung một phương thức sinh hoạt kinh tế.",
+"weight": 100
+},
+{
+"text": "Chung một nghi lễ tôn giáo duy nhất.",
+"weight": 0
+},
+{
+"text": "Chung một nhóm tuổi dân cư.",
+"weight": 0
+},
+{
+"text": "Chung một nghề nghiệp duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 178: [Nhận biết] Ngôn ngữ chung của quốc gia dân tộc",
+"points_possible": 1,
+"question_text": "Trong một quốc gia có nhiều cộng đồng người, với các ngôn ngữ khác nhau, thường vẫn có một ngôn ngữ chung thống nhất. Đây là đặc trưng nào của quốc gia dân tộc?",
+"general_comment": "Quốc gia dân tộc có ngôn ngữ chung làm công cụ giao tiếp giữa các cộng đồng.",
+"answers": [
+{
+"text": "Có chung một ngôn ngữ làm công cụ giao tiếp.",
+"weight": 100
+},
+{
+"text": "Có nhiều ngôn ngữ làm công cụ giao tiếp nhưng không có ngôn ngữ chung.",
+"weight": 0
+},
+{
+"text": "Có chung một giáo luật tôn giáo.",
+"weight": 0
+},
+{
+"text": "Có chung một hình thức sở hữu tư liệu sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 179: [Nhận biết] Văn hóa dân tộc",
+"points_possible": 1,
+"question_text": "Biểu hiện thông qua tâm lý, tính cách, phong tục, tập quán, lối sống của dân tộc, tạo nên bản sắc riêng của dân tộc là nội dung của khái niệm nào?",
+"general_comment": "Văn hóa dân tộc biểu hiện qua tâm lý, tính cách, phong tục, tập quán, lối sống và bản sắc riêng.",
+"answers": [
+{
+"text": "Văn hóa dân tộc.",
+"weight": 100
+},
+{
+"text": "Cơ cấu xã hội - nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Quan hệ sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Công pháp quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 180: [Nhận biết] Nhà nước quản lý cộng đồng dân tộc",
+"points_possible": 1,
+"question_text": "Các thành viên và cộng đồng tộc người trong một dân tộc đều chịu sự quản lý, điều khiển của tổ chức nào?",
+"general_comment": "Dân tộc theo nghĩa quốc gia gắn với sự quản lý của một nhà nước độc lập.",
+"answers": [
+{
+"text": "Một nhà nước độc lập.",
+"weight": 100
+},
+{
+"text": "Một giáo hội độc lập.",
+"weight": 0
+},
+{
+"text": "Một nhóm nghề nghiệp độc lập.",
+"weight": 0
+},
+{
+"text": "Một dòng họ độc lập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 181: [Nhận biết] Nhà nước trong thể chế chính trị dân tộc",
+"points_possible": 1,
+"question_text": "Tổ chức nào là đặc trưng cho thể chế chính trị của dân tộc, đại diện cho dân tộc trong quan hệ với các quốc gia dân tộc khác?",
+"general_comment": "Nhà nước là tổ chức chính trị đại diện cho quốc gia dân tộc trong quan hệ đối nội và đối ngoại.",
+"answers": [
+{
+"text": "Nhà nước.",
+"weight": 100
+},
+{
+"text": "Hội nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Cơ sở thờ tự.",
+"weight": 0
+},
+{
+"text": "Dòng tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 182: [Nhận biết] Tiêu chí quan trọng nhất của tộc người",
+"points_possible": 1,
+"question_text": "Tiêu chí nào quan trọng nhất để phân định tộc người này với tộc người khác và có vị trí quyết định đối với sự tồn tại, phát triển của mỗi tộc người?",
+"general_comment": "Ngân hàng Chương 6 xác định ý thức tự giác tộc người là tiêu chí quan trọng nhất.",
+"answers": [
+{
+"text": "Ý thức tự giác tộc người.",
+"weight": 100
+},
+{
+"text": "Trình độ đô thị hóa.",
+"weight": 0
+},
+{
+"text": "Mức thu nhập bình quân.",
+"weight": 0
+},
+{
+"text": "Số lượng cơ sở thờ tự.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 183: [Nhận biết] Mục đích xu hướng hình thành quốc gia độc lập",
+"points_possible": 1,
+"question_text": "Nội dung nào phản ánh đúng mục đích cao nhất của xu hướng hình thành quốc gia dân tộc độc lập?",
+"general_comment": "Mục đích cao nhất là dân tộc được độc lập trong việc lựa chọn chế độ chính trị và con đường phát triển của mình.",
+"answers": [
+{
+"text": "Sự độc lập về lựa chọn chế độ chính trị.",
+"weight": 100
+},
+{
+"text": "Sự phát triển của một nghi lễ chung.",
+"weight": 0
+},
+{
+"text": "Sự đồng nhất mọi bản sắc tộc người.",
+"weight": 0
+},
+{
+"text": "Sự liên minh kinh tế không cần chủ quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 184: [Nhận biết] Biểu hiện xu hướng độc lập dân tộc",
+"points_possible": 1,
+"question_text": "Trong thời đại chủ nghĩa tư bản, xu hướng hình thành các quốc gia dân tộc độc lập biểu hiện thành phong trào nào?",
+"general_comment": "Xu hướng dân tộc độc lập biểu hiện thành phong trào đấu tranh chống áp bức dân tộc.",
+"answers": [
+{
+"text": "Đấu tranh chống áp bức dân tộc.",
+"weight": 100
+},
+{
+"text": "Đấu tranh xóa bỏ mọi bản sắc dân tộc.",
+"weight": 0
+},
+{
+"text": "Đấu tranh duy trì chế độ thuộc địa.",
+"weight": 0
+},
+{
+"text": "Đấu tranh hợp nhất mọi tộc người thành một tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 185: [Nhận biết] Nguyên nhân xu hướng liên hiệp dân tộc",
+"points_possible": 1,
+"question_text": "Sự thống nhất những lợi ích về kinh tế, chính trị, văn hóa, xã hội là nguyên nhân dẫn tới xu hướng hình thành nội dung nào?",
+"general_comment": "Lợi ích chung thúc đẩy các dân tộc liên hiệp, xích lại gần nhau.",
+"answers": [
+{
+"text": "Liên hiệp các dân tộc.",
+"weight": 100
+},
+{
+"text": "Dân tộc biệt lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Thị tộc nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Cộng đồng tôn giáo duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 186: [Nhận biết] Luận điểm của Lênin về hai xu hướng dân tộc",
+"points_possible": 1,
+"question_text": "Điền phương án đúng vào luận điểm của V.I. Lênin: “Trong quá trình phát triển của (...) có hai xu hướng (...) trong vấn đề (...). Cả hai xu hướng đó là quy luật (...) của chủ nghĩa tư bản”.",
+"general_comment": "Ngân hàng Chương 6 chọn trật tự: chủ nghĩa tư bản, lịch sử, dân tộc, phổ biến.",
+"answers": [
+{
+"text": "Chủ nghĩa tư bản, lịch sử, dân tộc, phổ biến.",
+"weight": 100
+},
+{
+"text": "Dân tộc, phát triển, dân tộc, khách quan.",
+"weight": 0
+},
+{
+"text": "Dân tộc, lịch sử, giai cấp, phổ biến.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội, tự nhiên, tôn giáo, tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 187: [Nhận biết] Mục tiêu chính trị thời đại hiện nay",
+"points_possible": 1,
+"question_text": "Mục tiêu chính trị chủ yếu của mọi quốc gia trong thời đại ngày nay là gì?",
+"general_comment": "Ngân hàng Chương 6 xác định mục tiêu chính trị chủ yếu là độc lập dân tộc.",
+"answers": [
+{
+"text": "Độc lập dân tộc.",
+"weight": 100
+},
+{
+"text": "Liên minh tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tự cấp tự túc kinh tế.",
+"weight": 0
+},
+{
+"text": "Đồng hóa văn hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 188: [Nhận biết] Lập trường của Cương lĩnh dân tộc",
+"points_possible": 1,
+"question_text": "Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin thể hiện quan điểm, lập trường của chủ thể nào trong giải quyết quan hệ dân tộc?",
+"general_comment": "Cương lĩnh dân tộc thể hiện lập trường của giai cấp công nhân trong giải quyết vấn đề dân tộc.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giáo hội tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 189: [Nhận biết] Nguyên tắc đầu tiên trong Cương lĩnh dân tộc",
+"points_possible": 1,
+"question_text": "Nguyên tắc đầu tiên trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin là gì?",
+"general_comment": "Cương lĩnh dân tộc bắt đầu từ nguyên tắc các dân tộc hoàn toàn bình đẳng.",
+"answers": [
+{
+"text": "Các dân tộc hoàn toàn bình đẳng.",
+"weight": 100
+},
+{
+"text": "Các dân tộc tự cô lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Các dân tộc đồng hóa lẫn nhau.",
+"weight": 0
+},
+{
+"text": "Các dân tộc chỉ liên hiệp kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 190: [Nhận biết] Nội dung quyền bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Tất cả mọi dân tộc dù lớn hay nhỏ, đông người hay ít người, phát triển ở trình độ cao hay thấp đều có quyền lợi và nghĩa vụ ngang nhau là nội dung của quyền nào?",
+"general_comment": "Đây là nội dung của quyền bình đẳng giữa các dân tộc.",
+"answers": [
+{
+"text": "Bình đẳng dân tộc.",
+"weight": 100
+},
+{
+"text": "Tự quyết dân tộc.",
+"weight": 0
+},
+{
+"text": "Liên hiệp tôn giáo.",
+"weight": 0
+},
+{
+"text": "Đồng hóa dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 191: [Nhận biết] Cơ sở pháp lý của bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Quyền bình đẳng của các dân tộc phải được ghi nhận vào đâu?",
+"general_comment": "Quyền bình đẳng dân tộc phải được ghi nhận trong công pháp quốc tế và luật pháp quốc gia.",
+"answers": [
+{
+"text": "Công pháp quốc tế và luật pháp quốc gia.",
+"weight": 100
+},
+{
+"text": "Quy ước riêng của từng dòng họ.",
+"weight": 0
+},
+{
+"text": "Giáo luật của từng tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tập quán địa phương không thành văn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 192: [Thông hiểu] Điều kiện thực hiện bình đẳng dân tộc",
+"points_possible": 1,
+"question_text": "Khắc phục chênh lệch về trình độ phát triển kinh tế, văn hóa, xã hội giữa các dân tộc là điều kiện để bảo đảm quyền nào trong quốc gia đa dân tộc?",
+"general_comment": "Muốn bình đẳng thực chất cần thu hẹp chênh lệch phát triển giữa các dân tộc.",
+"answers": [
+{
+"text": "Quyền bình đẳng dân tộc.",
+"weight": 100
+},
+{
+"text": "Quyền tự do tín ngưỡng thuần túy.",
+"weight": 0
+},
+{
+"text": "Quyền tách khỏi mọi liên hệ quốc gia.",
+"weight": 0
+},
+{
+"text": "Quyền duy trì lạc hậu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 193: [Thông hiểu] Bình đẳng trong quan hệ quốc tế",
+"points_possible": 1,
+"question_text": "Đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa bá quyền nước lớn, chống áp bức bóc lột và vi phạm lợi ích của nước nhỏ là biểu hiện của quyền nào?",
+"general_comment": "Đây là biểu hiện của quyền bình đẳng trong quan hệ giữa các quốc gia dân tộc.",
+"answers": [
+{
+"text": "Bình đẳng trong quan hệ giữa các quốc gia dân tộc.",
+"weight": 100
+},
+{
+"text": "Mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Cư trú xen kẽ.",
+"weight": 0
+},
+{
+"text": "Độc quyền tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 194: [Nhận biết] Nội dung quyền dân tộc tự quyết",
+"points_possible": 1,
+"question_text": "Các dân tộc được tự do lựa chọn con đường phát triển, lựa chọn chế độ chính trị trong quá trình vận động, phát triển là nội dung của quyền nào?",
+"general_comment": "Đó là nội dung cơ bản của quyền dân tộc tự quyết.",
+"answers": [
+{
+"text": "Quyền dân tộc tự quyết.",
+"weight": 100
+},
+{
+"text": "Quyền đồng hóa dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền áp bức dân tộc.",
+"weight": 0
+},
+{
+"text": "Quyền ưu tiên dân tộc lớn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 195: [Nhận biết] Lập trường xem xét quyền tự quyết",
+"points_possible": 1,
+"question_text": "Khi xem xét quyền tự quyết của dân tộc, cần đứng vững trên lập trường nào?",
+"general_comment": "Chủ nghĩa Mác - Lênin yêu cầu xem xét quyền tự quyết trên lập trường của giai cấp công nhân.",
+"answers": [
+{
+"text": "Lập trường của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Lập trường của giai cấp tư sản dân tộc hẹp hòi.",
+"weight": 0
+},
+{
+"text": "Lập trường của chủ nghĩa bá quyền.",
+"weight": 0
+},
+{
+"text": "Lập trường của chủ nghĩa ly khai tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 196: [Thông hiểu] Chống lợi dụng quyền tự quyết",
+"points_possible": 1,
+"question_text": "Ủng hộ phong trào dân tộc tiến bộ, kiên quyết đấu tranh chống mưu đồ lợi dụng vấn đề dân tộc để can thiệp công việc nội bộ và chia rẽ dân tộc là lưu ý khi xem xét quyền nào?",
+"general_comment": "Cần phân biệt quyền tự quyết chân chính với việc lợi dụng quyền tự quyết để can thiệp, chia rẽ.",
+"answers": [
+{
+"text": "Quyền dân tộc tự quyết.",
+"weight": 100
+},
+{
+"text": "Quyền tự do tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Quyền bình đẳng giới.",
+"weight": 0
+},
+{
+"text": "Quyền sở hữu tư liệu sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 197: [Thông hiểu] Cơ sở nguyên tắc liên hiệp công nhân",
+"points_possible": 1,
+"question_text": "Lợi ích của công nhân ở dân tộc áp bức và dân tộc bị áp bức đều thống nhất là cơ sở khách quan của nguyên tắc nào?",
+"general_comment": "Sự thống nhất lợi ích giai cấp công nhân là cơ sở của nguyên tắc liên hiệp công nhân tất cả các dân tộc.",
+"answers": [
+{
+"text": "Liên hiệp công nhân tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Các dân tộc tự cô lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Các dân tộc phân biệt chủng tộc.",
+"weight": 0
+},
+{
+"text": "Các dân tộc từ bỏ quyền bình đẳng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 198: [Nhận biết] Giải pháp hữu hiệu trong Cương lĩnh dân tộc",
+"points_possible": 1,
+"question_text": "Nội dung nào trong Cương lĩnh dân tộc không chỉ là lời kêu gọi mà còn là giải pháp hữu hiệu bảo đảm thực hiện quyền bình đẳng và quyền tự quyết dân tộc?",
+"general_comment": "Liên hiệp công nhân tất cả các dân tộc là giải pháp quan trọng gắn kết phong trào dân tộc với lập trường quốc tế của giai cấp công nhân.",
+"answers": [
+{
+"text": "Liên hiệp công nhân tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Các dân tộc tách ra trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Các dân tộc đồng hóa văn hóa.",
+"weight": 0
+},
+{
+"text": "Các dân tộc từ bỏ hợp tác quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 199: [Nhận biết] Nội dung liên kết Cương lĩnh dân tộc",
+"points_possible": 1,
+"question_text": "Nội dung nào đóng vai trò liên kết các nội dung còn lại trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin thành một chỉnh thể?",
+"general_comment": "Giáo trình nêu liên hiệp công nhân tất cả các dân tộc là nội dung chủ yếu và giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc.",
+"answers": [
+{
+"text": "Liên hiệp công nhân tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Các dân tộc hoàn toàn bình đẳng, nhưng tách khỏi quyền tự quyết.",
+"weight": 0
+},
+{
+"text": "Các dân tộc chỉ giữ bản sắc riêng, không liên hiệp.",
+"weight": 0
+},
+{
+"text": "Các dân tộc phụ thuộc vào nước lớn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 200: [Nhận biết] Con đường giải phóng dân tộc của Hồ Chí Minh",
+"points_possible": 1,
+"question_text": "Con đường giải phóng dân tộc của Hồ Chí Minh khác với các phong trào yêu nước Việt Nam cuối thế kỷ XIX, đầu thế kỷ XX ở nội dung căn bản nào?",
+"general_comment": "Hồ Chí Minh gắn giải phóng dân tộc với cách mạng vô sản thế giới.",
+"answers": [
+{
+"text": "Gắn con đường giải phóng dân tộc với cách mạng vô sản thế giới.",
+"weight": 100
+},
+{
+"text": "Gắn giải phóng dân tộc với duy trì chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Gắn giải phóng dân tộc với bảo hộ thực dân.",
+"weight": 0
+},
+{
+"text": "Gắn giải phóng dân tộc với cải lương tư sản thuần túy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 201: [Nhận biết] Con đường giành độc lập theo Hồ Chí Minh",
+"points_possible": 1,
+"question_text": "Theo Chủ tịch Hồ Chí Minh, con đường để đấu tranh cho độc lập, tự do, chủ quyền của dân tộc Việt Nam là gì?",
+"general_comment": "Ngân hàng Chương 6 xác định đáp án là cách mạng vô sản.",
+"answers": [
+{
+"text": "Cách mạng vô sản.",
+"weight": 100
+},
+{
+"text": "Cách mạng phong kiến.",
+"weight": 0
+},
+{
+"text": "Cách mạng tư sản.",
+"weight": 0
+},
+{
+"text": "Cải cách ôn hòa trong khuôn khổ thuộc địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 202: [Nhận biết] Mục tiêu cao nhất cách mạng dân tộc dân chủ",
+"points_possible": 1,
+"question_text": "Theo tư tưởng Hồ Chí Minh, mục tiêu cao nhất của cách mạng dân tộc dân chủ ở Việt Nam là gì?",
+"general_comment": "Mục tiêu cao nhất là giành độc lập dân tộc.",
+"answers": [
+{
+"text": "Giành độc lập dân tộc.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ toàn bộ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Chỉ giành ruộng đất cho nông dân.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển thương mại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 203: [Nhận biết] Câu nói của Hồ Chí Minh về độc lập tự do",
+"points_possible": 1,
+"question_text": "Điền cụm từ đúng vào câu nói của Hồ Chí Minh: “... cho đồng bào tôi, cho Tổ quốc tôi, đấy là tất cả những điều tôi muốn; đấy là tất cả những điều tôi hiểu”.",
+"general_comment": "Cụm từ đúng trong ngân hàng là “Độc lập, tự do”.",
+"answers": [
+{
+"text": "Độc lập, tự do.",
+"weight": 100
+},
+{
+"text": "Tự do, độc lập.",
+"weight": 0
+},
+{
+"text": "Hạnh phúc, độc lập.",
+"weight": 0
+},
+{
+"text": "Hạnh phúc, tự do.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 204: [Nhận biết] Dĩ bất biến ứng vạn biến",
+"points_possible": 1,
+"question_text": "Trong lời dặn “Dĩ bất biến, ứng vạn biến”, điều không đổi được Hồ Chí Minh nhấn mạnh trong ngân hàng Chương 6 là gì?",
+"general_comment": "Ngân hàng Chương 6 chọn nội dung độc lập dân tộc và chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Độc lập dân tộc và chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Duy trì chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Tách dân tộc Việt Nam khỏi dân tộc thế giới.",
+"weight": 0
+},
+{
+"text": "Chỉ giữ quan hệ ngoại giao hình thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 205: [Nhận biết] Con đường duy nhất để dân tộc Việt Nam độc lập",
+"points_possible": 1,
+"question_text": "Theo Chủ tịch Hồ Chí Minh, con đường duy nhất để dân tộc Việt Nam giành được độc lập, nhân dân Việt Nam được tự do là gì?",
+"general_comment": "Ngân hàng Chương 6 xác định đó là cách mạng giải phóng dân tộc.",
+"answers": [
+{
+"text": "Cách mạng giải phóng dân tộc.",
+"weight": 100
+},
+{
+"text": "Cải lương thuộc địa.",
+"weight": 0
+},
+{
+"text": "Phục hồi phong kiến.",
+"weight": 0
+},
+{
+"text": "Đấu tranh kinh tế thuần túy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 206: [Nhận biết] Điều kiện tiên quyết lên chủ nghĩa xã hội ở Việt Nam",
+"points_possible": 1,
+"question_text": "Theo tư tưởng Hồ Chí Minh, điều kiện tiên quyết để tiến lên chủ nghĩa xã hội ở Việt Nam là gì?",
+"general_comment": "Độc lập dân tộc là điều kiện tiên quyết để Việt Nam tiến lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Dân tộc Việt Nam được độc lập.",
+"weight": 100
+},
+{
+"text": "Giai cấp nông dân bị tách khỏi cách mạng.",
+"weight": 0
+},
+{
+"text": "Dân tộc Việt Nam từ bỏ chủ quyền.",
+"weight": 0
+},
+{
+"text": "Việt Nam duy trì chế độ thuộc địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 207: [Thông hiểu] Mục đích thống nhất của độc lập dân tộc và CNXH",
+"points_possible": 1,
+"question_text": "Theo Hồ Chí Minh, độc lập dân tộc và chủ nghĩa xã hội thống nhất với nhau ở mục đích nào?",
+"general_comment": "Độc lập dân tộc gắn với chủ nghĩa xã hội nhằm giải phóng con người khỏi áp bức, bất công.",
+"answers": [
+{
+"text": "Giải phóng con người khỏi áp bức, bất công.",
+"weight": 100
+},
+{
+"text": "Duy trì bất bình đẳng xã hội.",
+"weight": 0
+},
+{
+"text": "Phục hồi trật tự phong kiến.",
+"weight": 0
+},
+{
+"text": "Tách phát triển dân tộc khỏi hạnh phúc nhân dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 208: [Nhận biết] Bệnh của người ở dân tộc lớn",
+"points_possible": 1,
+"question_text": "Theo tư tưởng Hồ Chí Minh, những người ở dân tộc lớn dễ mắc bệnh gì?",
+"general_comment": "Ngân hàng Chương 6 xác định đó là bệnh kiêu ngạo.",
+"answers": [
+{
+"text": "Kiêu ngạo.",
+"weight": 100
+},
+{
+"text": "Tự ti dân tộc.",
+"weight": 0
+},
+{
+"text": "Dựa dẫm.",
+"weight": 0
+},
+{
+"text": "Mê tín dị đoan.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 209: [Nhận biết] Tâm lý của dân tộc nhỏ",
+"points_possible": 1,
+"question_text": "Theo tư tưởng Hồ Chí Minh, một số cán bộ, nhân dân địa phương không cố gắng, cái gì cũng cho là không làm được thường do tâm lý nào?",
+"general_comment": "Ngân hàng Chương 6 gắn hiện tượng này với tâm lý tự ti rằng mình là dân tộc nhỏ bé.",
+"answers": [
+{
+"text": "Tự ti rằng mình là dân tộc nhỏ bé.",
+"weight": 100
+},
+{
+"text": "Tự đại dân tộc.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa bá quyền.",
+"weight": 0
+},
+{
+"text": "Độc quyền tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 210: [Nhận biết] Loại hình dân tộc Việt Nam",
+"points_possible": 1,
+"question_text": "Dân tộc Việt Nam thuộc loại hình dân tộc nào theo ngân hàng Chương 6?",
+"general_comment": "Ngân hàng Chương 6 xác định dân tộc Việt Nam thuộc loại hình dân tộc tiền tư bản.",
+"answers": [
+{
+"text": "Dân tộc tiền tư bản.",
+"weight": 100
+},
+{
+"text": "Dân tộc tư sản.",
+"weight": 0
+},
+{
+"text": "Dân tộc hậu tư sản.",
+"weight": 0
+},
+{
+"text": "Dân tộc phong kiến châu Âu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 211: [Nhận biết] Điều kiện không đưa đến hình thành dân tộc Việt Nam",
+"points_possible": 1,
+"question_text": "Nội dung nào không phải là điều kiện đưa đến sự hình thành dân tộc Việt Nam?",
+"general_comment": "Ngân hàng Chương 6 xác định nhu cầu trao đổi hàng hóa giữa các vùng miền hình thành thị trường dân tộc không phải điều kiện hình thành dân tộc Việt Nam theo cách lý giải này.",
+"answers": [
+{
+"text": "Nhu cầu trao đổi hàng hóa giữa các vùng miền hình thành thị trường dân tộc.",
+"weight": 100
+},
+{
+"text": "Yêu cầu của cuộc đấu tranh chống thiên tai, phát triển nông nghiệp lúa nước.",
+"weight": 0
+},
+{
+"text": "Yêu cầu của cuộc đấu tranh chống ngoại xâm.",
+"weight": 0
+},
+{
+"text": "Sự tác động của chế độ sở hữu công cộng về ruộng đất và công xã nông thôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 212: [Nhận biết] Tỷ lệ dân tộc thiểu số năm 2019",
+"points_possible": 1,
+"question_text": "Theo Tổng điều tra Dân số và Nhà ở năm 2019 được ngân hàng câu hỏi nêu, các dân tộc thiểu số chiếm khoảng bao nhiêu phần trăm dân số Việt Nam?",
+"general_comment": "Ngân hàng Chương 6 nêu các dân tộc thiểu số chiếm khoảng 14,7% dân số Việt Nam theo Tổng điều tra 2019.",
+"answers": [
+{
+"text": "14,7%.",
+"weight": 100
+},
+{
+"text": "18%.",
+"weight": 0
+},
+{
+"text": "15,5%.",
+"weight": 0
+},
+{
+"text": "12,3%.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 213: [Nhận biết] Tỷ lệ dân tộc Kinh năm 2019",
+"points_possible": 1,
+"question_text": "Theo Tổng điều tra Dân số và Nhà ở năm 2019 được ngân hàng câu hỏi nêu, dân tộc Kinh chiếm khoảng bao nhiêu phần trăm dân số Việt Nam?",
+"general_comment": "Ngân hàng Chương 6 nêu dân tộc Kinh chiếm khoảng 85,3% dân số Việt Nam theo Tổng điều tra 2019.",
+"answers": [
+{
+"text": "85,3%.",
+"weight": 100
+},
+{
+"text": "80%.",
+"weight": 0
+},
+{
+"text": "81,3%.",
+"weight": 0
+},
+{
+"text": "82,6%.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 214: [Nhận biết] Đặc điểm không đúng của các dân tộc Việt Nam",
+"points_possible": 1,
+"question_text": "Nội dung nào không phản ánh đúng đặc điểm của các dân tộc ở Việt Nam?",
+"general_comment": "Không phải mọi dân tộc ở Việt Nam đều có cả tiếng nói và chữ viết riêng; nhiều dân tộc có tiếng nói nhưng không có chữ viết riêng phổ biến.",
+"answers": [
+{
+"text": "Mỗi dân tộc đều có tiếng nói và chữ viết riêng.",
+"weight": 100
+},
+{
+"text": "Các dân tộc có tinh thần đoàn kết và ý thức cộng đồng sâu sắc.",
+"weight": 0
+},
+{
+"text": "Các dân tộc có truyền thống yêu nước và tự hào dân tộc.",
+"weight": 0
+},
+{
+"text": "Mỗi dân tộc đều có bản sắc văn hóa riêng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 215: [Thông hiểu] Cư trú đan xen và quan hệ dân tộc",
+"points_possible": 1,
+"question_text": "Đặc điểm nào của dân tộc Việt Nam vừa tạo cơ sở cho đoàn kết, thống nhất hữu cơ giữa các dân tộc, vừa tiềm ẩn nguy cơ mâu thuẫn, kỳ thị hoặc xung đột nếu bị lợi dụng?",
+"general_comment": "Cư trú đan xen tạo điều kiện giao lưu, đoàn kết nhưng cũng đòi hỏi chính sách đúng để phòng ngừa mâu thuẫn.",
+"answers": [
+{
+"text": "Các dân tộc Việt Nam có địa bàn cư trú đan xen.",
+"weight": 100
+},
+{
+"text": "Các dân tộc Việt Nam có tinh thần yêu nước.",
+"weight": 0
+},
+{
+"text": "Các dân tộc Việt Nam có ý thức cộng đồng cao.",
+"weight": 0
+},
+{
+"text": "Các dân tộc Việt Nam đều phát triển ngang nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 216: [Nhận biết] Cốt lõi thống nhất của văn hóa các dân tộc",
+"points_possible": 1,
+"question_text": "Các bản sắc văn hóa đa dạng của các dân tộc Việt Nam thống nhất với nhau ở nội dung cốt lõi nào?",
+"general_comment": "Ngân hàng Chương 6 xác định cốt lõi thống nhất là lòng yêu nước.",
+"answers": [
+{
+"text": "Lòng yêu nước.",
+"weight": 100
+},
+{
+"text": "Tinh thần biệt lập dân tộc.",
+"weight": 0
+},
+{
+"text": "Tâm lý tự ti dân tộc.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa bá quyền dân tộc lớn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 217: [Nhận biết] Sợi chỉ đỏ trong đường lối chính trị của Đảng",
+"points_possible": 1,
+"question_text": "Đối với quốc gia dân tộc Việt Nam, nội dung nào được xem là sợi chỉ đỏ xuyên suốt đường lối chính trị của Đảng ta?",
+"general_comment": "Cách diễn đạt chuẩn trong lý luận chính trị Việt Nam là độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ thực hiện quyền tự quyết mà không cần chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ xây dựng chủ nghĩa xã hội mà tách khỏi độc lập dân tộc.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển kinh tế mà không cần vấn đề dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 218: [Nhận biết] Thời điểm ra đời của tôn giáo",
+"points_possible": 1,
+"question_text": "Theo quan điểm trong ngân hàng Chương 6, tôn giáo ra đời khi nào?",
+"general_comment": "Tôn giáo ra đời khi trình độ tư duy của con người đạt đến mức có khả năng tư duy trừu tượng.",
+"answers": [
+{
+"text": "Khi trình độ tư duy của con người đạt đến mức có khả năng tư duy trừu tượng.",
+"weight": 100
+},
+{
+"text": "Khi chủ nghĩa tư bản ra đời.",
+"weight": 0
+},
+{
+"text": "Khi mọi bất công xã hội đã được xóa bỏ.",
+"weight": 0
+},
+{
+"text": "Khi nhà nước xã hội chủ nghĩa hình thành.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 219: [Nhận biết] Không thuộc nguồn gốc của tôn giáo",
+"points_possible": 1,
+"question_text": "Yếu tố nào sau đây không thuộc về nguồn gốc của tôn giáo theo giáo trình?",
+"general_comment": "Giáo trình nêu các nguồn gốc của tôn giáo gồm tự nhiên - kinh tế xã hội, nhận thức và tâm lý; sự xuất hiện các cộng đồng dân tộc không phải một nguồn gốc cơ bản được liệt kê.",
+"answers": [
+{
+"text": "Sự xuất hiện các cộng đồng dân tộc.",
+"weight": 100
+},
+{
+"text": "Nguồn gốc tự nhiên, kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Nguồn gốc nhận thức.",
+"weight": 0
+},
+{
+"text": "Nguồn gốc tâm lý.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 220: [Nhận biết] Tôn giáo như thực thể xã hội",
+"points_possible": 1,
+"question_text": "Khi tiếp cận tôn giáo như một thực thể xã hội, tiêu chí nào dưới đây là cần có?",
+"general_comment": "Giáo trình nêu tôn giáo cụ thể có niềm tin tôn giáo, hệ thống giáo thuyết, cơ sở thờ tự, tổ chức nhân sự và tín đồ.",
+"answers": [
+{
+"text": "Có niềm tin tôn giáo, hệ thống giáo thuyết, cơ sở thờ tự, tổ chức nhân sự và hệ thống tín đồ.",
+"weight": 100
+},
+{
+"text": "Chỉ có một nhóm người cùng nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Chỉ có quan hệ sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Chỉ có cơ cấu tuổi và giới tính giống nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 221: [Nhận biết] Các loại hình tín ngưỡng ở Việt Nam",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây là ví dụ về các loại hình tín ngưỡng được giáo trình nêu?",
+"general_comment": "Giáo trình nêu tín ngưỡng thờ cúng tổ tiên, thờ anh hùng dân tộc, thờ Mẫu là các loại hình tín ngưỡng.",
+"answers": [
+{
+"text": "Tín ngưỡng thờ cúng tổ tiên, thờ anh hùng dân tộc, thờ Mẫu.",
+"weight": 100
+},
+{
+"text": "Triết học cổ điển Đức, kinh tế chính trị Anh, chủ nghĩa xã hội không tưởng Pháp.",
+"weight": 0
+},
+{
+"text": "Công nhân, nông dân, trí thức.",
+"weight": 0
+},
+{
+"text": "Thị tộc, bộ lạc, bộ tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 222: [Nhận biết] Thờ cúng tổ tiên",
+"points_possible": 1,
+"question_text": "Hình thức thờ cúng tổ tiên thuộc về hiện tượng nào?",
+"general_comment": "Thờ cúng tổ tiên là một loại hình tín ngưỡng truyền thống.",
+"answers": [
+{
+"text": "Tín ngưỡng.",
+"weight": 100
+},
+{
+"text": "Tôn giáo theo nghĩa giáo hội hoàn chỉnh.",
+"weight": 0
+},
+{
+"text": "Mê tín dị đoan trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Dị đoan bắt buộc phải xóa bỏ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 223: [Nhận biết] Tính lịch sử của tôn giáo",
+"points_possible": 1,
+"question_text": "Tính lịch sử của tôn giáo biểu hiện như thế nào?",
+"general_comment": "Tôn giáo hình thành, tồn tại, vận động và phát triển trong những giai đoạn lịch sử nhất định.",
+"answers": [
+{
+"text": "Tôn giáo luôn có sự vận động và phát triển cùng với sự vận động và phát triển của xã hội.",
+"weight": 100
+},
+{
+"text": "Tôn giáo không có sự vận động và phát triển.",
+"weight": 0
+},
+{
+"text": "Tôn giáo mất đi hoàn toàn ngay khi xã hội xã hội chủ nghĩa hình thành.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ tồn tại trong xã hội nguyên thủy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 224: [Nhận biết] Nguồn gốc tự nhiên của tôn giáo",
+"points_possible": 1,
+"question_text": "Chọn phương án đúng nhất: nguồn gốc tự nhiên của tôn giáo là gì?",
+"general_comment": "Nguồn gốc tự nhiên gắn với sự bất lực, sợ hãi của con người trước các lực lượng tự nhiên và xã hội mà họ chưa giải thích, kiểm soát được.",
+"answers": [
+{
+"text": "Từ sự bất lực của con người trước những lực lượng tự nhiên và xã hội.",
+"weight": 100
+},
+{
+"text": "Từ sự xuất hiện các cộng đồng dân tộc.",
+"weight": 0
+},
+{
+"text": "Từ nhu cầu của các lực lượng chính trị.",
+"weight": 0
+},
+{
+"text": "Từ sự phát triển của kinh tế thị trường hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 225: [Nhận biết] Tính quần chúng của tôn giáo",
+"points_possible": 1,
+"question_text": "Vì sao tôn giáo mang tính quần chúng?",
+"general_comment": "Tôn giáo đáp ứng nhu cầu tinh thần của một bộ phận quần chúng nhân dân, đặc biệt trong những hoàn cảnh lịch sử nhất định.",
+"answers": [
+{
+"text": "Vì tôn giáo đáp ứng nhu cầu tinh thần của một bộ phận quần chúng nhân dân.",
+"weight": 100
+},
+{
+"text": "Vì tôn giáo chỉ là phương tiện của giai cấp cầm quyền.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo không liên quan đến đời sống tinh thần.",
+"weight": 0
+},
+{
+"text": "Vì tôn giáo chỉ tồn tại trong tầng lớp trí thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 226: [Nhận biết] Thời điểm tôn giáo mang tính chính trị",
+"points_possible": 1,
+"question_text": "Khi nào tôn giáo mang tính chính trị?",
+"general_comment": "Tôn giáo mang tính chính trị rõ khi xã hội có phân chia giai cấp và tôn giáo bị sử dụng trong quan hệ lợi ích giai cấp.",
+"answers": [
+{
+"text": "Trong xã hội có phân chia giai cấp.",
+"weight": 100
+},
+{
+"text": "Ngay từ khi tôn giáo xuất hiện trong mọi xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ trong xã hội nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Chỉ khi không còn nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 227: [Nhận biết] Biểu hiện tính chính trị của tôn giáo",
+"points_possible": 1,
+"question_text": "Tính chính trị của tôn giáo biểu hiện như thế nào?",
+"general_comment": "Tính chính trị thể hiện khi các thế lực chính trị lợi dụng tôn giáo phục vụ mục đích của họ.",
+"answers": [
+{
+"text": "Các thế lực chính trị lợi dụng tôn giáo phục vụ cho mục đích của họ.",
+"weight": 100
+},
+{
+"text": "Tôn giáo luôn tự động là khoa học thực nghiệm.",
+"weight": 0
+},
+{
+"text": "Tôn giáo không bao giờ liên quan đến lợi ích giai cấp.",
+"weight": 0
+},
+{
+"text": "Tôn giáo chỉ là hoạt động sinh học tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 228: [Nhận biết] Tính quần chúng và khát vọng xã hội tốt đẹp",
+"points_possible": 1,
+"question_text": "Luận điểm nào đúng về tính quần chúng rộng rãi của tôn giáo?",
+"general_comment": "Tôn giáo có tính quần chúng vì phản ánh một phần khát vọng về xã hội tốt đẹp, tự do, nhân đạo và hướng thiện.",
+"answers": [
+{
+"text": "Tôn giáo mang tính quần chúng rộng rãi vì nó phản ánh khát vọng của quần chúng về một xã hội tốt đẹp.",
+"weight": 100
+},
+{
+"text": "Tôn giáo mang tính quần chúng vì chỉ phục vụ lợi ích của giai cấp thống trị.",
+"weight": 0
+},
+{
+"text": "Tôn giáo mang tính quần chúng vì không liên quan đến nhu cầu tinh thần.",
+"weight": 0
+},
+{
+"text": "Tôn giáo mang tính quần chúng vì nó thay thế hoàn toàn khoa học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 229: [Nhận biết] Quan điểm đoàn kết trong giải quyết tôn giáo",
+"points_possible": 1,
+"question_text": "Một trong những quan điểm cơ bản của chủ nghĩa Mác - Lênin trong giải quyết vấn đề tôn giáo là gì?",
+"general_comment": "Cần thực hiện đoàn kết toàn dân tộc, đoàn kết các tôn giáo và đoàn kết người có tôn giáo với người không theo tôn giáo.",
+"answers": [
+{
+"text": "Thực hiện đoàn kết toàn dân tộc, đoàn kết các tôn giáo.",
+"weight": 100
+},
+{
+"text": "Chia rẽ người theo tôn giáo và không theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Cấm đoán mọi sinh hoạt tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Đồng nhất mọi tôn giáo thành một tôn giáo duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 230: [Nhận biết] Hai mặt trong vấn đề tôn giáo",
+"points_possible": 1,
+"question_text": "Một quan điểm cơ bản của chủ nghĩa Mác - Lênin trong giải quyết vấn đề tôn giáo là phân biệt rõ hai mặt nào?",
+"general_comment": "Giáo trình yêu cầu phân biệt mặt chính trị và mặt tư tưởng trong vấn đề tôn giáo.",
+"answers": [
+{
+"text": "Chính trị và tư tưởng.",
+"weight": 100
+},
+{
+"text": "Văn hóa và địa lý.",
+"weight": 0
+},
+{
+"text": "Sinh học và tự nhiên.",
+"weight": 0
+},
+{
+"text": "Dân cư và nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 231: [Nhận biết] Mặt tư tưởng trong vấn đề tôn giáo",
+"points_possible": 1,
+"question_text": "Mặt tư tưởng trong việc giải quyết vấn đề tôn giáo theo quan điểm Mác - Lênin thể hiện ở nội dung nào?",
+"general_comment": "Mặt tư tưởng thể hiện sự khác biệt về niềm tin, mức độ tin giữa người có tôn giáo, không tôn giáo và giữa các tôn giáo khác nhau.",
+"answers": [
+{
+"text": "Sự tín ngưỡng trong tôn giáo.",
+"weight": 100
+},
+{
+"text": "Sự lợi dụng tôn giáo để chống phá cách mạng.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn đối kháng về lợi ích chính trị.",
+"weight": 0
+},
+{
+"text": "Hoạt động gây rối an ninh quốc gia.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 232: [Nhận biết] Mặt chính trị trong vấn đề tôn giáo",
+"points_possible": 1,
+"question_text": "Mặt chính trị trong việc giải quyết vấn đề tôn giáo theo quan điểm Mác - Lênin thể hiện ở nội dung nào?",
+"general_comment": "Mặt chính trị thể hiện ở việc lợi dụng tôn giáo, phản ánh mâu thuẫn đối kháng về lợi ích kinh tế, chính trị.",
+"answers": [
+{
+"text": "Sự lợi dụng tôn giáo.",
+"weight": 100
+},
+{
+"text": "Sự khác biệt niềm tin không đối kháng.",
+"weight": 0
+},
+{
+"text": "Sự cầu mong che chở tinh thần.",
+"weight": 0
+},
+{
+"text": "Sự ngưỡng mộ cái linh thiêng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 233: [Nhận biết] Nguyên nhân tôn giáo mang tính chính trị",
+"points_possible": 1,
+"question_text": "Nguyên nhân cơ bản nào làm cho tôn giáo mang tính chính trị?",
+"general_comment": "Trong xã hội có đối kháng giai cấp, giai cấp thống trị có thể lợi dụng tôn giáo để phục vụ lợi ích của mình.",
+"answers": [
+{
+"text": "Giai cấp thống trị lợi dụng tôn giáo.",
+"weight": 100
+},
+{
+"text": "Niềm tin tôn giáo khác nhau tự nó tạo chính trị.",
+"weight": 0
+},
+{
+"text": "Văn hóa đa dạng giữa các giai tầng.",
+"weight": 0
+},
+{
+"text": "Tâm lý xã hội khác nhau giữa các dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 234: [Nhận biết] Mục đích chính sách tôn giáo",
+"points_possible": 1,
+"question_text": "Chính sách tôn giáo của Đảng và Nhà nước ta nhằm mục đích trực tiếp nào được ngân hàng câu hỏi nhấn mạnh?",
+"general_comment": "Ngân hàng Chương 6 nhấn mạnh chính sách tôn giáo nhằm tôn trọng quyền tự do tín ngưỡng và không tín ngưỡng.",
+"answers": [
+{
+"text": "Tôn trọng quyền tự do tín ngưỡng và không tín ngưỡng.",
+"weight": 100
+},
+{
+"text": "Hạn chế sự phát triển hợp pháp của mọi tôn giáo.",
+"weight": 0
+},
+{
+"text": "Chỉ thực hiện đoàn kết trong nội bộ một tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tách đồng bào tôn giáo khỏi khối đại đoàn kết dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 235: [Nhận biết] Hoạt động tôn giáo được pháp luật bảo hộ",
+"points_possible": 1,
+"question_text": "Các tổ chức tôn giáo được Nhà nước thừa nhận được hoạt động như thế nào?",
+"general_comment": "Giáo trình nêu các tổ chức tôn giáo được Nhà nước thừa nhận được hoạt động theo pháp luật và được pháp luật bảo hộ.",
+"answers": [
+{
+"text": "Hoạt động theo pháp luật và được pháp luật bảo hộ.",
+"weight": 100
+},
+{
+"text": "Hoạt động ngoài pháp luật và không chịu quản lý.",
+"weight": 0
+},
+{
+"text": "Hoạt động trái chính sách của Nhà nước.",
+"weight": 0
+},
+{
+"text": "Hoạt động không cần quan tâm đến lợi ích quốc gia.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 236: [Nhận biết] Quyền hành đạo của tín đồ",
+"points_possible": 1,
+"question_text": "Mọi tín đồ có quyền tự do hành đạo ở đâu theo quy định của pháp luật?",
+"general_comment": "Giáo trình nêu tín đồ có quyền tự do hành đạo tại gia đình và cơ sở thờ tự hợp pháp theo quy định của pháp luật.",
+"answers": [
+{
+"text": "Tại gia đình và cơ sở thờ tự hợp pháp theo quy định của pháp luật.",
+"weight": 100
+},
+{
+"text": "Ở bất kỳ nơi nào, kể cả khi vi phạm pháp luật.",
+"weight": 0
+},
+{
+"text": "Chỉ ở nước ngoài.",
+"weight": 0
+},
+{
+"text": "Chỉ trong tổ chức chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 237: [Nhận biết] Nội dung cốt lõi của công tác tôn giáo",
+"points_possible": 1,
+"question_text": "Nội dung cốt lõi của công tác tôn giáo ở Việt Nam là gì?",
+"general_comment": "Giáo trình xác định nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng.",
+"answers": [
+{
+"text": "Công tác vận động quần chúng.",
+"weight": 100
+},
+{
+"text": "Công tác cưỡng bức niềm tin.",
+"weight": 0
+},
+{
+"text": "Công tác phân biệt tín đồ theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Công tác tách tôn giáo khỏi dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 238: [Nhận biết] Tôn giáo và dân tộc ở Việt Nam",
+"points_possible": 1,
+"question_text": "Các tôn giáo ở Việt Nam trong lịch sử và hiện tại nhìn chung có truyền thống nào?",
+"general_comment": "Giáo trình nêu các tôn giáo ở Việt Nam có truyền thống gắn bó chặt chẽ với dân tộc, đồng hành cùng dân tộc, gắn đạo với đời.",
+"answers": [
+{
+"text": "Gắn bó chặt chẽ với dân tộc, đồng hành cùng dân tộc, gắn đạo với đời.",
+"weight": 100
+},
+{
+"text": "Luôn đối lập tuyệt đối với dân tộc.",
+"weight": 0
+},
+{
+"text": "Không có quan hệ với văn hóa Việt Nam.",
+"weight": 0
+},
+{
+"text": "Chỉ tồn tại ngoài cộng đồng quốc gia dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 239: [Nhận biết] Tín ngưỡng truyền thống chi phối quan hệ dân tộc - tôn giáo",
+"points_possible": 1,
+"question_text": "Tín ngưỡng truyền thống nào được giáo trình nhấn mạnh là chi phối mạnh quan hệ dân tộc và tôn giáo ở Việt Nam?",
+"general_comment": "Giáo trình nhấn mạnh tín ngưỡng thờ cúng tổ tiên có tác động mạnh đến việc các tôn giáo ngoại sinh thích nghi với văn hóa bản địa.",
+"answers": [
+{
+"text": "Tín ngưỡng thờ cúng tổ tiên.",
+"weight": 100
+},
+{
+"text": "Tín ngưỡng của một tôn giáo ngoại sinh duy nhất.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng gắn với phân biệt chủng tộc.",
+"weight": 0
+},
+{
+"text": "Tín ngưỡng phủ nhận văn hóa bản địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 240: [Nhận biết] Tôn giáo ngoại sinh ở Việt Nam",
+"points_possible": 1,
+"question_text": "Phần lớn các tôn giáo ở Việt Nam có nguồn gốc như thế nào?",
+"general_comment": "Giáo trình nêu phần lớn các tôn giáo ở Việt Nam là tôn giáo ngoại sinh, khi du nhập phải thích nghi với văn hóa bản địa.",
+"answers": [
+{
+"text": "Là tôn giáo ngoại sinh và phải thích nghi với nền tảng văn hóa bản địa.",
+"weight": 100
+},
+{
+"text": "Đều là tôn giáo nội sinh hoàn toàn.",
+"weight": 0
+},
+{
+"text": "Đều không chịu tác động của văn hóa Việt Nam.",
+"weight": 0
+},
+{
+"text": "Đều không có tín đồ là người Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 241: [Nhận biết] Hiện tượng tôn giáo mới",
+"points_possible": 1,
+"question_text": "Theo giáo trình, hiện tượng tôn giáo mới ở Việt Nam hiện nay có xu hướng như thế nào?",
+"general_comment": "Các hiện tượng tôn giáo mới có xu hướng phát triển mạnh, cần được quản lý tốt để bảo đảm ổn định chính trị và quan hệ dân tộc - tôn giáo.",
+"answers": [
+{
+"text": "Có xu hướng phát triển mạnh và cần được quản lý tốt.",
+"weight": 100
+},
+{
+"text": "Đã hoàn toàn biến mất.",
+"weight": 0
+},
+{
+"text": "Không ảnh hưởng gì đến đời sống cộng đồng.",
+"weight": 0
+},
+{
+"text": "Không cần quản lý bằng pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 242: [Nhận biết] Bốn khu vực trọng điểm",
+"points_possible": 1,
+"question_text": "Các thế lực thù địch thường lợi dụng vấn đề dân tộc và tôn giáo để thực hiện “diễn biến hòa bình”, tập trung ở bốn khu vực trọng điểm nào?",
+"general_comment": "Giáo trình nêu bốn khu vực trọng điểm là Tây Bắc, Tây Nguyên, Tây Nam Bộ và Tây duyên hải miền Trung.",
+"answers": [
+{
+"text": "Tây Bắc, Tây Nguyên, Tây Nam Bộ và Tây duyên hải miền Trung.",
+"weight": 100
+},
+{
+"text": "Đông Bắc, Đồng bằng sông Hồng, Đông Nam Bộ và Bắc Trung Bộ.",
+"weight": 0
+},
+{
+"text": "Hà Nội, Hải Phòng, Đà Nẵng và Thành phố Hồ Chí Minh.",
+"weight": 0
+},
+{
+"text": "Tây Bắc, Đông Bắc, Bắc Trung Bộ và Nam Trung Bộ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 243: [Vận dụng/Phân tích] Tổng hợp Chương 6",
+"points_possible": 1,
+"question_text": "Một chính sách vừa bảo đảm bình đẳng, đoàn kết, giúp nhau cùng phát triển giữa các dân tộc; vừa tôn trọng tự do tín ngưỡng, không tín ngưỡng; vừa chống lợi dụng dân tộc, tôn giáo để chia rẽ, gây mất ổn định. Chính sách đó phù hợp nhất với yêu cầu nào của Chương 6?",
+"general_comment": "Đây là sự vận dụng tổng hợp quan điểm Mác - Lênin và chính sách của Đảng, Nhà nước Việt Nam về dân tộc, tôn giáo và quan hệ dân tộc - tôn giáo.",
+"answers": [
+{
+"text": "Giải quyết đúng vấn đề dân tộc, tôn giáo và quan hệ dân tộc - tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Tách vấn đề tôn giáo khỏi lợi ích quốc gia dân tộc.",
+"weight": 0
+},
+{
+"text": "Đồng hóa các dân tộc và tôn giáo bằng mệnh lệnh hành chính.",
+"weight": 0
+},
+{
+"text": "Chỉ ưu tiên một tôn giáo hoặc một dân tộc trong chính sách công.",
+"weight": 0
+}
+]
+}
+]

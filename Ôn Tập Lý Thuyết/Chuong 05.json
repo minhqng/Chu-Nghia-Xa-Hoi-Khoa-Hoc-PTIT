@@ -1,0 +1,3402 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Nhận biết] Dân chủ là phạm trù vĩnh viễn",
+"points_possible": 1,
+"question_text": "Dân chủ được xem là một phạm trù vĩnh viễn trong trường hợp nào?",
+"general_comment": "Dân chủ được xem là phạm trù vĩnh viễn khi được hiểu với tư cách là một giá trị xã hội, phản ánh quyền cơ bản của con người.",
+"answers": [
+{
+"text": "Khi dân chủ là một giá trị xã hội.",
+"weight": 100
+},
+{
+"text": "Khi dân chủ là một hình thái nhà nước.",
+"weight": 0
+},
+{
+"text": "Khi dân chủ mang tính giai cấp.",
+"weight": 0
+},
+{
+"text": "Khi dân chủ là một chế độ chính trị cụ thể.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Nhận biết] Dân chủ là phạm trù lịch sử",
+"points_possible": 1,
+"question_text": "Dân chủ được xem là một phạm trù lịch sử trong trường hợp nào?",
+"general_comment": "Dân chủ là phạm trù lịch sử khi được hiểu là một hình thức tổ chức thiết chế chính trị, gắn với sự ra đời, phát triển và tiêu vong của những kiểu nhà nước nhất định.",
+"answers": [
+{
+"text": "Khi dân chủ là một hình thức tổ chức thiết chế chính trị.",
+"weight": 100
+},
+{
+"text": "Khi dân chủ là giá trị nhân loại chung.",
+"weight": 0
+},
+{
+"text": "Khi dân chủ là quyền cơ bản của con người.",
+"weight": 0
+},
+{
+"text": "Khi dân chủ được hiểu như nhu cầu khách quan của con người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Nhận biết] Dân chủ trên phương diện quyền lực",
+"points_possible": 1,
+"question_text": "Trên phương diện quyền lực, dân chủ được hiểu là gì?",
+"general_comment": "Trên phương diện quyền lực, dân chủ là quyền lực thuộc về nhân dân.",
+"answers": [
+{
+"text": "Quyền lực thuộc về nhân dân.",
+"weight": 100
+},
+{
+"text": "Một hình thức hay hình thái nhà nước.",
+"weight": 0
+},
+{
+"text": "Một nguyên tắc tổ chức và quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Một quan niệm về tinh thần dân chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Nhận biết] Dân chủ trên phương diện tư tưởng",
+"points_possible": 1,
+"question_text": "Trên phương diện tư tưởng, dân chủ được hiểu là gì?",
+"general_comment": "Trên phương diện tư tưởng, dân chủ được hiểu như một quan niệm về dân chủ, về tinh thần dân chủ.",
+"answers": [
+{
+"text": "Một quan niệm về dân chủ, về tinh thần dân chủ.",
+"weight": 100
+},
+{
+"text": "Quyền lực thuộc về nhân dân.",
+"weight": 0
+},
+{
+"text": "Một hình thức hay hình thái nhà nước.",
+"weight": 0
+},
+{
+"text": "Một kiểu quan hệ sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Nhận biết] Quan niệm không đúng về dân chủ",
+"points_possible": 1,
+"question_text": "Quan niệm nào sau đây không đúng về dân chủ?",
+"general_comment": "Dân chủ không phải là quyền tự do tuyệt đối, không giới hạn; dân chủ phải gắn với pháp luật, kỷ cương và điều kiện lịch sử - xã hội cụ thể.",
+"answers": [
+{
+"text": "Dân chủ là một trong những nguyên tắc tổ chức, quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Dân chủ là quyền tự do tuyệt đối của con người.",
+"weight": 100
+},
+{
+"text": "Dân chủ là một giá trị chung của nhân loại.",
+"weight": 0
+},
+{
+"text": "Dân chủ là một hình thái nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Nhận biết] Nền dân chủ xuất hiện khi nào",
+"points_possible": 1,
+"question_text": "Với tư cách là một chế độ chính trị, nền dân chủ xuất hiện khi nào?",
+"general_comment": "Với tư cách hình thái nhà nước hoặc chế độ chính trị, nền dân chủ xuất hiện khi có nhà nước.",
+"answers": [
+{
+"text": "Khi có xã hội loài người nói chung.",
+"weight": 0
+},
+{
+"text": "Khi có nhà nước.",
+"weight": 100
+},
+{
+"text": "Khi có công cụ lao động đầu tiên.",
+"weight": 0
+},
+{
+"text": "Khi có tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Thông hiểu] Trình độ phát triển của nền dân chủ",
+"points_possible": 1,
+"question_text": "Mức độ và phạm vi tham gia thật sự của quần chúng nhân dân vào công việc quản lý nhà nước phản ánh điều gì?",
+"general_comment": "Mức độ và phạm vi tham gia thật sự của nhân dân vào quản lý nhà nước phản ánh trình độ phát triển của nền dân chủ.",
+"answers": [
+{
+"text": "Trình độ phát triển của nền dân chủ.",
+"weight": 100
+},
+{
+"text": "Nguồn gốc tự nhiên của nhà nước.",
+"weight": 0
+},
+{
+"text": "Sự thay thế của tôn giáo đối với pháp luật.",
+"weight": 0
+},
+{
+"text": "Mức độ phát triển của quan hệ huyết thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Nhận biết] Dân chủ nguyên thủy theo Ph. Ăngghen",
+"points_possible": 1,
+"question_text": "Hình thức manh nha của dân chủ trong chế độ cộng sản nguyên thủy được Ph. Ăngghen gọi là gì?",
+"general_comment": "Ph. Ăngghen gọi hình thức dân chủ manh nha trong xã hội cộng sản nguyên thủy là dân chủ nguyên thủy.",
+"answers": [
+{
+"text": "Dân chủ nguyên thủy.",
+"weight": 100
+},
+{
+"text": "Dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Dân chủ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Nhận biết] Ba nền dân chủ trong lịch sử",
+"points_possible": 1,
+"question_text": "Với tư cách là một hình thái nhà nước, một chế độ chính trị, lịch sử nhân loại cho đến nay có ba nền dân chủ nào?",
+"general_comment": "Ba nền dân chủ trong lịch sử là dân chủ chủ nô, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Dân chủ chủ nô, dân chủ tư sản và dân chủ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Dân chủ nguyên thủy, dân chủ phong kiến và dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ chủ nô, dân chủ phong kiến và dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ nguyên thủy, dân chủ tư sản và dân chủ cộng sản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Nhận biết] Hình thái kinh tế - xã hội không có nền dân chủ",
+"points_possible": 1,
+"question_text": "Hình thái kinh tế - xã hội nào dưới đây không có nền dân chủ với tư cách là một chế độ chính trị nhà nước?",
+"general_comment": "Trong chế độ phong kiến, dân chủ chủ nô bị xóa bỏ và thay vào đó là chế độ độc tài chuyên chế phong kiến.",
+"answers": [
+{
+"text": "Chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Phong kiến.",
+"weight": 100
+},
+{
+"text": "Tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Nhận biết] Nền dân chủ rộng rãi nhất",
+"points_possible": 1,
+"question_text": "Nền dân chủ nào là nền dân chủ rộng rãi nhất trong lịch sử?",
+"general_comment": "Dân chủ xã hội chủ nghĩa là nền dân chủ rộng rãi nhất vì quyền lực thuộc về đại đa số nhân dân lao động.",
+"answers": [
+{
+"text": "Dân chủ chủ nô.",
+"weight": 0
+},
+{
+"text": "Dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Dân chủ quân sự nguyên thủy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Nhận biết] Dân chủ xã hội chủ nghĩa đồng nghĩa thuật ngữ nào",
+"points_possible": 1,
+"question_text": "Khái niệm “dân chủ xã hội chủ nghĩa” đồng nghĩa với thuật ngữ nào?",
+"general_comment": "Dân chủ xã hội chủ nghĩa còn được gọi là dân chủ vô sản.",
+"answers": [
+{
+"text": "Dân chủ vô sản.",
+"weight": 100
+},
+{
+"text": "Dân chủ nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Dân chủ chủ nô.",
+"weight": 0
+},
+{
+"text": "Dân chủ tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Nhận biết] Dân chủ xã hội chủ nghĩa thống nhất với khái niệm nào",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa về cơ bản thống nhất với khái niệm nào?",
+"general_comment": "Dân chủ xã hội chủ nghĩa về cơ bản thống nhất với chuyên chính vô sản, xét trong quan hệ giữa dân chủ với nhà nước của giai cấp công nhân.",
+"answers": [
+{
+"text": "Chuyên chính vô sản.",
+"weight": 100
+},
+{
+"text": "Nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Dân chủ chủ nô.",
+"weight": 0
+},
+{
+"text": "Chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Nhận biết] Đặc trưng không đúng của dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là đặc trưng cơ bản của nền dân chủ xã hội chủ nghĩa?",
+"general_comment": "Dân chủ xã hội chủ nghĩa không phải là dân chủ cho mọi giai cấp, mọi tầng lớp theo nghĩa phi giai cấp; nó mang bản chất giai cấp công nhân và phục vụ đại đa số nhân dân lao động.",
+"answers": [
+{
+"text": "Thực hiện dân chủ với mọi tầng lớp, mọi giai cấp trong xã hội.",
+"weight": 100
+},
+{
+"text": "Đảm bảo quyền lực thuộc về nhân dân.",
+"weight": 0
+},
+{
+"text": "Có cơ sở kinh tế là chế độ công hữu về tư liệu sản xuất chủ yếu.",
+"weight": 0
+},
+{
+"text": "Kết hợp hài hòa lợi ích cá nhân, tập thể và xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Nhận biết] Dân chủ xã hội chủ nghĩa do ai lãnh đạo",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa do lực lượng chính trị nào lãnh đạo?",
+"general_comment": "Dân chủ xã hội chủ nghĩa đặt dưới sự lãnh đạo của Đảng Cộng sản, tức chính đảng của giai cấp công nhân.",
+"answers": [
+{
+"text": "Đảng của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Đảng của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Các tập đoàn tư bản độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Nhận biết] Hệ tư tưởng của nền dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa dựa trên hệ tư tưởng của giai cấp nào?",
+"general_comment": "Dân chủ xã hội chủ nghĩa lấy chủ nghĩa Mác - Lênin, hệ tư tưởng của giai cấp công nhân, làm nền tảng tư tưởng.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp chủ nô.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Nhận biết] Điền khuyết khái niệm dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Điền cụm từ đúng: Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với dân chủ tư sản; mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ; dân chủ và pháp luật thống nhất biện chứng; được thực hiện bằng (...) dưới sự lãnh đạo của Đảng Cộng sản.",
+"general_comment": "Dân chủ xã hội chủ nghĩa được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Nhà nước pháp quyền tư sản.",
+"weight": 0
+},
+{
+"text": "Chế độ quân chủ lập hiến.",
+"weight": 0
+},
+{
+"text": "Chế độ tự quản phi nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Nhận biết] Công xã Pari và dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa được phôi thai từ thực tiễn đấu tranh giai cấp ở Pháp và sự kiện nào năm 1871?",
+"general_comment": "Dân chủ xã hội chủ nghĩa được phôi thai từ Công xã Pari năm 1871, nhưng chính thức xác lập sau Cách mạng Tháng Mười Nga năm 1917.",
+"answers": [
+{
+"text": "Công xã Pari.",
+"weight": 100
+},
+{
+"text": "Cách mạng tư sản Pháp.",
+"weight": 0
+},
+{
+"text": "Phong trào Hiến chương.",
+"weight": 0
+},
+{
+"text": "Cách mạng Tháng Tám.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Nhận biết] Chính thức xác lập dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa trên thế giới chính thức được xác lập sau sự kiện nào?",
+"general_comment": "Nền dân chủ xã hội chủ nghĩa chính thức được xác lập sau thắng lợi của Cách mạng Tháng Mười Nga năm 1917 và sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên.",
+"answers": [
+{
+"text": "Cách mạng Tháng Mười Nga năm 1917.",
+"weight": 100
+},
+{
+"text": "Công xã Pari năm 1871.",
+"weight": 0
+},
+{
+"text": "Cách mạng Tháng Tám năm 1945 ở Việt Nam.",
+"weight": 0
+},
+{
+"text": "Cách mạng tư sản Pháp năm 1789.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Nhận biết] Cơ sở kinh tế của dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là gì?",
+"general_comment": "Cơ sở kinh tế của dân chủ xã hội chủ nghĩa là chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội, phù hợp với lực lượng sản xuất hiện đại.",
+"answers": [
+{
+"text": "Chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội.",
+"weight": 100
+},
+{
+"text": "Chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế thủ công tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Chế độ sở hữu phong kiến về ruộng đất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Nhận biết] Quyền không cao hơn chế độ kinh tế",
+"points_possible": 1,
+"question_text": "Điền từ đúng vào nhận định trong “Phê phán cương lĩnh Gôta”: “Quyền không bao giờ có thể ở mức độ cao hơn chế độ (...) và sự phát triển văn hóa của xã hội do chế độ đó quyết định”.",
+"general_comment": "Trong nhận định này, C. Mác nhấn mạnh quyền không thể cao hơn chế độ kinh tế.",
+"answers": [
+{
+"text": "kinh tế.",
+"weight": 100
+},
+{
+"text": "chính trị.",
+"weight": 0
+},
+{
+"text": "nhà nước.",
+"weight": 0
+},
+{
+"text": "tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Nhận biết] Lợi ích trong dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nền dân chủ xã hội chủ nghĩa có sự kết hợp hài hòa giữa những lợi ích nào?",
+"general_comment": "Dân chủ xã hội chủ nghĩa kết hợp hài hòa lợi ích cá nhân, tập thể và toàn xã hội.",
+"answers": [
+{
+"text": "Lợi ích cá nhân, tập thể và toàn xã hội.",
+"weight": 100
+},
+{
+"text": "Lợi ích chủ nô, quý tộc và tăng lữ.",
+"weight": 0
+},
+{
+"text": "Lợi ích tư bản tài chính và tư bản thương nghiệp.",
+"weight": 0
+},
+{
+"text": "Lợi ích dòng họ, lãnh địa và tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Nhận biết] Công cụ hữu hiệu nhất quản lý xã hội",
+"points_possible": 1,
+"question_text": "Công cụ hữu hiệu nhất để Nhà nước pháp quyền xã hội chủ nghĩa quản lý xã hội là gì?",
+"general_comment": "Nhà nước pháp quyền xã hội chủ nghĩa quản lý xã hội chủ yếu bằng pháp luật.",
+"answers": [
+{
+"text": "Pháp luật.",
+"weight": 100
+},
+{
+"text": "Mệnh lệnh cá nhân.",
+"weight": 0
+},
+{
+"text": "Dư luận tự phát.",
+"weight": 0
+},
+{
+"text": "Tập quán không thành văn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Nhận biết] Đặc điểm quản lý xã hội của nhà nước pháp quyền",
+"points_possible": 1,
+"question_text": "Đặc điểm cơ bản của Nhà nước pháp quyền xã hội chủ nghĩa trong quản lý xã hội là gì?",
+"general_comment": "Nhà nước pháp quyền xã hội chủ nghĩa quản lý xã hội bằng pháp luật, đề cao vai trò tối thượng của Hiến pháp và pháp luật.",
+"answers": [
+{
+"text": "Quản lý xã hội bằng pháp luật.",
+"weight": 100
+},
+{
+"text": "Quản lý xã hội bằng mệnh lệnh hành chính thuần túy.",
+"weight": 0
+},
+{
+"text": "Quản lý xã hội bằng dư luận không chính thức.",
+"weight": 0
+},
+{
+"text": "Quản lý xã hội bằng niềm tin tự phát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Nhận biết] Nhà nước xã hội chủ nghĩa là yếu tố của nền dân chủ nào",
+"points_possible": 1,
+"question_text": "Nhà nước xã hội chủ nghĩa là yếu tố cơ bản của nền dân chủ nào?",
+"general_comment": "Nhà nước xã hội chủ nghĩa là thiết chế quan trọng nhất để thực thi quyền lực của nhân dân trong nền dân chủ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Nền dân chủ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Nền dân chủ chủ nô.",
+"weight": 0
+},
+{
+"text": "Nền dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Nền dân chủ quân sự nguyên thủy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Nhận biết] Đặc trưng đặc biệt của nhà nước xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Đặc trưng cơ bản của nhà nước xã hội chủ nghĩa được V.I. Lênin diễn đạt như thế nào?",
+"general_comment": "Nhà nước xã hội chủ nghĩa được V.I. Lênin gọi là một kiểu nhà nước đặc biệt, “nửa nhà nước”, hay “nhà nước không còn nguyên nghĩa”.",
+"answers": [
+{
+"text": "Một kiểu nhà nước đặc biệt, “nửa nhà nước”, “nhà nước không còn nguyên nghĩa”.",
+"weight": 100
+},
+{
+"text": "Nhà nước nguyên nghĩa nhất của giai cấp bóc lột.",
+"weight": 0
+},
+{
+"text": "Nhà nước quân chủ chuyên chế cao nhất.",
+"weight": 0
+},
+{
+"text": "Nhà nước tư sản đại nghị hoàn chỉnh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Nhận biết] Nhà nước nửa nhà nước",
+"points_possible": 1,
+"question_text": "Kiểu nhà nước nào được V.I. Lênin gọi là “nửa nhà nước”?",
+"general_comment": "V.I. Lênin gọi nhà nước xã hội chủ nghĩa là “nửa nhà nước” vì đó là nhà nước đang từng bước tiêu vong cùng quá trình xóa bỏ đối kháng giai cấp.",
+"answers": [
+{
+"text": "Nhà nước xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Nhà nước chủ nô.",
+"weight": 0
+},
+{
+"text": "Nhà nước phong kiến.",
+"weight": 0
+},
+{
+"text": "Nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Nhận biết] Nguồn gốc chung của nhà nước",
+"points_possible": 1,
+"question_text": "Nguyên nhân cơ bản dẫn tới sự xuất hiện của nhà nước trong xã hội có giai cấp là gì?",
+"general_comment": "Theo quan điểm Mác - Lênin, nhà nước xuất hiện khi có chế độ tư hữu và sự phân chia giai cấp.",
+"answers": [
+{
+"text": "Sự xuất hiện của chế độ tư hữu và phân chia giai cấp.",
+"weight": 100
+},
+{
+"text": "Sự xuất hiện của công cụ đá trong xã hội nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Sự xuất hiện của tôn giáo.",
+"weight": 0
+},
+{
+"text": "Sự xuất hiện của kinh tế tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Nhận biết] Bản chất nhà nước trong xã hội có giai cấp",
+"points_possible": 1,
+"question_text": "Trong xã hội có giai cấp, nhà nước luôn mang bản chất của lực lượng nào?",
+"general_comment": "Trong xã hội có giai cấp, nhà nước luôn mang bản chất của giai cấp thống trị xã hội.",
+"answers": [
+{
+"text": "Giai cấp thống trị xã hội.",
+"weight": 100
+},
+{
+"text": "Giai cấp có số lượng đông nhất.",
+"weight": 0
+},
+{
+"text": "Tầng lớp có trình độ học vấn cao nhất.",
+"weight": 0
+},
+{
+"text": "Mọi giai cấp ngang nhau theo nghĩa phi giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Nhận biết] Nhà nước tư sản mang bản chất giai cấp nào",
+"points_possible": 1,
+"question_text": "Nhà nước tư sản mang bản chất của giai cấp nào?",
+"general_comment": "Nhà nước tư sản mang bản chất của giai cấp tư sản.",
+"answers": [
+{
+"text": "Giai cấp tư sản.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Giai cấp chủ nô.",
+"weight": 0
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Nhận biết] Nhà nước xã hội chủ nghĩa mang bản chất giai cấp nào",
+"points_possible": 1,
+"question_text": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+"general_comment": "Nhà nước xã hội chủ nghĩa mang bản chất của giai cấp công nhân, đồng thời có tính nhân dân rộng rãi và tính dân tộc sâu sắc.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giai cấp chủ nô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Nhận biết] Sự ra đời nhà nước xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
+"general_comment": "Nhà nước xã hội chủ nghĩa ra đời khi giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột và giành chính quyền.",
+"answers": [
+{
+"text": "Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành chính quyền.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân xây dựng xong chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân đấu tranh đòi tăng lương, giảm giờ làm.",
+"weight": 0
+},
+{
+"text": "Giai cấp tư sản thiết lập nhà nước pháp quyền tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Nhận biết] Chức năng cơ bản của nhà nước xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Chức năng cơ bản của nhà nước xã hội chủ nghĩa là gì?",
+"general_comment": "Nhà nước xã hội chủ nghĩa vừa tổ chức xây dựng chủ nghĩa xã hội, vừa trấn áp những lực lượng chống phá sự nghiệp xây dựng chủ nghĩa xã hội của nhân dân.",
+"answers": [
+{
+"text": "Tổ chức xây dựng chủ nghĩa xã hội và trấn áp những lực lượng chống phá sự nghiệp xây dựng chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Đoàn kết các giai cấp bóc lột để duy trì chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Tổ chức xây dựng nền sản xuất lớn xã hội tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Bảo vệ chế độ tư hữu tư bản chủ nghĩa như mục tiêu cuối cùng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Nhận biết] Trấn áp lực lượng chống phá",
+"points_possible": 1,
+"question_text": "Đối với lực lượng chống đối, phá hoại sự nghiệp cách mạng xã hội chủ nghĩa, nhà nước xã hội chủ nghĩa thực hiện chức năng nào?",
+"general_comment": "Đối với lực lượng chống phá, nhà nước xã hội chủ nghĩa thực hiện chức năng trấn áp.",
+"answers": [
+{
+"text": "Trấn áp.",
+"weight": 100
+},
+{
+"text": "Liên hiệp tự nguyện.",
+"weight": 0
+},
+{
+"text": "Thỏa hiệp giai cấp.",
+"weight": 0
+},
+{
+"text": "Tự giải tán quyền lực nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Nhận biết] Tổ chức thực hiện trấn áp",
+"points_possible": 1,
+"question_text": "Tổ chức nào thực hiện sự trấn áp đối với lực lượng chống đối, phá hoại sự nghiệp cách mạng xã hội chủ nghĩa?",
+"general_comment": "Nhà nước xã hội chủ nghĩa là công cụ bạo lực hợp pháp để trấn áp các lực lượng chống phá sự nghiệp xây dựng chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Nhà nước xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Công đoàn.",
+"weight": 0
+},
+{
+"text": "Nghiệp đoàn.",
+"weight": 0
+},
+{
+"text": "Hội nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Nhận biết] Tổ chức thực thi quyền lực nhân dân",
+"points_possible": 1,
+"question_text": "Tổ chức quan trọng nhất để thực thi quyền lực của nhân dân trong nền dân chủ xã hội chủ nghĩa là gì?",
+"general_comment": "Nhà nước xã hội chủ nghĩa là tổ chức quan trọng nhất để thực thi quyền lực của nhân dân.",
+"answers": [
+{
+"text": "Nhà nước xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Một hiệp hội nghề nghiệp tự phát.",
+"weight": 0
+},
+{
+"text": "Một tổ chức tôn giáo.",
+"weight": 0
+},
+{
+"text": "Một tập đoàn kinh tế tư nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Nhận biết] Chức năng theo tính chất quyền lực",
+"points_possible": 1,
+"question_text": "Căn cứ vào tính chất của quyền lực nhà nước, nhà nước có những chức năng nào?",
+"general_comment": "Căn cứ vào tính chất của quyền lực nhà nước, chức năng nhà nước được chia thành chức năng giai cấp và chức năng xã hội.",
+"answers": [
+{
+"text": "Chức năng giai cấp và chức năng xã hội.",
+"weight": 100
+},
+{
+"text": "Chức năng đối nội và chức năng đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chức năng chính trị, kinh tế, văn hóa.",
+"weight": 0
+},
+{
+"text": "Chức năng lãnh đạo và chức năng giám sát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Nhận biết] Chức năng theo phạm vi tác động",
+"points_possible": 1,
+"question_text": "Căn cứ vào phạm vi tác động của quyền lực nhà nước, nhà nước có những chức năng nào?",
+"general_comment": "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng nhà nước được chia thành chức năng đối nội và chức năng đối ngoại.",
+"answers": [
+{
+"text": "Chức năng đối nội và chức năng đối ngoại.",
+"weight": 100
+},
+{
+"text": "Chức năng giai cấp và chức năng xã hội.",
+"weight": 0
+},
+{
+"text": "Chức năng quản lý kinh tế và quản lý chính trị.",
+"weight": 0
+},
+{
+"text": "Chức năng lãnh đạo và chức năng giám sát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Nhận biết] Chức năng theo lĩnh vực tác động",
+"points_possible": 1,
+"question_text": "Căn cứ vào lĩnh vực tác động của quyền lực nhà nước, nhà nước xã hội chủ nghĩa có những chức năng nào?",
+"general_comment": "Căn cứ vào lĩnh vực tác động, chức năng của nhà nước xã hội chủ nghĩa gồm chức năng chính trị, kinh tế, văn hóa, xã hội.",
+"answers": [
+{
+"text": "Chức năng chính trị, kinh tế, văn hóa, xã hội.",
+"weight": 100
+},
+{
+"text": "Chức năng đối nội và đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chức năng giai cấp và chức năng xã hội.",
+"weight": 0
+},
+{
+"text": "Chức năng giám sát và phản biện xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Nhận biết] Nhà nước thể chế hóa ý chí nhân dân",
+"points_possible": 1,
+"question_text": "Trong quan hệ với dân chủ xã hội chủ nghĩa, nhà nước xã hội chủ nghĩa thể chế hóa nội dung nào thành hành lang pháp lý?",
+"general_comment": "Nhà nước xã hội chủ nghĩa thể chế hóa ý chí của nhân dân thành hành lang pháp lý để nhân dân thực hiện quyền làm chủ.",
+"answers": [
+{
+"text": "Ý chí của nhân dân.",
+"weight": 100
+},
+{
+"text": "Lợi ích riêng của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Đặc quyền phong kiến.",
+"weight": 0
+},
+{
+"text": "Ý chí của các tập đoàn tư bản độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Nhận biết] Việt Nam Dân chủ Cộng hòa ra đời",
+"points_possible": 1,
+"question_text": "Ở Việt Nam, Nhà nước Việt Nam Dân chủ Cộng hòa ra đời sau thắng lợi của sự kiện nào?",
+"general_comment": "Nhà nước Việt Nam Dân chủ Cộng hòa ra đời sau thắng lợi của Cách mạng Tháng Tám năm 1945.",
+"answers": [
+{
+"text": "Cách mạng Tháng Tám năm 1945.",
+"weight": 100
+},
+{
+"text": "Đảng Cộng sản Việt Nam ra đời năm 1930.",
+"weight": 0
+},
+{
+"text": "Chiến thắng Điện Biên Phủ năm 1954.",
+"weight": 0
+},
+{
+"text": "Đại thắng mùa Xuân năm 1975.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 151: [Nhận biết] Chế độ dân chủ nhân dân ở Việt Nam xác lập",
+"points_possible": 1,
+"question_text": "Chế độ dân chủ nhân dân ở nước ta được xác lập sau sự kiện nào?",
+"general_comment": "Chế độ dân chủ nhân dân ở Việt Nam được xác lập sau Cách mạng Tháng Tám năm 1945.",
+"answers": [
+{
+"text": "Sau Cách mạng Tháng Tám năm 1945.",
+"weight": 100
+},
+{
+"text": "Sau khi Đảng Cộng sản Việt Nam ra đời năm 1930.",
+"weight": 0
+},
+{
+"text": "Sau chiến thắng Điện Biên Phủ năm 1954.",
+"weight": 0
+},
+{
+"text": "Sau đại thắng mùa Xuân năm 1975.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 152: [Nhận biết] Câu nói của Hồ Chí Minh về Chính phủ là đầy tớ",
+"points_possible": 1,
+"question_text": "Câu nói: “Chế độ ta là chế độ dân chủ, tức là nhân dân là người chủ, mà Chính phủ là người đầy tớ trung thành của nhân dân” là của ai?",
+"general_comment": "Đây là quan điểm của Hồ Chí Minh về bản chất dân chủ của chế độ mới.",
+"answers": [
+{
+"text": "Hồ Chí Minh.",
+"weight": 100
+},
+{
+"text": "V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 153: [Nhận biết] Nghĩa vụ công dân trong tư tưởng Hồ Chí Minh",
+"points_possible": 1,
+"question_text": "Điền từ đúng vào câu nói của Hồ Chí Minh: “Nước ta là nước dân chủ, nghĩa là nước nhà do nhân dân làm chủ. Nhân dân có quyền lợi làm chủ, thì phải có (...) làm tròn bổn phận công dân”.",
+"general_comment": "Hồ Chí Minh nhấn mạnh quyền lợi làm chủ phải đi đôi với nghĩa vụ làm tròn bổn phận công dân.",
+"answers": [
+{
+"text": "nghĩa vụ.",
+"weight": 100
+},
+{
+"text": "khả năng.",
+"weight": 0
+},
+{
+"text": "quyết tâm.",
+"weight": 0
+},
+{
+"text": "nguyện vọng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 154: [Nhận biết] Thực hành dân chủ là chìa khóa vạn năng",
+"points_possible": 1,
+"question_text": "Câu nói “Thực hành dân chủ là cái chìa khóa vạn năng có thể giải quyết mọi khó khăn” là của ai?",
+"general_comment": "Câu nói này là của Hồ Chí Minh, thể hiện vai trò của thực hành dân chủ trong giải quyết khó khăn.",
+"answers": [
+{
+"text": "Hồ Chí Minh.",
+"weight": 100
+},
+{
+"text": "V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "Mao Trạch Đông.",
+"weight": 0
+},
+{
+"text": "Phạm Văn Đồng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 155: [Nhận biết] Lấy dân làm gốc",
+"points_possible": 1,
+"question_text": "Điền từ đúng vào khẳng định của Đảng Cộng sản Việt Nam: “Trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng (...), xây dựng và phát huy quyền làm chủ của nhân dân lao động”.",
+"general_comment": "Đảng Cộng sản Việt Nam khẳng định phải quán triệt tư tưởng “lấy dân làm gốc”.",
+"answers": [
+{
+"text": "lấy dân làm gốc.",
+"weight": 100
+},
+{
+"text": "lấy dân làm đích.",
+"weight": 0
+},
+{
+"text": "lấy dân làm chỗ dựa hình thức.",
+"weight": 0
+},
+{
+"text": "lấy dân làm nền tảng duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 156: [Nhận biết] Đại hội VI về lấy dân làm gốc",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản Việt Nam khẳng định tư tưởng “lấy dân làm gốc”, xây dựng và phát huy quyền làm chủ của nhân dân lao động tại Đại hội nào?",
+"general_comment": "Ngân hàng Chương 4 xác định nội dung này gắn với Đại hội VI của Đảng.",
+"answers": [
+{
+"text": "Đại hội VI.",
+"weight": 100
+},
+{
+"text": "Đại hội IV.",
+"weight": 0
+},
+{
+"text": "Đại hội V.",
+"weight": 0
+},
+{
+"text": "Đại hội VII.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 157: [Nhận biết] Đại hội VII về cơ chế chung",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản Việt Nam xác định mối quan hệ “Đảng lãnh đạo, nhân dân làm chủ, nhà nước quản lý” thành cơ chế chung trong quản lý toàn bộ xã hội tại Đại hội nào?",
+"general_comment": "Ngân hàng Chương 4 xác định nội dung này gắn với Đại hội VII của Đảng.",
+"answers": [
+{
+"text": "Đại hội VII.",
+"weight": 100
+},
+{
+"text": "Đại hội VI.",
+"weight": 0
+},
+{
+"text": "Đại hội VIII.",
+"weight": 0
+},
+{
+"text": "Đại hội IX.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 158: [Nhận biết] Cương lĩnh 1991 về dân chủ",
+"points_possible": 1,
+"question_text": "Điền từ đúng theo Cương lĩnh năm 1991: “Dân chủ gắn liền với (...) xã hội phải được thực hiện trong thực tế cuộc sống trên tất cả các lĩnh vực chính trị, kinh tế, văn hóa, xã hội thông qua hoạt động của Nhà nước do nhân dân cử ra và bằng các hình thức dân chủ (...)”.",
+"general_comment": "Cương lĩnh năm 1991 xác định dân chủ gắn liền với công bằng xã hội và được thực hiện bằng các hình thức dân chủ trực tiếp.",
+"answers": [
+{
+"text": "công bằng; trực tiếp.",
+"weight": 100
+},
+{
+"text": "bình đẳng; gián tiếp.",
+"weight": 0
+},
+{
+"text": "công bằng; gián tiếp.",
+"weight": 0
+},
+{
+"text": "kỷ luật; trực tiếp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 159: [Nhận biết] Cương lĩnh 1991 về kỷ cương và pháp luật",
+"points_possible": 1,
+"question_text": "Điền từ đúng theo Cương lĩnh năm 1991: “Dân chủ đi đôi với (...), kỷ cương, phải được thể chế hóa bằng (...) và (...) bảo đảm”.",
+"general_comment": "Cương lĩnh năm 1991 xác định dân chủ đi đôi với kỷ luật, kỷ cương, phải được thể chế hóa bằng pháp luật và pháp luật bảo đảm.",
+"answers": [
+{
+"text": "kỷ luật; pháp luật; pháp luật.",
+"weight": 100
+},
+{
+"text": "đảm bảo; pháp luật; pháp luật.",
+"weight": 0
+},
+{
+"text": "kỷ luật; hiến pháp; hiến pháp.",
+"weight": 0
+},
+{
+"text": "tự do; hiến pháp; pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 160: [Nhận biết] Dân chủ đại diện",
+"points_possible": 1,
+"question_text": "Dân chủ đại diện được thực hiện như thế nào?",
+"general_comment": "Dân chủ đại diện là hình thức nhân dân giao quyền lực của mình cho hệ thống cơ quan dân cử, tức thông qua đại diện do nhân dân bầu ra.",
+"answers": [
+{
+"text": "Nhân dân giao quyền lực của mình cho hệ thống cơ quan dân cử.",
+"weight": 100
+},
+{
+"text": "Nhân dân trực tiếp thực hiện mọi quyền lực nhà nước không thông qua đại diện.",
+"weight": 0
+},
+{
+"text": "Nhân dân chỉ tham gia bằng dư luận xã hội.",
+"weight": 0
+},
+{
+"text": "Nhân dân không tham gia vào hoạt động nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 161: [Nhận biết] Hành vi không thuộc dân chủ chính trị",
+"points_possible": 1,
+"question_text": "Trong việc thực hiện quyền dân chủ trên lĩnh vực chính trị, công dân không thực hiện hành vi nào sau đây?",
+"general_comment": "Công dân có quyền tham gia giám sát hoạt động của nhà nước, nhưng không thể “kiểm tra, thanh tra mọi hoạt động của nhà nước” như một cơ quan thanh tra chuyên trách.",
+"answers": [
+{
+"text": "Ứng cử và bầu cử.",
+"weight": 0
+},
+{
+"text": "Tham gia quản lý nhà nước.",
+"weight": 0
+},
+{
+"text": "Kiểm tra, thanh tra mọi hoạt động của nhà nước.",
+"weight": 100
+},
+{
+"text": "Tham gia giám sát hoạt động của nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 162: [Nhận biết] Đề cao Hiến pháp và pháp luật",
+"points_possible": 1,
+"question_text": "Một nội dung khái quát của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam là gì?",
+"general_comment": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam đề cao vai trò tối thượng của Hiến pháp và pháp luật.",
+"answers": [
+{
+"text": "Đề cao vai trò tối thượng của Hiến pháp và pháp luật.",
+"weight": 100
+},
+{
+"text": "Đề cao quyền lực cá nhân đứng trên pháp luật.",
+"weight": 0
+},
+{
+"text": "Phủ nhận quyền và nghĩa vụ của công dân.",
+"weight": 0
+},
+{
+"text": "Tổ chức bộ máy không cần kiểm soát quyền lực.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 163: [Nhận biết] Quyền lực nhà nước ở Việt Nam",
+"points_possible": 1,
+"question_text": "Quyền lực nhà nước trong Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được tổ chức theo nguyên tắc nào?",
+"general_comment": "Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp.",
+"answers": [
+{
+"text": "Thống nhất, có phân công, phối hợp và kiểm soát giữa lập pháp, hành pháp và tư pháp.",
+"weight": 100
+},
+{
+"text": "Phân lập tuyệt đối, không cần phối hợp.",
+"weight": 0
+},
+{
+"text": "Tập trung tuyệt đối vào một cá nhân.",
+"weight": 0
+},
+{
+"text": "Không cần kiểm soát giữa các cơ quan nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 164: [Nhận biết] Nhà nước chịu sự giám sát của ai",
+"points_possible": 1,
+"question_text": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có mối quan hệ như thế nào với nhân dân?",
+"general_comment": "Nhà nước có mối quan hệ thường xuyên, chặt chẽ với nhân dân, tôn trọng và lắng nghe ý kiến nhân dân, chịu sự giám sát của nhân dân.",
+"answers": [
+{
+"text": "Tôn trọng, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+"weight": 100
+},
+{
+"text": "Đứng trên nhân dân và không chịu giám sát.",
+"weight": 0
+},
+{
+"text": "Chỉ chịu sự giám sát của các tập đoàn kinh tế.",
+"weight": 0
+},
+{
+"text": "Không có quan hệ thường xuyên với nhân dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 165: [Nhận biết] Nguyên tắc tổ chức bộ máy nhà nước",
+"points_possible": 1,
+"question_text": "Nguyên tắc tổ chức và hoạt động của bộ máy Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Bộ máy nhà nước tổ chức và hoạt động theo nguyên tắc tập trung dân chủ, thống nhất quyền lực, có phân công, phân cấp, phối hợp và kiểm soát lẫn nhau.",
+"answers": [
+{
+"text": "Tập trung dân chủ; thống nhất quyền lực; có phân công, phân cấp, phối hợp và kiểm soát lẫn nhau.",
+"weight": 100
+},
+{
+"text": "Tự do vô chính phủ; không cần pháp luật.",
+"weight": 0
+},
+{
+"text": "Quân chủ chuyên chế; cha truyền con nối.",
+"weight": 0
+},
+{
+"text": "Phân quyền tuyệt đối; phủ nhận sự chỉ đạo thống nhất của Trung ương.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 166: [Nhận biết] Đảng lãnh đạo và nhân dân giám sát",
+"points_possible": 1,
+"question_text": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam phải do lực lượng nào lãnh đạo và được ai giám sát?",
+"general_comment": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo và được nhân dân giám sát.",
+"answers": [
+{
+"text": "Do Đảng Cộng sản Việt Nam lãnh đạo và được nhân dân giám sát.",
+"weight": 100
+},
+{
+"text": "Do giai cấp tư sản lãnh đạo và được thị trường giám sát.",
+"weight": 0
+},
+{
+"text": "Do địa chủ phong kiến lãnh đạo và được quý tộc giám sát.",
+"weight": 0
+},
+{
+"text": "Do các tổ chức tôn giáo lãnh đạo và được giáo hội giám sát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 167: [Nhận biết] Quan niệm về con người trong nhà nước pháp quyền Việt Nam",
+"points_possible": 1,
+"question_text": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam tôn trọng quyền con người và coi con người ở vị trí nào của sự phát triển?",
+"general_comment": "Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam coi con người là chủ thể, là trung tâm của sự phát triển.",
+"answers": [
+{
+"text": "Là chủ thể, là trung tâm của sự phát triển.",
+"weight": 100
+},
+{
+"text": "Là công cụ thụ động của bộ máy hành chính.",
+"weight": 0
+},
+{
+"text": "Là đối tượng đứng ngoài pháp luật.",
+"weight": 0
+},
+{
+"text": "Là lực lượng không liên quan đến phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 168: [Nhận biết] Định hướng không đúng về phát huy dân chủ",
+"points_possible": 1,
+"question_text": "Định hướng nào dưới đây không phải là định hướng phát huy dân chủ xã hội chủ nghĩa ở Việt Nam?",
+"general_comment": "Phát huy vai trò các tổ chức chính trị - xã hội không có nghĩa là tách các tổ chức này ra ngoài hệ thống chính trị; cần nâng cao vai trò của chúng trong xây dựng nền dân chủ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh.",
+"weight": 0
+},
+{
+"text": "Xây dựng và từng bước hoàn thiện các hệ thống giám sát, phản biện xã hội.",
+"weight": 0
+},
+{
+"text": "Tách các tổ chức chính trị - xã hội ra ngoài hệ thống chính trị để tăng tính độc lập.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 169: [Nhận biết] Điều kiện tiên quyết của dân chủ Việt Nam",
+"points_possible": 1,
+"question_text": "Điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam.",
+"answers": [
+{
+"text": "Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ vai trò lãnh đạo của Đảng.",
+"weight": 0
+},
+{
+"text": "Tách nhà nước khỏi nhân dân.",
+"weight": 0
+},
+{
+"text": "Phục hồi dân chủ tư sản như mô hình duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 170: [Nhận biết] Điều kiện thực thi dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Điều kiện để thực thi dân chủ xã hội chủ nghĩa ở Việt Nam là gì?",
+"general_comment": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa vững mạnh là điều kiện để thực thi dân chủ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa vững mạnh.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ pháp luật trong quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Khôi phục nhà nước phong kiến chuyên chế.",
+"weight": 0
+},
+{
+"text": "Từ bỏ kiểm soát quyền lực nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 171: [Nhận biết] Hệ thống giám sát phản biện xã hội",
+"points_possible": 1,
+"question_text": "Việc xây dựng và từng bước hoàn thiện các hệ thống giám sát, phản biện xã hội nhằm mục tiêu gì?",
+"general_comment": "Giám sát và phản biện xã hội nhằm phát huy quyền làm chủ của nhân dân.",
+"answers": [
+{
+"text": "Phát huy quyền làm chủ của nhân dân.",
+"weight": 100
+},
+{
+"text": "Thu hẹp quyền làm chủ của nhân dân.",
+"weight": 0
+},
+{
+"text": "Loại bỏ vai trò của nhân dân trong quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Tách nhân dân khỏi hoạt động của nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 172: [Nhận biết] Xây dựng nhà nước dưới sự lãnh đạo của Đảng",
+"points_possible": 1,
+"question_text": "Một định hướng tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam là gì?",
+"general_comment": "Một định hướng cơ bản là xây dựng Nhà nước pháp quyền xã hội chủ nghĩa dưới sự lãnh đạo của Đảng.",
+"answers": [
+{
+"text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa dưới sự lãnh đạo của Đảng.",
+"weight": 100
+},
+{
+"text": "Xây dựng nhà nước đứng ngoài sự lãnh đạo của Đảng và ngoài sự giám sát của nhân dân.",
+"weight": 0
+},
+{
+"text": "Xây dựng nhà nước quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Xây dựng nhà nước tư sản làm mô hình cuối cùng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 173: [Nhận biết] Cải cách thể chế và phương thức hoạt động",
+"points_possible": 1,
+"question_text": "Trong xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, cải cách thể chế và phương thức hoạt động của Nhà nước thuộc nhóm định hướng nào?",
+"general_comment": "Cải cách thể chế và phương thức hoạt động của Nhà nước là một định hướng tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Khôi phục dân chủ chủ nô.",
+"weight": 0
+},
+{
+"text": "Xây dựng cơ sở kinh tế của dân chủ tư sản.",
+"weight": 0
+},
+{
+"text": "Tách nhà nước khỏi hệ thống pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 174: [Nhận biết] Đội ngũ cán bộ công chức",
+"points_possible": 1,
+"question_text": "Một định hướng hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam là xây dựng đội ngũ cán bộ, công chức như thế nào?",
+"general_comment": "Giáo trình xác định cần xây dựng đội ngũ cán bộ, công chức trong sạch, có năng lực.",
+"answers": [
+{
+"text": "Trong sạch, có năng lực.",
+"weight": 100
+},
+{
+"text": "Quan liêu, xa dân.",
+"weight": 0
+},
+{
+"text": "Lộng quyền, vô trách nhiệm.",
+"weight": 0
+},
+{
+"text": "Thiếu năng lực và không chịu giám sát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 175: [Vận dụng/Phân tích] Tổng hợp dân chủ và nhà nước pháp quyền",
+"points_possible": 1,
+"question_text": "Một địa phương mở rộng quyền tham gia của nhân dân, công khai thông tin, tiếp thu phản biện xã hội, đồng thời xử lý tham nhũng, kiểm soát quyền lực và nâng cao năng lực cán bộ. Cách làm đó phù hợp nhất với yêu cầu nào của Chương 4?",
+"general_comment": "Đây là biểu hiện kết hợp phát huy dân chủ xã hội chủ nghĩa với xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+"answers": [
+{
+"text": "Kết hợp phát huy dân chủ xã hội chủ nghĩa với xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+"weight": 100
+},
+{
+"text": "Tách dân chủ khỏi pháp luật và kỷ cương.",
+"weight": 0
+},
+{
+"text": "Khôi phục dân chủ chủ nô trong điều kiện hiện đại.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò giám sát và phản biện xã hội của nhân dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 176: [Nhận biết] Mục tiêu Chương 5",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 5, nội dung chính sinh viên cần nắm được là gì?",
+"general_comment": "Chương 5 giúp sinh viên nắm kiến thức nền tảng về cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội, nhất là ở Việt Nam.",
+"answers": [
+{
+"text": "Cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 177: [Nhận biết] Khái niệm cơ cấu xã hội",
+"points_possible": 1,
+"question_text": "Từ góc độ chủ nghĩa xã hội khoa học, cơ cấu xã hội là gì?",
+"general_comment": "Cơ cấu xã hội là những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên.",
+"answers": [
+{
+"text": "Những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên.",
+"weight": 100
+},
+{
+"text": "Tổng thể các nhà nước trong lịch sử và quan hệ giữa các nhà nước đó.",
+"weight": 0
+},
+{
+"text": "Hệ thống các tôn giáo và tín ngưỡng tồn tại trong một quốc gia.",
+"weight": 0
+},
+{
+"text": "Toàn bộ các thiết chế chính trị của giai cấp cầm quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 178: [Nhận biết] Cơ cấu xã hội - dân cư",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - dân cư được biểu hiện chủ yếu qua những yếu tố nào?",
+"general_comment": "Cơ cấu xã hội - dân cư biểu hiện qua mức sinh, mức tử, biến động dân số, di dân, đô thị hóa, giới tính, độ tuổi, thế hệ.",
+"answers": [
+{
+"text": "Mức sinh, mức tử, biến động dân số, di dân, đô thị hóa, giới tính, độ tuổi, thế hệ.",
+"weight": 100
+},
+{
+"text": "Quan hệ sở hữu tư liệu sản xuất và địa vị chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Các nghề nghiệp do phân công lao động xã hội quy định.",
+"weight": 0
+},
+{
+"text": "Đức tin, giáo lý, giáo luật và nghi lễ tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 179: [Nhận biết] Cơ cấu xã hội - nghề nghiệp",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - nghề nghiệp là gì?",
+"general_comment": "Cơ cấu xã hội - nghề nghiệp là tập hợp những cộng đồng người hình thành và phát triển theo các nghề nghiệp khác nhau do phân công lao động xã hội quy định.",
+"answers": [
+{
+"text": "Tập hợp những cộng đồng người hình thành và phát triển theo các nghề nghiệp khác nhau do phân công lao động xã hội quy định.",
+"weight": 100
+},
+{
+"text": "Tập hợp cộng đồng người có cùng đức tin tôn giáo.",
+"weight": 0
+},
+{
+"text": "Tập hợp dân cư theo mức sinh, mức tử và cơ cấu độ tuổi.",
+"weight": 0
+},
+{
+"text": "Tổng thể các giai cấp và tầng lớp trong một chế độ xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 180: [Nhận biết] Cơ cấu xã hội - dân tộc",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - dân tộc là tập hợp cộng đồng người có đặc điểm nào?",
+"general_comment": "Cơ cấu xã hội - dân tộc là tập hợp cộng đồng người hình thành lâu dài trong lịch sử, tương đối ổn định, gắn kết về kinh tế, lãnh thổ, văn hóa, ngôn ngữ.",
+"answers": [
+{
+"text": "Hình thành lâu dài trong lịch sử, tương đối ổn định, gắn kết về kinh tế, lãnh thổ, văn hóa, ngôn ngữ.",
+"weight": 100
+},
+{
+"text": "Hình thành theo nghề nghiệp do phân công lao động xã hội quy định.",
+"weight": 0
+},
+{
+"text": "Hình thành theo mức sinh, mức tử và di dân.",
+"weight": 0
+},
+{
+"text": "Hình thành theo quan hệ sở hữu tư liệu sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 181: [Nhận biết] Cơ cấu xã hội - tôn giáo",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - tôn giáo là gì?",
+"general_comment": "Cơ cấu xã hội - tôn giáo là tập hợp cộng đồng người có cùng đức tin tôn giáo, dựa trên giáo lý, giáo luật và thực hành lễ nghi tôn giáo.",
+"answers": [
+{
+"text": "Tập hợp cộng đồng người có cùng đức tin tôn giáo, dựa trên giáo lý, giáo luật và thực hành lễ nghi tôn giáo.",
+"weight": 100
+},
+{
+"text": "Tập hợp cộng đồng người được phân loại theo nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Tổng thể các giai cấp và tầng lớp xã hội trong một chế độ xã hội.",
+"weight": 0
+},
+{
+"text": "Tập hợp cộng đồng người phân loại theo tuổi, giới tính và mức sinh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 182: [Thông hiểu] Lý do CNXHKH tập trung nghiên cứu cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Vì sao môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội - giai cấp?",
+"general_comment": "Cơ cấu xã hội - giai cấp là cơ sở quan trọng để nghiên cứu vấn đề liên minh giai cấp, tầng lớp trong một chế độ xã hội nhất định.",
+"answers": [
+{
+"text": "Vì đó là cơ sở quan trọng để nghiên cứu vấn đề liên minh giai cấp, tầng lớp trong một chế độ xã hội nhất định.",
+"weight": 100
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp là loại cơ cấu xã hội duy nhất tồn tại trong mọi xã hội.",
+"weight": 0
+},
+{
+"text": "Vì các loại cơ cấu xã hội khác không có vai trò nào trong đời sống xã hội.",
+"weight": 0
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp chỉ phản ánh quan hệ tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 183: [Nhận biết] Khái niệm cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - giai cấp là gì?",
+"general_comment": "Cơ cấu xã hội - giai cấp là hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định thông qua các quan hệ về sở hữu tư liệu sản xuất, tổ chức quản lý sản xuất và địa vị chính trị - xã hội.",
+"answers": [
+{
+"text": "Hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định thông qua các quan hệ về sở hữu tư liệu sản xuất, tổ chức quản lý sản xuất và địa vị chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Hệ thống các cộng đồng người có cùng đức tin tôn giáo trong một quốc gia.",
+"weight": 0
+},
+{
+"text": "Tập hợp các nghề nghiệp khác nhau do phân công lao động xã hội quy định.",
+"weight": 0
+},
+{
+"text": "Tổng thể các biến động dân số cơ học và tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 184: [Nhận biết] Thành phần cơ cấu xã hội - giai cấp thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp bao gồm những lực lượng cơ bản nào?",
+"general_comment": "Cơ cấu xã hội - giai cấp thời kỳ quá độ gồm giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức, doanh nhân, tiểu chủ, thanh niên, phụ nữ và các nhóm xã hội khác.",
+"answers": [
+{
+"text": "Giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức, doanh nhân, tiểu chủ, thanh niên, phụ nữ và các nhóm xã hội khác.",
+"weight": 100
+},
+{
+"text": "Chỉ gồm giai cấp công nhân và giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Chỉ gồm chủ nô và nô lệ.",
+"weight": 0
+},
+{
+"text": "Chỉ gồm địa chủ phong kiến và nông nô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 185: [Nhận biết] Vị trí của cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Trong hệ thống cơ cấu xã hội, cơ cấu xã hội - giai cấp có vị trí như thế nào?",
+"general_comment": "Cơ cấu xã hội - giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác.",
+"answers": [
+{
+"text": "Có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác.",
+"weight": 100
+},
+{
+"text": "Hoàn toàn độc lập, không liên hệ với các cơ cấu xã hội khác.",
+"weight": 0
+},
+{
+"text": "Chỉ có vai trò phụ thuộc vào cơ cấu xã hội - tôn giáo.",
+"weight": 0
+},
+{
+"text": "Không có ý nghĩa trong nghiên cứu chính sách xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 186: [Thông hiểu] Không tuyệt đối hóa cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Vì sao không được tuyệt đối hóa cơ cấu xã hội - giai cấp?",
+"general_comment": "Mặc dù cơ cấu xã hội - giai cấp giữ vị trí quan trọng, nhưng tuyệt đối hóa nó có thể dẫn tới xem nhẹ các cơ cấu xã hội khác và muốn xóa bỏ giai cấp, tầng lớp một cách giản đơn, chủ quan.",
+"answers": [
+{
+"text": "Vì có thể dẫn tới xem nhẹ các cơ cấu xã hội khác và muốn xóa bỏ giai cấp, tầng lớp một cách giản đơn, chủ quan.",
+"weight": 100
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp không có vai trò gì trong xã hội có giai cấp.",
+"weight": 0
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp chỉ tồn tại trong xã hội nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp chỉ là vấn đề sinh học dân cư.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 187: [Nhận biết] Quy luật biến đổi thứ nhất của cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Sự biến đổi có tính quy luật đầu tiên của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế.",
+"answers": [
+{
+"text": "Cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi cơ cấu kinh tế.",
+"weight": 100
+},
+{
+"text": "Cơ cấu xã hội - giai cấp biến đổi chủ yếu do tín ngưỡng tôn giáo.",
+"weight": 0
+},
+{
+"text": "Cơ cấu xã hội - giai cấp không biến đổi trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Cơ cấu xã hội - giai cấp biến đổi chỉ do cơ cấu tuổi tác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 188: [Thông hiểu] Cơ cấu kinh tế tác động đến cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Vì sao biến đổi cơ cấu kinh tế tất yếu dẫn đến biến đổi cơ cấu xã hội - giai cấp?",
+"general_comment": "Biến đổi cơ cấu kinh tế làm thay đổi thành phần kinh tế, ngành nghề, cơ cấu lao động, vị trí và vai trò của các giai cấp, tầng lớp xã hội.",
+"answers": [
+{
+"text": "Vì nó làm thay đổi thành phần kinh tế, ngành nghề, cơ cấu lao động, vị trí và vai trò của các giai cấp, tầng lớp xã hội.",
+"weight": 100
+},
+{
+"text": "Vì cơ cấu kinh tế chỉ làm thay đổi đức tin tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì cơ cấu xã hội - giai cấp không liên quan đến sản xuất.",
+"weight": 0
+},
+{
+"text": "Vì mọi giai cấp đều biến mất ngay khi cơ cấu kinh tế thay đổi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 189: [Nhận biết] Quy luật biến đổi thứ hai của cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Sự biến đổi có tính quy luật thứ hai của cơ cấu xã hội - giai cấp trong thời kỳ quá độ là gì?",
+"general_comment": "Cơ cấu xã hội - giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới.",
+"answers": [
+{
+"text": "Biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp xã hội mới.",
+"weight": 100
+},
+{
+"text": "Biến đổi đơn giản, chỉ còn lại một giai cấp duy nhất ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Biến đổi hoàn toàn do yếu tố khí hậu.",
+"weight": 0
+},
+{
+"text": "Biến đổi theo hướng phục hồi nguyên vẹn cơ cấu phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 190: [Thông hiểu] Nguyên nhân cơ cấu xã hội - giai cấp đa dạng",
+"points_possible": 1,
+"question_text": "Vì sao thời kỳ quá độ lên chủ nghĩa xã hội còn tồn tại nhiều giai cấp, tầng lớp xã hội khác nhau?",
+"general_comment": "Do còn tồn tại nhiều hình thức sở hữu, nhiều thành phần kinh tế và các yếu tố cũ - mới đan xen.",
+"answers": [
+{
+"text": "Do còn tồn tại nhiều hình thức sở hữu, nhiều thành phần kinh tế và các yếu tố cũ - mới đan xen.",
+"weight": 100
+},
+{
+"text": "Do mọi quan hệ giai cấp đã mất đi ngay sau khi giành chính quyền.",
+"weight": 0
+},
+{
+"text": "Do chỉ còn tồn tại một hình thức sở hữu duy nhất.",
+"weight": 0
+},
+{
+"text": "Do cơ cấu xã hội - giai cấp không liên quan đến cơ cấu kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 191: [Nhận biết] Tầng lớp xã hội mới trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Những tầng lớp xã hội mới nào có thể xuất hiện và phát triển trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Trong thời kỳ quá độ có thể xuất hiện và phát triển các tầng lớp như doanh nhân, tiểu chủ, người giàu có và trung lưu trong xã hội.",
+"answers": [
+{
+"text": "Doanh nhân, tiểu chủ, người giàu có và trung lưu trong xã hội.",
+"weight": 100
+},
+{
+"text": "Chủ nô và nô lệ theo nghĩa cổ đại.",
+"weight": 0
+},
+{
+"text": "Lãnh chúa phong kiến và nông nô theo nghĩa trung đại.",
+"weight": 0
+},
+{
+"text": "Chỉ có công nhân và nông dân, không có tầng lớp nào khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 192: [Nhận biết] Quy luật biến đổi thứ ba của cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Sự biến đổi có tính quy luật thứ ba của cơ cấu xã hội - giai cấp trong thời kỳ quá độ là gì?",
+"general_comment": "Cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh, dẫn đến sự xích lại gần nhau giữa các giai cấp, tầng lớp cơ bản.",
+"answers": [
+{
+"text": "Biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh, dẫn đến sự xích lại gần nhau giữa các giai cấp, tầng lớp cơ bản.",
+"weight": 100
+},
+{
+"text": "Biến đổi theo hướng đối kháng tuyệt đối, không có liên minh.",
+"weight": 0
+},
+{
+"text": "Biến đổi chỉ trong lĩnh vực dân số học.",
+"weight": 0
+},
+{
+"text": "Biến đổi theo hướng tách rời hoàn toàn giữa các tầng lớp xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 193: [Thông hiểu] Xu hướng xích lại gần nhau",
+"points_possible": 1,
+"question_text": "Xu hướng xích lại gần nhau giữa các giai cấp, tầng lớp trong thời kỳ quá độ hướng tới mục tiêu nào?",
+"general_comment": "Xu hướng này hướng tới từng bước xóa bỏ tình trạng bóc lột giai cấp, vươn tới các giá trị công bằng, bình đẳng.",
+"answers": [
+{
+"text": "Từng bước xóa bỏ tình trạng bóc lột giai cấp, vươn tới công bằng và bình đẳng.",
+"weight": 100
+},
+{
+"text": "Tăng cường đối kháng vĩnh viễn giữa công nhân và nông dân.",
+"weight": 0
+},
+{
+"text": "Khôi phục địa vị thống trị của giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi khác biệt xã hội ngay lập tức bằng mệnh lệnh hành chính.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 194: [Nhận biết] Vai trò chủ đạo của giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Trong cơ cấu xã hội - giai cấp thời kỳ quá độ, giai cấp nào giữ vai trò chủ đạo?",
+"general_comment": "Giai cấp công nhân giữ vai trò chủ đạo, tiên phong trong công nghiệp hóa, hiện đại hóa, cải tạo xã hội cũ và xây dựng xã hội mới.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Đội ngũ doanh nhân.",
+"weight": 0
+},
+{
+"text": "Tầng lớp tiểu chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 195: [Thông hiểu] Nghiên cứu cơ cấu xã hội ở trạng thái tĩnh và động",
+"points_possible": 1,
+"question_text": "Vì sao cần nghiên cứu cơ cấu xã hội - giai cấp cả ở trạng thái tĩnh và trạng thái động?",
+"general_comment": "Cần nghiên cứu như vậy để nhận diện đặc điểm, xu hướng vận động và những vấn đề chính sách cần giải quyết trong từng giai đoạn.",
+"answers": [
+{
+"text": "Để nhận diện đặc điểm, xu hướng vận động và những vấn đề chính sách cần giải quyết trong từng giai đoạn.",
+"weight": 100
+},
+{
+"text": "Để chứng minh cơ cấu xã hội - giai cấp không bao giờ biến đổi.",
+"weight": 0
+},
+{
+"text": "Để tách chính sách xã hội khỏi thực tiễn vận động của xã hội.",
+"weight": 0
+},
+{
+"text": "Để xóa bỏ ngay tất cả giai cấp bằng ý chí chủ quan.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 196: [Nhận biết] Nguyên nhân thất bại khi giai cấp công nhân đơn độc",
+"points_possible": 1,
+"question_text": "Theo C. Mác và Ph. Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu thất bại chủ yếu vì nguyên nhân nào?",
+"general_comment": "Nhiều cuộc đấu tranh thất bại vì giai cấp công nhân đơn độc, không tổ chức liên minh với người bạn đồng minh tự nhiên là giai cấp nông dân.",
+"answers": [
+{
+"text": "Vì giai cấp công nhân đơn độc, không tổ chức liên minh với giai cấp nông dân.",
+"weight": 100
+},
+{
+"text": "Vì giai cấp công nhân đã liên minh quá chặt chẽ với nông dân.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp công nhân không có mâu thuẫn với giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp tư sản tự nguyện trao chính quyền cho công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 197: [Nhận biết] Người bạn đồng minh tự nhiên của giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Trong lý luận liên minh giai cấp, giai cấp nào được coi là người bạn đồng minh tự nhiên của giai cấp công nhân?",
+"general_comment": "Giai cấp nông dân được coi là người bạn đồng minh tự nhiên của giai cấp công nhân.",
+"answers": [
+{
+"text": "Giai cấp nông dân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giai cấp chủ nô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 198: [Thông hiểu] Cơ sở chính trị - xã hội của liên minh",
+"points_possible": 1,
+"question_text": "Xét từ góc độ chính trị - xã hội, vì sao giai cấp công nhân phải liên minh với giai cấp nông dân và các tầng lớp lao động khác?",
+"general_comment": "Trong cách mạng xã hội chủ nghĩa, giai cấp công nhân cần liên minh để tập hợp lực lượng, giành chính quyền, giữ chính quyền và xây dựng xã hội mới.",
+"answers": [
+{
+"text": "Để tập hợp lực lượng, giành chính quyền, giữ chính quyền và xây dựng xã hội mới.",
+"weight": 100
+},
+{
+"text": "Để từ bỏ vai trò lãnh đạo của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Để duy trì sự thống trị của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Để tách phong trào công nhân khỏi nhân dân lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 199: [Nhận biết] Nguyên tắc cao nhất của chuyên chính vô sản theo Lênin",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, nguyên tắc cao nhất của chuyên chính vô sản là gì?",
+"general_comment": "V.I. Lênin xác định nguyên tắc cao nhất là duy trì khối liên minh giữa giai cấp vô sản và nông dân để giai cấp vô sản giữ vai trò lãnh đạo và chính quyền nhà nước.",
+"answers": [
+{
+"text": "Duy trì khối liên minh giữa giai cấp vô sản và nông dân.",
+"weight": 100
+},
+{
+"text": "Duy trì sự thống trị của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Tách giai cấp vô sản khỏi nông dân.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò của chính quyền nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 200: [Nhận biết] Chuyên chính vô sản như hình thức liên minh đặc biệt",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, chuyên chính vô sản là hình thức đặc biệt của liên minh giữa những lực lượng nào?",
+"general_comment": "Chuyên chính vô sản là hình thức đặc biệt của liên minh giữa giai cấp vô sản với đông đảo tầng lớp lao động không phải vô sản.",
+"answers": [
+{
+"text": "Giai cấp vô sản với đông đảo tầng lớp lao động không phải vô sản.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản với địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Địa chủ với nông nô.",
+"weight": 0
+},
+{
+"text": "Chủ nô với nô lệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 201: [Nhận biết] Vai trò của trí thức trong liên minh theo Lênin",
+"points_possible": 1,
+"question_text": "Luận điểm của V.I. Lênin về liên minh giữa các đại biểu khoa học, giai cấp vô sản và giới kỹ thuật nhấn mạnh vai trò của lực lượng nào?",
+"general_comment": "Luận điểm này nhấn mạnh vai trò của đội ngũ trí thức và khoa học - kỹ thuật trong liên minh cách mạng.",
+"answers": [
+{
+"text": "Đội ngũ trí thức và lực lượng khoa học - kỹ thuật.",
+"weight": 100
+},
+{
+"text": "Giai cấp địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Giai cấp tư sản độc quyền.",
+"weight": 0
+},
+{
+"text": "Tầng lớp quý tộc cũ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 202: [Thông hiểu] Cơ sở kinh tế của liên minh",
+"points_possible": 1,
+"question_text": "Xét từ góc độ kinh tế, cơ sở hình thành liên minh giai cấp, tầng lớp trong thời kỳ quá độ là gì?",
+"general_comment": "Liên minh xuất phát từ yêu cầu khách quan của công nghiệp hóa, hiện đại hóa, chuyển dịch cơ cấu kinh tế và nhu cầu lợi ích kinh tế của các giai cấp, tầng lớp.",
+"answers": [
+{
+"text": "Yêu cầu công nghiệp hóa, hiện đại hóa, chuyển dịch cơ cấu kinh tế và nhu cầu lợi ích kinh tế của các giai cấp, tầng lớp.",
+"weight": 100
+},
+{
+"text": "Yêu cầu khôi phục kinh tế phong kiến tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận mọi lợi ích kinh tế của công nhân và nông dân.",
+"weight": 0
+},
+{
+"text": "Sự đồng nhất tuyệt đối về nghề nghiệp giữa mọi tầng lớp xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 203: [Thông hiểu] Lợi ích kinh tế trong liên minh",
+"points_possible": 1,
+"question_text": "Vì sao quan hệ lợi ích kinh tế có ý nghĩa quan trọng đối với liên minh giai cấp, tầng lớp?",
+"general_comment": "Liên minh xuất phát từ nhu cầu và lợi ích kinh tế của các chủ thể; cần phát hiện và giải quyết mâu thuẫn lợi ích để tạo đồng thuận và động lực phát triển.",
+"answers": [
+{
+"text": "Vì liên minh xuất phát từ nhu cầu và lợi ích kinh tế của các chủ thể, cần giải quyết mâu thuẫn lợi ích để tạo đồng thuận và động lực phát triển.",
+"weight": 100
+},
+{
+"text": "Vì các giai cấp, tầng lớp không có bất kỳ lợi ích kinh tế nào.",
+"weight": 0
+},
+{
+"text": "Vì lợi ích kinh tế luôn đối kháng tuyệt đối, không thể điều hòa.",
+"weight": 0
+},
+{
+"text": "Vì liên minh chỉ dựa trên nghi lễ tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 204: [Nhận biết] Khái niệm liên minh giai cấp, tầng lớp",
+"points_possible": 1,
+"question_text": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Liên minh giai cấp, tầng lớp là sự liên kết, hợp tác, hỗ trợ nhau giữa các giai cấp, tầng lớp xã hội nhằm thực hiện nhu cầu, lợi ích của các chủ thể và tạo động lực thực hiện thắng lợi mục tiêu của chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Sự liên kết, hợp tác, hỗ trợ nhau giữa các giai cấp, tầng lớp xã hội nhằm thực hiện nhu cầu, lợi ích của các chủ thể và mục tiêu của chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Sự đối kháng tuyệt đối giữa công nhân, nông dân và trí thức.",
+"weight": 0
+},
+{
+"text": "Sự liên minh giữa giai cấp tư sản và địa chủ để bảo vệ xã hội cũ.",
+"weight": 0
+},
+{
+"text": "Sự tập hợp ngẫu nhiên không dựa trên lợi ích và mục tiêu chung.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 205: [Nhận biết] Nguyên tắc thực hiện liên minh",
+"points_possible": 1,
+"question_text": "Quá trình thực hiện liên minh giai cấp, tầng lớp cần bảo đảm những nguyên tắc nào?",
+"general_comment": "Cần kết hợp đúng đắn lợi ích của các chủ thể, bảo đảm sự lãnh đạo của Đảng Cộng sản và nguyên tắc tự nguyện khi thực hiện liên minh.",
+"answers": [
+{
+"text": "Kết hợp đúng đắn lợi ích của các chủ thể; bảo đảm sự lãnh đạo của Đảng Cộng sản; bảo đảm nguyên tắc tự nguyện.",
+"weight": 100
+},
+{
+"text": "Phủ nhận lợi ích của các chủ thể; tách khỏi Đảng Cộng sản; áp đặt cưỡng bức tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Chỉ dựa trên lợi ích của một tầng lớp duy nhất.",
+"weight": 0
+},
+{
+"text": "Không cần nguyên tắc vì liên minh là hiện tượng tự phát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 206: [Thông hiểu] Đặc điểm biến đổi cơ cấu xã hội - giai cấp ở Việt Nam",
+"points_possible": 1,
+"question_text": "Sự biến đổi cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ có đặc điểm gì?",
+"general_comment": "Sự biến đổi vừa bảo đảm tính quy luật phổ biến của thời kỳ quá độ, vừa mang tính đặc thù của xã hội Việt Nam.",
+"answers": [
+{
+"text": "Vừa bảo đảm tính quy luật phổ biến, vừa mang tính đặc thù của xã hội Việt Nam.",
+"weight": 100
+},
+{
+"text": "Hoàn toàn không chịu tác động của cơ cấu kinh tế.",
+"weight": 0
+},
+{
+"text": "Chỉ lặp lại nguyên vẹn cơ cấu xã hội phong kiến.",
+"weight": 0
+},
+{
+"text": "Không có sự xuất hiện của tầng lớp xã hội mới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 207: [Nhận biết] Đại hội VI và biến đổi cơ cấu xã hội - giai cấp",
+"points_possible": 1,
+"question_text": "Từ Đại hội VI năm 1986, sự chuyển đổi nào tác động mạnh đến cơ cấu xã hội - giai cấp ở Việt Nam?",
+"general_comment": "Từ Đại hội VI, Việt Nam chuyển mạnh sang cơ chế thị trường, phát triển kinh tế nhiều thành phần định hướng xã hội chủ nghĩa, làm cơ cấu xã hội - giai cấp trở nên đa dạng.",
+"answers": [
+{
+"text": "Chuyển sang cơ chế thị trường, phát triển kinh tế nhiều thành phần định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chuyển sang chế độ chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ hoàn toàn mọi thành phần kinh tế ngoài nhà nước ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Phục hồi quan hệ sản xuất phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 208: [Nhận biết] Các giai cấp, tầng lớp cơ bản ở Việt Nam hiện nay",
+"points_possible": 1,
+"question_text": "Cơ cấu xã hội - giai cấp ở Việt Nam hiện nay bao gồm những giai cấp, tầng lớp cơ bản nào?",
+"general_comment": "Cơ cấu xã hội - giai cấp Việt Nam hiện nay gồm giai cấp công nhân, giai cấp nông dân, đội ngũ trí thức, đội ngũ doanh nhân và các tầng lớp xã hội khác.",
+"answers": [
+{
+"text": "Giai cấp công nhân, giai cấp nông dân, đội ngũ trí thức, đội ngũ doanh nhân và các tầng lớp xã hội khác.",
+"weight": 100
+},
+{
+"text": "Chỉ gồm giai cấp công nhân và nông dân.",
+"weight": 0
+},
+{
+"text": "Chỉ gồm giai cấp tư sản và địa chủ.",
+"weight": 0
+},
+{
+"text": "Chỉ gồm công nhân hiện đại và doanh nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 209: [Nhận biết] Vai trò của giai cấp công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Ở Việt Nam hiện nay, giai cấp nào là giai cấp lãnh đạo cách mạng thông qua đội tiền phong là Đảng Cộng sản Việt Nam?",
+"general_comment": "Giai cấp công nhân Việt Nam là giai cấp lãnh đạo cách mạng thông qua đội tiền phong là Đảng Cộng sản Việt Nam.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Đội ngũ doanh nhân.",
+"weight": 0
+},
+{
+"text": "Tầng lớp tiểu chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 210: [Nhận biết] Công nhân đi đầu trong CNH, HĐH",
+"points_possible": 1,
+"question_text": "Ở Việt Nam hiện nay, giai cấp nào là lực lượng đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước?",
+"general_comment": "Giai cấp công nhân là lực lượng đi đầu trong công nghiệp hóa, hiện đại hóa đất nước.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Tầng lớp doanh nhân.",
+"weight": 0
+},
+{
+"text": "Tầng lớp tiểu chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 211: [Nhận biết] Bộ phận công nhân hiện đại",
+"points_possible": 1,
+"question_text": "Cùng với kinh tế tri thức và Cách mạng công nghiệp lần thứ tư, bộ phận nào trong giai cấp công nhân có xu hướng ngày càng lớn mạnh?",
+"general_comment": "Bộ phận công nhân hiện đại, công nhân trí thức, công nhân cổ cồn, cổ xanh, cổ vàng có xu hướng phát triển.",
+"answers": [
+{
+"text": "Công nhân hiện đại, công nhân trí thức, công nhân cổ cồn, cổ xanh, cổ vàng.",
+"weight": 100
+},
+{
+"text": "Công nhân không còn kỹ năng nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Công nhân tách khỏi khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Công nhân không tham gia sản xuất hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 212: [Nhận biết] Vai trò của giai cấp nông dân Việt Nam",
+"points_possible": 1,
+"question_text": "Giai cấp nông dân Việt Nam cùng với nông nghiệp, nông thôn có vị trí như thế nào?",
+"general_comment": "Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí chiến lược trong công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn, xây dựng nông thôn mới và bảo vệ Tổ quốc.",
+"answers": [
+{
+"text": "Có vị trí chiến lược trong công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn, xây dựng nông thôn mới và bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Không còn vai trò trong phát triển kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Là giai cấp lãnh đạo cách mạng thông qua Đảng Cộng sản Việt Nam.",
+"weight": 0
+},
+{
+"text": "Là lực lượng thống trị xã hội trong thời kỳ quá độ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 213: [Nhận biết] Xu hướng biến đổi của giai cấp nông dân",
+"points_possible": 1,
+"question_text": "Xu hướng biến đổi của giai cấp nông dân Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Giai cấp nông dân có xu hướng giảm dần về số lượng và tỷ lệ; một bộ phận chuyển sang lao động công nghiệp, dịch vụ và trở thành công nhân.",
+"answers": [
+{
+"text": "Giảm dần về số lượng và tỷ lệ; một bộ phận chuyển sang lao động công nghiệp, dịch vụ và trở thành công nhân.",
+"weight": 100
+},
+{
+"text": "Trở thành giai cấp giữ vai trò lãnh đạo xã hội.",
+"weight": 0
+},
+{
+"text": "Không có sự phân hóa nội bộ.",
+"weight": 0
+},
+{
+"text": "Tăng lên tuyệt đối để thay thế giai cấp công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 214: [Nhận biết] Vai trò của đội ngũ trí thức",
+"points_possible": 1,
+"question_text": "Đội ngũ trí thức Việt Nam được xác định là lực lượng như thế nào?",
+"general_comment": "Đội ngũ trí thức là lực lượng lao động sáng tạo đặc biệt quan trọng trong công nghiệp hóa, hiện đại hóa, hội nhập quốc tế, xây dựng kinh tế tri thức và phát triển văn hóa.",
+"answers": [
+{
+"text": "Lực lượng lao động sáng tạo đặc biệt quan trọng trong công nghiệp hóa, hiện đại hóa, hội nhập quốc tế và xây dựng kinh tế tri thức.",
+"weight": 100
+},
+{
+"text": "Lực lượng không có vai trò trong phát triển đất nước.",
+"weight": 0
+},
+{
+"text": "Lực lượng thay thế vai trò lãnh đạo của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Lực lượng chỉ có vai trò trong sản xuất nông nghiệp thủ công.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 215: [Nhận biết] Vai trò của đội ngũ doanh nhân",
+"points_possible": 1,
+"question_text": "Đội ngũ doanh nhân Việt Nam hiện nay có vai trò nào?",
+"general_comment": "Đội ngũ doanh nhân đóng góp vào phát triển kinh tế - xã hội, giải quyết việc làm, an sinh xã hội, xóa đói giảm nghèo, nâng cao sức cạnh tranh và bảo đảm độc lập, tự chủ của nền kinh tế.",
+"answers": [
+{
+"text": "Đóng góp vào phát triển kinh tế - xã hội, giải quyết việc làm, an sinh xã hội, nâng cao sức cạnh tranh và bảo đảm độc lập, tự chủ của nền kinh tế.",
+"weight": 100
+},
+{
+"text": "Không thuộc cơ cấu xã hội - giai cấp Việt Nam.",
+"weight": 0
+},
+{
+"text": "Là lực lượng đối lập tuyệt đối với mọi mục tiêu phát triển đất nước.",
+"weight": 0
+},
+{
+"text": "Chỉ tồn tại trong xã hội phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 216: [Nhận biết] Chuẩn mực phát triển đội ngũ doanh nhân",
+"points_possible": 1,
+"question_text": "Đại hội XIII yêu cầu phát triển đội ngũ doanh nhân theo hướng nào?",
+"general_comment": "Đại hội XIII yêu cầu phát triển đội ngũ doanh nhân lớn mạnh về số lượng, chất lượng, có tinh thần cống hiến, chuẩn mực văn hóa, đạo đức tiến bộ và trình độ quản trị, kinh doanh giỏi.",
+"answers": [
+{
+"text": "Lớn mạnh về số lượng, chất lượng, có tinh thần cống hiến, chuẩn mực văn hóa, đạo đức tiến bộ và trình độ quản trị, kinh doanh giỏi.",
+"weight": 100
+},
+{
+"text": "Chỉ lớn mạnh về tài sản, không cần đạo đức và trách nhiệm xã hội.",
+"weight": 0
+},
+{
+"text": "Tách khỏi chiến lược phát triển kinh tế - xã hội của đất nước.",
+"weight": 0
+},
+{
+"text": "Không cần năng lực quản trị và kinh doanh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 217: [Thông hiểu] Yêu cầu giải pháp đối với các giai cấp, tầng lớp ở Việt Nam",
+"points_possible": 1,
+"question_text": "Vì sao cần có giải pháp sát thực và đồng bộ đối với các giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ?",
+"general_comment": "Vì các giai cấp, tầng lớp biến đổi liên tục, xuất hiện nhóm xã hội mới; cần tạo điều kiện để mỗi lực lượng khẳng định vị trí và phát huy vai trò trong phát triển đất nước.",
+"answers": [
+{
+"text": "Vì các giai cấp, tầng lớp biến đổi liên tục, xuất hiện nhóm xã hội mới; cần tạo điều kiện để mỗi lực lượng phát huy vai trò trong phát triển đất nước.",
+"weight": 100
+},
+{
+"text": "Vì các giai cấp, tầng lớp không có vai trò trong xã hội.",
+"weight": 0
+},
+{
+"text": "Vì mọi khác biệt xã hội đã biến mất hoàn toàn.",
+"weight": 0
+},
+{
+"text": "Vì chỉ cần phát triển một giai cấp duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 218: [Nhận biết] Đại hội đầu tiên khẳng định liên minh công - nông - trí thức",
+"points_possible": 1,
+"question_text": "Vấn đề liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức được Đảng ta khẳng định lần đầu tiên tại Đại hội nào?",
+"general_comment": "Ngân hàng Chương 5 xác định nội dung này được khẳng định lần đầu tiên tại Đại hội đại biểu toàn quốc lần thứ II năm 1951.",
+"answers": [
+{
+"text": "Đại hội đại biểu toàn quốc lần thứ II năm 1951.",
+"weight": 100
+},
+{
+"text": "Đại hội đại biểu toàn quốc lần thứ III năm 1960.",
+"weight": 0
+},
+{
+"text": "Đại hội đại biểu toàn quốc lần thứ IV năm 1976.",
+"weight": 0
+},
+{
+"text": "Đại hội đại biểu toàn quốc lần thứ V năm 1982.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 219: [Nhận biết] Nền tảng đại đoàn kết toàn dân tộc",
+"points_possible": 1,
+"question_text": "Theo quan điểm của Đảng, khối đại đoàn kết toàn dân tộc được tăng cường trên nền tảng nào?",
+"general_comment": "Đảng xác định tăng cường đại đoàn kết toàn dân tộc trên nền tảng liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức do Đảng lãnh đạo.",
+"answers": [
+{
+"text": "Liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức do Đảng lãnh đạo.",
+"weight": 100
+},
+{
+"text": "Liên minh giữa địa chủ và tư sản mại bản.",
+"weight": 0
+},
+{
+"text": "Liên minh giữa các tập đoàn kinh tế tư nhân.",
+"weight": 0
+},
+{
+"text": "Liên minh tạm thời không cần sự lãnh đạo của Đảng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 220: [Nhận biết] Cơ sở chính trị của liên minh ở Việt Nam",
+"points_possible": 1,
+"question_text": "Nội dung chính trị của liên minh giai cấp, tầng lớp ở Việt Nam trước hết thể hiện ở yêu cầu nào?",
+"general_comment": "Nội dung chính trị thể hiện ở việc giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân và vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+"answers": [
+{
+"text": "Giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân và vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+"weight": 100
+},
+{
+"text": "Từ bỏ lập trường giai cấp công nhân để trung lập về chính trị.",
+"weight": 0
+},
+{
+"text": "Tách liên minh khỏi hệ thống chính trị xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Dựa trên lập trường chính trị của giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 221: [Nhận biết] Giai cấp giữ vai trò lãnh đạo khối liên minh",
+"points_possible": 1,
+"question_text": "Ở Việt Nam hiện nay, giai cấp nào giữ vai trò lãnh đạo khối liên minh?",
+"general_comment": "Giai cấp công nhân giữ vai trò lãnh đạo khối liên minh thông qua Đảng Cộng sản Việt Nam.",
+"answers": [
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Đội ngũ doanh nhân.",
+"weight": 0
+},
+{
+"text": "Tầng lớp trí thức.",
+"weight": 0
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 222: [Nhận biết] Nội dung kinh tế của liên minh",
+"points_possible": 1,
+"question_text": "Trong các nội dung của liên minh giai cấp, tầng lớp ở Việt Nam, nội dung nào là cơ bản và quyết định nhất?",
+"general_comment": "Nội dung kinh tế là nội dung cơ bản, quyết định nhất, là cơ sở vật chất - kỹ thuật của liên minh trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Nội dung kinh tế.",
+"weight": 100
+},
+{
+"text": "Nội dung tôn giáo.",
+"weight": 0
+},
+{
+"text": "Nội dung nghi lễ.",
+"weight": 0
+},
+{
+"text": "Nội dung huyết thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 223: [Nhận biết] Nội dung kinh tế về tiềm lực và nhu cầu",
+"points_possible": 1,
+"question_text": "Dưới góc độ kinh tế, một nội dung của liên minh giai cấp, tầng lớp là gì?",
+"general_comment": "Cần xác định đúng tiềm lực kinh tế và nhu cầu kinh tế của công nhân, nông dân, trí thức và toàn xã hội để xây dựng kế hoạch đầu tư, triển khai hoạt động kinh tế hiệu quả.",
+"answers": [
+{
+"text": "Xác định đúng tiềm lực kinh tế và nhu cầu kinh tế của các giai cấp, tầng lớp và toàn xã hội.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ mọi nhu cầu kinh tế khác nhau giữa các tầng lớp.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo đảm lợi ích kinh tế của một nhóm xã hội duy nhất.",
+"weight": 0
+},
+{
+"text": "Tách liên minh khỏi mọi hoạt động kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 224: [Nhận biết] Xác định cơ cấu kinh tế trong liên minh",
+"points_possible": 1,
+"question_text": "Trong nội dung kinh tế của liên minh, vì sao phải xác định đúng cơ cấu kinh tế?",
+"general_comment": "Xác định đúng cơ cấu kinh tế giúp các địa phương, ngành, cơ sở vận dụng linh hoạt, phù hợp, tránh đầu tư không hiệu quả và lãng phí.",
+"answers": [
+{
+"text": "Để các địa phương, ngành, cơ sở vận dụng linh hoạt, phù hợp, tránh đầu tư không hiệu quả và lãng phí.",
+"weight": 100
+},
+{
+"text": "Để loại bỏ hoàn toàn các hình thức liên kết kinh tế.",
+"weight": 0
+},
+{
+"text": "Để tách công nghiệp khỏi nông nghiệp và khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Để chỉ phát triển một ngành kinh tế duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 225: [Nhận biết] Liên kết kinh tế trong liên minh",
+"points_possible": 1,
+"question_text": "Nội dung kinh tế của liên minh yêu cầu tổ chức các hình thức liên kết nào?",
+"general_comment": "Cần tổ chức giao lưu, hợp tác, liên kết giữa công nghiệp - nông nghiệp - khoa học và công nghệ - dịch vụ; giữa các ngành, thành phần, vùng kinh tế, trong nước và quốc tế.",
+"answers": [
+{
+"text": "Liên kết giữa công nghiệp - nông nghiệp - khoa học và công nghệ - dịch vụ; giữa các ngành, thành phần, vùng kinh tế, trong nước và quốc tế.",
+"weight": 100
+},
+{
+"text": "Chỉ liên kết trong phạm vi sản xuất tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Tách nông nghiệp khỏi khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Không cần liên kết giữa các ngành kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 226: [Nhận biết] Nội dung không thuộc chính trị của liên minh",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là nội dung chính trị của liên minh giai cấp, tầng lớp ở Việt Nam?",
+"general_comment": "Tăng cường giao lưu, hợp tác, liên kết giữa công nghiệp - nông nghiệp - khoa học công nghệ là nội dung kinh tế, không phải nội dung chính trị.",
+"answers": [
+{
+"text": "Tăng cường các hình thức giao lưu, hợp tác, liên kết giữa công nghiệp - nông nghiệp - khoa học công nghệ.",
+"weight": 100
+},
+{
+"text": "Giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam.",
+"weight": 0
+},
+{
+"text": "Bảo vệ vững chắc chế độ chính trị.",
+"weight": 0
+},
+{
+"text": "Xây dựng, hoàn thiện nền dân chủ xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 227: [Nhận biết] Nhà nước pháp quyền trong nội dung chính trị của liên minh",
+"points_possible": 1,
+"question_text": "Trong nội dung chính trị của liên minh ở Việt Nam, việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa nhằm bảo đảm điều gì?",
+"general_comment": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa nhằm bảo đảm lợi ích chính trị, quyền dân chủ, quyền công dân, quyền làm chủ, quyền con người của công nhân, nông dân, trí thức và nhân dân lao động.",
+"answers": [
+{
+"text": "Bảo đảm lợi ích chính trị, quyền dân chủ, quyền công dân, quyền làm chủ và quyền con người của nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Bảo đảm đặc quyền của giai cấp bóc lột cũ.",
+"weight": 0
+},
+{
+"text": "Tách nhân dân khỏi quyền lực nhà nước.",
+"weight": 0
+},
+{
+"text": "Phủ nhận dân chủ xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 228: [Nhận biết] Nội dung văn hóa - xã hội của liên minh",
+"points_possible": 1,
+"question_text": "Nội dung văn hóa - xã hội của liên minh giai cấp, tầng lớp ở Việt Nam hướng tới xây dựng nền văn hóa như thế nào?",
+"general_comment": "Nội dung này hướng tới xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, tiếp thu tinh hoa văn hóa nhân loại và thời đại.",
+"answers": [
+{
+"text": "Nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, tiếp thu tinh hoa văn hóa nhân loại và thời đại.",
+"weight": 100
+},
+{
+"text": "Nền văn hóa biệt lập, khép kín, phủ nhận tinh hoa nhân loại.",
+"weight": 0
+},
+{
+"text": "Nền văn hóa phục hồi trật tự đẳng cấp phong kiến.",
+"weight": 0
+},
+{
+"text": "Nền văn hóa không liên quan đến phát triển con người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 229: [Nhận biết] An sinh xã hội trong liên minh",
+"points_possible": 1,
+"question_text": "Trong nội dung văn hóa - xã hội của liên minh, cần thực hiện nhiệm vụ nào đối với đời sống nhân dân?",
+"general_comment": "Cần chăm sóc sức khỏe, nâng cao chất lượng sống, nâng cao dân trí và thực hiện tốt an sinh xã hội.",
+"answers": [
+{
+"text": "Chăm sóc sức khỏe, nâng cao chất lượng sống, nâng cao dân trí và thực hiện tốt an sinh xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ tập trung tăng trưởng kinh tế, không cần an sinh xã hội.",
+"weight": 0
+},
+{
+"text": "Tách phát triển văn hóa khỏi phát triển con người.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo đảm phúc lợi cho một tầng lớp duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 230: [Nhận biết] Ba nội dung của liên minh giai cấp, tầng lớp",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, liên minh giai cấp, tầng lớp được thực hiện trên những lĩnh vực cơ bản nào?",
+"general_comment": "Liên minh được thực hiện trên ba lĩnh vực cơ bản: kinh tế, chính trị, văn hóa - xã hội.",
+"answers": [
+{
+"text": "Kinh tế, chính trị, văn hóa - xã hội.",
+"weight": 100
+},
+{
+"text": "Kinh tế, quân sự, tôn giáo.",
+"weight": 0
+},
+{
+"text": "Văn hóa, tín ngưỡng, huyết thống.",
+"weight": 0
+},
+{
+"text": "Dân cư, địa lý, khí hậu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 231: [Nhận biết] Phương hướng thứ nhất xây dựng liên minh",
+"points_possible": 1,
+"question_text": "Phương hướng thứ nhất để xây dựng cơ cấu xã hội - giai cấp và tăng cường liên minh ở Việt Nam là gì?",
+"general_comment": "Phương hướng thứ nhất là đẩy mạnh công nghiệp hóa, hiện đại hóa; giải quyết tốt quan hệ giữa tăng trưởng kinh tế với tiến bộ, công bằng xã hội để thúc đẩy biến đổi cơ cấu xã hội - giai cấp theo hướng tích cực.",
+"answers": [
+{
+"text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa; gắn tăng trưởng kinh tế với tiến bộ, công bằng xã hội.",
+"weight": 100
+},
+{
+"text": "Duy trì cơ cấu kinh tế nông nghiệp tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Tách tăng trưởng kinh tế khỏi công bằng xã hội.",
+"weight": 0
+},
+{
+"text": "Không cần chuyển dịch cơ cấu kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 232: [Nhận biết] Phương hướng chính sách xã hội tổng thể",
+"points_possible": 1,
+"question_text": "Phương hướng thứ hai để xây dựng cơ cấu xã hội - giai cấp và tăng cường liên minh là gì?",
+"general_comment": "Phương hướng thứ hai là xây dựng và thực hiện hệ thống chính sách xã hội tổng thể nhằm tác động, tạo sự biến đổi tích cực cơ cấu xã hội, nhất là cơ cấu xã hội - giai cấp.",
+"answers": [
+{
+"text": "Xây dựng và thực hiện hệ thống chính sách xã hội tổng thể nhằm tạo biến đổi tích cực cơ cấu xã hội - giai cấp.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ mọi chính sách xã hội đối với từng giai cấp, tầng lớp.",
+"weight": 0
+},
+{
+"text": "Chỉ ban hành chính sách cho doanh nhân.",
+"weight": 0
+},
+{
+"text": "Không cần chính sách đối với công nhân, nông dân và trí thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 233: [Nhận biết] Chính sách đối với giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Chính sách đối với giai cấp công nhân trong xây dựng liên minh cần tập trung vào nội dung nào?",
+"general_comment": "Cần giáo dục, đào tạo, bồi dưỡng công nhân về số lượng và chất lượng; nâng cao bản lĩnh chính trị, học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp, kỷ luật lao động; bảo đảm việc làm, thu nhập, nhà ở và phúc lợi.",
+"answers": [
+{
+"text": "Nâng cao bản lĩnh chính trị, trình độ, kỹ năng, tác phong công nghiệp, kỷ luật lao động; bảo đảm việc làm, thu nhập, nhà ở và phúc lợi.",
+"weight": 100
+},
+{
+"text": "Chỉ tăng cường kỷ luật mà không cần bảo đảm đời sống công nhân.",
+"weight": 0
+},
+{
+"text": "Không cần đào tạo, bồi dưỡng công nhân.",
+"weight": 0
+},
+{
+"text": "Tách công nhân khỏi chính sách bảo hiểm xã hội, y tế và thất nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 234: [Nhận biết] Chính sách đối với giai cấp nông dân",
+"points_possible": 1,
+"question_text": "Chính sách đối với giai cấp nông dân trong xây dựng liên minh cần nhấn mạnh nội dung nào?",
+"general_comment": "Cần phát huy vai trò chủ thể của nông dân trong phát triển nông nghiệp, xây dựng nông thôn mới; hỗ trợ học nghề, chuyển dịch lao động, ứng dụng khoa học - công nghệ, nâng cao đời sống nông thôn.",
+"answers": [
+{
+"text": "Phát huy vai trò chủ thể trong nông nghiệp, xây dựng nông thôn mới; hỗ trợ học nghề, chuyển dịch lao động, ứng dụng khoa học - công nghệ.",
+"weight": 100
+},
+{
+"text": "Giữ nông dân trong sản xuất nhỏ lạc hậu, không cần khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Tách nông dân khỏi quá trình xây dựng nông thôn mới.",
+"weight": 0
+},
+{
+"text": "Không cần cải thiện chất lượng cuộc sống ở nông thôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 235: [Nhận biết] Chính sách đối với đội ngũ trí thức",
+"points_possible": 1,
+"question_text": "Chính sách đối với đội ngũ trí thức cần tập trung vào nội dung nào?",
+"general_comment": "Cần xây dựng đội ngũ trí thức lớn mạnh, chất lượng cao; tôn trọng tự do tư tưởng trong nghiên cứu, sáng tạo; trọng dụng trí thức; bảo vệ quyền sở hữu trí tuệ, đãi ngộ và tôn vinh cống hiến.",
+"answers": [
+{
+"text": "Xây dựng đội ngũ chất lượng cao, tôn trọng tự do sáng tạo, trọng dụng trí thức, bảo vệ sở hữu trí tuệ, đãi ngộ và tôn vinh cống hiến.",
+"weight": 100
+},
+{
+"text": "Không cần trọng dụng nhân tài trong xây dựng đất nước.",
+"weight": 0
+},
+{
+"text": "Tách trí thức khỏi nghiên cứu và sáng tạo.",
+"weight": 0
+},
+{
+"text": "Không cần bảo vệ quyền sở hữu trí tuệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 236: [Nhận biết] Chính sách đối với đội ngũ doanh nhân",
+"points_possible": 1,
+"question_text": "Chính sách đối với đội ngũ doanh nhân cần hướng tới nội dung nào?",
+"general_comment": "Cần tạo cơ chế, môi trường thuận lợi để doanh nhân phát triển về số lượng và chất lượng, có trình độ quản lý, kinh doanh giỏi, đạo đức nghề nghiệp và trách nhiệm xã hội cao.",
+"answers": [
+{
+"text": "Tạo môi trường thuận lợi để doanh nhân phát triển về số lượng, chất lượng, có quản lý giỏi, đạo đức nghề nghiệp và trách nhiệm xã hội cao.",
+"weight": 100
+},
+{
+"text": "Không cần cơ chế, chính sách bảo đảm quyền lợi của doanh nhân.",
+"weight": 0
+},
+{
+"text": "Không tôn vinh doanh nhân có đóng góp cho đất nước.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển doanh nhân về số lượng, không cần chất lượng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 237: [Nhận biết] Chính sách đối với phụ nữ",
+"points_possible": 1,
+"question_text": "Trong xây dựng chính sách xã hội, đối với phụ nữ cần chú trọng nội dung nào?",
+"general_comment": "Cần nâng cao trình độ mọi mặt, tạo điều kiện để phụ nữ tham gia quản lý, đồng thời đấu tranh chống tệ nạn xã hội, bạo lực, buôn bán và xâm hại nhân phẩm phụ nữ.",
+"answers": [
+{
+"text": "Nâng cao trình độ, tạo điều kiện tham gia quản lý, đấu tranh chống bạo lực, buôn bán và xâm hại nhân phẩm phụ nữ.",
+"weight": 100
+},
+{
+"text": "Tách phụ nữ khỏi đời sống chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Không cần xử lý các hành vi bạo lực, xâm hại phụ nữ.",
+"weight": 0
+},
+{
+"text": "Chỉ coi phụ nữ là đối tượng thụ động, không có vai trò phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 238: [Nhận biết] Chính sách đối với thế hệ trẻ",
+"points_possible": 1,
+"question_text": "Đối với thế hệ trẻ, chính sách xã hội cần chú trọng nội dung nào?",
+"general_comment": "Cần đổi mới giáo dục chính trị, tư tưởng, lý tưởng, truyền thống; tạo điều kiện học tập, nghiên cứu, lao động, giải trí; khuyến khích thanh niên xung kích, sáng tạo, làm chủ khoa học - công nghệ hiện đại.",
+"answers": [
+{
+"text": "Giáo dục lý tưởng, truyền thống; tạo điều kiện học tập, lao động, phát triển trí tuệ, kỹ năng, thể lực; khuyến khích xung kích, sáng tạo.",
+"weight": 100
+},
+{
+"text": "Không cần giáo dục chính trị, tư tưởng và truyền thống cho thế hệ trẻ.",
+"weight": 0
+},
+{
+"text": "Tách thế hệ trẻ khỏi sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+"weight": 0
+},
+{
+"text": "Không cần tạo môi trường học tập, nghiên cứu và lao động cho thanh niên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 239: [Nhận biết] Phương hướng tạo đồng thuận xã hội",
+"points_possible": 1,
+"question_text": "Phương hướng thứ ba trong xây dựng liên minh giai cấp, tầng lớp ở Việt Nam là gì?",
+"general_comment": "Phương hướng thứ ba là tạo sự đồng thuận và phát huy tinh thần đoàn kết thống nhất giữa các lực lượng trong khối liên minh và toàn xã hội.",
+"answers": [
+{
+"text": "Tạo sự đồng thuận và phát huy tinh thần đoàn kết thống nhất giữa các lực lượng trong khối liên minh và toàn xã hội.",
+"weight": 100
+},
+{
+"text": "Khoét sâu mâu thuẫn giữa các giai cấp, tầng lớp.",
+"weight": 0
+},
+{
+"text": "Không cần giải quyết khác biệt lợi ích xã hội.",
+"weight": 0
+},
+{
+"text": "Tách khối liên minh khỏi khối đại đoàn kết toàn dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 240: [Nhận biết] Phương hướng hoàn thiện thể chế kinh tế",
+"points_possible": 1,
+"question_text": "Phương hướng thứ tư trong xây dựng liên minh giai cấp, tầng lớp ở Việt Nam là gì?",
+"general_comment": "Phương hướng thứ tư là hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, đẩy mạnh phát triển khoa học và công nghệ, tạo môi trường thuận lợi để phát huy vai trò các chủ thể trong khối liên minh.",
+"answers": [
+{
+"text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, phát triển khoa học - công nghệ, tạo môi trường để phát huy vai trò các chủ thể.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ hoàn toàn kinh tế thị trường trong mọi hình thức.",
+"weight": 0
+},
+{
+"text": "Tách khoa học - công nghệ khỏi phát triển công nghiệp, nông nghiệp và dịch vụ.",
+"weight": 0
+},
+{
+"text": "Không cần hài hòa lợi ích giữa các giai cấp, tầng lớp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 241: [Nhận biết] Phương hướng đổi mới Đảng, Nhà nước, Mặt trận Tổ quốc",
+"points_possible": 1,
+"question_text": "Phương hướng thứ năm trong xây dựng liên minh giai cấp, tầng lớp ở Việt Nam là gì?",
+"general_comment": "Phương hướng thứ năm là đổi mới hoạt động của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam nhằm tăng cường liên minh giai cấp, tầng lớp và xây dựng khối đại đoàn kết toàn dân.",
+"answers": [
+{
+"text": "Đổi mới hoạt động của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam nhằm tăng cường liên minh và xây dựng khối đại đoàn kết toàn dân.",
+"weight": 100
+},
+{
+"text": "Tách Đảng, Nhà nước và Mặt trận Tổ quốc khỏi khối liên minh.",
+"weight": 0
+},
+{
+"text": "Giảm vai trò lãnh đạo của Đảng trong phát triển bền vững đất nước.",
+"weight": 0
+},
+{
+"text": "Không cần đổi mới hoạt động của hệ thống chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 242: [Nhận biết] Vai trò phối hợp của Mặt trận Tổ quốc",
+"points_possible": 1,
+"question_text": "Trong tăng cường liên minh giai cấp, tầng lớp, Mặt trận Tổ quốc Việt Nam cần phối hợp chặt chẽ với những tổ chức, lực lượng nào?",
+"general_comment": "Mặt trận Tổ quốc cần phối hợp với Công đoàn, Hội Nông dân, Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam, các hoạt động của đội ngũ doanh nhân và các tổ chức thanh niên.",
+"answers": [
+{
+"text": "Công đoàn, Hội Nông dân, Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam, đội ngũ doanh nhân và các tổ chức thanh niên.",
+"weight": 100
+},
+{
+"text": "Chỉ với một tổ chức nghề nghiệp duy nhất.",
+"weight": 0
+},
+{
+"text": "Chỉ với các tập đoàn tư bản nước ngoài.",
+"weight": 0
+},
+{
+"text": "Không cần phối hợp với bất kỳ tổ chức nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 243: [Nhận biết] Hình thức liên minh của thế hệ trẻ",
+"points_possible": 1,
+"question_text": "Trong liên minh giai cấp, tầng lớp ở Việt Nam hiện nay, vì sao cần chú trọng hình thức liên minh của thế hệ trẻ?",
+"general_comment": "Thế hệ trẻ cần được tổ chức, hướng dẫn qua Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Thanh niên Việt Nam và các phong trào thi đua yêu nước để phát huy tài năng sáng tạo trong xây dựng, bảo vệ Tổ quốc.",
+"answers": [
+{
+"text": "Để phát huy tài năng sáng tạo của tuổi trẻ qua các tổ chức thanh niên và phong trào thi đua yêu nước trong xây dựng, bảo vệ Tổ quốc.",
+"weight": 100
+},
+{
+"text": "Để tách thế hệ trẻ khỏi khối đại đoàn kết toàn dân.",
+"weight": 0
+},
+{
+"text": "Để loại bỏ vai trò của Đoàn Thanh niên và Hội Liên hiệp Thanh niên.",
+"weight": 0
+},
+{
+"text": "Để thế hệ trẻ đứng ngoài sự nghiệp xây dựng chủ nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 244: [Nhận biết] Thanh niên trong sự nghiệp xây dựng đất nước",
+"points_possible": 1,
+"question_text": "Trong cơ cấu xã hội ở Việt Nam, thế hệ trẻ được coi là lực lượng như thế nào?",
+"general_comment": "Ngân hàng Chương 5 nhấn mạnh thanh niên là rường cột của nước nhà, chủ nhân tương lai của đất nước.",
+"answers": [
+{
+"text": "Rường cột của nước nhà, chủ nhân tương lai của đất nước.",
+"weight": 100
+},
+{
+"text": "Lực lượng không có vai trò trong phát triển đất nước.",
+"weight": 0
+},
+{
+"text": "Lực lượng chỉ tồn tại trong cơ cấu xã hội - tôn giáo.",
+"weight": 0
+},
+{
+"text": "Lực lượng tách khỏi mọi phong trào xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 245: [Vận dụng/Phân tích] Tổng hợp xây dựng liên minh ở Việt Nam",
+"points_possible": 1,
+"question_text": "Một chính sách phát triển vừa đẩy mạnh công nghiệp hóa, hiện đại hóa, vừa bảo đảm công bằng xã hội, chăm lo công nhân, nông dân, trí thức, doanh nhân, phụ nữ, thanh niên, đồng thời đổi mới hoạt động của Đảng, Nhà nước và Mặt trận Tổ quốc. Chính sách đó phù hợp nhất với nội dung nào của Chương 5?",
+"general_comment": "Đây là sự vận dụng tổng hợp các phương hướng xây dựng cơ cấu xã hội - giai cấp và tăng cường liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Các phương hướng xây dựng cơ cấu xã hội - giai cấp và tăng cường liên minh giai cấp, tầng lớp ở Việt Nam.",
+"weight": 100
+},
+{
+"text": "Các nguyên tắc giải quyết vấn đề dân tộc trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Các chức năng cơ bản của gia đình trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Các đặc trưng của nền dân chủ chủ nô.",
+"weight": 0
+}
+]
+}
+]

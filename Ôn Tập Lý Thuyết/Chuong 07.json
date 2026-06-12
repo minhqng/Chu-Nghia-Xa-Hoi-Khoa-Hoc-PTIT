@@ -1,0 +1,4252 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 001: [Nhận biết] Nội dung trọng tâm Chương 7",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 7, chương này giúp sinh viên nắm những quan điểm cơ bản về vấn đề nào?",
+"general_comment": "Chương 7 tập trung vào quan điểm của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và Đảng Cộng sản Việt Nam về gia đình, xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội và ở Việt Nam hiện nay. ",
+"answers": [
+{
+"text": "Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Vấn đề dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vấn đề cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 002: [Nhận biết] Mục tiêu thái độ của sinh viên",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 7, việc học chương này giúp sinh viên hình thành điều gì?",
+"general_comment": "Giáo trình nêu mục tiêu là hình thành thái độ, hành vi đúng đắn và trách nhiệm trong xây dựng gia đình, quan hệ cá nhân - gia đình - xã hội.",
+"answers": [
+{
+"text": "Thái độ phủ nhận vai trò của gia đình trong đời sống xã hội.",
+"weight": 0
+},
+{
+"text": "Nhận thức rằng gia đình chỉ là vấn đề riêng tư, không liên quan xã hội.",
+"weight": 0
+},
+{
+"text": "Thái độ và hành vi đúng đắn, có trách nhiệm trong xây dựng gia đình và quan hệ giữa cá nhân, gia đình, xã hội.",
+"weight": 100
+},
+{
+"text": "Quan điểm tách cá nhân khỏi gia đình và cộng đồng xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 003: [Nhận biết] Khái niệm gia đình theo Mác - Lênin",
+"points_possible": 1,
+"question_text": "Theo trích dẫn quan điểm Mác - Lênin trong giáo trình, quan hệ nào cấu thành gia đình?",
+"general_comment": "Giáo trình trích: quan hệ giữa vợ và chồng, cha mẹ và con cái là gia đình.",
+"answers": [
+{
+"text": "Quan hệ giữa chủ thể sản xuất và tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa vợ và chồng, cha mẹ và con cái.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa nhà nước và công dân.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa tộc người và quốc gia dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 004: [Nhận biết] Khái niệm gia đình theo Luật Hôn nhân và Gia đình",
+"points_possible": 1,
+"question_text": "Theo Luật Hôn nhân và Gia đình Việt Nam được giáo trình trích dẫn, gia đình là tập hợp những người gắn bó với nhau do yếu tố nào?",
+"general_comment": "Luật Hôn nhân và Gia đình xác định gia đình gắn bó do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh quyền và nghĩa vụ.",
+"answers": [
+{
+"text": "Hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng.",
+"weight": 100
+},
+{
+"text": "Cùng nghề nghiệp, cùng nơi làm việc và cùng mức thu nhập.",
+"weight": 0
+},
+{
+"text": "Cùng tín ngưỡng, giáo lý và nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Cùng giai cấp, tầng lớp và địa vị chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 005: [Nhận biết] Khái niệm tổng quát về gia đình",
+"points_possible": 1,
+"question_text": "Theo kết luận của giáo trình, gia đình là gì?",
+"general_comment": "Giáo trình kết luận gia đình là hình thức cộng đồng xã hội đặc biệt, được hình thành và duy trì trên cơ sở hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ của các thành viên.",
+"answers": [
+{
+"text": "Một tổ chức chính trị thay thế nhà nước trong quản lý xã hội.",
+"weight": 0
+},
+{
+"text": "Một cộng đồng nghề nghiệp do phân công lao động xã hội quy định.",
+"weight": 0
+},
+{
+"text": "Một hình thức cộng đồng xã hội đặc biệt, hình thành và duy trì chủ yếu trên cơ sở hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ của các thành viên.",
+"weight": 100
+},
+{
+"text": "Một cộng đồng tôn giáo hình thành trên giáo lý, giáo luật và lễ nghi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 006: [Nhận biết] Cơ sở hình thành gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, cơ sở hình thành gia đình gồm những quan hệ nào?",
+"general_comment": "Gia đình được hình thành trên cơ sở quan hệ hôn nhân, quan hệ huyết thống, quan hệ nuôi dưỡng và giáo dục giữa các thành viên.",
+"answers": [
+{
+"text": "Quan hệ sở hữu, quan hệ quản lý và quan hệ phân phối.",
+"weight": 0
+},
+{
+"text": "Quan hệ hôn nhân, huyết thống, nuôi dưỡng và giáo dục giữa các thành viên.",
+"weight": 100
+},
+{
+"text": "Quan hệ dân tộc, tôn giáo và tín ngưỡng.",
+"weight": 0
+},
+{
+"text": "Quan hệ thị trường, cạnh tranh và tích lũy tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 007: [Nhận biết] Gia đình là tế bào của xã hội",
+"points_possible": 1,
+"question_text": "Một trong những vị trí cơ bản của gia đình trong xã hội là gì?",
+"general_comment": "Giáo trình khẳng định gia đình là tế bào của xã hội, có vai trò quyết định đối với sự tồn tại, vận động và phát triển của xã hội.",
+"answers": [
+{
+"text": "Gia đình là thiết chế tôn giáo duy nhất của xã hội.",
+"weight": 0
+},
+{
+"text": "Gia đình là tế bào của xã hội.",
+"weight": 100
+},
+{
+"text": "Gia đình là đơn vị quân sự cơ sở của nhà nước.",
+"weight": 0
+},
+{
+"text": "Gia đình là hình thức sở hữu tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 008: [Nhận biết] Hai quá trình gia đình tham gia",
+"points_possible": 1,
+"question_text": "Gia đình tham gia vào hai quá trình nào của đời sống xã hội?",
+"general_comment": "Theo giáo trình, gia đình tham gia sản xuất ra tư liệu sinh hoạt và sản xuất bản thân con người.",
+"answers": [
+{
+"text": "Sản xuất ra tư liệu sinh hoạt và sản xuất bản thân con người.",
+"weight": 100
+},
+{
+"text": "Tổ chức bầu cử và xây dựng pháp luật.",
+"weight": 0
+},
+{
+"text": "Thực hiện ngoại giao và quốc phòng.",
+"weight": 0
+},
+{
+"text": "Phân chia tộc người và quản lý tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 009: [Nhận biết] Quan điểm Hồ Chí Minh về gia đình và xã hội",
+"points_possible": 1,
+"question_text": "Chủ tịch Hồ Chí Minh khẳng định điều gì về quan hệ giữa gia đình và xã hội?",
+"general_comment": "Giáo trình trích Hồ Chí Minh: nhiều gia đình cộng lại mới thành xã hội; xã hội tốt thì gia đình càng tốt, xã hội tốt thì gia đình mới tốt; hạt nhân của xã hội là gia đình.",
+"answers": [
+{
+"text": "Gia đình càng tách khỏi xã hội thì càng phát triển.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ là quan hệ riêng tư, không có vai trò xã hội.",
+"weight": 0
+},
+{
+"text": "Nhiều gia đình cộng lại mới thành xã hội; hạt nhân của xã hội là gia đình.",
+"weight": 100
+},
+{
+"text": "Xã hội tốt không có quan hệ gì với chất lượng gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 010: [Nhận biết] Gia đình là tổ ấm",
+"points_possible": 1,
+"question_text": "Theo giáo trình, gia đình là tổ ấm vì mang lại điều gì cho mỗi thành viên?",
+"general_comment": "Gia đình là môi trường đem lại giá trị hạnh phúc, sự hài hòa, yêu thương, nuôi dưỡng, chăm sóc và phát triển cá nhân.",
+"answers": [
+{
+"text": "Đặc quyền chính trị cho một thế hệ trong gia đình.",
+"weight": 0
+},
+{
+"text": "Các giá trị hạnh phúc, sự hài hòa trong đời sống cá nhân.",
+"weight": 100
+},
+{
+"text": "Quyền sở hữu tư liệu sản xuất chủ yếu của xã hội.",
+"weight": 0
+},
+{
+"text": "Cơ chế quản lý hành chính thay cho nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 011: [Nhận biết] Gia đình là cầu nối",
+"points_possible": 1,
+"question_text": "Gia đình được giáo trình xác định là cầu nối giữa những chủ thể nào?",
+"general_comment": "Gia đình là cầu nối giữa cá nhân với xã hội, nơi cá nhân học và thực hiện các quan hệ xã hội đầu tiên.",
+"answers": [
+{
+"text": "Giữa cá nhân với xã hội.",
+"weight": 100
+},
+{
+"text": "Giữa tôn giáo với mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Giữa nhà nước với thị trường quốc tế.",
+"weight": 0
+},
+{
+"text": "Giữa dân tộc đa số với dân tộc thiểu số.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 012: [Nhận biết] Chức năng tái sản xuất con người",
+"points_possible": 1,
+"question_text": "Chức năng nào của gia đình được giáo trình xác định là chức năng đặc thù, không cộng đồng nào có thể thay thế?",
+"general_comment": "Chức năng tái sản xuất ra con người là chức năng đặc thù của gia đình.",
+"answers": [
+{
+"text": "Chức năng chính trị.",
+"weight": 0
+},
+{
+"text": "Chức năng văn hóa.",
+"weight": 0
+},
+{
+"text": "Chức năng tái sản xuất ra con người.",
+"weight": 100
+},
+{
+"text": "Chức năng quản lý nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 013: [Nhận biết] Ý nghĩa chức năng tái sản xuất con người",
+"points_possible": 1,
+"question_text": "Chức năng tái sản xuất ra con người của gia đình đáp ứng những nhu cầu nào?",
+"general_comment": "Chức năng này đáp ứng nhu cầu tâm - sinh lý tự nhiên, duy trì nòi giống, nhu cầu sức lao động và sự trường tồn của xã hội.",
+"answers": [
+{
+"text": "Nhu cầu duy trì nòi giống, sức lao động và sự trường tồn của xã hội.",
+"weight": 100
+},
+{
+"text": "Nhu cầu thay thế toàn bộ giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Nhu cầu loại bỏ quan hệ huyết thống.",
+"weight": 0
+},
+{
+"text": "Nhu cầu hình thành tổ chức tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 014: [Nhận biết] Chức năng nuôi dưỡng, giáo dục",
+"points_possible": 1,
+"question_text": "Chức năng nuôi dưỡng, giáo dục của gia đình thể hiện trước hết ở trách nhiệm nào?",
+"general_comment": "Gia đình có trách nhiệm nuôi dưỡng, dạy dỗ con cái trở thành người có ích cho gia đình, cộng đồng và xã hội.",
+"answers": [
+{
+"text": "Nuôi dưỡng, dạy dỗ con cái trở thành người có ích.",
+"weight": 100
+},
+{
+"text": "Chuyển toàn bộ trách nhiệm giáo dục cho thị trường.",
+"weight": 0
+},
+{
+"text": "Tách con cái khỏi quan hệ gia đình.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo đảm quyền tiêu dùng hàng hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 015: [Nhận biết] Nội dung giáo dục gia đình",
+"points_possible": 1,
+"question_text": "Nội dung giáo dục gia đình theo giáo trình bao gồm những yếu tố nào?",
+"general_comment": "Giáo dục gia đình bao gồm tri thức, kinh nghiệm, đạo đức, lối sống, nhân cách, thẩm mỹ, ý thức công dân.",
+"answers": [
+{
+"text": "Chỉ kỹ thuật sản xuất và quản trị doanh nghiệp.",
+"weight": 0
+},
+{
+"text": "Tri thức, kinh nghiệm, đạo đức, lối sống, nhân cách, thẩm mỹ, ý thức công dân.",
+"weight": 100
+},
+{
+"text": "Chỉ giáo lý, giáo luật và nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Chỉ pháp luật hôn nhân và thủ tục ly hôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 016: [Nhận biết] Chức năng kinh tế và tổ chức tiêu dùng",
+"points_possible": 1,
+"question_text": "Chức năng kinh tế của gia đình thể hiện ở việc gia đình tham gia vào quá trình nào?",
+"general_comment": "Gia đình tham gia trực tiếp vào sản xuất, tái sản xuất tư liệu sản xuất, tư liệu tiêu dùng và tái sản xuất sức lao động cho xã hội.",
+"answers": [
+{
+"text": "Quản lý chính sách đối ngoại của quốc gia.",
+"weight": 0
+},
+{
+"text": "Sản xuất, tái sản xuất tư liệu sản xuất, tư liệu tiêu dùng và sức lao động.",
+"weight": 100
+},
+{
+"text": "Thay thế bộ máy nhà nước trong lập pháp.",
+"weight": 0
+},
+{
+"text": "Phân định các dân tộc theo ngôn ngữ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 017: [Nhận biết] Chức năng tổ chức tiêu dùng",
+"points_possible": 1,
+"question_text": "Chức năng tổ chức tiêu dùng của gia đình chủ yếu nhằm mục đích gì?",
+"general_comment": "Chức năng tổ chức tiêu dùng nhằm sử dụng hàng hóa, thu nhập và quỹ thời gian để duy trì đời sống vật chất, tinh thần của gia đình.",
+"answers": [
+{
+"text": "Sử dụng hàng hóa, thu nhập và quỹ thời gian để đáp ứng nhu cầu vật chất, tinh thần của các thành viên.",
+"weight": 100
+},
+{
+"text": "Tổ chức tranh chấp chính trị giữa các thế hệ.",
+"weight": 0
+},
+{
+"text": "Thực hiện quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi quan hệ tiêu dùng trong xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 018: [Nhận biết] Chức năng thỏa mãn nhu cầu tâm sinh lý",
+"points_possible": 1,
+"question_text": "Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm của gia đình bao gồm nội dung nào?",
+"general_comment": "Chức năng này gồm thỏa mãn nhu cầu tình cảm, văn hóa, tinh thần, bảo đảm cân bằng tâm lý, chăm sóc người ốm, người già, trẻ em.",
+"answers": [
+{
+"text": "Tổ chức sản xuất tư liệu sinh hoạt thay cho doanh nghiệp.",
+"weight": 0
+},
+{
+"text": "Thỏa mãn nhu cầu tình cảm, văn hóa, tinh thần; bảo đảm cân bằng tâm lý và chăm sóc thành viên.",
+"weight": 100
+},
+{
+"text": "Tổ chức các hoạt động ngoại giao quốc tế.",
+"weight": 0
+},
+{
+"text": "Quản lý toàn bộ hệ thống giáo dục xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 019: [Nhận biết] Chức năng văn hóa của gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, chức năng văn hóa của gia đình thể hiện ở nội dung nào?",
+"general_comment": "Gia đình là nơi lưu truyền, sáng tạo và thụ hưởng các giá trị văn hóa của dân tộc và xã hội.",
+"answers": [
+{
+"text": "Lưu truyền, sáng tạo và thụ hưởng các giá trị văn hóa.",
+"weight": 100
+},
+{
+"text": "Thay thế các cơ quan bảo vệ pháp luật.",
+"weight": 0
+},
+{
+"text": "Tổ chức quản lý dân cư theo tôn giáo.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ các giá trị văn hóa dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 020: [Nhận biết] Chức năng chính trị của gia đình",
+"points_possible": 1,
+"question_text": "Chức năng chính trị của gia đình được giáo trình nêu là gì?",
+"general_comment": "Gia đình là nơi tổ chức thực hiện chính sách, pháp luật của Nhà nước và quy chế của làng xã, đồng thời hưởng lợi từ hệ thống đó.",
+"answers": [
+{
+"text": "Nơi tổ chức thực hiện chính sách, pháp luật của Nhà nước và quy chế cộng đồng.",
+"weight": 100
+},
+{
+"text": "Nơi thay thế toàn bộ chính quyền nhà nước.",
+"weight": 0
+},
+{
+"text": "Nơi phủ nhận nghĩa vụ công dân.",
+"weight": 0
+},
+{
+"text": "Nơi tách cá nhân khỏi xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 021: [Nhận biết] Cơ sở kinh tế - xã hội xây dựng gia đình",
+"points_possible": 1,
+"question_text": "Cơ sở kinh tế - xã hội để xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Giáo trình nêu nền tảng là lực lượng sản xuất phát triển dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu.",
+"answers": [
+{
+"text": "Lực lượng sản xuất phát triển dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu.",
+"weight": 100
+},
+{
+"text": "Sự duy trì chế độ tư hữu tuyệt đối về tư liệu sản xuất chủ yếu.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi quyền lực gia trưởng trong gia đình.",
+"weight": 0
+},
+{
+"text": "Sự tách gia đình khỏi các điều kiện kinh tế - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 022: [Nhận biết] Xóa bỏ tư hữu và bình đẳng gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, xóa bỏ chế độ tư hữu về tư liệu sản xuất nhằm xóa bỏ nguồn gốc của hiện tượng nào trong gia đình?",
+"general_comment": "Xóa bỏ tư hữu nhằm xóa bỏ nguồn gốc thống trị của người đàn ông, bất bình đẳng nam - nữ, vợ - chồng và sự nô dịch phụ nữ.",
+"answers": [
+{
+"text": "Tình trạng thống trị của người đàn ông, bất bình đẳng nam - nữ, vợ - chồng và sự nô dịch phụ nữ.",
+"weight": 100
+},
+{
+"text": "Tình trạng bình đẳng giữa vợ và chồng.",
+"weight": 0
+},
+{
+"text": "Tình yêu tự nguyện trong hôn nhân.",
+"weight": 0
+},
+{
+"text": "Quyền lợi hợp pháp của các thành viên gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 023: [Nhận biết] Cơ sở chính trị - xã hội của gia đình",
+"points_possible": 1,
+"question_text": "Cơ sở chính trị - xã hội quan trọng để xây dựng gia đình mới trong thời kỳ quá độ là gì?",
+"general_comment": "Cơ sở chính trị - xã hội là thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, xóa bỏ luật lệ cũ, giải phóng phụ nữ, bảo vệ hạnh phúc gia đình.",
+"answers": [
+{
+"text": "Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Khôi phục toàn bộ luật lệ phong kiến cũ.",
+"weight": 0
+},
+{
+"text": "Duy trì đặc quyền của giai cấp thống trị cũ.",
+"weight": 0
+},
+{
+"text": "Tách pháp luật khỏi quan hệ gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 024: [Nhận biết] Văn bản pháp lý về gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, văn bản pháp lý nào là cơ sở để xây dựng gia đình mới?",
+"general_comment": "Giáo trình nêu Luật Hôn nhân và Gia đình, Luật Phòng, Chống bạo lực gia đình là cơ sở pháp lý xây dựng gia đình mới.",
+"answers": [
+{
+"text": "Luật Hôn nhân và Gia đình, Luật Phòng, Chống bạo lực gia đình.",
+"weight": 100
+},
+{
+"text": "Cương lĩnh dân tộc và chính sách tôn giáo.",
+"weight": 0
+},
+{
+"text": "Luật doanh nghiệp và luật cạnh tranh.",
+"weight": 0
+},
+{
+"text": "Các giáo luật tôn giáo thay cho pháp luật nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 025: [Nhận biết] Cơ sở văn hóa của gia đình",
+"points_possible": 1,
+"question_text": "Cơ sở văn hóa để xây dựng gia đình trong thời kỳ quá độ gồm yếu tố nào?",
+"general_comment": "Cơ sở văn hóa gồm phát triển giáo dục, đào tạo, khoa học, công nghệ; nâng cao dân trí, kiến thức khoa học - công nghệ và xây dựng nền tảng văn hóa tinh thần mới xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Sự phát triển giáo dục, đào tạo, khoa học, công nghệ và nền tảng văn hóa tinh thần mới xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Sự đóng kín văn hóa trong phạm vi dòng họ.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận giáo dục xã hội đối với gia đình.",
+"weight": 0
+},
+{
+"text": "Sự duy trì mọi phong tục lạc hậu không chọn lọc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 026: [Nhận biết] Hôn nhân tự nguyện",
+"points_possible": 1,
+"question_text": "Hôn nhân tự nguyện trong chế độ hôn nhân tiến bộ xuất phát từ cơ sở nào?",
+"general_comment": "Giáo trình xác định hôn nhân tự nguyện phải xuất phát từ tình yêu giữa nam và nữ.",
+"answers": [
+{
+"text": "Tình yêu giữa nam và nữ.",
+"weight": 100
+},
+{
+"text": "Sự áp đặt của cha mẹ.",
+"weight": 0
+},
+{
+"text": "Lý do kinh tế và địa vị xã hội thuần túy.",
+"weight": 0
+},
+{
+"text": "Tính toán dòng họ và tài sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 027: [Nhận biết] Hôn nhân một vợ một chồng",
+"points_possible": 1,
+"question_text": "Theo giáo trình, hôn nhân một vợ một chồng là điều kiện bảo đảm điều gì?",
+"general_comment": "Bản chất của tình yêu là không thể chia sẻ; hôn nhân một vợ một chồng là điều kiện bảo đảm hạnh phúc gia đình.",
+"answers": [
+{
+"text": "Hạnh phúc gia đình.",
+"weight": 100
+},
+{
+"text": "Đặc quyền tuyệt đối của người chồng.",
+"weight": 0
+},
+{
+"text": "Sự áp đặt hôn nhân không tình yêu.",
+"weight": 0
+},
+{
+"text": "Sự bất bình đẳng giữa các con.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 028: [Nhận biết] Hôn nhân được bảo đảm pháp lý",
+"points_possible": 1,
+"question_text": "Khi hai người đi đến kết hôn, sự thừa nhận của xã hội được biểu hiện bằng yếu tố nào?",
+"general_comment": "Theo giáo trình, sự thừa nhận của xã hội trong hôn nhân được biểu hiện bằng thủ tục pháp lý.",
+"answers": [
+{
+"text": "Thủ tục pháp lý trong hôn nhân.",
+"weight": 100
+},
+{
+"text": "Sự im lặng của cộng đồng.",
+"weight": 0
+},
+{
+"text": "Sự thỏa thuận bí mật không cần pháp luật.",
+"weight": 0
+},
+{
+"text": "Việc bỏ qua quyền và nghĩa vụ gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 029: [Nhận biết] Gia đình hạt nhân ở Việt Nam",
+"points_possible": 1,
+"question_text": "Một biến đổi về quy mô, kết cấu gia đình Việt Nam hiện nay là gì?",
+"general_comment": "Giáo trình nêu gia đình hạt nhân trở nên rất phổ biến, thay thế dần kiểu gia đình truyền thống.",
+"answers": [
+{
+"text": "Gia đình hạt nhân trở nên phổ biến, thay thế kiểu gia đình truyền thống.",
+"weight": 100
+},
+{
+"text": "Gia đình nhiều thế hệ luôn tăng mạnh và không có thay đổi.",
+"weight": 0
+},
+{
+"text": "Mọi gia đình đều trở thành dòng họ lớn cùng cư trú.",
+"weight": 0
+},
+{
+"text": "Quy mô gia đình ngày càng mở rộng không giới hạn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 030: [Nhận biết] Phương hướng xây dựng gia đình Việt Nam",
+"points_possible": 1,
+"question_text": "Phương hướng cơ bản nào được giáo trình nêu về xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ?",
+"general_comment": "Giáo trình nêu các phương hướng như tăng cường sự lãnh đạo của Đảng; phát triển kinh tế - xã hội; kế thừa giá trị truyền thống và tiếp thu tiến bộ nhân loại; nâng cao phong trào gia đình văn hóa.",
+"answers": [
+{
+"text": "Tăng cường sự lãnh đạo của Đảng, phát triển kinh tế - xã hội, kế thừa truyền thống và tiếp thu tiến bộ, nâng cao phong trào gia đình văn hóa.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ mọi giá trị truyền thống và không tiếp thu tiến bộ nhân loại.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi phát triển kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò lãnh đạo của Đảng trong xây dựng gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 031: [Thông hiểu] Gia đình là cộng đồng xã hội đặc biệt",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình gọi gia đình là một hình thức cộng đồng xã hội đặc biệt?",
+"general_comment": "Gia đình đặc biệt vì được hình thành, duy trì trên cơ sở hôn nhân, huyết thống, nuôi dưỡng và gắn với quyền, nghĩa vụ riêng giữa các thành viên.",
+"answers": [
+{
+"text": "Vì gia đình chỉ là cộng đồng nghề nghiệp tạm thời.",
+"weight": 0
+},
+{
+"text": "Vì gia đình hình thành trên hôn nhân, huyết thống, nuôi dưỡng và có hệ thống quyền, nghĩa vụ riêng giữa các thành viên.",
+"weight": 100
+},
+{
+"text": "Vì gia đình thay thế toàn bộ xã hội và nhà nước.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ tồn tại khi không có quan hệ xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 032: [Thông hiểu] Quan hệ gia đình phụ thuộc điều kiện xã hội",
+"points_possible": 1,
+"question_text": "Vì sao các quan hệ hôn nhân, huyết thống, nuôi dưỡng trong gia đình luôn biến đổi?",
+"general_comment": "Giáo trình nêu các quan hệ gia đình có liên hệ chặt chẽ và biến đổi, phát triển phụ thuộc vào trình độ phát triển kinh tế và thể chế chính trị - xã hội.",
+"answers": [
+{
+"text": "Vì chúng hoàn toàn không liên quan đến xã hội.",
+"weight": 0
+},
+{
+"text": "Vì chúng phụ thuộc vào trình độ phát triển kinh tế và thể chế chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Vì chúng chỉ do yếu tố sinh học quyết định tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Vì chúng không có mối liên hệ với nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 033: [Thông hiểu] Tế bào xã hội và xây dựng gia đình",
+"points_possible": 1,
+"question_text": "Từ luận điểm “gia đình là tế bào của xã hội”, suy ra yêu cầu nào là đúng?",
+"general_comment": "Vì gia đình là đơn vị cơ sở của cơ thể xã hội, muốn xã hội phát triển lành mạnh phải quan tâm xây dựng gia đình lành mạnh.",
+"answers": [
+{
+"text": "Muốn xã hội phát triển lành mạnh phải quan tâm xây dựng gia đình lành mạnh.",
+"weight": 100
+},
+{
+"text": "Chỉ cần xây dựng kinh tế, không cần chú ý gia đình.",
+"weight": 0
+},
+{
+"text": "Gia đình càng rời rạc thì xã hội càng bền vững.",
+"weight": 0
+},
+{
+"text": "Gia đình không tác động trở lại xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 034: [Thông hiểu] Gia đình là tổ ấm và nhân cách",
+"points_possible": 1,
+"question_text": "Vì sao sự yên ổn, hạnh phúc của gia đình có ý nghĩa xã hội?",
+"general_comment": "Sự yên ổn, hạnh phúc gia đình là tiền đề quan trọng cho sự hình thành, phát triển nhân cách, thể lực, trí lực để cá nhân trở thành công dân tốt.",
+"answers": [
+{
+"text": "Vì nó chỉ tạo điều kiện tiêu dùng hàng hóa cao hơn.",
+"weight": 0
+},
+{
+"text": "Vì nó là tiền đề hình thành, phát triển nhân cách, thể lực, trí lực của công dân.",
+"weight": 100
+},
+{
+"text": "Vì nó thay thế mọi chính sách giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Vì nó làm cá nhân không cần tham gia xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 035: [Thông hiểu] Gia đình là cầu nối cá nhân - xã hội",
+"points_possible": 1,
+"question_text": "Gia đình là cầu nối giữa cá nhân với xã hội vì lý do nào?",
+"general_comment": "Mỗi người trước khi là con người xã hội đều là thành viên gia đình; gia đình là cộng đồng đầu tiên đáp ứng nhu cầu quan hệ xã hội và là nơi cá nhân học quan hệ xã hội đầu tiên.",
+"answers": [
+{
+"text": "Vì cá nhân sinh ra, được nuôi dưỡng, giáo dục trong gia đình và học quan hệ xã hội đầu tiên từ gia đình.",
+"weight": 100
+},
+{
+"text": "Vì gia đình tách cá nhân khỏi mọi chuẩn mực xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ thực hiện chức năng sinh học, không có chức năng xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình làm cho chính sách xã hội không tác động đến cá nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 036: [Thông hiểu] Chính sách xã hội tác động qua gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, vì sao các chính sách xã hội tác động đến cá nhân thường phải thông qua gia đình?",
+"general_comment": "Gia đình là môi trường sống gần gũi của cá nhân; hoạt động sống trong gia đình và xã hội là kênh để chính sách xã hội tác động và được cá nhân thực hiện.",
+"answers": [
+{
+"text": "Vì cá nhân chỉ tồn tại như thành viên gia đình và nhận tác động xã hội đầu tiên, thường xuyên qua gia đình.",
+"weight": 100
+},
+{
+"text": "Vì chính sách xã hội không liên quan đến gia đình.",
+"weight": 0
+},
+{
+"text": "Vì gia đình có quyền phủ nhận mọi chính sách xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình thay thế toàn bộ hệ thống chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 037: [Thông hiểu] Chức năng tái sản xuất và chính sách dân số",
+"points_possible": 1,
+"question_text": "Vì sao việc thực hiện chức năng tái sản xuất con người có thể theo xu hướng hạn chế hoặc khuyến khích tùy từng nơi, từng thời điểm?",
+"general_comment": "Chức năng này liên quan chặt chẽ đến sự phát triển mọi mặt của đời sống xã hội, nên phải phù hợp nhu cầu xã hội cụ thể.",
+"answers": [
+{
+"text": "Vì chức năng này không liên quan phát triển xã hội.",
+"weight": 0
+},
+{
+"text": "Vì chức năng này chỉ phụ thuộc ý muốn của từng cá nhân, không cần xã hội.",
+"weight": 0
+},
+{
+"text": "Vì chức năng này liên quan chặt chẽ đến sự phát triển xã hội và nhu cầu xã hội ở từng nơi, từng thời điểm.",
+"weight": 100
+},
+{
+"text": "Vì chức năng này chỉ là vấn đề pháp luật hôn nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 038: [Thông hiểu] Giáo dục gia đình và giáo dục xã hội",
+"points_possible": 1,
+"question_text": "Quan hệ đúng giữa giáo dục gia đình và giáo dục xã hội là gì?",
+"general_comment": "Giáo trình nhấn mạnh giáo dục gia đình không thể tách rời giáo dục xã hội; cần tránh coi trọng một phía và hạ thấp phía kia.",
+"answers": [
+{
+"text": "Giáo dục gia đình phải thay thế hoàn toàn giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình không thể tách rời giáo dục xã hội, cần tránh cực đoan coi trọng một phía.",
+"weight": 100
+},
+{
+"text": "Giáo dục xã hội làm giáo dục gia đình không còn cần thiết.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình chỉ truyền kỹ năng kinh tế, không liên quan đạo đức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 039: [Thông hiểu] Phương pháp giáo dục của cha mẹ",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình yêu cầu người làm cha, làm mẹ phải có kiến thức cơ bản, toàn diện và phương pháp giáo dục?",
+"general_comment": "Thực hiện tốt chức năng nuôi dưỡng, giáo dục đòi hỏi cha mẹ có hiểu biết về văn hóa, học vấn, đặc biệt là phương pháp giáo dục để hình thành nhân cách trẻ.",
+"answers": [
+{
+"text": "Vì giáo dục gia đình chỉ cần quyền uy tuyệt đối của cha mẹ.",
+"weight": 0
+},
+{
+"text": "Vì cha mẹ là chủ thể quan trọng trong nuôi dưỡng, dạy dỗ và hình thành nhân cách con cái.",
+"weight": 100
+},
+{
+"text": "Vì nhà trường không có vai trò nào trong giáo dục trẻ em.",
+"weight": 0
+},
+{
+"text": "Vì giáo dục trẻ em chỉ phụ thuộc vào thu nhập gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 040: [Thông hiểu] Kinh tế gia đình và tái sản xuất sức lao động",
+"points_possible": 1,
+"question_text": "Vì sao gia đình được coi là đơn vị duy nhất tham gia vào quá trình tái sản xuất sức lao động cho xã hội?",
+"general_comment": "Gia đình nuôi dưỡng, chăm sóc, tổ chức tiêu dùng và giáo dục thành viên, qua đó tái tạo sức lao động cho xã hội.",
+"answers": [
+{
+"text": "Vì gia đình vừa duy trì đời sống hằng ngày vừa nuôi dưỡng, chăm sóc, giáo dục con người lao động.",
+"weight": 100
+},
+{
+"text": "Vì gia đình chỉ là đơn vị tiêu dùng, không liên quan lao động.",
+"weight": 0
+},
+{
+"text": "Vì gia đình thay thế toàn bộ nền sản xuất xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ thực hiện quan hệ huyết thống sinh học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 041: [Thông hiểu] Tình cảm gia đình và ổn định xã hội",
+"points_possible": 1,
+"question_text": "Vì sao rạn nứt quan hệ tình cảm gia đình có thể ảnh hưởng đến quan hệ tình cảm trong xã hội?",
+"general_comment": "Gia đình là chỗ dựa tình cảm, tinh thần, vật chất của con người; khi quan hệ tình cảm gia đình rạn nứt, quan hệ tình cảm xã hội cũng có nguy cơ bị phá vỡ.",
+"answers": [
+{
+"text": "Vì tình cảm gia đình là nền tảng quan trọng của sự ổn định cá nhân và xã hội.",
+"weight": 100
+},
+{
+"text": "Vì xã hội hoàn toàn không cần tình cảm gia đình.",
+"weight": 0
+},
+{
+"text": "Vì quan hệ gia đình không có tác động đến nhân cách.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ có chức năng kinh tế, không có chức năng tình cảm.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 042: [Thông hiểu] Công hữu tư liệu sản xuất và giải phóng phụ nữ",
+"points_possible": 1,
+"question_text": "Theo giáo trình, vì sao chế độ công hữu về tư liệu sản xuất chủ yếu tạo cơ sở cho giải phóng phụ nữ?",
+"general_comment": "Công hữu xóa bỏ nguồn gốc kinh tế của sự thống trị nam giới, chuyển lao động tư nhân trong gia đình thành lao động xã hội trực tiếp và tạo cơ sở bình đẳng.",
+"answers": [
+{
+"text": "Vì nó khôi phục quyền lực tuyệt đối của người đàn ông.",
+"weight": 0
+},
+{
+"text": "Vì nó xóa bỏ nguồn gốc kinh tế của bất bình đẳng và tạo cơ sở kinh tế cho quan hệ bình đẳng trong gia đình.",
+"weight": 100
+},
+{
+"text": "Vì nó làm phụ nữ lệ thuộc hơn vào gia đình.",
+"weight": 0
+},
+{
+"text": "Vì nó tách phụ nữ khỏi lao động xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 043: [Thông hiểu] Kinh tế phát triển và hôn nhân tự nguyện",
+"points_possible": 1,
+"question_text": "Vì sao phát triển lực lượng sản xuất và nâng cao đời sống gia đình góp phần tạo cơ sở cho hôn nhân tự nguyện, tiến bộ?",
+"general_comment": "Kinh tế phát triển làm giảm cơ sở của hôn nhân vì tính toán kinh tế, địa vị xã hội, tạo điều kiện để hôn nhân dựa trên tình yêu.",
+"answers": [
+{
+"text": "Vì nó tạo cơ sở để hôn nhân dựa trên tình yêu chứ không chủ yếu vì lý do kinh tế, địa vị xã hội hay tính toán khác.",
+"weight": 100
+},
+{
+"text": "Vì nó bắt buộc hôn nhân phải dựa trên tài sản.",
+"weight": 0
+},
+{
+"text": "Vì nó làm hôn nhân không cần trách nhiệm xã hội.",
+"weight": 0
+},
+{
+"text": "Vì nó phủ nhận quyền tự do kết hôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 044: [Thông hiểu] Nhà nước mới và gia đình mới",
+"points_possible": 1,
+"question_text": "Vì sao thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động là cơ sở chính trị - xã hội cho gia đình mới?",
+"general_comment": "Nhà nước mới xóa bỏ luật lệ cũ, ban hành pháp luật tiến bộ, bảo vệ lợi ích thành viên gia đình, giải phóng phụ nữ và bảo vệ hạnh phúc gia đình.",
+"answers": [
+{
+"text": "Vì nhà nước mới có thể xóa bỏ luật lệ lạc hậu, ban hành pháp luật tiến bộ và bảo vệ bình đẳng, hạnh phúc gia đình.",
+"weight": 100
+},
+{
+"text": "Vì nhà nước mới duy trì đặc quyền của giai cấp thống trị cũ.",
+"weight": 0
+},
+{
+"text": "Vì nhà nước mới không liên quan đến gia đình.",
+"weight": 0
+},
+{
+"text": "Vì xây dựng gia đình chỉ cần đạo đức, không cần chính trị - pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 045: [Thông hiểu] Vai trò pháp luật trong gia đình",
+"points_possible": 1,
+"question_text": "Pháp luật về hôn nhân, gia đình và phòng chống bạo lực gia đình có vai trò gì?",
+"general_comment": "Các luật này là cơ sở pháp lý để xây dựng gia đình mới, bảo đảm quyền, nghĩa vụ và bình đẳng giới.",
+"answers": [
+{
+"text": "Là cơ sở pháp lý để bảo vệ quyền, nghĩa vụ, bình đẳng giới và hạnh phúc gia đình.",
+"weight": 100
+},
+{
+"text": "Là công cụ khôi phục gia trưởng và bạo lực gia đình.",
+"weight": 0
+},
+{
+"text": "Là hình thức thay thế tình yêu trong hôn nhân.",
+"weight": 0
+},
+{
+"text": "Là yếu tố làm hôn nhân không cần sự tự nguyện.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 046: [Thông hiểu] Cơ sở văn hóa và chuẩn mực gia đình",
+"points_possible": 1,
+"question_text": "Vì sao phát triển giáo dục, khoa học, công nghệ là cơ sở văn hóa của gia đình tiến bộ?",
+"general_comment": "Giáo dục, khoa học, công nghệ nâng cao dân trí, kiến thức và nhận thức mới, tạo cơ sở xây dựng gia đình tiến bộ, bình đẳng.",
+"answers": [
+{
+"text": "Vì chúng nâng cao dân trí, kiến thức, nhận thức mới cho các thành viên, tạo cơ sở xây dựng gia đình tiến bộ, bình đẳng.",
+"weight": 100
+},
+{
+"text": "Vì chúng làm gia đình không cần giá trị văn hóa.",
+"weight": 0
+},
+{
+"text": "Vì chúng khuyến khích tuyệt đối hóa gia trưởng.",
+"weight": 0
+},
+{
+"text": "Vì chúng chỉ tác động đến sản xuất, không tác động gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 047: [Thông hiểu] Hôn nhân tự nguyện và vai trò cha mẹ",
+"points_possible": 1,
+"question_text": "Hiểu đúng về hôn nhân tự nguyện theo giáo trình là gì?",
+"general_comment": "Hôn nhân tự nguyện bảo đảm quyền tự do lựa chọn người kết hôn, không chấp nhận áp đặt của cha mẹ, nhưng không bác bỏ sự quan tâm, hướng dẫn của cha mẹ.",
+"answers": [
+{
+"text": "Tự nguyện nghĩa là không cần tình yêu và không cần trách nhiệm.",
+"weight": 0
+},
+{
+"text": "Tự nguyện là quyền tự do lựa chọn người kết hôn, không bị áp đặt, nhưng vẫn có thể tiếp nhận sự quan tâm, hướng dẫn của cha mẹ.",
+"weight": 100
+},
+{
+"text": "Tự nguyện nghĩa là cha mẹ quyết định thay toàn bộ.",
+"weight": 0
+},
+{
+"text": "Tự nguyện nghĩa là chỉ kết hôn vì tài sản và địa vị xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 048: [Thông hiểu] Ly hôn trong hôn nhân tiến bộ",
+"points_possible": 1,
+"question_text": "Theo giáo trình, hôn nhân tiến bộ nhìn nhận quyền tự do ly hôn như thế nào?",
+"general_comment": "Hôn nhân tiến bộ bao hàm quyền tự do ly hôn khi tình yêu không còn, nhưng không khuyến khích ly hôn vì hậu quả xã hội, vợ chồng và con cái.",
+"answers": [
+{
+"text": "Không thừa nhận quyền ly hôn trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Thừa nhận quyền ly hôn chính đáng nhưng không khuyến khích ly hôn vì có hậu quả đối với gia đình và xã hội.",
+"weight": 100
+},
+{
+"text": "Khuyến khích ly hôn như mục tiêu của hôn nhân tiến bộ.",
+"weight": 0
+},
+{
+"text": "Chỉ cho phép ly hôn khi có lý do kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 049: [Thông hiểu] Hôn nhân một vợ một chồng và giải phóng phụ nữ",
+"points_possible": 1,
+"question_text": "Vì sao trong thời kỳ quá độ lên chủ nghĩa xã hội, thực hiện hôn nhân một vợ một chồng có ý nghĩa giải phóng phụ nữ?",
+"general_comment": "Trong các xã hội trước, hôn nhân một vợ một chồng thực chất chỉ đối với phụ nữ; thời kỳ quá độ thực hiện chế độ này là thực hiện bình đẳng, tôn trọng lẫn nhau giữa vợ và chồng.",
+"answers": [
+{
+"text": "Vì nó thiết lập đặc quyền của người chồng trong gia đình.",
+"weight": 0
+},
+{
+"text": "Vì nó thực hiện bình đẳng, tôn trọng lẫn nhau giữa vợ và chồng, khắc phục bất bình đẳng trước đây.",
+"weight": 100
+},
+{
+"text": "Vì nó buộc phụ nữ lệ thuộc hơn vào gia đình.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ bảo vệ quyền lợi của nam giới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 050: [Thông hiểu] Bình đẳng vợ chồng và quan hệ gia đình",
+"points_possible": 1,
+"question_text": "Quan hệ vợ chồng bình đẳng có ý nghĩa gì đối với các quan hệ khác trong gia đình?",
+"general_comment": "Giáo trình nêu quan hệ vợ chồng bình đẳng là cơ sở cho bình đẳng trong quan hệ cha mẹ - con cái và quan hệ anh chị em.",
+"answers": [
+{
+"text": "Là cơ sở cho bình đẳng giữa cha mẹ với con cái và giữa anh chị em.",
+"weight": 100
+},
+{
+"text": "Là nguyên nhân làm mất trách nhiệm giữa các thành viên.",
+"weight": 0
+},
+{
+"text": "Làm gia đình không cần quyền và nghĩa vụ.",
+"weight": 0
+},
+{
+"text": "Chỉ có ý nghĩa với tài sản, không liên quan nhân cách.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 051: [Thông hiểu] Thủ tục pháp lý trong hôn nhân",
+"points_possible": 1,
+"question_text": "Vì sao thực hiện thủ tục pháp lý trong hôn nhân không ngăn cản quyền tự do kết hôn và ly hôn chính đáng?",
+"general_comment": "Thủ tục pháp lý là cơ sở để thực hiện quyền tự do kết hôn, tự do ly hôn chính đáng đầy đủ nhất và ngăn chặn việc lợi dụng quyền đó.",
+"answers": [
+{
+"text": "Vì thủ tục pháp lý bảo đảm sự thừa nhận xã hội, trách nhiệm giữa cá nhân, gia đình, xã hội và ngăn chặn lạm dụng quyền tự do kết hôn, ly hôn.",
+"weight": 100
+},
+{
+"text": "Vì thủ tục pháp lý nhằm xóa bỏ quyền tự do hôn nhân.",
+"weight": 0
+},
+{
+"text": "Vì thủ tục pháp lý chỉ là nghi lễ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Vì thủ tục pháp lý làm hôn nhân không cần tình yêu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 052: [Thông hiểu] Gia đình hạt nhân và quy mô gia đình",
+"points_possible": 1,
+"question_text": "Biến đổi từ gia đình truyền thống sang gia đình hạt nhân ở Việt Nam thể hiện rõ nhất ở điểm nào?",
+"general_comment": "Gia đình hiện nay thường thu nhỏ, phổ biến hai thế hệ cùng sống chung là cha mẹ và con cái, số con ít hơn, có cả gia đình đơn thân.",
+"answers": [
+{
+"text": "Quy mô gia đình thu nhỏ, thường chỉ gồm hai thế hệ cha mẹ - con cái, số con ít hơn.",
+"weight": 100
+},
+{
+"text": "Mỗi gia đình bắt buộc phải gồm toàn bộ dòng họ.",
+"weight": 0
+},
+{
+"text": "Gia đình ngày càng mất hẳn quan hệ cha mẹ - con cái.",
+"weight": 0
+},
+{
+"text": "Gia đình không còn là đơn vị tiêu dùng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 053: [Thông hiểu] Mặt tích cực và tiêu cực của gia đình hạt nhân",
+"points_possible": 1,
+"question_text": "Nhận định nào phản ánh đúng hai mặt của biến đổi quy mô, kết cấu gia đình hiện nay?",
+"general_comment": "Biến đổi này đề cao bình đẳng nam nữ, đời sống riêng tư nhưng cũng có thể tạo ngăn cách giữa thành viên, làm lỏng lẻo quan hệ gia đình và khó giữ giá trị truyền thống.",
+"answers": [
+{
+"text": "Chỉ có tác động tích cực, không có rủi ro xã hội.",
+"weight": 0
+},
+{
+"text": "Vừa đề cao bình đẳng, đời sống riêng tư; vừa có nguy cơ tạo ngăn cách, lỏng lẻo quan hệ và suy giảm giá trị truyền thống.",
+"weight": 100
+},
+{
+"text": "Chỉ làm mất hoàn toàn tình cảm gia đình.",
+"weight": 0
+},
+{
+"text": "Không tác động đến quan hệ giữa các thành viên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 054: [Thông hiểu] Biến đổi chức năng tái sản xuất",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng tái sản xuất con người trong gia đình Việt Nam hiện nay thể hiện ở đâu?",
+"general_comment": "Các gia đình chủ động, tự giác hơn khi xác định số con và thời điểm sinh con; mức sinh giảm, số con mong muốn giảm và giảm nhu cầu nhất thiết phải có con trai.",
+"answers": [
+{
+"text": "Gia đình không còn quyền quyết định thời điểm sinh con.",
+"weight": 0
+},
+{
+"text": "Gia đình chủ động hơn về số lượng con, thời điểm sinh con; giảm mức sinh và giảm nhu cầu nhất thiết phải có con trai.",
+"weight": 100
+},
+{
+"text": "Mọi gia đình đều muốn sinh thật nhiều con.",
+"weight": 0
+},
+{
+"text": "Chức năng tái sản xuất không còn liên quan xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 055: [Thông hiểu] Kinh tế hộ gia đình",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng kinh tế của gia đình Việt Nam hiện nay được giáo trình mô tả như thế nào?",
+"general_comment": "Kinh tế hộ gia đình trở thành một bộ phận quan trọng trong nền kinh tế quốc dân, đồng thời gia đình trở thành đơn vị tiêu dùng quan trọng.",
+"answers": [
+{
+"text": "Kinh tế hộ gia đình trở thành bộ phận quan trọng của nền kinh tế quốc dân và gia đình là đơn vị tiêu dùng quan trọng.",
+"weight": 100
+},
+{
+"text": "Kinh tế hộ gia đình hoàn toàn biến mất khỏi nền kinh tế.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ sản xuất tự cấp tự túc, không có chức năng tiêu dùng.",
+"weight": 0
+},
+{
+"text": "Kinh tế hộ gia đình không có thuận lợi hay thách thức nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 056: [Thông hiểu] Xã hội hóa giáo dục gia đình",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng giáo dục của gia đình hiện nay được hiểu như thế nào?",
+"general_comment": "Giáo dục xã hội bao trùm lên giáo dục gia đình, đặt ra mục tiêu, yêu cầu cho giáo dục gia đình; nội dung giáo dục hướng tới kiến thức khoa học hiện đại và hội nhập.",
+"answers": [
+{
+"text": "Giáo dục gia đình hoàn toàn thay thế giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Giáo dục xã hội bao trùm lên giáo dục gia đình, làm mục tiêu và nội dung giáo dục gia đình thay đổi theo hướng hiện đại, hội nhập.",
+"weight": 100
+},
+{
+"text": "Gia đình không còn đầu tư tài chính cho giáo dục con cái.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình chỉ còn dạy nghi lễ dòng họ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 057: [Thông hiểu] Hệ quả khi thiếu quan tâm giáo dục",
+"points_possible": 1,
+"question_text": "Theo giáo trình, sự quan tâm chưa thỏa đáng của các chủ thể giáo dục có thể dẫn đến hiện tượng nào?",
+"general_comment": "Giáo trình nêu hiện tượng trẻ em hư, bỏ học sớm, mắc tệ nạn xã hội, thể hiện sự bất lực của xã hội và bế tắc của một số gia đình trong chăm sóc, giáo dục trẻ em.",
+"answers": [
+{
+"text": "Trẻ em hư, bỏ học sớm, mắc tệ nạn xã hội.",
+"weight": 100
+},
+{
+"text": "Mọi trẻ em đều tự động phát triển toàn diện.",
+"weight": 0
+},
+{
+"text": "Gia đình không cần phối hợp với nhà trường.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình không có hệ quả xã hội nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 058: [Thông hiểu] Gia đình từ đơn vị kinh tế sang đơn vị tình cảm",
+"points_possible": 1,
+"question_text": "Nhu cầu thỏa mãn tâm lý - tình cảm trong gia đình hiện nay tăng lên vì xu hướng nào?",
+"general_comment": "Giáo trình nêu gia đình có xu hướng chuyển đổi từ chủ yếu là đơn vị kinh tế sang chủ yếu là đơn vị tình cảm.",
+"answers": [
+{
+"text": "Gia đình chuyển từ chủ yếu là đơn vị kinh tế sang chủ yếu là đơn vị tình cảm.",
+"weight": 100
+},
+{
+"text": "Gia đình không còn quan tâm nhu cầu tâm lý.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ còn là đơn vị sản xuất vật chất.",
+"weight": 0
+},
+{
+"text": "Gia đình hoàn toàn mất mọi quan hệ tình cảm.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 059: [Thông hiểu] Công nghiệp hóa và mâu thuẫn gia đình",
+"points_possible": 1,
+"question_text": "Theo giáo trình, công nghiệp hóa và toàn cầu hóa có thể làm xuất hiện mâu thuẫn nào trong gia đình?",
+"general_comment": "Công nghiệp hóa và toàn cầu hóa dẫn tới phân hóa giàu nghèo, mâu thuẫn lợi ích giữa các thế hệ, giữa cha mẹ và con cái, giữa lợi ích gia đình và xã hội.",
+"answers": [
+{
+"text": "Mâu thuẫn lợi ích giữa các thế hệ, giữa cha mẹ và con cái, giữa lợi ích gia đình và xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ làm mất hết mọi khác biệt lợi ích trong gia đình.",
+"weight": 0
+},
+{
+"text": "Chỉ tác động đến sản xuất, không tác động quan hệ gia đình.",
+"weight": 0
+},
+{
+"text": "Không tạo ra bất kỳ thách thức nào cho gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 060: [Thông hiểu] Biến đổi quan hệ gia đình hiện đại",
+"points_possible": 1,
+"question_text": "Những hiện tượng như ly hôn, ly thân, ngoại tình, chung sống không kết hôn, bạo lực gia đình phản ánh điều gì?",
+"general_comment": "Đó là biểu hiện của biến đổi trong các mối quan hệ gia đình hiện đại, khi gia đình đối mặt nhiều vấn đề và quan hệ trở nên lỏng lẻo.",
+"answers": [
+{
+"text": "Gia đình hiện đại không còn đối mặt vấn đề nào.",
+"weight": 0
+},
+{
+"text": "Biến đổi trong các mối quan hệ gia đình và sự lỏng lẻo, rạn nứt của một số quan hệ gia đình.",
+"weight": 100
+},
+{
+"text": "Sự khôi phục nguyên vẹn gia đình truyền thống.",
+"weight": 0
+},
+{
+"text": "Sự phát triển đồng đều của mọi chức năng gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 061: [Thông hiểu] Giá trị truyền thống bị lung lay",
+"points_possible": 1,
+"question_text": "Việc gia tăng gia đình đơn thân, độc thân, kết hôn đồng tính, sinh con ngoài giá thú trong giáo trình được đặt trong bối cảnh nào?",
+"general_comment": "Giáo trình xem đây là biểu hiện của các giá trị truyền thống gia đình bị coi nhẹ, kiểu gia đình truyền thống bị phá vỡ, lung lay dưới sức ép đời sống hiện đại.",
+"answers": [
+{
+"text": "Bối cảnh các giá trị truyền thống gia đình bị coi nhẹ, kiểu gia đình truyền thống bị phá vỡ, lung lay.",
+"weight": 100
+},
+{
+"text": "Bối cảnh gia đình truyền thống không hề thay đổi.",
+"weight": 0
+},
+{
+"text": "Bối cảnh chức năng kinh tế gia đình biến mất hoàn toàn.",
+"weight": 0
+},
+{
+"text": "Bối cảnh pháp luật hôn nhân không còn tác dụng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 062: [Thông hiểu] Quan hệ thế hệ trong gia đình hiện đại",
+"points_possible": 1,
+"question_text": "Theo giáo trình, trong gia đình hiện đại, quan hệ giữa các thế hệ gặp vấn đề gì?",
+"general_comment": "Giáo trình nêu giáo dục trẻ em gần như phó mặc cho nhà trường, người cao tuổi đối mặt cô đơn, thiếu thốn tình cảm; mâu thuẫn giữa các thế hệ là thách thức lớn.",
+"answers": [
+{
+"text": "Giáo dục trẻ em gần như phó mặc cho nhà trường; người cao tuổi cô đơn, thiếu thốn tình cảm; mâu thuẫn thế hệ gia tăng.",
+"weight": 100
+},
+{
+"text": "Mọi thế hệ đều không có mâu thuẫn và không cần chăm sóc.",
+"weight": 0
+},
+{
+"text": "Người cao tuổi không còn là thành viên gia đình.",
+"weight": 0
+},
+{
+"text": "Gia đình hiện đại không cần giáo dục trẻ em.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 063: [Thông hiểu] Tác động của yếu tố truyền thống",
+"points_possible": 1,
+"question_text": "Nhận định nào đúng về tác động của yếu tố truyền thống đối với gia đình Việt Nam hiện nay?",
+"general_comment": "Truyền thống có mặt tích cực nhưng cũng có hạn chế, tác động tiêu cực như gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối gia đình.",
+"answers": [
+{
+"text": "Truyền thống chỉ có tác động tích cực, không có hạn chế nào.",
+"weight": 0
+},
+{
+"text": "Truyền thống có mặt tích cực nhưng cũng có hạn chế như gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối gia đình.",
+"weight": 100
+},
+{
+"text": "Truyền thống hoàn toàn không còn tồn tại trong gia đình.",
+"weight": 0
+},
+{
+"text": "Truyền thống chỉ liên quan đến kinh tế hộ gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 064: [Thông hiểu] Tác động tích cực của công nghiệp hóa và hội nhập",
+"points_possible": 1,
+"question_text": "Công nghiệp hóa, hiện đại hóa, kinh tế thị trường và hội nhập quốc tế tác động tích cực đến gia đình Việt Nam như thế nào?",
+"general_comment": "Các yếu tố này tạo điều kiện để gia đình tiếp thu giá trị tiến bộ của thế giới, biến đổi theo hướng năng động, tự do hơn.",
+"answers": [
+{
+"text": "Tạo điều kiện tiếp thu giá trị tiến bộ của thế giới, làm gia đình biến đổi theo hướng năng động, tự do hơn.",
+"weight": 100
+},
+{
+"text": "Làm gia đình hoàn toàn đóng kín trong biên giới quốc gia.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi giá trị mới trong gia đình.",
+"weight": 0
+},
+{
+"text": "Chỉ làm phục hồi gia trưởng phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 065: [Thông hiểu] Mặt trái của hội nhập và kinh tế thị trường",
+"points_possible": 1,
+"question_text": "Mặt trái của toàn cầu hóa, công nghiệp hóa, đô thị hóa, kinh tế thị trường đối với gia đình gồm biểu hiện nào?",
+"general_comment": "Giáo trình nêu các vấn đề như tuyệt đối hóa chức năng kinh tế, xem nhẹ chức năng khác, buôn bán phụ nữ và trẻ em, hôn nhân xuyên biên giới biến tướng, mất cân bằng giới tính, ngại kết hôn, sống thử.",
+"answers": [
+{
+"text": "Tuyệt đối hóa chức năng kinh tế, buôn bán phụ nữ và trẻ em, hôn nhân xuyên biên giới biến tướng, mất cân bằng giới tính, sống thử.",
+"weight": 100
+},
+{
+"text": "Chỉ làm gia đình bền vững hơn mà không có thách thức.",
+"weight": 0
+},
+{
+"text": "Chỉ làm tăng khả năng kế thừa truyền thống tích cực.",
+"weight": 0
+},
+{
+"text": "Không ảnh hưởng đến quan hệ hôn nhân và sinh sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 066: [Thông hiểu] Công nghệ số và cơ hội gia đình",
+"points_possible": 1,
+"question_text": "Khoa học - công nghệ, nhất là công nghệ số, tạo cơ hội nào cho gia đình?",
+"general_comment": "Công nghệ số tạo cơ hội tiếp thu tri thức mới cho gia đình trong việc thực hiện các chức năng của mình.",
+"answers": [
+{
+"text": "Tạo cơ hội tiếp thu tri thức mới để gia đình thực hiện tốt hơn các chức năng.",
+"weight": 100
+},
+{
+"text": "Làm gia đình không còn cần tri thức.",
+"weight": 0
+},
+{
+"text": "Chỉ làm tăng quan hệ dòng họ gia trưởng.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ hoàn toàn vai trò giáo dục của gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 067: [Thông hiểu] Công nghệ số và thách thức gia đình",
+"points_possible": 1,
+"question_text": "Thách thức lớn mà công nghệ số đặt ra cho gia đình theo giáo trình là gì?",
+"general_comment": "Giáo trình nhấn mạnh quản lý, kiểm soát luồng thông tin trái chiều, độc hại trên mạng; quan hệ gia đình lỏng lẻo do làm việc, giải trí, giao tiếp bằng công nghệ trong thế giới ảo.",
+"answers": [
+{
+"text": "Không có thách thức nào vì công nghệ số chỉ có mặt tích cực.",
+"weight": 0
+},
+{
+"text": "Quản lý thông tin độc hại trên mạng và nguy cơ quan hệ gia đình lỏng lẻo do lệ thuộc giao tiếp, giải trí, làm việc bằng công nghệ.",
+"weight": 100
+},
+{
+"text": "Công nghệ số làm gia đình tự động đoàn kết hơn trong mọi trường hợp.",
+"weight": 0
+},
+{
+"text": "Công nghệ số chỉ tác động đến doanh nghiệp, không tác động gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 068: [Thông hiểu] Kế thừa và tiếp thu trong xây dựng gia đình",
+"points_possible": 1,
+"question_text": "Phương hướng kế thừa giá trị truyền thống và tiếp thu tiến bộ nhân loại về gia đình cần được hiểu như thế nào?",
+"general_comment": "Giáo trình yêu cầu vừa kế thừa giá trị tốt đẹp của gia đình truyền thống, vừa tiếp thu những tiến bộ của nhân loại để phù hợp bối cảnh mới.",
+"answers": [
+{
+"text": "Giữ nguyên mọi yếu tố truyền thống, kể cả lạc hậu.",
+"weight": 0
+},
+{
+"text": "Vừa kế thừa giá trị tốt đẹp của gia đình truyền thống, vừa tiếp thu tiến bộ nhân loại trong xây dựng gia đình Việt Nam hiện nay.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ toàn bộ truyền thống và sao chép mọi giá trị bên ngoài.",
+"weight": 0
+},
+{
+"text": "Chỉ tiếp thu tiến bộ kỹ thuật, không cần giá trị đạo đức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 069: [Thông hiểu] Phong trào gia đình văn hóa",
+"points_possible": 1,
+"question_text": "Vì sao giáo trình đề ra phương hướng tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa?",
+"general_comment": "Gia đình văn hóa là hình thức thực tiễn góp phần cụ thể hóa các giá trị tiến bộ, lành mạnh, trách nhiệm và văn hóa trong xây dựng gia đình Việt Nam.",
+"answers": [
+{
+"text": "Vì phong trào này góp phần củng cố giá trị gia đình lành mạnh, tiến bộ và văn hóa trong đời sống thực tiễn.",
+"weight": 100
+},
+{
+"text": "Vì phong trào này nhằm loại bỏ vai trò gia đình.",
+"weight": 0
+},
+{
+"text": "Vì phong trào này chỉ phục vụ quan hệ kinh tế hộ.",
+"weight": 0
+},
+{
+"text": "Vì phong trào này thay thế toàn bộ pháp luật hôn nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 070: [Thông hiểu] Phát triển kinh tế - xã hội và gia đình",
+"points_possible": 1,
+"question_text": "Phát triển kinh tế - xã hội có ý nghĩa gì đối với xây dựng gia đình Việt Nam trong thời kỳ quá độ?",
+"general_comment": "Phát triển kinh tế - xã hội giúp nâng cao đời sống vật chất, kinh tế hộ gia đình, tạo điều kiện cho gia đình thực hiện tốt chức năng của mình.",
+"answers": [
+{
+"text": "Nâng cao đời sống vật chất, kinh tế hộ gia đình và tạo điều kiện xây dựng gia đình tiến bộ.",
+"weight": 100
+},
+{
+"text": "Làm gia đình không còn cần chức năng giáo dục.",
+"weight": 0
+},
+{
+"text": "Chỉ làm tăng mâu thuẫn mà không có mặt tích cực.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi điều kiện sống vật chất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 071: [Vận dụng/Phân tích] Nhận diện cơ sở gia đình",
+"points_possible": 1,
+"question_text": "Một cặp vợ chồng kết hôn hợp pháp, sinh con và cùng nuôi dưỡng con nuôi. Theo giáo trình, trường hợp này thể hiện những cơ sở nào hình thành gia đình?",
+"general_comment": "Gia đình được hình thành từ quan hệ hôn nhân, huyết thống và nuôi dưỡng, giáo dục.",
+"answers": [
+{
+"text": "Quan hệ hôn nhân, quan hệ huyết thống và quan hệ nuôi dưỡng.",
+"weight": 100
+},
+{
+"text": "Quan hệ dân tộc, tôn giáo và quốc tịch.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp, thu nhập và tiêu dùng.",
+"weight": 0
+},
+{
+"text": "Quan hệ sở hữu, quản lý và phân phối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 072: [Vận dụng/Phân tích] Xã hội lành mạnh và gia đình",
+"points_possible": 1,
+"question_text": "Một chương trình phát triển xã hội chỉ chú trọng tăng trưởng kinh tế, không quan tâm xây dựng gia đình lành mạnh. Theo Chương 7, hạn chế lớn nhất là gì?",
+"general_comment": "Vì gia đình là tế bào xã hội, muốn xã hội phát triển lành mạnh phải quan tâm xây dựng tế bào gia đình lành mạnh.",
+"answers": [
+{
+"text": "Chưa nhận thức đúng vai trò gia đình là tế bào của xã hội và nền tảng của phát triển lành mạnh.",
+"weight": 100
+},
+{
+"text": "Chưa tuyệt đối hóa chức năng kinh tế của gia đình.",
+"weight": 0
+},
+{
+"text": "Chưa tách cá nhân khỏi gia đình.",
+"weight": 0
+},
+{
+"text": "Chưa thay gia đình bằng quan hệ thị trường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 073: [Vận dụng/Phân tích] Giáo dục con cái bằng gương sống",
+"points_possible": 1,
+"question_text": "Một gia đình giáo dục con bằng hành vi mẫu mực của ông bà, cha mẹ, anh chị trong đời sống hằng ngày. Điều này phù hợp với luận điểm nào?",
+"general_comment": "Giáo dục gia đình diễn ra ở mọi nơi, mọi lúc, đặc biệt thông qua tấm gương sống của ông bà, cha mẹ, anh chị.",
+"answers": [
+{
+"text": "Giáo dục gia đình thể hiện qua tấm gương sống và diễn ra thường xuyên trong đời sống gia đình.",
+"weight": 100
+},
+{
+"text": "Giáo dục gia đình chỉ diễn ra trong trường học.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình không liên quan hành vi của người lớn.",
+"weight": 0
+},
+{
+"text": "Gia đình không có trách nhiệm giáo dục trẻ em.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 074: [Vận dụng/Phân tích] Cực đoan trong giáo dục",
+"points_possible": 1,
+"question_text": "Một phụ huynh cho rằng chỉ cần giáo dục gia đình, không cần nhà trường và xã hội. Theo giáo trình, nhận định nào đúng?",
+"general_comment": "Giáo dục gia đình không thể tách rời giáo dục xã hội; cần tránh khuynh hướng coi trọng gia đình mà hạ thấp giáo dục xã hội hoặc ngược lại.",
+"answers": [
+{
+"text": "Quan điểm đó sai vì giáo dục gia đình không thể tách rời giáo dục xã hội.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng vì gia đình thay thế mọi thiết chế giáo dục.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì nhà trường không ảnh hưởng nhân cách.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó sai vì giáo dục gia đình không có vai trò nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 075: [Vận dụng/Phân tích] Chức năng tiêu dùng gia đình",
+"points_possible": 1,
+"question_text": "Một gia đình lập kế hoạch sử dụng thu nhập, quỹ thời gian để đáp ứng nhu cầu ăn ở, học tập, chăm sóc sức khỏe và giải trí. Đây là biểu hiện của chức năng nào?",
+"general_comment": "Đây là chức năng tổ chức tiêu dùng của gia đình: sử dụng hàng hóa, thu nhập, quỹ thời gian để đáp ứng nhu cầu vật chất, tinh thần.",
+"answers": [
+{
+"text": "Chức năng tổ chức tiêu dùng.",
+"weight": 100
+},
+{
+"text": "Chức năng quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Chức năng chính trị đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chức năng phân định tộc người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 076: [Vận dụng/Phân tích] Chăm sóc người già, trẻ em, người ốm",
+"points_possible": 1,
+"question_text": "Gia đình tổ chức chăm sóc người cao tuổi, người ốm và trẻ em, đồng thời tạo sự cân bằng tâm lý cho thành viên. Đây là chức năng nào?",
+"general_comment": "Đó là chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+"answers": [
+{
+"text": "Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm.",
+"weight": 100
+},
+{
+"text": "Chức năng pháp lý trong hôn nhân.",
+"weight": 0
+},
+{
+"text": "Chức năng sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Chức năng xã hội hóa giáo dục của nhà trường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 077: [Vận dụng/Phân tích] Cơ sở kinh tế của bình đẳng gia đình",
+"points_possible": 1,
+"question_text": "Một xã hội muốn xây dựng gia đình bình đẳng nhưng vẫn duy trì nguồn gốc kinh tế của sự lệ thuộc phụ nữ trong gia đình. Theo Chương 7, thiếu cơ sở nào?",
+"general_comment": "Xây dựng gia đình mới cần cơ sở kinh tế - xã hội: lực lượng sản xuất phát triển và chế độ công hữu về tư liệu sản xuất chủ yếu để xóa nguồn gốc bất bình đẳng.",
+"answers": [
+{
+"text": "Thiếu cơ sở kinh tế - xã hội để xóa nguồn gốc thống trị, bất bình đẳng và nô dịch phụ nữ.",
+"weight": 100
+},
+{
+"text": "Thiếu sự áp đặt hôn nhân từ cha mẹ.",
+"weight": 0
+},
+{
+"text": "Thiếu sự khôi phục gia trưởng.",
+"weight": 0
+},
+{
+"text": "Thiếu việc phủ nhận pháp luật hôn nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 078: [Vận dụng/Phân tích] Cấm bạo lực gia đình",
+"points_possible": 1,
+"question_text": "Một địa phương ban hành kế hoạch thực thi Luật Phòng, Chống bạo lực gia đình và bảo vệ quyền lợi thành viên gia đình. Việc này gắn với cơ sở nào của xây dựng gia đình mới?",
+"general_comment": "Đây là cơ sở chính trị - xã hội và pháp lý: ban hành, thực hiện pháp luật để bảo vệ hạnh phúc gia đình, quyền lợi thành viên và bình đẳng giới.",
+"answers": [
+{
+"text": "Cơ sở chính trị - xã hội và pháp lý.",
+"weight": 100
+},
+{
+"text": "Cơ sở sinh học thuần túy.",
+"weight": 0
+},
+{
+"text": "Cơ sở mê tín truyền thống.",
+"weight": 0
+},
+{
+"text": "Cơ sở áp đặt gia trưởng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 079: [Vận dụng/Phân tích] Hôn nhân vì tài sản",
+"points_possible": 1,
+"question_text": "Một cuộc hôn nhân được sắp đặt chủ yếu vì tài sản và địa vị xã hội, không dựa trên tình yêu. Theo giáo trình, nhận định nào phù hợp?",
+"general_comment": "Hôn nhân tiến bộ phải xuất phát từ tình yêu; khi không xây dựng trên cơ sở tình yêu thì tình yêu và hạnh phúc gia đình bị hạn chế.",
+"answers": [
+{
+"text": "Cuộc hôn nhân này không phù hợp với yêu cầu hôn nhân tự nguyện, tiến bộ vì không dựa trên tình yêu.",
+"weight": 100
+},
+{
+"text": "Cuộc hôn nhân này là hình thức cao nhất của hôn nhân tiến bộ.",
+"weight": 0
+},
+{
+"text": "Cuộc hôn nhân này bảo đảm tuyệt đối hạnh phúc vì có tài sản.",
+"weight": 0
+},
+{
+"text": "Hôn nhân tiến bộ không cần tình yêu hay tự do lựa chọn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 080: [Vận dụng/Phân tích] Cha mẹ áp đặt hôn nhân",
+"points_possible": 1,
+"question_text": "Cha mẹ ép con kết hôn với người do mình chọn, bất chấp tình yêu và ý chí của con. Theo Chương 7, hành vi này trái với nguyên tắc nào?",
+"general_comment": "Hôn nhân tiến bộ dựa trên tự nguyện, bảo đảm nam nữ có quyền tự do lựa chọn người kết hôn và không chấp nhận sự áp đặt của cha mẹ.",
+"answers": [
+{
+"text": "Nguyên tắc hôn nhân tự nguyện, tiến bộ.",
+"weight": 100
+},
+{
+"text": "Nguyên tắc phát triển kinh tế hộ gia đình.",
+"weight": 0
+},
+{
+"text": "Nguyên tắc tổ chức tiêu dùng.",
+"weight": 0
+},
+{
+"text": "Nguyên tắc chuyển đổi gia đình hạt nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 081: [Vận dụng/Phân tích] Ly hôn bị lạm dụng",
+"points_possible": 1,
+"question_text": "Một người lợi dụng quyền tự do ly hôn để thỏa mãn nhu cầu không chính đáng, bỏ mặc trách nhiệm với con cái. Theo giáo trình, đánh giá nào đúng?",
+"general_comment": "Thủ tục pháp lý trong hôn nhân nhằm ngăn chặn lợi dụng quyền tự do kết hôn, ly hôn để thỏa mãn nhu cầu không chính đáng; ly hôn chính đáng được thừa nhận nhưng không khuyến khích.",
+"answers": [
+{
+"text": "Đây là biểu hiện cần được pháp luật và trách nhiệm gia đình - xã hội điều chỉnh, vì tự do ly hôn không đồng nghĩa với lạm dụng quyền.",
+"weight": 100
+},
+{
+"text": "Đây là biểu hiện của hôn nhân tiến bộ nên luôn được khuyến khích.",
+"weight": 0
+},
+{
+"text": "Đây là vấn đề không liên quan đến con cái và xã hội.",
+"weight": 0
+},
+{
+"text": "Đây là lý do để phủ nhận mọi quyền ly hôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 082: [Vận dụng/Phân tích] Hôn nhân không đăng ký",
+"points_possible": 1,
+"question_text": "Hai người chung sống như vợ chồng nhưng không thực hiện thủ tục pháp lý kết hôn. Theo giáo trình, thiếu yếu tố nào của hôn nhân tiến bộ?",
+"general_comment": "Hôn nhân được bảo đảm pháp lý: khi kết hôn cần sự thừa nhận xã hội biểu hiện bằng thủ tục pháp lý.",
+"answers": [
+{
+"text": "Thiếu sự bảo đảm về pháp lý và sự thừa nhận xã hội thông qua thủ tục kết hôn.",
+"weight": 100
+},
+{
+"text": "Thiếu chức năng kinh tế hộ gia đình.",
+"weight": 0
+},
+{
+"text": "Thiếu quan hệ dòng họ chi phối.",
+"weight": 0
+},
+{
+"text": "Thiếu sự áp đặt của cha mẹ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 083: [Vận dụng/Phân tích] Gia đình hai thế hệ",
+"points_possible": 1,
+"question_text": "Một gia đình hiện chỉ gồm cha mẹ và con cái, số con ít, đời sống riêng tư được tôn trọng hơn. Đây là biểu hiện của xu hướng nào?",
+"general_comment": "Đây là xu hướng gia đình hạt nhân, quy mô gia đình thu nhỏ và bình đẳng, đời sống riêng tư được đề cao.",
+"answers": [
+{
+"text": "Xu hướng gia đình hạt nhân, quy mô nhỏ.",
+"weight": 100
+},
+{
+"text": "Xu hướng gia đình dòng họ nhiều thế hệ mở rộng.",
+"weight": 0
+},
+{
+"text": "Xu hướng xóa bỏ quan hệ vợ chồng.",
+"weight": 0
+},
+{
+"text": "Xu hướng phục hồi mô hình gia trưởng tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 084: [Vận dụng/Phân tích] Ngăn cách trong gia đình hạt nhân",
+"points_possible": 1,
+"question_text": "Một gia đình hạt nhân hiện đại đề cao riêng tư nhưng các thành viên ngày càng ít gắn bó, khó gìn giữ truyền thống. Theo Chương 7, đây là mặt nào của biến đổi gia đình?",
+"general_comment": "Giáo trình nêu mặt trái của biến đổi quy mô, kết cấu là tạo ngăn cách giữa các thành viên, cản trở gìn giữ tình cảm và giá trị văn hóa truyền thống.",
+"answers": [
+{
+"text": "Mặt trái của biến đổi quy mô, kết cấu gia đình hiện đại.",
+"weight": 100
+},
+{
+"text": "Mặt tích cực duy nhất của công nghệ số.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của hôn nhân pháp lý.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của chức năng tái sản xuất bình thường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 085: [Vận dụng/Phân tích] Giảm nhu cầu con trai",
+"points_possible": 1,
+"question_text": "Một cặp vợ chồng chủ động sinh ít con và không còn đặt nặng việc phải có con trai. Hiện tượng này phản ánh biến đổi nào?",
+"general_comment": "Đây là biến đổi chức năng tái sản xuất: gia đình chủ động số con, thời điểm sinh và giảm nhu cầu nhất thiết phải có con trai.",
+"answers": [
+{
+"text": "Biến đổi chức năng tái sản xuất ra con người.",
+"weight": 100
+},
+{
+"text": "Biến đổi chức năng chính trị của gia đình.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi tư tưởng trọng nam tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Sự mất hoàn toàn quyền lựa chọn sinh con.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 086: [Vận dụng/Phân tích] Gia đình là đơn vị tiêu dùng",
+"points_possible": 1,
+"question_text": "Một doanh nghiệp nghiên cứu hộ gia đình như thị trường tiêu dùng quan trọng của xã hội. Cách nhìn này phù hợp với biến đổi nào của gia đình hiện nay?",
+"general_comment": "Gia đình hiện nay trở thành một đơn vị tiêu dùng quan trọng của xã hội.",
+"answers": [
+{
+"text": "Biến đổi chức năng kinh tế, tổ chức tiêu dùng của gia đình.",
+"weight": 100
+},
+{
+"text": "Biến đổi quyền tự do ly hôn.",
+"weight": 0
+},
+{
+"text": "Biến đổi quan hệ tộc người.",
+"weight": 0
+},
+{
+"text": "Biến đổi chức năng chính trị đối ngoại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 087: [Vận dụng/Phân tích] Đầu tư giáo dục con cái",
+"points_possible": 1,
+"question_text": "Một gia đình tăng đầu tư tài chính cho con học ngoại ngữ, công nghệ, kỹ năng hội nhập. Theo giáo trình, đây là biểu hiện của biến đổi nào?",
+"general_comment": "Nội dung giáo dục gia đình hiện nay hướng đến kiến thức khoa học hiện đại, trang bị công cụ để con cái hòa nhập với thế giới.",
+"answers": [
+{
+"text": "Biến đổi chức năng giáo dục của gia đình theo hướng hiện đại hóa, xã hội hóa.",
+"weight": 100
+},
+{
+"text": "Sự mất hoàn toàn chức năng giáo dục.",
+"weight": 0
+},
+{
+"text": "Chỉ là chức năng tái sản xuất sinh học.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của thủ tục pháp lý hôn nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 088: [Vận dụng/Phân tích] Phó mặc giáo dục cho nhà trường",
+"points_possible": 1,
+"question_text": "Cha mẹ gần như phó mặc việc giáo dục con cho nhà trường, thiếu chăm sóc, khiến con bỏ học sớm và sa vào tệ nạn. Theo Chương 7, vấn đề cốt lõi là gì?",
+"general_comment": "Giáo trình cảnh báo việc quan tâm chưa thỏa đáng của các chủ thể giáo dục dẫn đến trẻ hư, bỏ học sớm, mắc tệ nạn xã hội.",
+"answers": [
+{
+"text": "Sự thiếu phối hợp và quan tâm trong giáo dục gia đình - xã hội, làm suy giảm chức năng giáo dục của gia đình.",
+"weight": 100
+},
+{
+"text": "Gia đình đã thực hiện đầy đủ chức năng giáo dục.",
+"weight": 0
+},
+{
+"text": "Chỉ do chức năng tiêu dùng của gia đình tăng lên.",
+"weight": 0
+},
+{
+"text": "Do hôn nhân được bảo đảm pháp lý quá đầy đủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 089: [Vận dụng/Phân tích] Mâu thuẫn thế hệ",
+"points_possible": 1,
+"question_text": "Một gia đình xảy ra xung đột giữa cha mẹ và con cái do khác biệt lợi ích, giá trị sống trong bối cảnh kinh tế thị trường. Đây là biểu hiện của vấn đề nào?",
+"general_comment": "Giáo trình nêu tác động của công nghiệp hóa, toàn cầu hóa và kinh tế thị trường làm xuất hiện mâu thuẫn lợi ích giữa thế hệ, cha mẹ - con cái, gia đình - xã hội.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa các thế hệ và biến đổi quan hệ gia đình trong bối cảnh hiện đại.",
+"weight": 100
+},
+{
+"text": "Sự ổn định tuyệt đối của gia đình truyền thống.",
+"weight": 0
+},
+{
+"text": "Chức năng tái sản xuất được thực hiện hoàn hảo.",
+"weight": 0
+},
+{
+"text": "Sự mất hoàn toàn tác động của kinh tế thị trường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 090: [Vận dụng/Phân tích] Người cao tuổi cô đơn",
+"points_possible": 1,
+"question_text": "Một người cao tuổi sống trong gia đình hiện đại nhưng thiếu chăm sóc, thiếu thốn tình cảm. Theo giáo trình, hiện tượng này thuộc nhóm biến đổi nào?",
+"general_comment": "Đây là biến đổi trong quan hệ giữa các thế hệ và chuẩn mực văn hóa gia đình; người cao tuổi phải đối mặt với cô đơn, thiếu thốn tình cảm.",
+"answers": [
+{
+"text": "Biến đổi quan hệ giữa các thế hệ trong gia đình.",
+"weight": 100
+},
+{
+"text": "Biến đổi cơ sở pháp lý của hôn nhân.",
+"weight": 0
+},
+{
+"text": "Biến đổi quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Biến đổi chức năng sản xuất tư liệu sinh hoạt.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 091: [Vận dụng/Phân tích] Gia trưởng trong gia đình",
+"points_possible": 1,
+"question_text": "Một gia đình vẫn duy trì tâm lý gia trưởng, thiếu dân chủ, để quan hệ dòng họ chi phối quyết định riêng của vợ chồng. Theo giáo trình, đây là tác động của yếu tố nào?",
+"general_comment": "Đây là tác động tiêu cực của yếu tố truyền thống còn in đậm trong gia đình và xã hội, như gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối.",
+"answers": [
+{
+"text": "Tác động tiêu cực của yếu tố truyền thống.",
+"weight": 100
+},
+{
+"text": "Tác động tích cực của công nghệ số.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của hôn nhân tự nguyện tiến bộ.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của bình đẳng vợ chồng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 092: [Vận dụng/Phân tích] Toàn cầu hóa và giá trị mới",
+"points_possible": 1,
+"question_text": "Một gia đình Việt Nam tiếp thu giá trị bình đẳng, tôn trọng cá nhân, chia sẻ trách nhiệm từ kinh nghiệm quốc tế. Hiện tượng này minh họa tác động nào?",
+"general_comment": "Công nghiệp hóa, hiện đại hóa, kinh tế thị trường và hội nhập quốc tế tạo điều kiện để gia đình Việt Nam tiếp thu giá trị tiến bộ, hình thành giá trị mới phù hợp bối cảnh.",
+"answers": [
+{
+"text": "Tác động tích cực của công nghiệp hóa, hiện đại hóa, kinh tế thị trường và hội nhập quốc tế.",
+"weight": 100
+},
+{
+"text": "Sự đóng kín giá trị gia đình trong biên giới quốc gia.",
+"weight": 0
+},
+{
+"text": "Sự suy giảm mọi giá trị văn hóa gia đình.",
+"weight": 0
+},
+{
+"text": "Tác động của quan hệ dòng họ gia trưởng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 093: [Vận dụng/Phân tích] Tuyệt đối hóa chức năng kinh tế",
+"points_possible": 1,
+"question_text": "Một gia đình chỉ coi trọng kiếm tiền, xem nhẹ giáo dục, tình cảm, chăm sóc người già và trẻ em. Theo Chương 7, đây là biểu hiện của mặt trái nào?",
+"general_comment": "Giáo trình nêu mặt trái của kinh tế thị trường, công nghiệp hóa, toàn cầu hóa là tuyệt đối hóa chức năng kinh tế, xem nhẹ các chức năng khác của gia đình.",
+"answers": [
+{
+"text": "Tuyệt đối hóa chức năng kinh tế và xem nhẹ các chức năng khác của gia đình.",
+"weight": 100
+},
+{
+"text": "Kế thừa giá trị tốt đẹp của gia đình truyền thống.",
+"weight": 0
+},
+{
+"text": "Thực hiện đầy đủ chức năng tình cảm.",
+"weight": 0
+},
+{
+"text": "Bảo đảm hôn nhân tự nguyện tiến bộ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 094: [Vận dụng/Phân tích] Công nghệ số và quan hệ lỏng lẻo",
+"points_possible": 1,
+"question_text": "Các thành viên trong một gia đình dành phần lớn thời gian làm việc, giải trí, giao tiếp trên không gian mạng, ít trò chuyện trực tiếp. Theo giáo trình, đây là thách thức nào?",
+"general_comment": "Giáo trình nêu công nghệ số làm mối quan hệ gia đình trở nên lỏng lẻo khi thành viên làm việc, giải trí, giao tiếp bằng công nghệ trong thế giới ảo.",
+"answers": [
+{
+"text": "Mối quan hệ gia đình trở nên lỏng lẻo do lệ thuộc công nghệ và thế giới ảo.",
+"weight": 100
+},
+{
+"text": "Gia đình thực hiện tốt hơn mọi chức năng không có rủi ro.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của hôn nhân pháp lý.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi hoàn toàn gia đình truyền thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 095: [Vận dụng/Phân tích] Lựa chọn giới tính khi sinh",
+"points_possible": 1,
+"question_text": "Một gia đình lạm dụng công nghệ sinh sản để lựa chọn giới tính khi sinh. Theo Chương 7, hiện tượng này thuộc loại tác động nào?",
+"general_comment": "Giáo trình nêu lạm dụng công nghệ trong chức năng sinh sản, lựa chọn giới tính khi sinh gia tăng là thách thức do khoa học - công nghệ, nhất là công nghệ số.",
+"answers": [
+{
+"text": "Mặt trái của tác động khoa học - công nghệ đối với chức năng sinh sản của gia đình.",
+"weight": 100
+},
+{
+"text": "Biểu hiện của bình đẳng giới trong gia đình.",
+"weight": 0
+},
+{
+"text": "Biểu hiện của hôn nhân tự nguyện.",
+"weight": 0
+},
+{
+"text": "Cơ sở văn hóa xã hội chủ nghĩa của gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 096: [Vận dụng/Phân tích] Xây dựng gia đình văn hóa",
+"points_possible": 1,
+"question_text": "Một phường tổ chức phong trào gia đình văn hóa gắn với bình đẳng, trách nhiệm, giáo dục con cái, phòng chống bạo lực. Việc này phù hợp phương hướng nào?",
+"general_comment": "Đây là phương hướng tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa.",
+"answers": [
+{
+"text": "Tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa.",
+"weight": 100
+},
+{
+"text": "Tuyệt đối hóa chức năng kinh tế của gia đình.",
+"weight": 0
+},
+{
+"text": "Tách pháp luật khỏi đời sống gia đình.",
+"weight": 0
+},
+{
+"text": "Khôi phục gia trưởng trong gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 097: [Vận dụng/Phân tích] Chọn chính sách xây dựng gia đình",
+"points_possible": 1,
+"question_text": "Một chính sách muốn xây dựng gia đình Việt Nam hiện nay nhưng chỉ tuyên truyền đạo đức, không phát triển kinh tế - xã hội và đời sống hộ gia đình. Theo Chương 7, thiếu phương hướng nào?",
+"general_comment": "Xây dựng gia đình phải gắn với đẩy mạnh phát triển kinh tế - xã hội, nâng cao đời sống vật chất và kinh tế hộ gia đình.",
+"answers": [
+{
+"text": "Đẩy mạnh phát triển kinh tế - xã hội, nâng cao đời sống vật chất và kinh tế hộ gia đình.",
+"weight": 100
+},
+{
+"text": "Xem nhẹ phát triển kinh tế hộ gia đình.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi giá trị truyền thống.",
+"weight": 0
+},
+{
+"text": "Không cần sự lãnh đạo của Đảng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 098: [Vận dụng/Phân tích] Kế thừa truyền thống có chọn lọc",
+"points_possible": 1,
+"question_text": "Một địa phương muốn xây dựng gia đình mới bằng cách giữ cả giá trị tốt đẹp lẫn tập tục gia trưởng lạc hậu. Theo giáo trình, cách tiếp cận đúng hơn là gì?",
+"general_comment": "Phương hướng đúng là kế thừa giá trị tốt đẹp của gia đình truyền thống, đồng thời tiếp thu tiến bộ nhân loại; không giữ nguyên yếu tố lạc hậu.",
+"answers": [
+{
+"text": "Kế thừa có chọn lọc giá trị tốt đẹp của truyền thống, loại bỏ yếu tố lạc hậu và tiếp thu tiến bộ nhân loại.",
+"weight": 100
+},
+{
+"text": "Giữ nguyên mọi tập tục cũ vì tất cả đều tích cực.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ toàn bộ truyền thống, kể cả giá trị tốt đẹp.",
+"weight": 0
+},
+{
+"text": "Chỉ tiếp thu yếu tố bên ngoài, không cần bản sắc gia đình Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 099: [Vận dụng/Phân tích] Sinh viên và trách nhiệm xây dựng gia đình",
+"points_possible": 1,
+"question_text": "Với tư cách sinh viên, hành vi nào phù hợp nhất với tinh thần Chương 7 về xây dựng gia đình?",
+"general_comment": "Chương 7 hướng tới hình thành thái độ, hành vi đúng đắn và trách nhiệm trong xây dựng gia đình, quan hệ cá nhân - gia đình - xã hội.",
+"answers": [
+{
+"text": "Nhận thức đúng vai trò gia đình, tôn trọng bình đẳng, trách nhiệm, pháp luật hôn nhân - gia đình và góp phần xây dựng quan hệ gia đình lành mạnh.",
+"weight": 100
+},
+{
+"text": "Coi gia đình chỉ là vấn đề riêng tư, không cần trách nhiệm xã hội.",
+"weight": 0
+},
+{
+"text": "Ủng hộ bạo lực gia đình nếu thuộc phạm vi gia đình.",
+"weight": 0
+},
+{
+"text": "Tuyệt đối hóa tự do cá nhân, phủ nhận nghĩa vụ gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 100: [Vận dụng/Phân tích] Đánh giá một gia đình tiến bộ",
+"points_possible": 1,
+"question_text": "Một gia đình dựa trên hôn nhân tự nguyện, một vợ một chồng, vợ chồng bình đẳng, có đăng ký kết hôn, chăm lo giáo dục con cái và tôn trọng người già. Theo Chương 7, đây là biểu hiện của điều gì?",
+"general_comment": "Trường hợp này kết hợp các tiêu chí của hôn nhân tiến bộ, gia đình bình đẳng, trách nhiệm và thực hiện các chức năng cơ bản của gia đình.",
+"answers": [
+{
+"text": "Gia đình tiến bộ, thực hiện tương đối đầy đủ cơ sở pháp lý, bình đẳng và các chức năng cơ bản.",
+"weight": 100
+},
+{
+"text": "Gia đình gia trưởng, thiếu dân chủ.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ thực hiện chức năng kinh tế.",
+"weight": 0
+},
+{
+"text": "Gia đình không cần quan hệ xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 101: [Nhận biết] Hai quan hệ cơ bản hình thành gia đình",
+"points_possible": 1,
+"question_text": "Gia đình được hình thành bởi hai mối quan hệ cơ bản nào?",
+"general_comment": "Ngân hàng Chương 7 xác định gia đình được hình thành bởi quan hệ hôn nhân và quan hệ huyết thống.",
+"answers": [
+{
+"text": "Quan hệ hôn nhân và quan hệ huyết thống.",
+"weight": 100
+},
+{
+"text": "Quan hệ họ hàng và quan hệ xã hội.",
+"weight": 0
+},
+{
+"text": "Quan hệ dân tộc và quan hệ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp và quan hệ thu nhập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 102: [Nhận biết] Quan hệ nền tảng của gia đình",
+"points_possible": 1,
+"question_text": "Quan hệ nào là nền tảng hình thành các mối quan hệ khác trong gia đình và là cơ sở pháp lý cho sự tồn tại của mỗi gia đình?",
+"general_comment": "Quan hệ hôn nhân là quan hệ nền tảng, tạo cơ sở pháp lý cho sự tồn tại của gia đình.",
+"answers": [
+{
+"text": "Quan hệ hôn nhân.",
+"weight": 100
+},
+{
+"text": "Quan hệ họ hàng.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Quan hệ tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 103: [Nhận biết] Quan hệ hôn nhân",
+"points_possible": 1,
+"question_text": "Quan hệ hôn nhân còn được gọi là quan hệ giữa những chủ thể nào?",
+"general_comment": "Quan hệ hôn nhân là quan hệ giữa vợ và chồng.",
+"answers": [
+{
+"text": "Vợ và chồng.",
+"weight": 100
+},
+{
+"text": "Cha mẹ và con cái.",
+"weight": 0
+},
+{
+"text": "Ông bà và cháu.",
+"weight": 0
+},
+{
+"text": "Anh chị em cùng huyết thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 104: [Nhận biết] Quan hệ huyết thống",
+"points_possible": 1,
+"question_text": "Quan hệ huyết thống trong gia đình trước hết là quan hệ giữa những chủ thể nào?",
+"general_comment": "Quan hệ huyết thống trước hết biểu hiện qua quan hệ giữa cha mẹ và con cái.",
+"answers": [
+{
+"text": "Cha mẹ và con cái.",
+"weight": 100
+},
+{
+"text": "Vợ và chồng.",
+"weight": 0
+},
+{
+"text": "Công dân và nhà nước.",
+"weight": 0
+},
+{
+"text": "Người lao động và người sử dụng lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 105: [Nhận biết] Yếu tố tự nhiên gắn kết gia đình",
+"points_possible": 1,
+"question_text": "Mối quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên trong gia đình với nhau là quan hệ nào?",
+"general_comment": "Quan hệ huyết thống là yếu tố tự nhiên có sức gắn kết mạnh mẽ giữa các thành viên trong gia đình.",
+"answers": [
+{
+"text": "Quan hệ huyết thống.",
+"weight": 100
+},
+{
+"text": "Quan hệ kinh tế.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Quan hệ hành chính.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 106: [Nhận biết] Quan hệ nuôi dưỡng trong gia đình",
+"points_possible": 1,
+"question_text": "Quan hệ nuôi dưỡng trong gia đình được hiểu đúng nhất là gì?",
+"general_comment": "Quan hệ nuôi dưỡng là quan hệ làm phát sinh quyền và nghĩa vụ giữa các thành viên dù không nhất thiết có quan hệ huyết thống trực tiếp, ví dụ quan hệ cha mẹ nuôi và con nuôi.",
+"answers": [
+{
+"text": "Quan hệ chăm sóc, nuôi dưỡng làm phát sinh quyền và nghĩa vụ giữa các thành viên, như cha mẹ nuôi và con nuôi.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa các thành viên cùng làm một nghề.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa người dân và chính quyền địa phương.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa các tín đồ cùng một tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 107: [Nhận biết] Gia đình theo Luật Hôn nhân và Gia đình",
+"points_possible": 1,
+"question_text": "Theo Luật Hôn nhân và Gia đình Việt Nam, gia đình là tập hợp những người gắn bó với nhau do những căn cứ nào?",
+"general_comment": "Luật Hôn nhân và Gia đình xác định gia đình gắn bó do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng.",
+"answers": [
+{
+"text": "Hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng.",
+"weight": 100
+},
+{
+"text": "Cùng nghề nghiệp, cùng nơi cư trú và cùng mức thu nhập.",
+"weight": 0
+},
+{
+"text": "Cùng tín ngưỡng, giáo lý và giáo luật.",
+"weight": 0
+},
+{
+"text": "Cùng giai cấp, tầng lớp và tổ chức chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 108: [Thông hiểu] Gia đình là cộng đồng xã hội đặc biệt",
+"points_possible": 1,
+"question_text": "Vì sao gia đình được xem là một hình thức cộng đồng xã hội đặc biệt?",
+"general_comment": "Gia đình đặc biệt vì được hình thành và duy trì chủ yếu trên cơ sở hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ giữa các thành viên.",
+"answers": [
+{
+"text": "Vì gia đình được hình thành và duy trì chủ yếu trên cơ sở hôn nhân, huyết thống, nuôi dưỡng cùng quyền và nghĩa vụ của các thành viên.",
+"weight": 100
+},
+{
+"text": "Vì gia đình là tổ chức chính trị thay thế nhà nước.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ là cộng đồng nghề nghiệp trong xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình chỉ tồn tại khi có cùng tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 109: [Nhận biết] Gia đình là tế bào của xã hội",
+"points_possible": 1,
+"question_text": "Quan điểm “gia đình là tế bào của xã hội” nhấn mạnh nội dung nào?",
+"general_comment": "Gia đình là đơn vị cơ sở của xã hội, sự lành mạnh của gia đình tác động trực tiếp đến sự lành mạnh của xã hội.",
+"answers": [
+{
+"text": "Gia đình là đơn vị cơ sở của xã hội, có vai trò quan trọng đối với sự tồn tại và phát triển của xã hội.",
+"weight": 100
+},
+{
+"text": "Gia đình là cơ quan hành chính thấp nhất của nhà nước.",
+"weight": 0
+},
+{
+"text": "Gia đình là tổ chức chỉ có chức năng kinh tế.",
+"weight": 0
+},
+{
+"text": "Gia đình là cộng đồng tách biệt hoàn toàn khỏi xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Nhận biết] Hồ Chí Minh về hạt nhân xã hội",
+"points_possible": 1,
+"question_text": "Theo tư tưởng Hồ Chí Minh được giáo trình trích dẫn, hạt nhân của xã hội là gì?",
+"general_comment": "Hồ Chí Minh khẳng định nhiều gia đình cộng lại mới thành xã hội và hạt nhân của xã hội là gia đình.",
+"answers": [
+{
+"text": "Gia đình.",
+"weight": 100
+},
+{
+"text": "Doanh nghiệp.",
+"weight": 0
+},
+{
+"text": "Thị trường.",
+"weight": 0
+},
+{
+"text": "Dòng họ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Thông hiểu] Quan hệ gia đình và xã hội",
+"points_possible": 1,
+"question_text": "Nhận định nào phản ánh đúng quan hệ giữa gia đình và xã hội theo Chương 7?",
+"general_comment": "Gia đình và xã hội có quan hệ biện chứng: xã hội tốt tạo điều kiện cho gia đình tốt, gia đình tốt góp phần làm xã hội tốt.",
+"answers": [
+{
+"text": "Gia đình và xã hội tác động qua lại; xã hội tốt tạo điều kiện cho gia đình tốt và gia đình tốt góp phần xây dựng xã hội tốt.",
+"weight": 100
+},
+{
+"text": "Gia đình càng tách khỏi xã hội thì càng phát triển.",
+"weight": 0
+},
+{
+"text": "Xã hội phát triển thì gia đình không còn vai trò.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ là vấn đề riêng tư, không có ý nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Nhận biết] Gia đình tham gia sản xuất bản thân con người",
+"points_possible": 1,
+"question_text": "Gia đình tham gia vào quá trình sản xuất bản thân con người thông qua chức năng nào?",
+"general_comment": "Gia đình thực hiện chức năng tái sản xuất ra con người, duy trì nòi giống và cung cấp nguồn nhân lực cho xã hội.",
+"answers": [
+{
+"text": "Chức năng tái sản xuất ra con người.",
+"weight": 100
+},
+{
+"text": "Chức năng đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chức năng lập pháp.",
+"weight": 0
+},
+{
+"text": "Chức năng phân chia giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Nhận biết] Chức năng đặc thù của gia đình",
+"points_possible": 1,
+"question_text": "Chức năng nào là chức năng đặc thù của gia đình mà không một cộng đồng nào có thể thay thế hoàn toàn?",
+"general_comment": "Chức năng tái sản xuất ra con người là chức năng đặc thù của gia đình.",
+"answers": [
+{
+"text": "Tái sản xuất ra con người.",
+"weight": 100
+},
+{
+"text": "Quản lý nhà nước.",
+"weight": 0
+},
+{
+"text": "Tổ chức chính đảng.",
+"weight": 0
+},
+{
+"text": "Thực hiện ngoại giao.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Thông hiểu] Ý nghĩa xã hội của sinh đẻ trong gia đình",
+"points_possible": 1,
+"question_text": "Vì sao chức năng sinh đẻ của gia đình không chỉ là việc riêng của từng gia đình?",
+"general_comment": "Sinh đẻ liên quan đến duy trì nòi giống, dân số, nguồn lao động và sự phát triển bền vững của xã hội.",
+"answers": [
+{
+"text": "Vì nó liên quan đến dân số, nguồn lao động, duy trì nòi giống và sự phát triển của xã hội.",
+"weight": 100
+},
+{
+"text": "Vì nhà nước thay thế hoàn toàn quyết định của gia đình.",
+"weight": 0
+},
+{
+"text": "Vì chức năng sinh đẻ không liên quan đến xã hội.",
+"weight": 0
+},
+{
+"text": "Vì gia đình không có quyền quyết định về con cái.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Nhận biết] Chức năng nuôi dưỡng, giáo dục",
+"points_possible": 1,
+"question_text": "Chức năng nuôi dưỡng, giáo dục của gia đình hướng tới mục tiêu trực tiếp nào?",
+"general_comment": "Gia đình có trách nhiệm nuôi dưỡng, dạy dỗ con cái trở thành người có ích cho gia đình, cộng đồng và xã hội.",
+"answers": [
+{
+"text": "Nuôi dưỡng, dạy dỗ con cái trở thành người có ích cho gia đình, cộng đồng và xã hội.",
+"weight": 100
+},
+{
+"text": "Tách trẻ em khỏi môi trường xã hội.",
+"weight": 0
+},
+{
+"text": "Thay thế hoàn toàn nhà trường và xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ truyền lại tài sản vật chất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Nhận biết] Nội dung giáo dục trong gia đình",
+"points_possible": 1,
+"question_text": "Nội dung giáo dục của gia đình bao gồm những yếu tố nào?",
+"general_comment": "Giáo dục gia đình bao gồm tri thức, kinh nghiệm, đạo đức, lối sống, nhân cách, thẩm mỹ và ý thức công dân.",
+"answers": [
+{
+"text": "Tri thức, kinh nghiệm, đạo đức, lối sống, nhân cách, thẩm mỹ và ý thức công dân.",
+"weight": 100
+},
+{
+"text": "Chỉ kỹ năng sản xuất và kinh doanh.",
+"weight": 0
+},
+{
+"text": "Chỉ nghi lễ dòng họ.",
+"weight": 0
+},
+{
+"text": "Chỉ thủ tục pháp lý về hôn nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Thông hiểu] Giáo dục gia đình và giáo dục xã hội",
+"points_possible": 1,
+"question_text": "Quan hệ giữa giáo dục gia đình và giáo dục xã hội được hiểu đúng nhất như thế nào?",
+"general_comment": "Giáo dục gia đình là bộ phận quan trọng của giáo dục xã hội; giáo dục xã hội định hướng, hỗ trợ và bổ sung cho giáo dục gia đình.",
+"answers": [
+{
+"text": "Giáo dục gia đình là bộ phận quan trọng của giáo dục xã hội, chịu sự định hướng và hỗ trợ của giáo dục xã hội.",
+"weight": 100
+},
+{
+"text": "Giáo dục gia đình đối lập hoàn toàn với giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Giáo dục xã hội làm gia đình không còn trách nhiệm giáo dục.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ giáo dục về kinh tế, không giáo dục nhân cách.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Nhận biết] Chức năng kinh tế của gia đình",
+"points_possible": 1,
+"question_text": "Chức năng kinh tế của gia đình thể hiện chủ yếu ở nội dung nào?",
+"general_comment": "Gia đình tham gia sản xuất, tái sản xuất tư liệu sản xuất, tư liệu tiêu dùng và sức lao động; đồng thời tổ chức tiêu dùng.",
+"answers": [
+{
+"text": "Sản xuất, tái sản xuất tư liệu sản xuất, tư liệu tiêu dùng, sức lao động và tổ chức tiêu dùng.",
+"weight": 100
+},
+{
+"text": "Thay thế toàn bộ nền kinh tế quốc dân.",
+"weight": 0
+},
+{
+"text": "Quản lý chính sách tiền tệ quốc gia.",
+"weight": 0
+},
+{
+"text": "Chỉ thực hiện hoạt động thờ cúng tổ tiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Nhận biết] Chức năng tổ chức tiêu dùng",
+"points_possible": 1,
+"question_text": "Chức năng tổ chức tiêu dùng của gia đình nhằm mục đích gì?",
+"general_comment": "Gia đình tổ chức sử dụng thu nhập, hàng hóa và quỹ thời gian để đáp ứng nhu cầu vật chất, tinh thần của các thành viên.",
+"answers": [
+{
+"text": "Sử dụng thu nhập, hàng hóa và quỹ thời gian để đáp ứng nhu cầu vật chất, tinh thần của các thành viên.",
+"weight": 100
+},
+{
+"text": "Tổ chức hoạt động lập pháp của xã hội.",
+"weight": 0
+},
+{
+"text": "Thực hiện quyền dân tộc tự quyết.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi nhu cầu vật chất của con người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Nhận biết] Chức năng thỏa mãn nhu cầu tâm sinh lý",
+"points_possible": 1,
+"question_text": "Chức năng nào của gia đình thể hiện ở việc chăm sóc người già, trẻ em, người ốm và tạo sự cân bằng tình cảm cho các thành viên?",
+"general_comment": "Đó là chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+"answers": [
+{
+"text": "Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+"weight": 100
+},
+{
+"text": "Chức năng phân định tộc người.",
+"weight": 0
+},
+{
+"text": "Chức năng chính trị đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chức năng quản lý nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Thông hiểu] Gia đình là tổ ấm",
+"points_possible": 1,
+"question_text": "Nội dung nào phản ánh đúng ý nghĩa của nhận định “gia đình là tổ ấm”?",
+"general_comment": "Gia đình là nơi con người được yêu thương, chia sẻ, chăm sóc, nuôi dưỡng và phát triển nhân cách.",
+"answers": [
+{
+"text": "Gia đình là nơi con người được yêu thương, chia sẻ, chăm sóc, nuôi dưỡng và phát triển nhân cách.",
+"weight": 100
+},
+{
+"text": "Gia đình là nơi chỉ thực hiện cạnh tranh kinh tế.",
+"weight": 0
+},
+{
+"text": "Gia đình là nơi xóa bỏ toàn bộ quyền cá nhân.",
+"weight": 0
+},
+{
+"text": "Gia đình là nơi thay thế mọi thiết chế xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Nhận biết] Gia đình là cầu nối",
+"points_possible": 1,
+"question_text": "Gia đình là cầu nối giữa những chủ thể nào?",
+"general_comment": "Gia đình là cầu nối giữa cá nhân và xã hội.",
+"answers": [
+{
+"text": "Cá nhân và xã hội.",
+"weight": 100
+},
+{
+"text": "Tôn giáo và mê tín dị đoan.",
+"weight": 0
+},
+{
+"text": "Dân tộc và quốc tịch.",
+"weight": 0
+},
+{
+"text": "Doanh nghiệp và thị trường quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Nhận biết] Cơ sở kinh tế - xã hội xây dựng gia đình mới",
+"points_possible": 1,
+"question_text": "Cơ sở kinh tế - xã hội để xây dựng gia đình mới trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Cơ sở kinh tế - xã hội là sự phát triển của lực lượng sản xuất và quan hệ sản xuất mới, từng bước xóa bỏ nguồn gốc kinh tế của bất bình đẳng trong gia đình.",
+"answers": [
+{
+"text": "Sự phát triển của lực lượng sản xuất và quan hệ sản xuất mới, tạo cơ sở xóa bỏ nguồn gốc kinh tế của bất bình đẳng gia đình.",
+"weight": 100
+},
+{
+"text": "Duy trì chế độ tư hữu làm cơ sở của mọi bất bình đẳng trong gia đình.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi mọi điều kiện kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Khôi phục quan hệ gia trưởng như nền tảng gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Thông hiểu] Xóa bỏ nguồn gốc bất bình đẳng gia đình",
+"points_possible": 1,
+"question_text": "Vì sao phát triển kinh tế - xã hội là cơ sở quan trọng để xây dựng gia đình bình đẳng?",
+"general_comment": "Khi cơ sở kinh tế của sự lệ thuộc, áp bức và nô dịch phụ nữ bị xóa bỏ, điều kiện vật chất cho bình đẳng trong gia đình mới được củng cố.",
+"answers": [
+{
+"text": "Vì phát triển kinh tế - xã hội tạo điều kiện xóa bỏ cơ sở vật chất của sự lệ thuộc, áp bức và bất bình đẳng trong gia đình.",
+"weight": 100
+},
+{
+"text": "Vì kinh tế phát triển tự động làm gia đình không cần giáo dục.",
+"weight": 0
+},
+{
+"text": "Vì bình đẳng gia đình không cần điều kiện vật chất.",
+"weight": 0
+},
+{
+"text": "Vì gia đình bình đẳng phải tách khỏi xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Nhận biết] Cơ sở chính trị - xã hội xây dựng gia đình mới",
+"points_possible": 1,
+"question_text": "Cơ sở chính trị - xã hội quan trọng để xây dựng gia đình mới trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Cơ sở chính trị - xã hội là việc thiết lập chính quyền của giai cấp công nhân và nhân dân lao động, cùng hệ thống pháp luật, chính sách bảo đảm quyền bình đẳng và tiến bộ gia đình.",
+"answers": [
+{
+"text": "Thiết lập chính quyền của giai cấp công nhân và nhân dân lao động, hoàn thiện pháp luật và chính sách bảo đảm gia đình tiến bộ.",
+"weight": 100
+},
+{
+"text": "Duy trì nhà nước phong kiến gia trưởng.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò của pháp luật hôn nhân và gia đình.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi mọi chính sách xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Nhận biết] Cơ sở văn hóa xây dựng gia đình mới",
+"points_possible": 1,
+"question_text": "Cơ sở văn hóa để xây dựng gia đình mới trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Cơ sở văn hóa là xây dựng hệ giá trị mới, lối sống mới, con người mới, kế thừa giá trị truyền thống tốt đẹp và tiếp thu tinh hoa tiến bộ của nhân loại.",
+"answers": [
+{
+"text": "Xây dựng hệ giá trị mới, lối sống mới, con người mới, kế thừa truyền thống tốt đẹp và tiếp thu tinh hoa tiến bộ của nhân loại.",
+"weight": 100
+},
+{
+"text": "Phủ nhận toàn bộ giá trị truyền thống của gia đình.",
+"weight": 0
+},
+{
+"text": "Duy trì mọi tập tục lạc hậu như chuẩn mực bất biến.",
+"weight": 0
+},
+{
+"text": "Chỉ tiếp thu giá trị ngoại lai, không cần bản sắc dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Nhận biết] Hôn nhân tiến bộ",
+"points_possible": 1,
+"question_text": "Hôn nhân tiến bộ trong thời kỳ quá độ lên chủ nghĩa xã hội trước hết dựa trên nguyên tắc nào?",
+"general_comment": "Hôn nhân tiến bộ là hôn nhân tự nguyện, xuất phát từ tình yêu chân chính và sự tự do lựa chọn của nam nữ.",
+"answers": [
+{
+"text": "Tự nguyện, xuất phát từ tình yêu chân chính.",
+"weight": 100
+},
+{
+"text": "Áp đặt bởi dòng họ.",
+"weight": 0
+},
+{
+"text": "Mua bán hôn nhân.",
+"weight": 0
+},
+{
+"text": "Tảo hôn theo phong tục lạc hậu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Nhận biết] Hôn nhân một vợ một chồng",
+"points_possible": 1,
+"question_text": "Một nội dung cơ bản của hôn nhân tiến bộ là gì?",
+"general_comment": "Hôn nhân tiến bộ gắn với chế độ một vợ một chồng và vợ chồng bình đẳng.",
+"answers": [
+{
+"text": "Một vợ một chồng, vợ chồng bình đẳng.",
+"weight": 100
+},
+{
+"text": "Đa thê và bất bình đẳng giới.",
+"weight": 0
+},
+{
+"text": "Gia trưởng tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Tước bỏ quyền tự do kết hôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Nhận biết] Thủ tục pháp lý trong hôn nhân",
+"points_possible": 1,
+"question_text": "Sự thừa nhận của xã hội đối với hôn nhân được biểu hiện bằng yếu tố nào?",
+"general_comment": "Sự thừa nhận xã hội đối với hôn nhân được biểu hiện bằng thủ tục pháp lý trong hôn nhân.",
+"answers": [
+{
+"text": "Thủ tục pháp lý trong hôn nhân.",
+"weight": 100
+},
+{
+"text": "Sự thỏa thuận bí mật không cần pháp luật.",
+"weight": 0
+},
+{
+"text": "Sự chấp thuận của thị trường lao động.",
+"weight": 0
+},
+{
+"text": "Sự đồng ý của tổ chức nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Thông hiểu] Pháp lý hôn nhân và tự do kết hôn",
+"points_possible": 1,
+"question_text": "Nhận định nào đúng về quan hệ giữa thủ tục pháp lý trong hôn nhân và quyền tự do kết hôn, ly hôn chính đáng?",
+"general_comment": "Thủ tục pháp lý không ngăn cản quyền tự do kết hôn, ly hôn chính đáng; ngược lại, là cơ sở để thực hiện các quyền đó đầy đủ và có trách nhiệm.",
+"answers": [
+{
+"text": "Thủ tục pháp lý không ngăn cản mà là cơ sở bảo đảm thực hiện quyền tự do kết hôn, ly hôn chính đáng.",
+"weight": 100
+},
+{
+"text": "Thủ tục pháp lý nhằm phủ nhận hoàn toàn quyền tự do kết hôn.",
+"weight": 0
+},
+{
+"text": "Tự do kết hôn nghĩa là không cần pháp luật.",
+"weight": 0
+},
+{
+"text": "Ly hôn chính đáng không cần bất kỳ trách nhiệm pháp lý nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Nhận biết] Biến đổi quy mô gia đình Việt Nam",
+"points_possible": 1,
+"question_text": "Một biến đổi nổi bật về quy mô, kết cấu của gia đình Việt Nam hiện nay là gì?",
+"general_comment": "Gia đình hạt nhân trở nên phổ biến, quy mô gia đình có xu hướng thu nhỏ, thường chỉ có hai thế hệ cùng sống chung.",
+"answers": [
+{
+"text": "Gia đình hạt nhân phổ biến hơn, quy mô gia đình thu nhỏ, thường chỉ có hai thế hệ cùng sống chung.",
+"weight": 100
+},
+{
+"text": "Gia đình nhiều thế hệ luôn mở rộng không giới hạn.",
+"weight": 0
+},
+{
+"text": "Mọi gia đình đều trở thành dòng họ cùng cư trú.",
+"weight": 0
+},
+{
+"text": "Gia đình không còn quan hệ cha mẹ - con cái.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Thông hiểu] Mặt tích cực của gia đình hạt nhân",
+"points_possible": 1,
+"question_text": "Mặt tích cực của xu hướng gia đình hạt nhân ở Việt Nam hiện nay là gì?",
+"general_comment": "Gia đình hạt nhân góp phần đề cao bình đẳng nam nữ, tôn trọng đời sống riêng tư và tạo sự linh hoạt trong tổ chức đời sống gia đình.",
+"answers": [
+{
+"text": "Đề cao bình đẳng nam nữ, tôn trọng đời sống riêng tư và tăng tính linh hoạt của gia đình.",
+"weight": 100
+},
+{
+"text": "Làm mất hoàn toàn mọi quan hệ gia đình.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi trách nhiệm giữa các thế hệ.",
+"weight": 0
+},
+{
+"text": "Khôi phục quan hệ gia trưởng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Thông hiểu] Mặt hạn chế của gia đình hạt nhân",
+"points_possible": 1,
+"question_text": "Mặt hạn chế có thể phát sinh từ xu hướng gia đình hạt nhân là gì?",
+"general_comment": "Gia đình hạt nhân có thể làm tăng sự ngăn cách giữa các thành viên, làm quan hệ gia đình dễ rời rạc, lỏng lẻo và khó gìn giữ một số giá trị truyền thống.",
+"answers": [
+{
+"text": "Có thể tạo sự ngăn cách giữa các thành viên, làm quan hệ gia đình rời rạc, lỏng lẻo và khó giữ giá trị truyền thống.",
+"weight": 100
+},
+{
+"text": "Tự động làm mọi gia đình hạnh phúc hơn.",
+"weight": 0
+},
+{
+"text": "Không tạo ra bất kỳ thách thức nào.",
+"weight": 0
+},
+{
+"text": "Làm gia đình không còn chức năng kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Nhận biết] Biến đổi chức năng tái sản xuất",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng tái sản xuất con người của gia đình Việt Nam hiện nay thể hiện ở nội dung nào?",
+"general_comment": "Các gia đình chủ động, tự giác hơn trong xác định số con và thời điểm sinh con; mức sinh, số con mong muốn và nhu cầu nhất thiết phải có con trai giảm.",
+"answers": [
+{
+"text": "Gia đình chủ động hơn về số con, thời điểm sinh con; giảm mức sinh, giảm số con mong muốn và giảm nhu cầu nhất thiết phải có con trai.",
+"weight": 100
+},
+{
+"text": "Mọi gia đình đều muốn sinh thật nhiều con.",
+"weight": 0
+},
+{
+"text": "Gia đình không còn liên quan đến việc sinh con.",
+"weight": 0
+},
+{
+"text": "Việc sinh con hoàn toàn tách khỏi điều kiện xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Nhận biết] Giảm nhu cầu có con trai",
+"points_possible": 1,
+"question_text": "Việc giảm nhu cầu nhất thiết phải có con trai trong các cặp vợ chồng phản ánh biến đổi nào của gia đình Việt Nam hiện nay?",
+"general_comment": "Đây là biểu hiện của biến đổi chức năng tái sản xuất con người và nhận thức mới về bình đẳng giới, giá trị con cái.",
+"answers": [
+{
+"text": "Biến đổi chức năng tái sản xuất con người và nhận thức về giá trị con cái, bình đẳng giới.",
+"weight": 100
+},
+{
+"text": "Sự mất đi hoàn toàn của gia đình.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi quan niệm trọng nam khinh nữ.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận chức năng giáo dục.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Nhận biết] Kinh tế hộ gia đình",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng kinh tế của gia đình Việt Nam hiện nay được thể hiện như thế nào?",
+"general_comment": "Kinh tế hộ gia đình trở thành một bộ phận quan trọng trong nền kinh tế quốc dân và gia đình trở thành đơn vị tiêu dùng quan trọng.",
+"answers": [
+{
+"text": "Kinh tế hộ gia đình trở thành bộ phận quan trọng của nền kinh tế quốc dân và gia đình là đơn vị tiêu dùng quan trọng.",
+"weight": 100
+},
+{
+"text": "Kinh tế hộ gia đình biến mất hoàn toàn.",
+"weight": 0
+},
+{
+"text": "Gia đình không còn tiêu dùng.",
+"weight": 0
+},
+{
+"text": "Gia đình chỉ còn sản xuất tự cấp tự túc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Thông hiểu] Thuận lợi và thách thức của kinh tế hộ gia đình",
+"points_possible": 1,
+"question_text": "Sự phát triển của kinh tế hộ gia đình trong nền kinh tế thị trường tạo ra tác động như thế nào?",
+"general_comment": "Sự phát triển của kinh tế hộ gia đình vừa tạo thuận lợi nâng cao đời sống, vừa đặt ra những khó khăn, thách thức về ổn định, phân hóa và tổ chức đời sống gia đình.",
+"answers": [
+{
+"text": "Vừa tạo thuận lợi nâng cao đời sống, vừa đặt ra khó khăn, thách thức cho gia đình.",
+"weight": 100
+},
+{
+"text": "Chỉ có tác động tích cực, không có thách thức.",
+"weight": 0
+},
+{
+"text": "Chỉ làm gia đình tan rã ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Không tác động đến đời sống gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Nhận biết] Biến đổi chức năng giáo dục",
+"points_possible": 1,
+"question_text": "Biến đổi chức năng giáo dục của gia đình Việt Nam hiện nay được hiểu như thế nào?",
+"general_comment": "Giáo dục xã hội bao trùm lên giáo dục gia đình, làm mục tiêu, nội dung và phương pháp giáo dục gia đình thay đổi theo hướng hiện đại, hội nhập.",
+"answers": [
+{
+"text": "Giáo dục xã hội bao trùm lên giáo dục gia đình, làm mục tiêu và nội dung giáo dục gia đình thay đổi theo hướng hiện đại, hội nhập.",
+"weight": 100
+},
+{
+"text": "Gia đình không còn đầu tư cho giáo dục con cái.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình hoàn toàn thay thế giáo dục xã hội.",
+"weight": 0
+},
+{
+"text": "Giáo dục gia đình chỉ còn dạy nghi lễ dòng họ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Thông hiểu] Áp lực giáo dục trong gia đình hiện nay",
+"points_possible": 1,
+"question_text": "Vì sao trong bối cảnh hiện nay, nhiều gia đình phải đầu tư nhiều hơn cho giáo dục con cái?",
+"general_comment": "Yêu cầu hội nhập, khoa học - công nghệ và thị trường lao động làm tiêu chuẩn tri thức, kỹ năng, ngoại ngữ, kỷ luật và năng lực thích ứng của thế hệ trẻ cao hơn.",
+"answers": [
+{
+"text": "Vì yêu cầu hội nhập, khoa học - công nghệ và thị trường lao động làm tiêu chuẩn tri thức, kỹ năng và năng lực thích ứng cao hơn.",
+"weight": 100
+},
+{
+"text": "Vì giáo dục xã hội đã biến mất.",
+"weight": 0
+},
+{
+"text": "Vì gia đình không còn trách nhiệm giáo dục.",
+"weight": 0
+},
+{
+"text": "Vì giáo dục không còn liên quan đến phát triển cá nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Nhận biết] Biến đổi chức năng tâm sinh lý",
+"points_possible": 1,
+"question_text": "Trong gia đình Việt Nam hiện nay, chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm có xu hướng như thế nào?",
+"general_comment": "Nhu cầu tình cảm, chia sẻ, tôn trọng đời sống riêng tư và cân bằng tâm lý của các thành viên ngày càng được chú ý hơn.",
+"answers": [
+{
+"text": "Nhu cầu tình cảm, chia sẻ, tôn trọng đời sống riêng tư và cân bằng tâm lý ngày càng được chú ý hơn.",
+"weight": 100
+},
+{
+"text": "Không còn cần thiết trong gia đình hiện đại.",
+"weight": 0
+},
+{
+"text": "Bị thay thế hoàn toàn bởi chức năng kinh tế.",
+"weight": 0
+},
+{
+"text": "Chỉ còn dành cho người cao tuổi.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Nhận biết] Biến đổi quan hệ vợ chồng",
+"points_possible": 1,
+"question_text": "Biến đổi quan hệ vợ chồng trong gia đình Việt Nam hiện nay thể hiện ở nội dung nào?",
+"general_comment": "Quan hệ vợ chồng có xu hướng bình đẳng, dân chủ hơn, cùng chia sẻ trách nhiệm gia đình và xã hội.",
+"answers": [
+{
+"text": "Quan hệ vợ chồng có xu hướng bình đẳng, dân chủ hơn và cùng chia sẻ trách nhiệm.",
+"weight": 100
+},
+{
+"text": "Quan hệ vợ chồng quay về gia trưởng tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Vợ chồng không còn quyền và nghĩa vụ với nhau.",
+"weight": 0
+},
+{
+"text": "Quan hệ vợ chồng chỉ còn là quan hệ kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Thông hiểu] Bình đẳng giới trong gia đình",
+"points_possible": 1,
+"question_text": "Bình đẳng giới trong gia đình được hiểu đúng nhất như thế nào?",
+"general_comment": "Bình đẳng giới trong gia đình là vợ chồng và các thành viên có quyền, nghĩa vụ, cơ hội phát triển và trách nhiệm tương xứng, không áp đặt đặc quyền gia trưởng.",
+"answers": [
+{
+"text": "Các thành viên, nhất là vợ và chồng, có quyền, nghĩa vụ, cơ hội phát triển và trách nhiệm tương xứng, không áp đặt đặc quyền gia trưởng.",
+"weight": 100
+},
+{
+"text": "Người chồng có quyền quyết định tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Bình đẳng là phủ nhận mọi trách nhiệm gia đình.",
+"weight": 0
+},
+{
+"text": "Bình đẳng chỉ áp dụng ngoài xã hội, không áp dụng trong gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Nhận biết] Biến đổi quan hệ giữa các thế hệ",
+"points_possible": 1,
+"question_text": "Biến đổi quan hệ giữa các thế hệ trong gia đình Việt Nam hiện nay cần được định hướng như thế nào?",
+"general_comment": "Cần tôn trọng người cao tuổi, chăm sóc trẻ em, đồng thời xây dựng quan hệ dân chủ, bình đẳng, trách nhiệm giữa các thế hệ.",
+"answers": [
+{
+"text": "Tôn trọng người cao tuổi, chăm sóc trẻ em, xây dựng quan hệ dân chủ, bình đẳng và trách nhiệm giữa các thế hệ.",
+"weight": 100
+},
+{
+"text": "Phủ nhận hoàn toàn vai trò của người già.",
+"weight": 0
+},
+{
+"text": "Áp đặt tuyệt đối quyền lực của người lớn tuổi.",
+"weight": 0
+},
+{
+"text": "Tách trẻ em khỏi gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Nhận biết] Tác động của truyền thống đến gia đình Việt Nam",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ, các yếu tố truyền thống tác động đến gia đình Việt Nam như thế nào?",
+"general_comment": "Các yếu tố truyền thống có mặt tích cực nhưng cũng còn nhiều hạn chế như gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối gia đình.",
+"answers": [
+{
+"text": "Vừa có mặt tích cực, vừa có hạn chế như gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối gia đình.",
+"weight": 100
+},
+{
+"text": "Chỉ có tác động tích cực, không có hạn chế.",
+"weight": 0
+},
+{
+"text": "Chỉ có tác động tiêu cực, không có giá trị kế thừa.",
+"weight": 0
+},
+{
+"text": "Không còn tác động đến gia đình hiện nay.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Nhận biết] Biểu hiện tiêu cực của yếu tố truyền thống",
+"points_possible": 1,
+"question_text": "Nội dung nào là biểu hiện tiêu cực của yếu tố truyền thống tác động đến gia đình Việt Nam hiện nay?",
+"general_comment": "Gia trưởng, thiếu dân chủ, dòng họ chi phối quá mức là những biểu hiện tiêu cực cần khắc phục.",
+"answers": [
+{
+"text": "Gia trưởng, thiếu dân chủ, quan hệ dòng họ chi phối quá mức.",
+"weight": 100
+},
+{
+"text": "Tình nghĩa gia đình, hiếu thảo, thủy chung.",
+"weight": 0
+},
+{
+"text": "Lòng yêu nước và tinh thần trách nhiệm.",
+"weight": 0
+},
+{
+"text": "Sự chăm sóc giữa các thế hệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Nhận biết] Tác động tích cực của công nghiệp hóa, hiện đại hóa",
+"points_possible": 1,
+"question_text": "Tác động tích cực của công nghiệp hóa, hiện đại hóa, kinh tế thị trường và hội nhập quốc tế đến gia đình Việt Nam là gì?",
+"general_comment": "Các yếu tố này tạo điều kiện để gia đình tiếp thu giá trị tiến bộ của thế giới, biến đổi theo hướng năng động, tự do và phù hợp bối cảnh mới.",
+"answers": [
+{
+"text": "Tạo điều kiện tiếp thu giá trị tiến bộ, làm gia đình biến đổi theo hướng năng động, tự do và phù hợp bối cảnh mới.",
+"weight": 100
+},
+{
+"text": "Làm gia đình không còn bất kỳ chức năng nào.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ hoàn toàn truyền thống tốt đẹp của gia đình.",
+"weight": 0
+},
+{
+"text": "Làm mọi gia đình tự động khủng hoảng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Nhận biết] Mặt trái của kinh tế thị trường đối với gia đình",
+"points_possible": 1,
+"question_text": "Mặt trái của kinh tế thị trường, công nghiệp hóa, đô thị hóa và toàn cầu hóa đối với gia đình Việt Nam có thể biểu hiện ở đâu?",
+"general_comment": "Mặt trái có thể là tuyệt đối hóa chức năng kinh tế, xem nhẹ chức năng khác, buôn bán phụ nữ và trẻ em, bạo lực, nghiện hút, trẻ em lang thang và các tệ nạn xã hội.",
+"answers": [
+{
+"text": "Tuyệt đối hóa chức năng kinh tế, xem nhẹ chức năng khác, buôn bán phụ nữ, trẻ em, bạo lực và tệ nạn xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ làm gia đình hạnh phúc hơn, không có vấn đề tiêu cực.",
+"weight": 0
+},
+{
+"text": "Làm gia đình không cần pháp luật bảo vệ.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi tác động của văn hóa truyền thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Thông hiểu] Tuyệt đối hóa chức năng kinh tế",
+"points_possible": 1,
+"question_text": "Vì sao tuyệt đối hóa chức năng kinh tế là biểu hiện lệch lạc trong xây dựng gia đình?",
+"general_comment": "Gia đình không chỉ có chức năng kinh tế mà còn có chức năng tái sản xuất, nuôi dưỡng, giáo dục, thỏa mãn nhu cầu tâm sinh lý và duy trì tình cảm.",
+"answers": [
+{
+"text": "Vì gia đình còn có các chức năng tái sản xuất, giáo dục, chăm sóc tình cảm và phát triển con người, không chỉ kinh tế.",
+"weight": 100
+},
+{
+"text": "Vì gia đình không có bất kỳ chức năng kinh tế nào.",
+"weight": 0
+},
+{
+"text": "Vì kinh tế gia đình luôn phải bị xóa bỏ.",
+"weight": 0
+},
+{
+"text": "Vì chức năng giáo dục không còn tồn tại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Nhận biết] Công nghệ số và gia đình",
+"points_possible": 1,
+"question_text": "Công nghệ số tác động đến gia đình Việt Nam hiện nay như thế nào?",
+"general_comment": "Công nghệ số vừa hỗ trợ giao tiếp, học tập, lao động và quản lý đời sống gia đình, vừa có thể gây lệ thuộc thiết bị, giảm giao tiếp trực tiếp và phát sinh rủi ro văn hóa, đạo đức.",
+"answers": [
+{
+"text": "Vừa hỗ trợ giao tiếp, học tập, lao động; vừa có thể gây lệ thuộc thiết bị, giảm giao tiếp trực tiếp và phát sinh rủi ro văn hóa, đạo đức.",
+"weight": 100
+},
+{
+"text": "Chỉ có tác động tích cực, không có rủi ro.",
+"weight": 0
+},
+{
+"text": "Chỉ có tác động tiêu cực, không thể sử dụng trong gia đình.",
+"weight": 0
+},
+{
+"text": "Không có bất kỳ liên hệ nào với gia đình hiện nay.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Nhận biết] Phương hướng tăng cường lãnh đạo của Đảng",
+"points_possible": 1,
+"question_text": "Một phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Một phương hướng là tăng cường sự lãnh đạo của Đảng, nâng cao nhận thức của xã hội về xây dựng và phát triển gia đình Việt Nam.",
+"answers": [
+{
+"text": "Tăng cường sự lãnh đạo của Đảng, nâng cao nhận thức xã hội về xây dựng và phát triển gia đình Việt Nam.",
+"weight": 100
+},
+{
+"text": "Tách gia đình khỏi sự định hướng của xã hội.",
+"weight": 0
+},
+{
+"text": "Xem gia đình là vấn đề riêng tư, không cần chính sách.",
+"weight": 0
+},
+{
+"text": "Phủ nhận mọi vai trò của gia đình trong xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 151: [Nhận biết] Phương hướng phát triển kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Phương hướng phát triển kinh tế - xã hội trong xây dựng gia đình Việt Nam nhấn mạnh nội dung nào?",
+"general_comment": "Cần đẩy mạnh phát triển kinh tế - xã hội, nâng cao đời sống vật chất và kinh tế hộ gia đình.",
+"answers": [
+{
+"text": "Đẩy mạnh phát triển kinh tế - xã hội, nâng cao đời sống vật chất và kinh tế hộ gia đình.",
+"weight": 100
+},
+{
+"text": "Chỉ phát triển tinh thần, không cần nâng cao đời sống vật chất.",
+"weight": 0
+},
+{
+"text": "Làm suy giảm kinh tế hộ gia đình.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi điều kiện kinh tế - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 152: [Nhận biết] Phương hướng kế thừa và tiếp thu giá trị gia đình",
+"points_possible": 1,
+"question_text": "Trong xây dựng gia đình Việt Nam hiện nay, cần xử lý quan hệ giữa truyền thống và hiện đại như thế nào?",
+"general_comment": "Cần kế thừa những giá trị tốt đẹp của gia đình truyền thống đồng thời tiếp thu những tiến bộ của nhân loại về gia đình.",
+"answers": [
+{
+"text": "Kế thừa giá trị tốt đẹp của gia đình truyền thống đồng thời tiếp thu những tiến bộ của nhân loại về gia đình.",
+"weight": 100
+},
+{
+"text": "Phủ nhận toàn bộ truyền thống gia đình.",
+"weight": 0
+},
+{
+"text": "Giữ nguyên mọi tập tục cũ, kể cả lạc hậu.",
+"weight": 0
+},
+{
+"text": "Chỉ tiếp thu giá trị ngoại lai, không cần bản sắc Việt Nam.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 153: [Nhận biết] Phong trào xây dựng gia đình văn hóa",
+"points_possible": 1,
+"question_text": "Một phương hướng xây dựng và phát triển gia đình Việt Nam là tiếp tục phát triển và nâng cao chất lượng phong trào nào?",
+"general_comment": "Giáo trình nêu cần tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa.",
+"answers": [
+{
+"text": "Phong trào xây dựng gia đình văn hóa.",
+"weight": 100
+},
+{
+"text": "Phong trào khôi phục gia trưởng.",
+"weight": 0
+},
+{
+"text": "Phong trào tách gia đình khỏi cộng đồng.",
+"weight": 0
+},
+{
+"text": "Phong trào tuyệt đối hóa kinh tế gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 154: [Thông hiểu] Nâng cao chất lượng gia đình văn hóa",
+"points_possible": 1,
+"question_text": "Yêu cầu “nâng cao chất lượng phong trào xây dựng gia đình văn hóa” cần được hiểu như thế nào?",
+"general_comment": "Không chỉ chạy theo danh hiệu hình thức, mà phải hướng tới gia đình no ấm, tiến bộ, hạnh phúc, văn minh, thực hiện tốt chức năng và trách nhiệm xã hội.",
+"answers": [
+{
+"text": "Không chạy theo hình thức, mà hướng tới gia đình no ấm, tiến bộ, hạnh phúc, văn minh và thực hiện tốt chức năng xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ cần đạt danh hiệu, không cần thay đổi thực chất.",
+"weight": 0
+},
+{
+"text": "Chỉ chú trọng kinh tế, không cần đạo đức gia đình.",
+"weight": 0
+},
+{
+"text": "Chỉ duy trì truyền thống cũ, không cần tiến bộ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 155: [Nhận biết] Gia đình no ấm, tiến bộ, hạnh phúc, văn minh",
+"points_possible": 1,
+"question_text": "Mục tiêu khái quát trong xây dựng gia đình Việt Nam hiện nay thường được diễn đạt như thế nào?",
+"general_comment": "Mục tiêu là xây dựng gia đình Việt Nam no ấm, tiến bộ, hạnh phúc, văn minh.",
+"answers": [
+{
+"text": "No ấm, tiến bộ, hạnh phúc, văn minh.",
+"weight": 100
+},
+{
+"text": "Gia trưởng, khép kín, bất bình đẳng.",
+"weight": 0
+},
+{
+"text": "Giàu có nhưng xem nhẹ giáo dục và đạo đức.",
+"weight": 0
+},
+{
+"text": "Tách biệt khỏi cộng đồng và xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 156: [Nhận biết] Giá trị truyền thống cần kế thừa",
+"points_possible": 1,
+"question_text": "Nội dung nào là giá trị truyền thống tốt đẹp cần kế thừa trong xây dựng gia đình Việt Nam?",
+"general_comment": "Các giá trị như yêu thương, thủy chung, hiếu thảo, trách nhiệm, đoàn kết, tương trợ là những giá trị tốt đẹp cần kế thừa.",
+"answers": [
+{
+"text": "Yêu thương, thủy chung, hiếu thảo, trách nhiệm, đoàn kết, tương trợ.",
+"weight": 100
+},
+{
+"text": "Gia trưởng, trọng nam khinh nữ, bạo lực gia đình.",
+"weight": 0
+},
+{
+"text": "Tảo hôn, cưỡng ép hôn nhân, mua bán hôn nhân.",
+"weight": 0
+},
+{
+"text": "Độc đoán, thiếu dân chủ, xem nhẹ giáo dục.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 157: [Nhận biết] Giá trị tiến bộ cần tiếp thu",
+"points_possible": 1,
+"question_text": "Nội dung nào là giá trị tiến bộ của nhân loại cần tiếp thu trong xây dựng gia đình Việt Nam?",
+"general_comment": "Cần tiếp thu các giá trị tiến bộ như bình đẳng giới, tôn trọng quyền trẻ em, quyền con người, dân chủ, trách nhiệm và pháp quyền trong gia đình.",
+"answers": [
+{
+"text": "Bình đẳng giới, tôn trọng quyền trẻ em, quyền con người, dân chủ, trách nhiệm và pháp quyền trong gia đình.",
+"weight": 100
+},
+{
+"text": "Cưỡng ép hôn nhân và bất bình đẳng giới.",
+"weight": 0
+},
+{
+"text": "Phủ nhận mọi trách nhiệm gia đình.",
+"weight": 0
+},
+{
+"text": "Tuyệt đối hóa cá nhân, phủ nhận cộng đồng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 158: [Thông hiểu] Quan hệ cá nhân - gia đình - xã hội",
+"points_possible": 1,
+"question_text": "Trong xây dựng gia đình, cần xử lý quan hệ cá nhân - gia đình - xã hội như thế nào?",
+"general_comment": "Cần bảo đảm sự hài hòa giữa quyền, lợi ích, trách nhiệm của cá nhân với gia đình và xã hội.",
+"answers": [
+{
+"text": "Bảo đảm hài hòa giữa quyền, lợi ích và trách nhiệm của cá nhân với gia đình và xã hội.",
+"weight": 100
+},
+{
+"text": "Tuyệt đối hóa cá nhân, phủ nhận trách nhiệm gia đình.",
+"weight": 0
+},
+{
+"text": "Tuyệt đối hóa gia đình, phủ nhận quyền cá nhân.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi mọi trách nhiệm xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 159: [Thông hiểu] Xây dựng gia đình và bình đẳng phụ nữ",
+"points_possible": 1,
+"question_text": "Vì sao giải phóng phụ nữ và thực hiện bình đẳng giới là nội dung quan trọng trong xây dựng gia đình mới?",
+"general_comment": "Bất bình đẳng giới là một nguồn gốc của áp bức trong gia đình; xây dựng gia đình mới đòi hỏi phụ nữ được tôn trọng, bình đẳng và có điều kiện phát triển.",
+"answers": [
+{
+"text": "Vì xây dựng gia đình mới đòi hỏi phụ nữ được tôn trọng, bình đẳng và có điều kiện phát triển, qua đó xóa bỏ áp bức trong gia đình.",
+"weight": 100
+},
+{
+"text": "Vì gia đình mới cần duy trì đặc quyền của nam giới.",
+"weight": 0
+},
+{
+"text": "Vì phụ nữ không có vai trò trong gia đình.",
+"weight": 0
+},
+{
+"text": "Vì bình đẳng giới chỉ là vấn đề ngoài xã hội, không liên quan gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 160: [Nhận biết] Bạo lực gia đình",
+"points_possible": 1,
+"question_text": "Bạo lực gia đình là biểu hiện trái với yêu cầu nào trong xây dựng gia đình mới?",
+"general_comment": "Bạo lực gia đình trái với yêu cầu bình đẳng, tiến bộ, hạnh phúc, văn minh và tôn trọng quyền con người trong gia đình.",
+"answers": [
+{
+"text": "Bình đẳng, tiến bộ, hạnh phúc, văn minh và tôn trọng quyền con người trong gia đình.",
+"weight": 100
+},
+{
+"text": "Quan hệ gia trưởng cần duy trì.",
+"weight": 0
+},
+{
+"text": "Tuyệt đối hóa quyền lực của người mạnh hơn.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 161: [Nhận biết] Tảo hôn và cưỡng ép hôn nhân",
+"points_possible": 1,
+"question_text": "Tảo hôn và cưỡng ép hôn nhân trái với nguyên tắc nào của hôn nhân tiến bộ?",
+"general_comment": "Tảo hôn và cưỡng ép hôn nhân trái với nguyên tắc tự nguyện, tiến bộ, một vợ một chồng, bình đẳng và được pháp luật bảo hộ.",
+"answers": [
+{
+"text": "Tự nguyện, tiến bộ, một vợ một chồng, bình đẳng và được pháp luật bảo hộ.",
+"weight": 100
+},
+{
+"text": "Gia trưởng và áp đặt dòng họ.",
+"weight": 0
+},
+{
+"text": "Tự do kết hôn không cần pháp luật.",
+"weight": 0
+},
+{
+"text": "Mua bán hôn nhân như tập tục tất yếu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 162: [Vận dụng/Phân tích] Nhận diện quan hệ hôn nhân",
+"points_possible": 1,
+"question_text": "Một nam và một nữ tự nguyện đăng ký kết hôn theo pháp luật, cùng xây dựng đời sống chung. Trường hợp này trực tiếp thể hiện quan hệ nào trong gia đình?",
+"general_comment": "Đăng ký kết hôn giữa nam và nữ xác lập quan hệ hôn nhân, tức quan hệ vợ chồng.",
+"answers": [
+{
+"text": "Quan hệ hôn nhân.",
+"weight": 100
+},
+{
+"text": "Quan hệ huyết thống.",
+"weight": 0
+},
+{
+"text": "Quan hệ tôn giáo.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 163: [Vận dụng/Phân tích] Nhận diện quan hệ huyết thống",
+"points_possible": 1,
+"question_text": "Quan hệ giữa cha mẹ ruột và con cái ruột trong gia đình là biểu hiện trực tiếp của quan hệ nào?",
+"general_comment": "Quan hệ giữa cha mẹ ruột và con cái ruột là quan hệ huyết thống.",
+"answers": [
+{
+"text": "Quan hệ huyết thống.",
+"weight": 100
+},
+{
+"text": "Quan hệ hôn nhân.",
+"weight": 0
+},
+{
+"text": "Quan hệ thị trường.",
+"weight": 0
+},
+{
+"text": "Quan hệ chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 164: [Vận dụng/Phân tích] Nhận diện quan hệ nuôi dưỡng",
+"points_possible": 1,
+"question_text": "Một cặp vợ chồng nhận con nuôi hợp pháp, chăm sóc và giáo dục đứa trẻ như con trong gia đình. Trường hợp này trực tiếp thể hiện quan hệ nào?",
+"general_comment": "Nhận con nuôi hợp pháp làm phát sinh quan hệ nuôi dưỡng và quyền, nghĩa vụ giữa cha mẹ nuôi và con nuôi.",
+"answers": [
+{
+"text": "Quan hệ nuôi dưỡng.",
+"weight": 100
+},
+{
+"text": "Quan hệ giai cấp.",
+"weight": 0
+},
+{
+"text": "Quan hệ dân tộc.",
+"weight": 0
+},
+{
+"text": "Quan hệ nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 165: [Vận dụng/Phân tích] Gia đình chỉ chú trọng kinh tế",
+"points_possible": 1,
+"question_text": "Một gia đình chỉ chú trọng kiếm tiền, xem nhẹ giáo dục con cái, chăm sóc người già và đời sống tình cảm. Theo Chương 7, hạn chế chính là gì?",
+"general_comment": "Gia đình này tuyệt đối hóa chức năng kinh tế và xem nhẹ các chức năng nuôi dưỡng, giáo dục, tình cảm và trách nhiệm xã hội.",
+"answers": [
+{
+"text": "Tuyệt đối hóa chức năng kinh tế và xem nhẹ chức năng giáo dục, tình cảm, chăm sóc và trách nhiệm xã hội.",
+"weight": 100
+},
+{
+"text": "Thực hiện đầy đủ mọi chức năng của gia đình.",
+"weight": 0
+},
+{
+"text": "Chỉ thiếu chức năng đối ngoại.",
+"weight": 0
+},
+{
+"text": "Không liên quan đến vấn đề xây dựng gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 166: [Vận dụng/Phân tích] Gia đình và truyền thống",
+"points_possible": 1,
+"question_text": "Một gia đình muốn giữ truyền thống nhưng duy trì tư tưởng trọng nam khinh nữ và áp đặt hôn nhân cho con. Theo Chương 7, cần đánh giá như thế nào?",
+"general_comment": "Cần kế thừa giá trị truyền thống tốt đẹp nhưng phải loại bỏ tập tục lạc hậu, gia trưởng, bất bình đẳng và cưỡng ép hôn nhân.",
+"answers": [
+{
+"text": "Cần kế thừa truyền thống tốt đẹp nhưng loại bỏ yếu tố lạc hậu như trọng nam khinh nữ và cưỡng ép hôn nhân.",
+"weight": 100
+},
+{
+"text": "Đó là toàn bộ giá trị truyền thống cần giữ nguyên.",
+"weight": 0
+},
+{
+"text": "Cần phủ nhận mọi truyền thống gia đình.",
+"weight": 0
+},
+{
+"text": "Không liên quan đến xây dựng gia đình mới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 167: [Vận dụng/Phân tích] Gia đình trong hội nhập quốc tế",
+"points_possible": 1,
+"question_text": "Một gia đình tiếp thu giá trị bình đẳng giới, tôn trọng quyền trẻ em và phương pháp giáo dục hiện đại, đồng thời vẫn giữ lòng hiếu thảo và tình nghĩa gia đình. Đây là biểu hiện của phương hướng nào?",
+"general_comment": "Đó là sự kết hợp kế thừa giá trị gia đình truyền thống với tiếp thu những tiến bộ của nhân loại về gia đình.",
+"answers": [
+{
+"text": "Kế thừa giá trị gia đình truyền thống đồng thời tiếp thu những tiến bộ của nhân loại về gia đình.",
+"weight": 100
+},
+{
+"text": "Phủ nhận hoàn toàn truyền thống gia đình Việt Nam.",
+"weight": 0
+},
+{
+"text": "Khôi phục gia trưởng trong điều kiện mới.",
+"weight": 0
+},
+{
+"text": "Tách gia đình khỏi quá trình hội nhập quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 168: [Vận dụng/Phân tích] Gia đình hạt nhân và người cao tuổi",
+"points_possible": 1,
+"question_text": "Trong gia đình hạt nhân, cha mẹ trẻ sống riêng nhưng vẫn chăm sóc, phụng dưỡng ông bà và giữ liên hệ giữa các thế hệ. Cách làm này khắc phục hạn chế nào của gia đình hạt nhân?",
+"general_comment": "Cách làm này giúp hạn chế sự rời rạc, lỏng lẻo, ngăn cách giữa các thành viên và góp phần giữ gìn giá trị truyền thống gia đình.",
+"answers": [
+{
+"text": "Hạn chế sự rời rạc, lỏng lẻo, ngăn cách giữa các thành viên và giữ gìn giá trị truyền thống.",
+"weight": 100
+},
+{
+"text": "Làm gia đình hạt nhân trở thành gia đình gia trưởng.",
+"weight": 0
+},
+{
+"text": "Phủ nhận đời sống riêng tư của các thành viên.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ chức năng giáo dục của gia đình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 169: [Vận dụng/Phân tích] Phong trào gia đình văn hóa",
+"points_possible": 1,
+"question_text": "Một địa phương xây dựng tiêu chí gia đình văn hóa gắn với bình đẳng giới, phòng chống bạo lực, chăm sóc trẻ em, người cao tuổi và giáo dục đạo đức lối sống. Cách làm này phù hợp với yêu cầu nào?",
+"general_comment": "Đây là biểu hiện nâng cao chất lượng phong trào xây dựng gia đình văn hóa, hướng tới gia đình no ấm, tiến bộ, hạnh phúc, văn minh.",
+"answers": [
+{
+"text": "Nâng cao chất lượng phong trào xây dựng gia đình văn hóa theo hướng no ấm, tiến bộ, hạnh phúc, văn minh.",
+"weight": 100
+},
+{
+"text": "Chạy theo danh hiệu hình thức.",
+"weight": 0
+},
+{
+"text": "Tách phong trào gia đình văn hóa khỏi đời sống thực tế.",
+"weight": 0
+},
+{
+"text": "Chỉ chú trọng tiêu chí thu nhập, không cần đạo đức và văn hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 170: [Vận dụng/Phân tích] Tổng hợp xây dựng gia đình Việt Nam",
+"points_possible": 1,
+"question_text": "Một chương trình vừa nâng cao nhận thức xã hội về gia đình, phát triển kinh tế hộ, kế thừa truyền thống tốt đẹp, tiếp thu giá trị tiến bộ của nhân loại và nâng cao chất lượng phong trào gia đình văn hóa. Chương trình đó phù hợp nhất với nội dung nào của Chương 7?",
+"general_comment": "Đây là sự vận dụng tổng hợp các phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Các phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Các nguyên tắc giải quyết vấn đề dân tộc trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Các nội dung của liên minh giai cấp, tầng lớp.",
+"weight": 0
+},
+{
+"text": "Các chức năng của nhà nước xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+}
+]

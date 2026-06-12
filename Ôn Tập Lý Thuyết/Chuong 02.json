@@ -1,0 +1,4252 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 001: [Nhận biết] Mục tiêu Chương 2",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 2, nội dung chính mà chương này giúp sinh viên nắm vững là gì?",
+"general_comment": "Chương 2 giúp sinh viên nắm quan điểm cơ bản của chủ nghĩa Mác - Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân.",
+"answers": [
+{
+"text": "Những quan điểm cơ bản của chủ nghĩa Mác - Lênin về giai cấp công nhân và sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Những quan điểm về dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Những vấn đề cơ bản về dân tộc và tôn giáo trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Những vấn đề cơ bản về gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 002: [Nhận biết] Vị trí của sứ mệnh lịch sử giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Theo giáo trình, sứ mệnh lịch sử thế giới của giai cấp công nhân có vị trí như thế nào trong chủ nghĩa xã hội khoa học?",
+"general_comment": "Giáo trình xác định đây là nội dung chủ yếu, điểm căn bản, phạm trù trung tâm và nguyên lý xuất phát của chủ nghĩa xã hội khoa học.",
+"answers": [
+{
+"text": "Là vấn đề phụ, chỉ được đặt ra sau khi chủ nghĩa xã hội đã hoàn thành.",
+"weight": 0
+},
+{
+"text": "Là nội dung chủ yếu, điểm căn bản, phạm trù trung tâm và nguyên lý xuất phát của chủ nghĩa xã hội khoa học.",
+"weight": 100
+},
+{
+"text": "Là nội dung riêng của kinh tế chính trị học cổ điển Anh.",
+"weight": 0
+},
+{
+"text": "Là vấn đề chỉ thuộc phong trào công đoàn, không liên quan đến chủ nghĩa xã hội khoa học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 003: [Nhận biết] Khái niệm giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Theo khái niệm trong giáo trình, giai cấp công nhân hình thành và phát triển cùng với quá trình nào?",
+"general_comment": "Giai cấp công nhân là tập đoàn xã hội ổn định, hình thành và phát triển cùng với quá trình phát triển của nền công nghiệp hiện đại.",
+"answers": [
+{
+"text": "Quá trình phục hồi chế độ công xã nông thôn.",
+"weight": 0
+},
+{
+"text": "Quá trình mở rộng chế độ chiếm hữu nô lệ cổ đại.",
+"weight": 0
+},
+{
+"text": "Quá trình phát triển của nền công nghiệp hiện đại.",
+"weight": 100
+},
+{
+"text": "Quá trình hình thành nhà nước phong kiến tập quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 004: [Nhận biết] Giai cấp công nhân đại diện cho lực lượng sản xuất",
+"points_possible": 1,
+"question_text": "Trong khái niệm của giáo trình, giai cấp công nhân là giai cấp đại diện cho lực lượng nào?",
+"general_comment": "Giáo trình nêu giai cấp công nhân là giai cấp đại diện cho lực lượng sản xuất tiên tiến.",
+"answers": [
+{
+"text": "Lực lượng sở hữu ruộng đất phong kiến.",
+"weight": 0
+},
+{
+"text": "Lực lượng sản xuất tiên tiến.",
+"weight": 100
+},
+{
+"text": "Lực lượng tiểu nông sản xuất nhỏ.",
+"weight": 0
+},
+{
+"text": "Lực lượng tư bản tài chính độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 005: [Nhận biết] Công nhân trong nước tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Ở các nước tư bản chủ nghĩa, giai cấp công nhân được giáo trình mô tả như thế nào?",
+"general_comment": "Trong chủ nghĩa tư bản, công nhân không có hoặc cơ bản không có tư liệu sản xuất, phải làm thuê và bị bóc lột giá trị thặng dư.",
+"answers": [
+{
+"text": "Những người cùng nhân dân lao động làm chủ tư liệu sản xuất chủ yếu.",
+"weight": 0
+},
+{
+"text": "Những người giữ độc quyền ruộng đất và thu địa tô.",
+"weight": 0
+},
+{
+"text": "Những người sở hữu tư liệu sản xuất chủ yếu và thuê lao động làm công.",
+"weight": 0
+},
+{
+"text": "Những người không có hoặc về cơ bản không có tư liệu sản xuất, phải làm thuê cho giai cấp tư sản và bị bóc lột giá trị thặng dư.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 006: [Nhận biết] Công nhân trong nước xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Ở các nước xã hội chủ nghĩa, giai cấp công nhân có vị trí nào đối với tư liệu sản xuất chủ yếu?",
+"general_comment": "Ở các nước xã hội chủ nghĩa, giai cấp công nhân cùng nhân dân lao động làm chủ những tư liệu sản xuất chủ yếu và hợp tác vì lợi ích chung.",
+"answers": [
+{
+"text": "Bị giai cấp tư sản bóc lột giá trị thặng dư như trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Cùng nhân dân lao động làm chủ những tư liệu sản xuất chủ yếu và hợp tác lao động vì lợi ích chung của toàn xã hội.",
+"weight": 100
+},
+{
+"text": "Độc quyền sở hữu tư nhân tư bản chủ nghĩa đối với toàn bộ tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Chỉ làm thuê cho địa chủ phong kiến và nộp địa tô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 007: [Nhận biết] Phương diện kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Trên phương diện kinh tế - xã hội, dấu hiệu thứ nhất để nhận diện giai cấp công nhân là gì?",
+"general_comment": "Dấu hiệu thứ nhất là giai cấp công nhân gắn với phương thức lao động công nghiệp trong nền sản xuất tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Lao động thủ công phân tán trong công xã nông thôn.",
+"weight": 0
+},
+{
+"text": "Lao động quản lý hành chính trong bộ máy quan liêu phong kiến.",
+"weight": 0
+},
+{
+"text": "Lao động với phương thức lao động công nghiệp trong nền sản xuất tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Lao động thương mại nhỏ trong kinh tế tự nhiên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 008: [Nhận biết] Công cụ sản xuất của công nhân",
+"points_possible": 1,
+"question_text": "Theo giáo trình, công nhân trực tiếp hoặc gián tiếp vận hành loại công cụ sản xuất nào?",
+"general_comment": "Giai cấp công nhân vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao.",
+"answers": [
+{
+"text": "Các công cụ nghi lễ tôn giáo của xã hội tiền tư bản.",
+"weight": 0
+},
+{
+"text": "Các công cụ cai trị chính trị của nhà nước phong kiến.",
+"weight": 0
+},
+{
+"text": "Các công cụ sản xuất thủ công giản đơn trong hộ gia đình.",
+"weight": 0
+},
+{
+"text": "Các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 009: [Nhận biết] Quan hệ sản xuất tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Trên phương diện quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là giai cấp của những người lao động như thế nào?",
+"general_comment": "Trong quan hệ sản xuất tư bản chủ nghĩa, công nhân không sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động và bị bóc lột giá trị thặng dư.",
+"answers": [
+{
+"text": "Không sở hữu tư liệu sản xuất chủ yếu của xã hội, phải bán sức lao động cho nhà tư bản và bị bóc lột giá trị thặng dư.",
+"weight": 100
+},
+{
+"text": "Sở hữu tư liệu sản xuất chủ yếu và quyết định phân chia lợi nhuận.",
+"weight": 0
+},
+{
+"text": "Sở hữu ruộng đất và thu địa tô của nông dân.",
+"weight": 0
+},
+{
+"text": "Không tham gia sản xuất vật chất, chỉ thực hiện chức năng tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 010: [Nhận biết] Mâu thuẫn cơ bản của chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa là mâu thuẫn nào?",
+"general_comment": "Mâu thuẫn cơ bản là giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên tư hữu tư bản chủ nghĩa về tư liệu sản xuất.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa các dòng họ quý tộc trong chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa tôn giáo và khoa học tự nhiên trong thế kỷ XVII.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn giữa lao động trí óc và lao động chân tay trong mọi xã hội tiền giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 011: [Nhận biết] Đặc điểm lao động công nghiệp",
+"points_possible": 1,
+"question_text": "Đặc điểm nào sau đây là một đặc điểm chủ yếu của giai cấp công nhân?",
+"general_comment": "Giáo trình nêu công nhân lao động bằng phương thức công nghiệp với công cụ lao động là máy móc, tạo năng suất cao và lao động có tính xã hội hóa.",
+"answers": [
+{
+"text": "Lao động chủ yếu bằng công cụ thủ công và năng suất thấp.",
+"weight": 0
+},
+{
+"text": "Lao động bằng phương thức công nghiệp với công cụ lao động là máy móc, tạo năng suất lao động cao.",
+"weight": 100
+},
+{
+"text": "Sống tách biệt khỏi nền sản xuất vật chất hiện đại.",
+"weight": 0
+},
+{
+"text": "Là sản phẩm trực tiếp của chế độ chiếm hữu nô lệ cổ đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 012: [Nhận biết] Chủ thể sản xuất vật chất hiện đại",
+"points_possible": 1,
+"question_text": "Giai cấp công nhân là sản phẩm của nền đại công nghiệp và là chủ thể của quá trình nào?",
+"general_comment": "Giáo trình nêu công nhân là sản phẩm của nền đại công nghiệp và là chủ thể của quá trình sản xuất vật chất hiện đại.",
+"answers": [
+{
+"text": "Quá trình thu tô phong kiến.",
+"weight": 0
+},
+{
+"text": "Quá trình buôn bán nhỏ tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Quá trình sản xuất vật chất hiện đại.",
+"weight": 100
+},
+{
+"text": "Quá trình truyền bá thần học trung cổ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 013: [Nhận biết] Phẩm chất của giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Theo giáo trình, giai cấp công nhân có những phẩm chất đặc biệt nào?",
+"general_comment": "Các phẩm chất được nêu là tính tổ chức, kỷ luật lao động, tinh thần hợp tác và tâm lý lao động công nghiệp.",
+"answers": [
+{
+"text": "Tính phân tán, sản xuất nhỏ, tâm lý tiểu nông và cục bộ địa phương.",
+"weight": 0
+},
+{
+"text": "Đặc quyền dòng tộc, tinh thần quý tộc và tâm lý địa chủ.",
+"weight": 0
+},
+{
+"text": "Tính tự phát tuyệt đối, không có tổ chức và không có kỷ luật lao động.",
+"weight": 0
+},
+{
+"text": "Tính tổ chức, kỷ luật lao động, tinh thần hợp tác và tâm lý lao động công nghiệp.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 014: [Nhận biết] Sứ mệnh lịch sử tổng quát",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa xã hội khoa học, sứ mệnh lịch sử tổng quát của giai cấp công nhân được thực hiện thông qua lực lượng nào?",
+"general_comment": "Sứ mệnh lịch sử tổng quát được thực hiện thông qua chính đảng tiền phong của giai cấp công nhân.",
+"answers": [
+{
+"text": "Thông qua chính đảng tiền phong của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Thông qua tầng lớp địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Thông qua các hội nghề nghiệp phi chính trị.",
+"weight": 0
+},
+{
+"text": "Thông qua giai cấp tư sản dân tộc với tư cách lực lượng lãnh đạo duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 015: [Nhận biết] Mục tiêu tổng quát của sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Mục tiêu tổng quát trong sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Sứ mệnh tổng quát là xóa bỏ chế độ người bóc lột người, xóa bỏ chủ nghĩa tư bản, giải phóng công nhân và nhân dân lao động, xây dựng xã hội cộng sản chủ nghĩa văn minh.",
+"answers": [
+{
+"text": "Duy trì chế độ tư hữu tư bản chủ nghĩa nhưng giảm nhẹ một số bất công.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ chế độ người bóc lột người, xóa bỏ chủ nghĩa tư bản, giải phóng công nhân và nhân dân lao động, xây dựng xã hội cộng sản chủ nghĩa văn minh.",
+"weight": 100
+},
+{
+"text": "Khôi phục trật tự phong kiến và đặc quyền quý tộc.",
+"weight": 0
+},
+{
+"text": "Thay thế sở hữu tư nhân này bằng một sở hữu tư nhân khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 016: [Nhận biết] Nội dung kinh tế của sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Nội dung kinh tế trong sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Nội dung kinh tế là cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa và xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Thiết lập nhà nước của giai cấp công nhân và nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Đấu tranh bảo vệ nền tảng tư tưởng của Đảng Cộng sản.",
+"weight": 0
+},
+{
+"text": "Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Giáo dục chủ nghĩa quốc tế chân chính trên cơ sở chủ nghĩa yêu nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 017: [Nhận biết] Nội dung chính trị - xã hội",
+"points_possible": 1,
+"question_text": "Nội dung chính trị - xã hội trong sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Nội dung chính trị - xã hội gồm lật đổ sự thống trị của giai cấp tư sản, thiết lập nhà nước của giai cấp công nhân và nhân dân lao động, từng bước xây dựng nền dân chủ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Lật đổ sự thống trị của giai cấp tư sản, thiết lập nhà nước của giai cấp công nhân và nhân dân lao động, từng bước xây dựng nền dân chủ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa và phát triển lực lượng sản xuất.",
+"weight": 0
+},
+{
+"text": "Xây dựng nền văn hóa mới trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Đào tạo lại công nhân để thích ứng với công nghệ mới trong nền sản xuất hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 018: [Nhận biết] Nội dung văn hóa, tư tưởng",
+"points_possible": 1,
+"question_text": "Nội dung văn hóa, tư tưởng trong sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Nội dung văn hóa, tư tưởng là xây dựng nền văn hóa mới trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân, thay thế hệ tư tưởng chính trị của giai cấp tư sản.",
+"answers": [
+{
+"text": "Giành chính quyền về tay giai cấp công nhân và nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Xây dựng nền văn hóa mới trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân, thay thế hệ tư tưởng chính trị của giai cấp tư sản.",
+"weight": 100
+},
+{
+"text": "Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Phát triển kinh tế hàng hóa nhiều thành phần trong thời kỳ quá độ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 019: [Nhận biết] Đặc điểm sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Đặc điểm nào sau đây thuộc sứ mệnh lịch sử của giai cấp công nhân?",
+"general_comment": "Giáo trình nhấn mạnh sứ mệnh của công nhân không phải thay một chế độ tư hữu bằng chế độ tư hữu khác, mà xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất.",
+"answers": [
+{
+"text": "Chỉ thay thế sở hữu tư nhân tư bản bằng sở hữu tư nhân phong kiến.",
+"weight": 0
+},
+{
+"text": "Chỉ nhằm giành lợi ích riêng cho một thiểu số trong xã hội.",
+"weight": 0
+},
+{
+"text": "Không phải thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác, mà là xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất.",
+"weight": 100
+},
+{
+"text": "Không gắn với cải tạo xã hội cũ và xây dựng xã hội mới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 020: [Nhận biết] Điều kiện khách quan",
+"points_possible": 1,
+"question_text": "Điều kiện khách quan đầu tiên quy định sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Điều kiện khách quan gồm địa vị kinh tế - xã hội và đặc điểm chính trị - xã hội của giai cấp công nhân.",
+"answers": [
+{
+"text": "Sự tự điều chỉnh vĩnh viễn của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Ý chí chủ quan của từng cá nhân công nhân.",
+"weight": 0
+},
+{
+"text": "Sự ra đời của các tổ chức công đoàn nghề nghiệp trung lập.",
+"weight": 0
+},
+{
+"text": "Địa vị kinh tế - xã hội của giai cấp công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 021: [Nhận biết] Đặc điểm chính trị - xã hội của công nhân",
+"points_possible": 1,
+"question_text": "Trong tương quan với các lực lượng chính trị của chủ nghĩa tư bản, giai cấp công nhân có đặc điểm nào?",
+"general_comment": "Giáo trình nêu giai cấp công nhân là giai cấp tiên tiến nhất, có ý thức tổ chức kỷ luật cao, tinh thần cách mạng triệt để và bản chất quốc tế.",
+"answers": [
+{
+"text": "Là giai cấp tiên tiến nhất, có ý thức tổ chức kỷ luật cao, có tinh thần cách mạng triệt để và có bản chất quốc tế.",
+"weight": 100
+},
+{
+"text": "Là giai cấp bảo thủ nhất, phân tán và không có bản chất quốc tế.",
+"weight": 0
+},
+{
+"text": "Là giai cấp trung gian không có đối lập lợi ích với giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Là giai cấp chỉ có lợi ích cục bộ địa phương, không có tinh thần cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 022: [Nhận biết] Điều kiện chủ quan quyết định",
+"points_possible": 1,
+"question_text": "Điều kiện chủ quan nào được giáo trình xem là nhân tố quan trọng nhất, có ý nghĩa quyết định đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân?",
+"general_comment": "Giáo trình xác định sự ra đời và phát triển Đảng Cộng sản là nhân tố chủ quan quan trọng nhất, có ý nghĩa quyết định.",
+"answers": [
+{
+"text": "Sự phân hóa tự phát trong nội bộ giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Sự ra đời và phát triển chính đảng của giai cấp công nhân - Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Sự phát triển của thương nghiệp tư bản không có đấu tranh chính trị.",
+"weight": 0
+},
+{
+"text": "Sự tồn tại của các nghiệp đoàn không có lý luận cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 023: [Nhận biết] Quy luật ra đời Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Theo giáo trình, quy luật ra đời và phát triển chính đảng của giai cấp công nhân - Đảng Cộng sản là gì?",
+"general_comment": "Quy luật ra đời của Đảng Cộng sản là sự kết hợp giữa chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác, với phong trào công nhân.",
+"answers": [
+{
+"text": "Sự kết hợp giữa chủ nghĩa dân túy và phong trào tiểu tư sản.",
+"weight": 0
+},
+{
+"text": "Sự kết hợp giữa chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác, với phong trào công nhân.",
+"weight": 100
+},
+{
+"text": "Sự kết hợp giữa địa chủ phong kiến và thương nhân tư bản.",
+"weight": 0
+},
+{
+"text": "Sự kết hợp giữa kinh tế thị trường tự do và chế độ quân chủ lập hiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 024: [Nhận biết] Vai trò của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Theo giáo trình, Đảng Cộng sản là gì của giai cấp công nhân?",
+"general_comment": "Đảng Cộng sản là đội tiên phong, tổ chức chính trị cao nhất, lãnh tụ chính trị và bộ tham mưu chiến đấu của giai cấp công nhân.",
+"answers": [
+{
+"text": "Một tổ chức nghề nghiệp trung lập chỉ bảo vệ tiền lương.",
+"weight": 0
+},
+{
+"text": "Một thiết chế hành chính của nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Đội tiên phong, tổ chức chính trị cao nhất, lãnh tụ chính trị và bộ tham mưu chiến đấu của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Một tổ chức tôn giáo đứng ngoài phong trào công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 025: [Nhận biết] Nền tảng tư tưởng của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản lấy hệ tư tưởng nào làm nền tảng tư tưởng và kim chỉ nam hành động?",
+"general_comment": "Giáo trình nêu Đảng Cộng sản lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng và kim chỉ nam hành động.",
+"answers": [
+{
+"text": "Chủ nghĩa bảo thủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa tự do tư sản.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa dân túy tự phát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 026: [Nhận biết] Liên minh giai cấp",
+"points_possible": 1,
+"question_text": "Điều kiện quan trọng không thể thiếu để thực hiện sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Giáo trình nêu liên minh công nhân với nông dân và các tầng lớp lao động khác do Đảng Cộng sản lãnh đạo là điều kiện quan trọng không thể thiếu.",
+"answers": [
+{
+"text": "Sự thỏa hiệp lâu dài giữa giai cấp công nhân với giai cấp tư sản độc quyền.",
+"weight": 0
+},
+{
+"text": "Sự liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác dưới sự lãnh đạo của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Sự tách biệt giai cấp công nhân khỏi nông dân và trí thức.",
+"weight": 0
+},
+{
+"text": "Sự xóa bỏ vai trò lãnh đạo của đội tiên phong chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 027: [Nhận biết] Điểm ổn định của công nhân hiện nay",
+"points_possible": 1,
+"question_text": "Theo giáo trình, điểm tương đối ổn định nào của giai cấp công nhân hiện nay vẫn tiếp tục tồn tại?",
+"general_comment": "Giáo trình nêu công nhân hiện nay vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại và là chủ thể của sản xuất công nghiệp hiện đại.",
+"answers": [
+{
+"text": "Giai cấp công nhân không còn là lực lượng sản xuất trong xã hội hiện đại.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân chỉ còn tồn tại trong sản xuất thủ công cá thể.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân hiện nay vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân đã hoàn toàn không còn liên hệ với sản xuất công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 028: [Nhận biết] Xu hướng trí tuệ hóa",
+"points_possible": 1,
+"question_text": "Xu hướng nào của giai cấp công nhân hiện đại gắn với cách mạng khoa học - công nghệ và kinh tế tri thức?",
+"general_comment": "Giáo trình nêu công nhân hiện đại có xu hướng trí tuệ hóa, gắn với khoa học - công nghệ và kinh tế tri thức.",
+"answers": [
+{
+"text": "Xu hướng phong kiến hóa.",
+"weight": 0
+},
+{
+"text": "Xu hướng thủ công hóa.",
+"weight": 0
+},
+{
+"text": "Xu hướng phi công nghiệp hóa.",
+"weight": 0
+},
+{
+"text": "Xu hướng trí tuệ hóa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 029: [Nhận biết] Xu hướng trung lưu hóa",
+"points_possible": 1,
+"question_text": "Theo giáo trình, xu hướng “trung lưu hóa” của một bộ phận công nhân hiện nay diễn ra chủ yếu thông qua hình thức nào?",
+"general_comment": "Một bộ phận công nhân tham gia sở hữu một lượng tư liệu sản xuất của xã hội thông qua chế độ cổ phần hóa.",
+"answers": [
+{
+"text": "Thông qua chế độ cổ phần hóa.",
+"weight": 100
+},
+{
+"text": "Thông qua phục hồi chế độ địa tô phong kiến.",
+"weight": 0
+},
+{
+"text": "Thông qua xóa bỏ hoàn toàn mọi hình thức sở hữu.",
+"weight": 0
+},
+{
+"text": "Thông qua từ bỏ hoàn toàn lao động công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 030: [Nhận biết] Công nhân trong toàn cầu hóa",
+"points_possible": 1,
+"question_text": "Trong toàn cầu hóa, giai cấp công nhân vẫn bị bóc lột nặng nề bởi các chủ thể mới nào?",
+"general_comment": "Giáo trình nêu các chủ thể mới như tập đoàn xuyên quốc gia và nhà nước của các nước tư bản phát triển.",
+"answers": [
+{
+"text": "Các tập đoàn xuyên quốc gia và nhà nước của các nước tư bản phát triển.",
+"weight": 100
+},
+{
+"text": "Các công xã nông thôn tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Các hội nghề nghiệp thủ công thời trung cổ.",
+"weight": 0
+},
+{
+"text": "Các tổ chức tôn giáo phi sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 031: [Nhận biết] Công nhân ở nước xã hội chủ nghĩa hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước xã hội chủ nghĩa hiện nay, giai cấp công nhân và Đảng Cộng sản có vị trí mới nào so với thế kỷ XIX?",
+"general_comment": "Giáo trình nêu ở các nước xã hội chủ nghĩa, giai cấp công nhân đã trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền.",
+"answers": [
+{
+"text": "Công nhân trở thành giai cấp làm thuê cho tư sản, Đảng Cộng sản trở thành công đoàn trung lập.",
+"weight": 0
+},
+{
+"text": "Công nhân biến mất khỏi nền sản xuất, Đảng Cộng sản không còn vai trò chính trị.",
+"weight": 0
+},
+{
+"text": "Công nhân trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền.",
+"weight": 100
+},
+{
+"text": "Công nhân trở thành địa chủ, Đảng Cộng sản trở thành thiết chế phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 032: [Nhận biết] Công nhân Việt Nam ra đời",
+"points_possible": 1,
+"question_text": "Giai cấp công nhân Việt Nam ra đời vào thời điểm nào và gắn với sự kiện nào?",
+"general_comment": "Giáo trình nêu giai cấp công nhân Việt Nam ra đời đầu thế kỷ XX, gắn với cuộc khai thác thuộc địa của thực dân Pháp.",
+"answers": [
+{
+"text": "Cuối thế kỷ XVIII, gắn với Cách mạng công nghiệp Anh.",
+"weight": 0
+},
+{
+"text": "Đầu thế kỷ XX, gắn với cuộc khai thác thuộc địa của thực dân Pháp.",
+"weight": 100
+},
+{
+"text": "Sau năm 1986, gắn với công cuộc đổi mới.",
+"weight": 0
+},
+{
+"text": "Sau năm 1945, gắn với cải cách ruộng đất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 033: [Nhận biết] Nguồn gốc của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Theo giáo trình, giai cấp công nhân Việt Nam có nguồn gốc chủ yếu từ đâu?",
+"general_comment": "Giáo trình nêu giai cấp công nhân Việt Nam có nguồn gốc chủ yếu từ nông dân.",
+"answers": [
+{
+"text": "Từ nông dân.",
+"weight": 100
+},
+{
+"text": "Từ địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Từ quý tộc tư sản châu Âu.",
+"weight": 0
+},
+{
+"text": "Từ tầng lớp tư bản tài chính độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 034: [Nhận biết] Đối kháng của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Theo giáo trình, giai cấp công nhân Việt Nam đối kháng trực tiếp với lực lượng nào?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam đối kháng trực tiếp với tư bản thực dân Pháp, không đối kháng trực tiếp với tư sản dân tộc.",
+"answers": [
+{
+"text": "Tư bản thực dân Pháp.",
+"weight": 100
+},
+{
+"text": "Nông dân Việt Nam.",
+"weight": 0
+},
+{
+"text": "Đội ngũ trí thức yêu nước.",
+"weight": 0
+},
+{
+"text": "Toàn bộ tư sản dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 035: [Nhận biết] Đặc điểm công nhân Việt Nam hiện nay",
+"points_possible": 1,
+"question_text": "Đặc điểm nào sau đây thuộc giai cấp công nhân Việt Nam hiện nay?",
+"general_comment": "Giai cấp công nhân Việt Nam hiện nay tăng nhanh về số lượng và chất lượng, đi đầu trong công nghiệp hóa, hiện đại hóa, gắn với kinh tế tri thức, bảo vệ tài nguyên và môi trường.",
+"answers": [
+{
+"text": "Chỉ tồn tại trong nông nghiệp truyền thống, không có mặt trong công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Tăng nhanh về số lượng và chất lượng, đi đầu trong công nghiệp hóa, hiện đại hóa, gắn với kinh tế tri thức.",
+"weight": 100
+},
+{
+"text": "Suy giảm hoàn toàn về số lượng và không còn gắn với công nghiệp hóa.",
+"weight": 0
+},
+{
+"text": "Không tham gia vào bất kỳ thành phần kinh tế nào ngoài kinh tế tự cấp tự túc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 036: [Nhận biết] Công nhân tri thức Việt Nam",
+"points_possible": 1,
+"question_text": "Theo giáo trình, đội ngũ công nhân tri thức Việt Nam có đặc điểm nào?",
+"general_comment": "Công nhân tri thức nắm vững khoa học - công nghệ tiên tiến, lao động chủ yếu ở các ngành kinh tế mũi nhọn, ngày càng trẻ hóa và được đào tạo nghề theo chuẩn nghề nghiệp.",
+"answers": [
+{
+"text": "Không cần trình độ học vấn, văn hóa hay đào tạo nghề.",
+"weight": 0
+},
+{
+"text": "Chỉ làm lao động thủ công giản đơn ngoài nền sản xuất hiện đại.",
+"weight": 0
+},
+{
+"text": "Nắm vững khoa học - công nghệ tiên tiến, lao động chủ yếu ở ngành kinh tế mũi nhọn, ngày càng trẻ hóa và được đào tạo nghề theo chuẩn nghề nghiệp.",
+"weight": 100
+},
+{
+"text": "Không tham gia lao động và phong trào công đoàn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 037: [Nhận biết] Hạn chế của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Hạn chế nào của giai cấp công nhân Việt Nam hiện nay được giáo trình nêu?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam còn hạn chế về số lượng, cơ cấu, trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp và kỷ luật lao động.",
+"answers": [
+{
+"text": "Đã hoàn toàn đáp ứng mọi yêu cầu của công nghiệp hóa, hiện đại hóa.",
+"weight": 0
+},
+{
+"text": "Chưa đáp ứng đầy đủ yêu cầu về số lượng, cơ cấu, trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp; còn hạn chế về tác phong công nghiệp và kỷ luật lao động.",
+"weight": 100
+},
+{
+"text": "Không còn thiếu chuyên gia kỹ thuật, cán bộ quản lý và công nhân lành nghề.",
+"weight": 0
+},
+{
+"text": "Đã đạt trình độ văn hóa và tay nghề đồng đều tuyệt đối trên toàn quốc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 038: [Nhận biết] Sứ mệnh công nhân Việt Nam đã thực hiện",
+"points_possible": 1,
+"question_text": "Giai cấp công nhân Việt Nam đã thực hiện sứ mệnh lịch sử như thế nào trong tiến trình cách mạng Việt Nam?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam đã lãnh đạo nhân dân lao động giành độc lập dân tộc, lật đổ chế độ phong kiến, giành chính quyền, xây dựng chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Lãnh đạo khôi phục chế độ phong kiến và duy trì thuộc địa.",
+"weight": 0
+},
+{
+"text": "Từ bỏ đấu tranh giải phóng dân tộc để chỉ đấu tranh tiền lương.",
+"weight": 0
+},
+{
+"text": "Lãnh đạo nhân dân lao động giành độc lập dân tộc, lật đổ chế độ phong kiến, giành chính quyền, xây dựng chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+},
+{
+"text": "Chỉ tham gia sản xuất, không có vai trò trong giành chính quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 039: [Nhận biết] Sứ mệnh kinh tế của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực kinh tế hiện nay, giai cấp công nhân Việt Nam có vai trò gì?",
+"general_comment": "Giai cấp công nhân Việt Nam là lực lượng đi đầu trong công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành nước công nghiệp theo hướng hiện đại, định hướng xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Là lực lượng đi đầu trong công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành nước công nghiệp theo hướng hiện đại, định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Là lực lượng đi đầu trong khôi phục kinh tế tự nhiên, tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Là lực lượng tách khỏi liên minh công - nông - trí thức.",
+"weight": 0
+},
+{
+"text": "Là lực lượng chỉ đấu tranh chính trị, không liên quan phát triển kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 040: [Nhận biết] Sứ mệnh chính trị - xã hội của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực chính trị - xã hội, giai cấp công nhân Việt Nam cùng nhân dân lao động dưới sự lãnh đạo của Đảng thực hiện nhiệm vụ nào?",
+"general_comment": "Nhiệm vụ là củng cố, hoàn thiện hệ thống chính trị xã hội chủ nghĩa, xây dựng nhà nước của dân, do dân, vì dân, xây dựng nền dân chủ xã hội chủ nghĩa và bảo vệ thành quả cách mạng.",
+"answers": [
+{
+"text": "Thiết lập nhà nước tư sản và xóa bỏ nền dân chủ xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Từ bỏ vai trò của nhân dân lao động trong hệ thống chính trị.",
+"weight": 0
+},
+{
+"text": "Chỉ xây dựng tổ chức công đoàn, không liên quan đến nhà nước và dân chủ.",
+"weight": 0
+},
+{
+"text": "Củng cố, hoàn thiện hệ thống chính trị xã hội chủ nghĩa, xây dựng nhà nước của dân, do dân, vì dân, xây dựng nền dân chủ xã hội chủ nghĩa và bảo vệ thành quả cách mạng.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 041: [Nhận biết] Sứ mệnh văn hóa tư tưởng của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực văn hóa tư tưởng, sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm nội dung nào?",
+"general_comment": "Giáo trình nêu nhiệm vụ xây dựng văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người mới xã hội chủ nghĩa; bảo vệ chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh; chống quan điểm sai trái, xuyên tạc.",
+"answers": [
+{
+"text": "Thay thế chủ nghĩa Mác - Lênin bằng hệ tư tưởng tư sản.",
+"weight": 0
+},
+{
+"text": "Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, xây dựng con người mới xã hội chủ nghĩa, bảo vệ chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh.",
+"weight": 100
+},
+{
+"text": "Từ bỏ bản sắc dân tộc để xây dựng văn hóa phi lịch sử.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển văn hóa tiêu dùng, không cần đấu tranh tư tưởng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 042: [Nhận biết] Phương hướng xây dựng công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Phương hướng xây dựng giai cấp công nhân Việt Nam hiện nay bao gồm nội dung nào?",
+"general_comment": "Giáo trình nêu cần quan tâm giáo dục, đào tạo, bồi dưỡng, phát triển công nhân cả về số lượng và chất lượng; nâng cao bản lĩnh chính trị, học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp và kỷ luật lao động.",
+"answers": [
+{
+"text": "Chỉ tăng số lượng công nhân, không cần đào tạo và bồi dưỡng.",
+"weight": 0
+},
+{
+"text": "Từ bỏ yêu cầu tác phong công nghiệp và kỷ luật lao động.",
+"weight": 0
+},
+{
+"text": "Quan tâm giáo dục, đào tạo, bồi dưỡng, phát triển công nhân cả về số lượng và chất lượng; nâng cao bản lĩnh chính trị, học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp và kỷ luật lao động.",
+"weight": 100
+},
+{
+"text": "Chỉ bảo đảm việc làm, không cần nâng cao bản lĩnh chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 043: [Nhận biết] Trí thức hóa giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Theo giáo trình, trí thức hóa giai cấp công nhân được xác định là loại nhiệm vụ nào?",
+"general_comment": "Giáo trình coi đào tạo, bồi dưỡng, nâng cao trình độ mọi mặt cho công nhân và trí thức hóa giai cấp công nhân là nhiệm vụ chiến lược.",
+"answers": [
+{
+"text": "Một nhiệm vụ chiến lược.",
+"weight": 100
+},
+{
+"text": "Một nhiệm vụ không cần thiết trong công nghiệp hóa.",
+"weight": 0
+},
+{
+"text": "Một biện pháp tách công nhân khỏi khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Một hoạt động chỉ dành cho người sử dụng lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 044: [Thông hiểu] Ý nghĩa phạm trù trung tâm",
+"points_possible": 1,
+"question_text": "Vì sao sứ mệnh lịch sử của giai cấp công nhân được xem là phạm trù trung tâm của chủ nghĩa xã hội khoa học?",
+"general_comment": "Sứ mệnh lịch sử của giai cấp công nhân chỉ ra chủ thể, con đường và mục tiêu của quá trình chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"answers": [
+{
+"text": "Vì nó chỉ nghiên cứu đời sống tiền lương của công nhân trong nhà máy.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ là vấn đề thảo luận thực tiễn, không có ý nghĩa lý luận.",
+"weight": 0
+},
+{
+"text": "Vì nó thay thế hoàn toàn các nội dung về cách mạng, nhà nước và văn hóa.",
+"weight": 0
+},
+{
+"text": "Vì nó chỉ ra chủ thể, con đường và mục tiêu lịch sử của quá trình chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 045: [Thông hiểu] Hai phương diện nhận diện giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Vì sao khi phân tích giai cấp công nhân, giáo trình xem xét cả phương diện kinh tế - xã hội và chính trị - xã hội?",
+"general_comment": "Hai phương diện giúp nhận diện đầy đủ công nhân về vị trí trong sản xuất, quan hệ sở hữu, lợi ích giai cấp và bản chất cách mạng.",
+"answers": [
+{
+"text": "Vì giai cấp công nhân không có vị trí trong nền sản xuất vật chất hiện đại.",
+"weight": 0
+},
+{
+"text": "Vì phương diện kinh tế - xã hội không liên quan đến quan hệ sản xuất.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp công nhân vừa được xác định bởi vị trí trong sản xuất công nghiệp và quan hệ sản xuất tư bản chủ nghĩa, vừa bởi vai trò, lợi ích và bản chất cách mạng trong đời sống chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Vì phương diện chính trị - xã hội chỉ dùng để mô tả nghề nghiệp kỹ thuật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 046: [Thông hiểu] Bóc lột giá trị thặng dư",
+"points_possible": 1,
+"question_text": "Trong xã hội tư bản chủ nghĩa, vì sao lợi ích cơ bản của giai cấp công nhân đối lập trực tiếp với lợi ích của giai cấp tư sản?",
+"general_comment": "Lao động sống của công nhân là nguồn gốc giá trị thặng dư và sự giàu có của tư sản, tạo nên mâu thuẫn lợi ích đối kháng.",
+"answers": [
+{
+"text": "Vì công nhân và tư sản cùng sở hữu tư liệu sản xuất chủ yếu với tỷ lệ ngang nhau.",
+"weight": 0
+},
+{
+"text": "Vì công nhân không có tư liệu sản xuất chủ yếu, phải bán sức lao động và bị bóc lột giá trị thặng dư, còn sự giàu có của tư sản chủ yếu dựa vào sự bóc lột đó.",
+"weight": 100
+},
+{
+"text": "Vì giai cấp tư sản không tham gia quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vì mâu thuẫn giữa công nhân và tư sản chỉ là khác biệt nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 047: [Thông hiểu] Mâu thuẫn cơ bản và biểu hiện xã hội",
+"points_possible": 1,
+"question_text": "Mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa biểu hiện về mặt xã hội như thế nào?",
+"general_comment": "Giáo trình nêu mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa biểu hiện về mặt xã hội là mâu thuẫn lợi ích giữa giai cấp công nhân và giai cấp tư sản.",
+"answers": [
+{
+"text": "Là mâu thuẫn giữa khoa học tự nhiên và tôn giáo.",
+"weight": 0
+},
+{
+"text": "Là mâu thuẫn giữa các nhà tư bản với nhau về thị phần.",
+"weight": 0
+},
+{
+"text": "Là mâu thuẫn lợi ích giữa giai cấp công nhân và giai cấp tư sản.",
+"weight": 100
+},
+{
+"text": "Là mâu thuẫn giữa nông dân và địa chủ trong chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 048: [Thông hiểu] Ý nghĩa lao động công nghiệp",
+"points_possible": 1,
+"question_text": "Ý nghĩa của việc giai cấp công nhân lao động bằng phương thức công nghiệp, tạo năng suất cao và có tính xã hội hóa là gì?",
+"general_comment": "Đặc điểm lao động công nghiệp gắn giai cấp công nhân với lực lượng sản xuất tiên tiến và phương thức sản xuất hiện đại.",
+"answers": [
+{
+"text": "Nó chứng minh công nhân chỉ phù hợp với sản xuất nhỏ phân tán.",
+"weight": 0
+},
+{
+"text": "Nó khẳng định công nhân không có vai trò trong phát triển xã hội hiện đại.",
+"weight": 0
+},
+{
+"text": "Nó làm cho công nhân tách khỏi mọi quá trình sản xuất vật chất.",
+"weight": 0
+},
+{
+"text": "Nó làm cho công nhân trở thành đại biểu cho lực lượng sản xuất tiên tiến và phương thức sản xuất hiện đại.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 049: [Thông hiểu] Phẩm chất lãnh đạo cách mạng",
+"points_possible": 1,
+"question_text": "Vì sao tính tổ chức, kỷ luật lao động, tinh thần hợp tác và tâm lý lao động công nghiệp là phẩm chất cần thiết để giai cấp công nhân lãnh đạo cách mạng?",
+"general_comment": "Giáo trình coi đây là những phẩm chất cần thiết cho vai trò lãnh đạo cách mạng của giai cấp công nhân.",
+"answers": [
+{
+"text": "Vì các phẩm chất đó tạo khả năng tập hợp, tổ chức và hành động thống nhất trong cuộc đấu tranh cách mạng.",
+"weight": 100
+},
+{
+"text": "Vì các phẩm chất đó làm giai cấp công nhân trở thành giai cấp sở hữu tư bản.",
+"weight": 0
+},
+{
+"text": "Vì các phẩm chất đó khiến công nhân không cần chính đảng tiền phong.",
+"weight": 0
+},
+{
+"text": "Vì các phẩm chất đó chỉ phục vụ sản xuất thủ công cá thể.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 050: [Thông hiểu] Ba nội dung của sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Quan hệ giữa sứ mệnh lịch sử tổng quát và ba nội dung kinh tế, chính trị - xã hội, văn hóa - tư tưởng là gì?",
+"general_comment": "Sứ mệnh lịch sử được triển khai trên ba phương diện bổ sung nhau: kinh tế, chính trị - xã hội, văn hóa - tư tưởng.",
+"answers": [
+{
+"text": "Ba nội dung này tách rời nhau và không liên quan đến mục tiêu xóa bỏ chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Sứ mệnh tổng quát được triển khai cụ thể qua cải tạo quan hệ sản xuất, giành và xây dựng quyền lực chính trị của nhân dân lao động, đồng thời xây dựng nền văn hóa và hệ tư tưởng mới.",
+"weight": 100
+},
+{
+"text": "Nội dung kinh tế là duy nhất; chính trị và văn hóa không thuộc sứ mệnh lịch sử.",
+"weight": 0
+},
+{
+"text": "Nội dung văn hóa thay thế hoàn toàn kinh tế và chính trị trong mọi giai đoạn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 051: [Thông hiểu] Mục tiêu trước mắt và lâu dài ở nước tư bản",
+"points_possible": 1,
+"question_text": "Ở các nước tư bản chủ nghĩa, mục tiêu trước mắt và mục tiêu lâu dài của giai cấp công nhân khác nhau như thế nào?",
+"general_comment": "Giáo trình phân biệt mục tiêu đấu tranh trực tiếp và mục tiêu chiến lược lâu dài của công nhân trong các nước tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Trước mắt là xây dựng chủ nghĩa xã hội; lâu dài là phục hồi chế độ tư sản.",
+"weight": 0
+},
+{
+"text": "Trước mắt là từ bỏ đấu tranh chính trị; lâu dài là giải tán Đảng Cộng sản.",
+"weight": 0
+},
+{
+"text": "Trước mắt là chống bất công, bất bình đẳng xã hội, đòi dân sinh, dân chủ, tiến bộ xã hội; lâu dài là giành chính quyền về tay giai cấp công nhân và nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Trước mắt là bảo vệ quyền cổ đông lớn; lâu dài là duy trì bóc lột giá trị thặng dư.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 052: [Thông hiểu] Sứ mệnh ở nước xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Ở các nước xã hội chủ nghĩa, nội dung chính trị - xã hội của sứ mệnh giai cấp công nhân là gì?",
+"general_comment": "Ở các nước xã hội chủ nghĩa, công nhân tiếp tục sự nghiệp cải cách, đổi mới, xây dựng chủ nghĩa xã hội và bảo vệ độc lập, chủ quyền, tiến bộ xã hội.",
+"answers": [
+{
+"text": "Lật đổ nhà nước xã hội chủ nghĩa để thiết lập nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Từ bỏ công nghiệp hóa, hiện đại hóa để quay về sản xuất nhỏ.",
+"weight": 0
+},
+{
+"text": "Chỉ đấu tranh đòi tiền lương trong phạm vi nhà máy, không có nhiệm vụ chính trị.",
+"weight": 0
+},
+{
+"text": "Dưới sự lãnh đạo của Đảng Cộng sản, tiếp tục cải cách, đổi mới, xây dựng chủ nghĩa xã hội, xây dựng Đảng cầm quyền trong sạch, vững mạnh và bảo vệ độc lập, chủ quyền, tiến bộ xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 053: [Thông hiểu] Đấu tranh văn hóa tư tưởng",
+"points_possible": 1,
+"question_text": "Nội dung đấu tranh văn hóa, tư tưởng của giai cấp công nhân thể hiện ở điểm nào?",
+"general_comment": "Đấu tranh văn hóa, tư tưởng gồm bảo vệ nền tảng tư tưởng, củng cố niềm tin khoa học và thực hiện chủ nghĩa quốc tế chân chính trên cơ sở chủ nghĩa yêu nước và tinh thần dân tộc.",
+"answers": [
+{
+"text": "Đấu tranh để thay thế chủ nghĩa Mác - Lênin bằng hệ tư tưởng tư sản.",
+"weight": 0
+},
+{
+"text": "Đấu tranh ý thức hệ giữa hệ giá trị của giai cấp công nhân với hệ giá trị của giai cấp tư sản, bảo vệ nền tảng tư tưởng của Đảng Cộng sản và củng cố niềm tin vào chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Đấu tranh để phủ nhận mọi nền văn hóa mới trong chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Đấu tranh để tách chủ nghĩa quốc tế khỏi chủ nghĩa yêu nước và tinh thần dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 054: [Thông hiểu] Tính đa số của sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Vì sao sứ mệnh lịch sử của giai cấp công nhân không phải là sự nghiệp của một thiểu số?",
+"general_comment": "Giáo trình nêu sứ mệnh lịch sử là sự nghiệp của công nhân cùng đông đảo quần chúng và mang lại lợi ích cho đa số.",
+"answers": [
+{
+"text": "Vì sứ mệnh đó chỉ nhằm thiết lập đặc quyền cho một nhóm công nhân.",
+"weight": 0
+},
+{
+"text": "Vì sứ mệnh đó chỉ phục vụ lợi ích của giai cấp tư sản dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì đó là sự nghiệp cách mạng của bản thân giai cấp công nhân cùng đông đảo quần chúng, mang lại lợi ích cho đa số.",
+"weight": 100
+},
+{
+"text": "Vì quần chúng lao động không tham gia vào quá trình cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 055: [Thông hiểu] Giành quyền lực và cải tạo xã hội",
+"points_possible": 1,
+"question_text": "Theo giáo trình, việc giai cấp công nhân giành quyền lực thống trị xã hội có ý nghĩa gì?",
+"general_comment": "Giành quyền lực xã hội là tiền đề để công nhân cải tạo xã hội cũ và xây dựng xã hội mới nhằm giải phóng con người.",
+"answers": [
+{
+"text": "Là mục tiêu cuối cùng, sau đó không cần cải tạo xã hội cũ.",
+"weight": 0
+},
+{
+"text": "Là cách thay thế tư hữu tư bản bằng một hình thức tư hữu khác.",
+"weight": 0
+},
+{
+"text": "Là tiền đề để cải tạo toàn diện, sâu sắc, triệt để xã hội cũ và xây dựng xã hội mới với mục tiêu cao nhất là giải phóng con người.",
+"weight": 100
+},
+{
+"text": "Là hoạt động chỉ nhằm thay đổi nhân sự trong bộ máy nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 056: [Thông hiểu] Địa vị kinh tế và khả năng phá vỡ quan hệ sản xuất cũ",
+"points_possible": 1,
+"question_text": "Vì sao địa vị kinh tế - xã hội của giai cấp công nhân quy định khả năng phá vỡ quan hệ sản xuất tư bản chủ nghĩa?",
+"general_comment": "Địa vị của công nhân trong lực lượng sản xuất tiên tiến làm cho họ có vai trò phá vỡ quan hệ sản xuất tư bản chủ nghĩa lỗi thời.",
+"answers": [
+{
+"text": "Vì công nhân sở hữu độc quyền tư liệu sản xuất trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Vì công nhân là bộ phận quan trọng nhất của lực lượng sản xuất, đại diện cho lực lượng sản xuất tiên tiến và phương thức sản xuất cao hơn.",
+"weight": 100
+},
+{
+"text": "Vì công nhân đứng ngoài mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất.",
+"weight": 0
+},
+{
+"text": "Vì công nhân chỉ có lợi ích thống nhất với giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 057: [Thông hiểu] Bản lĩnh chính trị của công nhân",
+"points_possible": 1,
+"question_text": "Những đặc điểm chính trị - xã hội của giai cấp công nhân tạo nên điều gì?",
+"general_comment": "Các đặc điểm tiên tiến, kỷ luật, cách mạng triệt để và quốc tế tạo nên bản lĩnh chính trị, bản chất cách mạng của giai cấp công nhân.",
+"answers": [
+{
+"text": "Tính trung lập tuyệt đối của giai cấp công nhân trong đấu tranh giai cấp.",
+"weight": 0
+},
+{
+"text": "Sự phụ thuộc vĩnh viễn của công nhân vào giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Bản lĩnh chính trị và bản chất cách mạng của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Tính phân tán và không có khả năng liên minh giai cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 058: [Thông hiểu] Quan hệ giữa Đảng Cộng sản và giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Mối quan hệ giữa Đảng Cộng sản và giai cấp công nhân được hiểu đúng như thế nào?",
+"general_comment": "Giáo trình khẳng định Đảng và giai cấp công nhân có quan hệ gắn bó hữu cơ; Đảng mang bản chất giai cấp công nhân.",
+"answers": [
+{
+"text": "Giai cấp công nhân là cơ sở xã hội và nguồn bổ sung lực lượng quan trọng nhất của Đảng; Đảng là tổ chức chính trị cao nhất, mang bản chất giai cấp công nhân và đại biểu trung thành cho lợi ích của công nhân, dân tộc và xã hội.",
+"weight": 100
+},
+{
+"text": "Đảng Cộng sản không có quan hệ hữu cơ với giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân chỉ là lực lượng bên ngoài, không phải cơ sở xã hội của Đảng.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản đại biểu trung thành cho lợi ích của giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 059: [Thông hiểu] Vai trò định hướng đường lối của Đảng",
+"points_possible": 1,
+"question_text": "Trong các vai trò của Đảng Cộng sản, vai trò nào phản ánh năng lực định hướng đường lối?",
+"general_comment": "Giáo trình nêu một vai trò của Đảng là đề ra mục tiêu, phương hướng, đường lối, chính sách đúng đắn, kịp thời và phù hợp.",
+"answers": [
+{
+"text": "Đảng Cộng sản chỉ tổ chức các hoạt động nghề nghiệp phi chính trị.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản thay thế hoàn toàn sự phát triển của bản thân giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản làm cho giai cấp công nhân tách khỏi dân tộc.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản đề ra mục tiêu, phương hướng, đường lối, chính sách đúng đắn, kịp thời, phù hợp hoàn cảnh đất nước và lịch sử.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 060: [Thông hiểu] Liên minh giai cấp là điều kiện",
+"points_possible": 1,
+"question_text": "Vì sao liên minh giữa công nhân, nông dân và các tầng lớp lao động khác là điều kiện không thể thiếu?",
+"general_comment": "Sứ mệnh lịch sử cần sức mạnh liên minh giai cấp do đội tiên phong của công nhân lãnh đạo.",
+"answers": [
+{
+"text": "Vì liên minh này thay thế vai trò lãnh đạo của giai cấp công nhân bằng vai trò của tư sản.",
+"weight": 0
+},
+{
+"text": "Vì liên minh này nhằm xóa bỏ Đảng Cộng sản khỏi phong trào cách mạng.",
+"weight": 0
+},
+{
+"text": "Vì sứ mệnh lịch sử không thể do công nhân tiến hành biệt lập, mà cần tập hợp lực lượng xã hội rộng rãi dưới sự lãnh đạo của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Vì nông dân và các tầng lớp lao động khác không có liên hệ lợi ích với công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 061: [Thông hiểu] Giá trị hiện nay của lý luận Mác - Lênin",
+"points_possible": 1,
+"question_text": "Điểm ổn định nào cho thấy lý luận Mác - Lênin về sứ mệnh lịch sử của giai cấp công nhân vẫn có giá trị hiện nay?",
+"general_comment": "Giáo trình nêu các điểm tương đối ổn định của công nhân hiện nay và khẳng định lý luận về sứ mệnh lịch sử vẫn có giá trị khoa học, cách mạng.",
+"answers": [
+{
+"text": "Công nhân hiện nay đã hoàn toàn không còn bị bóc lột trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Công nhân vẫn là lực lượng sản xuất hàng đầu, ở các nước tư bản vẫn bị bóc lột giá trị thặng dư và phong trào công nhân vẫn đấu tranh vì hòa bình, dân sinh, dân chủ, tiến bộ xã hội và chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân hiện nay đã mất vai trò trong sản xuất công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Phong trào công nhân hiện nay chỉ ủng hộ bất bình đẳng xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 062: [Thông hiểu] Trí tuệ hóa công nhân",
+"points_possible": 1,
+"question_text": "Xu hướng trí tuệ hóa giai cấp công nhân hiện đại có nội dung gì?",
+"general_comment": "Công nhân hiện đại có xu hướng trí tuệ hóa do gắn với khoa học - công nghệ, kinh tế tri thức và yêu cầu đào tạo lại thường xuyên.",
+"answers": [
+{
+"text": "Công nhân rời khỏi sản xuất hiện đại và quay về lao động thủ công.",
+"weight": 0
+},
+{
+"text": "Công nhân không còn cần đào tạo lại trong bối cảnh công nghệ thay đổi.",
+"weight": 0
+},
+{
+"text": "Công nhân chỉ tham gia sở hữu cổ phần, không liên quan tri thức.",
+"weight": 0
+},
+{
+"text": "Công nhân gắn với cách mạng khoa học - công nghệ, kinh tế tri thức, được đào tạo chuẩn mực và thường xuyên đào tạo lại để đáp ứng thay đổi công nghệ.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 063: [Thông hiểu] Trung lưu hóa công nhân",
+"points_possible": 1,
+"question_text": "Giáo trình giải thích xu hướng trung lưu hóa của một bộ phận công nhân hiện nay như thế nào?",
+"general_comment": "Trung lưu hóa là hiện tượng có giới hạn; một bộ phận công nhân có cổ phần, nhưng quyền quyết định vẫn thuộc về cổ đông lớn.",
+"answers": [
+{
+"text": "Một bộ phận công nhân tham gia sở hữu một lượng tư liệu sản xuất thông qua cổ phần hóa, nhưng cổ đông lớn vẫn quyết định sản xuất và phân chia lợi nhuận.",
+"weight": 100
+},
+{
+"text": "Toàn bộ công nhân đã trở thành giai cấp tư sản và không còn bị bóc lột.",
+"weight": 0
+},
+{
+"text": "Công nhân trung lưu hóa nghĩa là từ bỏ hoàn toàn lao động công nghiệp.",
+"weight": 0
+},
+{
+"text": "Trung lưu hóa làm biến mất mọi mâu thuẫn xã hội trong chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 064: [Thông hiểu] Bóc lột trong toàn cầu hóa",
+"points_possible": 1,
+"question_text": "Trong bối cảnh toàn cầu hóa, vì sao giáo trình vẫn khẳng định giai cấp công nhân còn bị bóc lột nặng nề?",
+"general_comment": "Giáo trình nêu công nhân vẫn bị bóc lột bởi các chủ thể mới trong toàn cầu hóa như tập đoàn xuyên quốc gia và nhà nước tư bản phát triển.",
+"answers": [
+{
+"text": "Vì toàn cầu hóa đã xóa bỏ hoàn toàn chủ nghĩa tư bản và các tập đoàn xuyên quốc gia.",
+"weight": 0
+},
+{
+"text": "Vì công nhân hiện đại không tham gia vào sản xuất hàng hóa.",
+"weight": 0
+},
+{
+"text": "Vì các chủ thể mới như tập đoàn xuyên quốc gia và nhà nước của các nước tư bản phát triển tiếp tục bóc lột công nhân trên phạm vi toàn cầu.",
+"weight": 100
+},
+{
+"text": "Vì công nhân đã sở hữu toàn bộ quá trình sản xuất và phân phối lợi nhuận.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 065: [Thông hiểu] Biến đổi cơ cấu công nhân hiện đại",
+"points_possible": 1,
+"question_text": "Bối cảnh toàn cầu hóa, hội nhập quốc tế và cách mạng công nghiệp lần thứ tư làm giai cấp công nhân hiện đại biến đổi như thế nào?",
+"general_comment": "Giáo trình nêu công nhân hiện đại tăng nhanh về số lượng và phân hóa đa dạng về cơ cấu xã hội, nghề nghiệp, thu nhập.",
+"answers": [
+{
+"text": "Tăng nhanh về số lượng, thay đổi lớn về cơ cấu trong sản xuất hiện đại; cơ cấu xã hội, nghề nghiệp và thu nhập giữa các bộ phận công nhân rất khác nhau.",
+"weight": 100
+},
+{
+"text": "Giảm tuyệt đối về số lượng và không còn thay đổi cơ cấu nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Chỉ còn tồn tại trong khu vực kinh tế nhà nước, không có trong khu vực tư nhân.",
+"weight": 0
+},
+{
+"text": "Hoàn toàn đồng nhất về thu nhập, nghề nghiệp và địa vị xã hội trên phạm vi toàn cầu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 066: [Thông hiểu] Sứ mệnh kinh tế - xã hội hiện nay",
+"points_possible": 1,
+"question_text": "Sứ mệnh lịch sử của giai cấp công nhân hiện nay trên lĩnh vực kinh tế - xã hội thể hiện qua điều gì?",
+"general_comment": "Giáo trình gắn sứ mệnh kinh tế - xã hội hiện nay với vai trò sản xuất hiện đại và đấu tranh chống bóc lột, bất công toàn cầu.",
+"answers": [
+{
+"text": "Việc công nhân từ bỏ vai trò sản xuất hiện đại để quay về kinh tế tự nhiên.",
+"weight": 0
+},
+{
+"text": "Việc công nhân chỉ tham gia tiêu dùng, không tham gia sản xuất.",
+"weight": 0
+},
+{
+"text": "Vai trò của công nhân trong sản xuất với công nghệ hiện đại, năng suất và chất lượng cao, bảo đảm phát triển bền vững; đồng thời đấu tranh chống bóc lột giá trị thặng dư, hướng tới trật tự xã hội công bằng, bình đẳng.",
+"weight": 100
+},
+{
+"text": "Việc công nhân ủng hộ trật tự bất bình đẳng do chủ nghĩa tư bản tạo ra.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 067: [Thông hiểu] Đấu tranh ý thức hệ hiện nay",
+"points_possible": 1,
+"question_text": "Vì sao đấu tranh văn hóa, tư tưởng hiện nay giữa chủ nghĩa xã hội và chủ nghĩa tư bản trở nên phức tạp và gay gắt?",
+"general_comment": "Sự tan rã của hệ thống xã hội chủ nghĩa và các mặt trái của kinh tế thị trường làm đấu tranh tư tưởng gay gắt hơn.",
+"answers": [
+{
+"text": "Vì chủ nghĩa tư bản và chủ nghĩa xã hội đã thống nhất hoàn toàn về hệ tư tưởng.",
+"weight": 0
+},
+{
+"text": "Vì hệ thống xã hội chủ nghĩa thế giới tan rã, phong trào cách mạng có thoái trào tạm thời, niềm tin vào lý tưởng xã hội chủ nghĩa đứng trước thử thách trong bối cảnh kinh tế thị trường có nhiều mặt trái.",
+"weight": 100
+},
+{
+"text": "Vì phong trào cách mạng thế giới không còn bất kỳ khó khăn nào.",
+"weight": 0
+},
+{
+"text": "Vì kinh tế thị trường không tạo ra tác động mặt trái nào đối với tư tưởng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 068: [Thông hiểu] Đặc điểm ra đời của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc điểm ra đời của giai cấp công nhân Việt Nam có ý nghĩa gì đối với tính chất cách mạng của giai cấp này?",
+"general_comment": "Bối cảnh thuộc địa nửa phong kiến và khai thác thuộc địa của Pháp quy định đặc điểm dân tộc, cách mạng của công nhân Việt Nam.",
+"answers": [
+{
+"text": "Ra đời từ chế độ công xã nguyên thủy nên không gắn với chủ nghĩa thực dân.",
+"weight": 0
+},
+{
+"text": "Ra đời sau năm 1986 nên không liên quan đến cách mạng dân tộc dân chủ.",
+"weight": 0
+},
+{
+"text": "Ra đời với tư cách giai cấp sở hữu tư bản nên đối lập với nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Ra đời đầu thế kỷ XX trong khai thác thuộc địa của Pháp, trong nước thuộc địa nửa phong kiến, công nhân Việt Nam sớm gắn đấu tranh giai cấp với đấu tranh dân tộc.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 069: [Thông hiểu] Nguồn gốc nông dân của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Nguồn gốc chủ yếu từ nông dân của giai cấp công nhân Việt Nam tạo ra đặc điểm quan hệ xã hội nào?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam có nguồn gốc chủ yếu từ nông dân, gắn bó mật thiết với các tầng lớp nhân dân lao động.",
+"answers": [
+{
+"text": "Giai cấp công nhân Việt Nam gắn bó mật thiết với nông dân và các tầng lớp nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân Việt Nam tách biệt hoàn toàn khỏi nông dân.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân Việt Nam đối kháng trực tiếp với trí thức và các tầng lớp lao động.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân Việt Nam chỉ có quan hệ hữu cơ với tư bản thực dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 070: [Thông hiểu] Đối kháng của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Theo giáo trình, giai cấp công nhân Việt Nam đối kháng trực tiếp với lực lượng nào, nhưng không đối kháng trực tiếp với lực lượng nào?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam đối kháng trực tiếp với tư bản thực dân Pháp, không đối kháng trực tiếp với tư sản dân tộc.",
+"answers": [
+{
+"text": "Đối kháng trực tiếp với nông dân, không đối kháng với tư bản thực dân Pháp.",
+"weight": 0
+},
+{
+"text": "Đối kháng trực tiếp với tư bản thực dân Pháp, không đối kháng trực tiếp với tư sản dân tộc.",
+"weight": 100
+},
+{
+"text": "Đối kháng trực tiếp với trí thức, không đối kháng với tư bản thực dân Pháp.",
+"weight": 0
+},
+{
+"text": "Đối kháng trực tiếp với tư sản dân tộc, không đối kháng với tư bản thực dân Pháp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 071: [Thông hiểu] Trưởng thành chính trị của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Vì sao giai cấp công nhân Việt Nam trưởng thành nhanh chóng về ý thức chính trị?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam sớm có Đảng lãnh đạo nên nhanh chóng trưởng thành về ý thức chính trị và tổ chức.",
+"answers": [
+{
+"text": "Vì không có tổ chức chính trị lãnh đạo nên phát triển hoàn toàn tự phát.",
+"weight": 0
+},
+{
+"text": "Vì tách khỏi phong trào dân tộc và phong trào nông dân.",
+"weight": 0
+},
+{
+"text": "Vì sớm có Đảng lãnh đạo nên được giác ngộ lý tưởng, mục tiêu cách mạng, thống nhất tư tưởng và tổ chức, có tinh thần cách mạng triệt để.",
+"weight": 100
+},
+{
+"text": "Vì trở thành lực lượng sở hữu tư bản chủ yếu trong xã hội thuộc địa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 072: [Thông hiểu] Đa dạng cơ cấu nghề nghiệp của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Sự đa dạng về cơ cấu nghề nghiệp của giai cấp công nhân Việt Nam hiện nay được giáo trình mô tả như thế nào?",
+"general_comment": "Công nhân Việt Nam đa dạng nghề nghiệp, có mặt trong mọi thành phần kinh tế; khu vực nhà nước giữ vai trò nòng cốt, chủ đạo.",
+"answers": [
+{
+"text": "Công nhân chỉ có mặt trong kinh tế tư nhân nhỏ lẻ, không có trong khu vực nhà nước.",
+"weight": 0
+},
+{
+"text": "Công nhân có mặt trong mọi thành phần kinh tế; đội ngũ công nhân khu vực kinh tế nhà nước là tiêu biểu, giữ vai trò nòng cốt, chủ đạo trong phát triển kinh tế - xã hội.",
+"weight": 100
+},
+{
+"text": "Công nhân chỉ tồn tại trong một ngành duy nhất, không có cơ cấu nghề nghiệp đa dạng.",
+"weight": 0
+},
+{
+"text": "Công nhân khu vực nhà nước không có vai trò nào trong phát triển kinh tế - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 073: [Thông hiểu] Thời cơ và thách thức của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Trong bối cảnh đổi mới và cách mạng công nghiệp lần thứ tư, giai cấp công nhân Việt Nam đứng trước điều gì?",
+"general_comment": "Môi trường kinh tế - xã hội đổi mới và cách mạng công nghiệp lần thứ tư tạo ra cả thời cơ và thách thức cho công nhân Việt Nam.",
+"answers": [
+{
+"text": "Chỉ có thời cơ, không có bất kỳ thách thức nào.",
+"weight": 0
+},
+{
+"text": "Chỉ có nguy cơ, không có khả năng phát triển.",
+"weight": 0
+},
+{
+"text": "Không chịu tác động của đổi mới và cách mạng công nghiệp lần thứ tư.",
+"weight": 0
+},
+{
+"text": "Thời cơ phát triển và những thách thức, nguy cơ trong phát triển.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 074: [Thông hiểu] Điểm then chốt thực hiện sứ mệnh công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Điểm then chốt để thực hiện thành công sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?",
+"general_comment": "Giáo trình nêu xây dựng, chỉnh đốn Đảng trong sạch, vững mạnh là điểm then chốt để thực hiện sứ mệnh lịch sử của công nhân Việt Nam.",
+"answers": [
+{
+"text": "Đặc biệt coi trọng xây dựng, chỉnh đốn Đảng, làm cho Đảng lãnh đạo, cầm quyền thực sự trong sạch, vững mạnh.",
+"weight": 100
+},
+{
+"text": "Tách giai cấp công nhân khỏi vai trò lãnh đạo của Đảng.",
+"weight": 0
+},
+{
+"text": "Chỉ tăng số lượng công nhân mà không cần nâng cao chất lượng.",
+"weight": 0
+},
+{
+"text": "Bỏ qua bản lĩnh chính trị, kỷ luật lao động và tác phong công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 075: [Thông hiểu] Liên minh công - nông - trí thức ở Việt Nam",
+"points_possible": 1,
+"question_text": "Thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam trên lĩnh vực kinh tế gắn với yêu cầu nào?",
+"general_comment": "Giáo trình nêu sứ mệnh kinh tế gắn với nâng cao chất lượng, hiệu quả liên minh công - nông - trí thức.",
+"answers": [
+{
+"text": "Tách công nhân khỏi nông dân và trí thức để bảo đảm tính độc lập tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Chỉ phát huy vai trò của trí thức, không cần công nhân và nông dân.",
+"weight": 0
+},
+{
+"text": "Phát huy vai trò của giai cấp công nhân trong nâng cao chất lượng, hiệu quả khối liên minh công - nông - trí thức.",
+"weight": 100
+},
+{
+"text": "Hạ thấp chất lượng liên minh giai cấp để tăng cạnh tranh cá nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 076: [Thông hiểu] Chính sách bảo vệ quyền lợi công nhân",
+"points_possible": 1,
+"question_text": "Theo phương hướng giáo trình nêu, các chính sách, pháp luật về tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cần được sửa đổi, bổ sung nhằm mục đích gì?",
+"general_comment": "Giáo trình nêu sửa đổi, bổ sung các chính sách này để bảo vệ quyền lợi và nâng cao đời sống vật chất, tinh thần của công nhân.",
+"answers": [
+{
+"text": "Bảo vệ quyền lợi, nâng cao đời sống vật chất và tinh thần của công nhân.",
+"weight": 100
+},
+{
+"text": "Giảm trách nhiệm xã hội đối với công nhân.",
+"weight": 0
+},
+{
+"text": "Tách công nhân khỏi hệ thống phúc lợi xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ phục vụ lợi ích của người sử dụng lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 077: [Vận dụng/Phân tích] Nhận diện giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Một nhóm lao động trực tiếp vận hành dây chuyền sản xuất tự động trong nhà máy, không sở hữu tư liệu sản xuất chủ yếu và phải bán sức lao động cho chủ tư bản. Theo tiêu chí của giáo trình, nhận định nào đúng nhất?",
+"general_comment": "Tiêu chí nhận diện công nhân trong chủ nghĩa tư bản gồm phương thức lao động công nghiệp và địa vị không sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động.",
+"answers": [
+{
+"text": "Họ thuộc giai cấp tư sản vì vận hành máy móc hiện đại.",
+"weight": 0
+},
+{
+"text": "Họ thuộc giai cấp công nhân trong quan hệ sản xuất tư bản chủ nghĩa vì lao động công nghiệp, không sở hữu tư liệu sản xuất chủ yếu và bị bóc lột giá trị thặng dư.",
+"weight": 100
+},
+{
+"text": "Họ thuộc địa chủ phong kiến vì không sở hữu máy móc.",
+"weight": 0
+},
+{
+"text": "Họ không thể là công nhân vì làm việc với công nghệ hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 078: [Vận dụng/Phân tích] Phân biệt công nhân ở tư bản và xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Khi so sánh công nhân ở nước tư bản chủ nghĩa và nước xã hội chủ nghĩa, điểm khác biệt căn bản cần nhấn mạnh là gì?",
+"general_comment": "Giáo trình phân biệt địa vị sở hữu và quan hệ bóc lột của công nhân trong hai chế độ xã hội.",
+"answers": [
+{
+"text": "Ở cả hai loại nước, công nhân đều sở hữu tư nhân tư bản chủ nghĩa đối với tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Ở nước tư bản, công nhân làm thuê và bị bóc lột giá trị thặng dư; ở nước xã hội chủ nghĩa, công nhân cùng nhân dân lao động làm chủ tư liệu sản xuất chủ yếu và hợp tác vì lợi ích chung.",
+"weight": 100
+},
+{
+"text": "Ở nước tư bản, công nhân làm chủ tư liệu sản xuất; ở nước xã hội chủ nghĩa, công nhân làm thuê cho tư sản.",
+"weight": 0
+},
+{
+"text": "Sự khác biệt chỉ nằm ở tên gọi chính trị, không liên quan quan hệ sở hữu và bóc lột.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 079: [Vận dụng/Phân tích] Mâu thuẫn lợi ích công nhân - tư sản",
+"points_possible": 1,
+"question_text": "Nếu một doanh nghiệp tăng lợi nhuận chủ yếu bằng kéo dài thời gian lao động, giảm tiền công tương đối và kiểm soát chặt quy trình sản xuất, hiện tượng này minh họa luận điểm nào?",
+"general_comment": "Giáo trình nêu lao động sống của công nhân là nguồn gốc giá trị thặng dư và sự giàu có của tư sản.",
+"answers": [
+{
+"text": "Sự thống nhất hoàn toàn lợi ích giữa công nhân và tư sản.",
+"weight": 0
+},
+{
+"text": "Việc công nhân đã trở thành cổ đông quyết định toàn bộ lợi nhuận.",
+"weight": 0
+},
+{
+"text": "Sự giàu có của tư sản chủ yếu dựa vào bóc lột giá trị thặng dư từ lao động sống của công nhân, làm sâu sắc mâu thuẫn lợi ích công nhân - tư sản.",
+"weight": 100
+},
+{
+"text": "Sự biến mất của mâu thuẫn cơ bản trong phương thức sản xuất tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 080: [Vận dụng/Phân tích] Liên hệ lực lượng sản xuất và sứ mệnh lịch sử",
+"points_possible": 1,
+"question_text": "Vì sao việc công nhân là đại biểu của lực lượng sản xuất tiên tiến lại có ý nghĩa quyết định đối với sứ mệnh lịch sử của họ?",
+"general_comment": "Địa vị trong lực lượng sản xuất tiên tiến là cơ sở khách quan quy định sứ mệnh cách mạng của giai cấp công nhân.",
+"answers": [
+{
+"text": "Vì lực lượng sản xuất tiên tiến làm công nhân không còn cần đấu tranh giai cấp.",
+"weight": 0
+},
+{
+"text": "Vì công nhân càng hiện đại thì càng mất vai trò trong sản xuất xã hội.",
+"weight": 0
+},
+{
+"text": "Vì lực lượng sản xuất tiên tiến mâu thuẫn với quan hệ sản xuất tư bản chủ nghĩa lỗi thời, khiến công nhân có vai trò phá vỡ quan hệ cũ và xây dựng phương thức sản xuất cao hơn.",
+"weight": 100
+},
+{
+"text": "Vì công nhân chỉ đại diện cho lợi ích của thiểu số sở hữu tư liệu sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 081: [Vận dụng/Phân tích] Phê phán quan điểm thuần túy kinh tế",
+"points_possible": 1,
+"question_text": "Một ý kiến cho rằng sứ mệnh lịch sử của giai cấp công nhân chỉ là đòi tăng lương và cải thiện điều kiện lao động. Theo giáo trình, phản biện nào đúng nhất?",
+"general_comment": "Sứ mệnh lịch sử được giáo trình triển khai trên ba lĩnh vực: kinh tế, chính trị - xã hội, văn hóa - tư tưởng.",
+"answers": [
+{
+"text": "Ý kiến đó phiến diện vì sứ mệnh lịch sử gồm cả cải tạo quan hệ sản xuất, giành và xây dựng quyền lực chính trị của nhân dân lao động, xây dựng văn hóa và hệ tư tưởng mới.",
+"weight": 100
+},
+{
+"text": "Ý kiến đó đúng vì giáo trình không đề cập nội dung chính trị - xã hội và văn hóa.",
+"weight": 0
+},
+{
+"text": "Ý kiến đó đúng vì công nhân không có nhiệm vụ xóa bỏ chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Ý kiến đó sai vì công nhân chỉ có nhiệm vụ văn hóa, không liên quan kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 082: [Vận dụng/Phân tích] Mục tiêu trước mắt và mục tiêu lâu dài",
+"points_possible": 1,
+"question_text": "Trong một nước tư bản, phong trào công nhân đấu tranh đòi dân sinh, dân chủ, tiến bộ xã hội nhưng đồng thời xây dựng cương lĩnh giành chính quyền. Cách hiểu nào phù hợp nhất với giáo trình?",
+"general_comment": "Giáo trình nêu mục tiêu trước mắt là chống bất công, đòi dân sinh, dân chủ; mục tiêu lâu dài là giành chính quyền.",
+"answers": [
+{
+"text": "Đó là sự từ bỏ mục tiêu lâu dài để chỉ cải cách trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Đó là nhiệm vụ chỉ xuất hiện ở các nước xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Đó là sự kết hợp mục tiêu trước mắt với mục tiêu lâu dài của giai cấp công nhân trong các nước tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Đó là hoạt động không liên quan đến sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 083: [Vận dụng/Phân tích] Xóa bỏ tư hữu tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Nếu một cuộc cách mạng chỉ chuyển tư liệu sản xuất từ nhóm tư bản này sang nhóm tư bản khác, vì sao chưa phù hợp với sứ mệnh lịch sử của giai cấp công nhân?",
+"general_comment": "Giáo trình nhấn mạnh đặc điểm sứ mệnh công nhân là xóa bỏ tư hữu về tư liệu sản xuất.",
+"answers": [
+{
+"text": "Vì sứ mệnh của công nhân chỉ là thay đổi chủ sở hữu tư nhân.",
+"weight": 0
+},
+{
+"text": "Vì công nhân không quan tâm đến vấn đề sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Vì sứ mệnh của giai cấp công nhân không phải thay thế một chế độ sở hữu tư nhân bằng một chế độ sở hữu tư nhân khác, mà xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất.",
+"weight": 100
+},
+{
+"text": "Vì quan hệ sở hữu không liên quan đến phương thức sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 084: [Vận dụng/Phân tích] Vai trò của chính đảng tiền phong",
+"points_possible": 1,
+"question_text": "Một phong trào công nhân phát triển mạnh nhưng thiếu lý luận khoa học, thiếu tổ chức chính trị cao nhất và không có đường lối phù hợp. Theo giáo trình, hạn chế chủ quan cốt lõi là gì?",
+"general_comment": "Đảng Cộng sản là nhân tố chủ quan quan trọng nhất, quyết định việc thực hiện sứ mệnh lịch sử của giai cấp công nhân.",
+"answers": [
+{
+"text": "Thiếu sự bóc lột giá trị thặng dư của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Thiếu sự phát triển của sở hữu tư nhân tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Thiếu vai trò lãnh đạo của Đảng Cộng sản - đội tiên phong, bộ tham mưu chiến đấu và nhân tố quyết định việc thực hiện sứ mệnh lịch sử.",
+"weight": 100
+},
+{
+"text": "Thiếu sự phân tán của phong trào công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 085: [Vận dụng/Phân tích] Quy luật ra đời Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Trong một nước, phong trào công nhân tự phát đã có nhiều cuộc đấu tranh nhưng chưa hình thành Đảng Cộng sản. Theo quy luật giáo trình nêu, yếu tố nào cần kết hợp với phong trào công nhân?",
+"general_comment": "Quy luật ra đời Đảng Cộng sản là sự kết hợp chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác, với phong trào công nhân.",
+"answers": [
+{
+"text": "Chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa tự do kinh tế cổ điển.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa dân tộc hẹp hòi chống quốc tế vô sản.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa bảo thủ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 086: [Vận dụng/Phân tích] Liên minh công - nông - lao động",
+"points_possible": 1,
+"question_text": "Một chiến lược cách mạng chỉ dựa vào công nhân đô thị, xem nhẹ nông dân và các tầng lớp lao động khác. Theo giáo trình, điểm yếu lớn nhất của chiến lược này là gì?",
+"general_comment": "Giáo trình coi liên minh công nhân với nông dân và các tầng lớp lao động khác là điều kiện không thể thiếu.",
+"answers": [
+{
+"text": "Không phát triển được chủ nghĩa tư bản nhà nước.",
+"weight": 0
+},
+{
+"text": "Không xây dựng được liên minh giai cấp cần thiết do giai cấp công nhân thông qua Đảng Cộng sản lãnh đạo.",
+"weight": 100
+},
+{
+"text": "Không bảo vệ được quyền lợi của cổ đông lớn trong nền kinh tế tư bản.",
+"weight": 0
+},
+{
+"text": "Không giữ được tính biệt lập của công nhân với quần chúng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 087: [Vận dụng/Phân tích] Trí tuệ hóa trong cách mạng công nghiệp 4.0",
+"points_possible": 1,
+"question_text": "Trong bối cảnh cách mạng công nghiệp lần thứ tư, yêu cầu công nhân phải thường xuyên đào tạo lại, làm chủ công nghệ số và tri thức mới minh họa xu hướng nào?",
+"general_comment": "Giáo trình nêu công nhân hiện đại có xu hướng trí tuệ hóa, gắn với khoa học - công nghệ và kinh tế tri thức.",
+"answers": [
+{
+"text": "Xu hướng phong kiến hóa giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Xu hướng tách công nhân khỏi sản xuất công nghiệp.",
+"weight": 0
+},
+{
+"text": "Xu hướng trí tuệ hóa giai cấp công nhân hiện đại.",
+"weight": 100
+},
+{
+"text": "Xu hướng giảm vai trò của tri thức trong lao động công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 088: [Vận dụng/Phân tích] Trung lưu hóa không xóa bóc lột",
+"points_possible": 1,
+"question_text": "Một công nhân sở hữu lượng cổ phần nhỏ trong doanh nghiệp nhưng không có quyền quyết định sản xuất và phân chia lợi nhuận. Theo giáo trình, kết luận nào phù hợp?",
+"general_comment": "Giáo trình nêu một bộ phận công nhân tham gia sở hữu qua cổ phần hóa nhưng cổ đông lớn vẫn quyết định sản xuất và lợi nhuận.",
+"answers": [
+{
+"text": "Người đó đã trở thành nhà tư bản lớn quyết định toàn bộ quá trình sản xuất.",
+"weight": 0
+},
+{
+"text": "Hiện tượng này chứng minh mâu thuẫn công nhân - tư sản đã hoàn toàn biến mất.",
+"weight": 0
+},
+{
+"text": "Đây có thể là biểu hiện trung lưu hóa, nhưng không làm thay đổi bản chất quyền quyết định thuộc về cổ đông lớn và không tự động xóa bỏ bóc lột.",
+"weight": 100
+},
+{
+"text": "Sở hữu cổ phần nhỏ đồng nghĩa với làm chủ tư liệu sản xuất chủ yếu của xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 089: [Vận dụng/Phân tích] Toàn cầu hóa và mâu thuẫn lợi ích",
+"points_possible": 1,
+"question_text": "Nếu chuỗi cung ứng toàn cầu làm công nhân ở nhiều nước chịu áp lực lương thấp, cường độ lao động cao từ tập đoàn xuyên quốc gia, hiện tượng này phù hợp với luận điểm nào?",
+"general_comment": "Giáo trình chỉ rõ trong toàn cầu hóa, công nhân còn bị bóc lột bởi tập đoàn xuyên quốc gia và nhà nước tư bản phát triển.",
+"answers": [
+{
+"text": "Toàn cầu hóa đã xóa bỏ hoàn toàn bóc lột giá trị thặng dư.",
+"weight": 0
+},
+{
+"text": "Tập đoàn xuyên quốc gia không liên quan đến chủ nghĩa tư bản hiện đại.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân vẫn bị bóc lột nặng nề bởi các chủ thể mới trong toàn cầu hóa, làm mâu thuẫn lợi ích với tư sản sâu sắc trên phạm vi toàn cầu.",
+"weight": 100
+},
+{
+"text": "Công nhân trong toàn cầu hóa không còn thuộc lực lượng sản xuất hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 090: [Vận dụng/Phân tích] Đánh giá lý luận Mác - Lênin hiện nay",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng do cơ cấu công nhân hiện đại đa dạng hơn nên lý luận Mác - Lênin về sứ mệnh lịch sử của công nhân đã mất giá trị. Theo giáo trình, đánh giá nào đúng?",
+"general_comment": "Giáo trình nêu các điểm ổn định của giai cấp công nhân hiện nay và khẳng định lý luận Mác - Lênin vẫn có giá trị khoa học, cách mạng.",
+"answers": [
+{
+"text": "Quan điểm đó sai; dù có biến đổi về cơ cấu, lý luận về sứ mệnh lịch sử vẫn có giá trị khoa học, cách mạng và ý nghĩa thực tiễn trong đấu tranh hiện nay.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng vì công nhân hiện đại không còn là lực lượng sản xuất hàng đầu.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì công nhân trong chủ nghĩa tư bản không còn bị bóc lột.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì phong trào công nhân không còn đấu tranh vì dân sinh, dân chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 091: [Vận dụng/Phân tích] Đấu tranh tư tưởng trong kinh tế thị trường",
+"points_possible": 1,
+"question_text": "Trong nền kinh tế thị trường, các giá trị tiêu dùng, cá nhân chủ nghĩa và quan điểm sai trái tác động mạnh đến niềm tin xã hội chủ nghĩa. Theo giáo trình, nhiệm vụ phù hợp của giai cấp công nhân là gì?",
+"general_comment": "Giáo trình nêu đấu tranh văn hóa, tư tưởng hiện nay diễn ra phức tạp, cần bảo vệ nền tảng tư tưởng và niềm tin xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Từ bỏ đấu tranh tư tưởng vì kinh tế thị trường không có mặt trái.",
+"weight": 0
+},
+{
+"text": "Đấu tranh ý thức hệ, bảo vệ nền tảng tư tưởng của Đảng Cộng sản, củng cố niềm tin khoa học vào mục tiêu chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Thay thế hệ tư tưởng của giai cấp công nhân bằng hệ tư tưởng tư sản.",
+"weight": 0
+},
+{
+"text": "Tách văn hóa, tư tưởng khỏi mọi nhiệm vụ chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 092: [Vận dụng/Phân tích] Đặc điểm công nhân Việt Nam và liên minh xã hội",
+"points_possible": 1,
+"question_text": "Do có nguồn gốc chủ yếu từ nông dân và gắn bó mật thiết với các tầng lớp lao động, giai cấp công nhân Việt Nam có thuận lợi nào trong cách mạng?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam có nguồn gốc nông dân, gắn bó với nhân dân lao động và liên minh chặt chẽ với nông dân, trí thức.",
+"answers": [
+{
+"text": "Có cơ sở xã hội thuận lợi để xây dựng liên minh chặt chẽ với nông dân, trí thức và các tầng lớp lao động khác.",
+"weight": 100
+},
+{
+"text": "Có xu hướng tất yếu tách khỏi khối đại đoàn kết dân tộc.",
+"weight": 0
+},
+{
+"text": "Không thể liên minh với nông dân vì khác biệt nguồn gốc xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ có thể liên minh với tư bản thực dân Pháp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 093: [Vận dụng/Phân tích] Đặc điểm dân tộc của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Trong bối cảnh thuộc địa nửa phong kiến, vì sao tinh thần dân tộc, yêu nước và đoàn kết là đặc điểm quan trọng của giai cấp công nhân Việt Nam?",
+"general_comment": "Công nhân Việt Nam ra đời trong khai thác thuộc địa của Pháp và có tinh thần dân tộc, yêu nước, đoàn kết.",
+"answers": [
+{
+"text": "Vì công nhân Việt Nam không chịu tác động của chủ nghĩa thực dân.",
+"weight": 0
+},
+{
+"text": "Vì công nhân Việt Nam đối lập trực tiếp với toàn bộ dân tộc.",
+"weight": 0
+},
+{
+"text": "Vì yêu nước làm công nhân từ bỏ mục tiêu xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vì sứ mệnh của công nhân Việt Nam gắn đấu tranh giai cấp với đấu tranh giải phóng dân tộc chống thực dân, phong kiến.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 094: [Vận dụng/Phân tích] Sớm có Đảng lãnh đạo",
+"points_possible": 1,
+"question_text": "Yếu tố “sớm có Đảng lãnh đạo” giúp giải thích điểm nào của giai cấp công nhân Việt Nam?",
+"general_comment": "Giáo trình nêu công nhân Việt Nam sớm có Đảng lãnh đạo nên được giác ngộ lý tưởng, thống nhất tư tưởng tổ chức và có tinh thần cách mạng triệt để.",
+"answers": [
+{
+"text": "Không cần giác ngộ lý tưởng và tổ chức cách mạng.",
+"weight": 0
+},
+{
+"text": "Trưởng thành nhanh về ý thức chính trị, thống nhất tư tưởng và tổ chức, sớm giác ngộ lý tưởng và có tinh thần cách mạng triệt để.",
+"weight": 100
+},
+{
+"text": "Chỉ phát triển như một lực lượng công đoàn kinh tế thuần túy.",
+"weight": 0
+},
+{
+"text": "Tách khỏi mục tiêu cách mạng dân tộc và xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 095: [Vận dụng/Phân tích] Công nhân tri thức và ngành mũi nhọn",
+"points_possible": 1,
+"question_text": "Một nhóm công nhân Việt Nam làm trong lĩnh vực bán dẫn, tự động hóa, công nghệ thông tin, thường xuyên cập nhật kỹ năng và làm việc theo chuẩn nghề nghiệp. Nhóm này minh họa đặc điểm nào?",
+"general_comment": "Giáo trình nêu công nhân tri thức Việt Nam nắm khoa học - công nghệ tiên tiến, lao động chủ yếu ở ngành kinh tế mũi nhọn và được đào tạo chuẩn.",
+"answers": [
+{
+"text": "Sự suy giảm hoàn toàn chất lượng giai cấp công nhân Việt Nam.",
+"weight": 0
+},
+{
+"text": "Sự quay lại mô hình lao động thủ công tiền công nghiệp.",
+"weight": 0
+},
+{
+"text": "Sự hình thành đội ngũ công nhân tri thức, nắm khoa học - công nghệ tiên tiến và lao động trong các ngành kinh tế mũi nhọn.",
+"weight": 100
+},
+{
+"text": "Sự tách công nhân khỏi quá trình công nghiệp hóa, hiện đại hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 096: [Vận dụng/Phân tích] Hạn chế nguồn nhân lực công nhân",
+"points_possible": 1,
+"question_text": "Nếu thị trường lao động vừa thiếu kỹ sư, công nhân lành nghề, cán bộ quản lý giỏi, vừa thừa lao động chưa qua đào tạo phù hợp, nhận định nào khớp với giáo trình?",
+"general_comment": "Giáo trình nêu nguồn lực lao động qua đào tạo của Việt Nam vừa thiếu lại vừa thừa do mất cân đối cơ cấu.",
+"answers": [
+{
+"text": "Đó là bằng chứng công nhân Việt Nam đã đáp ứng đầy đủ yêu cầu công nghiệp hóa.",
+"weight": 0
+},
+{
+"text": "Đó là hiện tượng không liên quan đến trình độ chuyên môn và kỹ năng nghề nghiệp.",
+"weight": 0
+},
+{
+"text": "Đó là tình trạng nguồn lực lao động qua đào tạo vừa thiếu lại vừa thừa do mất cân đối trong cơ cấu lao động qua đào tạo.",
+"weight": 100
+},
+{
+"text": "Đó là dấu hiệu cho thấy không cần đào tạo, bồi dưỡng công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 097: [Vận dụng/Phân tích] Xây dựng công nhân trong bối cảnh mới",
+"points_possible": 1,
+"question_text": "Trước thời cơ và thách thức của đổi mới, hội nhập và cách mạng công nghiệp lần thứ tư, giải pháp tổng quát nào phù hợp nhất để giai cấp công nhân Việt Nam thực hiện sứ mệnh lịch sử?",
+"general_comment": "Giáo trình nêu cần xây dựng công nhân lớn mạnh toàn diện để thực hiện sứ mệnh trong bối cảnh hiện nay.",
+"answers": [
+{
+"text": "Chỉ tăng số lượng lao động giản đơn, không cần chất lượng và bản lĩnh chính trị.",
+"weight": 0
+},
+{
+"text": "Xây dựng giai cấp công nhân lớn mạnh cả về số lượng, chất lượng, trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, kỷ luật lao động, tác phong công nghiệp và bản lĩnh chính trị.",
+"weight": 100
+},
+{
+"text": "Chỉ dựa vào nhập khẩu công nghệ, không cần đào tạo công nhân.",
+"weight": 0
+},
+{
+"text": "Tách công nhân khỏi công nghiệp hóa, hiện đại hóa và hội nhập quốc tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 098: [Vận dụng/Phân tích] Vai trò kinh tế của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Một chương trình phát triển đặt công nhân vào trung tâm của công nghiệp hóa, hiện đại hóa, nâng cao chất lượng liên minh công - nông - trí thức. Chương trình này phù hợp với nội dung nào của sứ mệnh công nhân Việt Nam?",
+"general_comment": "Trên lĩnh vực kinh tế, công nhân Việt Nam đi đầu công nghiệp hóa, hiện đại hóa và nâng cao hiệu quả liên minh công - nông - trí thức.",
+"answers": [
+{
+"text": "Nội dung văn hóa, tư tưởng thuần túy, không liên quan kinh tế.",
+"weight": 0
+},
+{
+"text": "Nhiệm vụ của giai cấp tư sản trong phát triển chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Nội dung kinh tế của sứ mệnh lịch sử giai cấp công nhân Việt Nam hiện nay.",
+"weight": 100
+},
+{
+"text": "Nội dung chỉ dành cho các nước tư bản phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 099: [Vận dụng/Phân tích] Nhà nước của dân, do dân, vì dân",
+"points_possible": 1,
+"question_text": "Khi giai cấp công nhân Việt Nam cùng nhân dân lao động xây dựng nhà nước của dân, do dân, vì dân và nền dân chủ xã hội chủ nghĩa, đó là biểu hiện của sứ mệnh trên lĩnh vực nào?",
+"general_comment": "Giáo trình xếp nhiệm vụ củng cố hệ thống chính trị, xây dựng nhà nước của dân, do dân, vì dân và dân chủ xã hội chủ nghĩa vào lĩnh vực chính trị - xã hội.",
+"answers": [
+{
+"text": "Kinh tế thuần túy.",
+"weight": 0
+},
+{
+"text": "Chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Kỹ thuật sản xuất.",
+"weight": 0
+},
+{
+"text": "Tiền lương và bảo hiểm.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 100: [Vận dụng/Phân tích] Bảo vệ nền tảng tư tưởng ở Việt Nam",
+"points_possible": 1,
+"question_text": "Một hoạt động phản bác quan điểm xuyên tạc chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và kiên định mục tiêu độc lập dân tộc gắn với chủ nghĩa xã hội thuộc nội dung nào?",
+"general_comment": "Giáo trình nêu văn hóa tư tưởng gồm bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và chống quan điểm sai trái.",
+"answers": [
+{
+"text": "Nội dung văn hóa tư tưởng trong sứ mệnh lịch sử của giai cấp công nhân Việt Nam.",
+"weight": 100
+},
+{
+"text": "Nội dung cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa ở các nước tư bản.",
+"weight": 0
+},
+{
+"text": "Nội dung trung lưu hóa của công nhân hiện đại.",
+"weight": 0
+},
+{
+"text": "Nội dung đòi quyền dân sinh, dân chủ trước mắt ở nước tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 101: [Vận dụng/Phân tích] Chính sách phúc lợi công nhân",
+"points_possible": 1,
+"question_text": "Một địa phương xây nhà ở công nhân, công trình phúc lợi, cải thiện bảo hiểm xã hội, y tế và thất nghiệp cho công nhân. Chính sách này phù hợp với phương hướng nào?",
+"general_comment": "Giáo trình nêu phương hướng bảo đảm việc làm, nhà ở, phúc lợi và sửa đổi chính sách về lương, bảo hiểm để nâng cao đời sống công nhân.",
+"answers": [
+{
+"text": "Chỉ chú trọng đấu tranh ý thức hệ, không liên quan đời sống công nhân.",
+"weight": 0
+},
+{
+"text": "Tách phát triển công nhân khỏi chính sách xã hội.",
+"weight": 0
+},
+{
+"text": "Bảo đảm việc làm, nhà ở, công trình phúc lợi và hoàn thiện chính sách để bảo vệ quyền lợi, nâng cao đời sống vật chất, tinh thần của công nhân.",
+"weight": 100
+},
+{
+"text": "Giảm vai trò của hệ thống chính trị trong chăm lo công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 102: [Vận dụng/Phân tích] Xây dựng công nhân và xây dựng Đảng",
+"points_possible": 1,
+"question_text": "Vì sao xây dựng giai cấp công nhân Việt Nam lớn mạnh phải gắn với xây dựng, chỉnh đốn Đảng?",
+"general_comment": "Giáo trình nhấn mạnh xây dựng, chỉnh đốn Đảng trong sạch, vững mạnh là điểm then chốt để thực hiện sứ mệnh lịch sử của công nhân Việt Nam.",
+"answers": [
+{
+"text": "Vì xây dựng công nhân không liên quan đến vai trò lãnh đạo của Đảng.",
+"weight": 0
+},
+{
+"text": "Vì Đảng chỉ là tổ chức nghề nghiệp của người lao động, không có vai trò chính trị.",
+"weight": 0
+},
+{
+"text": "Vì Đảng Cộng sản Việt Nam là đội tiên phong lãnh đạo giai cấp công nhân; Đảng trong sạch, vững mạnh là điểm then chốt để công nhân thực hiện thành công sứ mệnh lịch sử.",
+"weight": 100
+},
+{
+"text": "Vì công nhân muốn phát triển phải tách khỏi nền tảng chính trị của mình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 103: [Vận dụng/Phân tích] Gắn công nhân với chiến lược phát triển",
+"points_possible": 1,
+"question_text": "Một chính sách đào tạo công nhân được thiết kế tách rời chiến lược phát triển kinh tế - xã hội, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế. Theo giáo trình, hạn chế của chính sách này là gì?",
+"general_comment": "Một giải pháp chủ yếu là xây dựng công nhân lớn mạnh gắn chặt với chiến lược phát triển, công nghiệp hóa, hiện đại hóa và hội nhập quốc tế.",
+"answers": [
+{
+"text": "Không gắn xây dựng giai cấp công nhân lớn mạnh với chiến lược phát triển kinh tế - xã hội, công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế.",
+"weight": 100
+},
+{
+"text": "Quá chú trọng gắn công nhân với chiến lược phát triển quốc gia.",
+"weight": 0
+},
+{
+"text": "Quá đề cao liên minh công nhân với nông dân và trí thức.",
+"weight": 0
+},
+{
+"text": "Quá nhấn mạnh vai trò của người sử dụng lao động trong xây dựng công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 104: [Vận dụng/Phân tích] Trách nhiệm xây dựng giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Nếu một quan điểm cho rằng xây dựng giai cấp công nhân chỉ là trách nhiệm riêng của công nhân, không liên quan hệ thống chính trị, xã hội và người sử dụng lao động, đánh giá nào đúng?",
+"general_comment": "Giải pháp cuối của giáo trình nhấn mạnh trách nhiệm của cả hệ thống chính trị, toàn xã hội, mỗi công nhân và người sử dụng lao động.",
+"answers": [
+{
+"text": "Quan điểm đó đúng vì hệ thống chính trị không có trách nhiệm với công nhân.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì người sử dụng lao động không liên quan đến phát triển công nhân.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó sai; giáo trình nêu xây dựng giai cấp công nhân là trách nhiệm của cả hệ thống chính trị, toàn xã hội, nỗ lực của mỗi công nhân và sự tham gia của người sử dụng lao động.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng vì công nhân không cần liên hệ với xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 105: [Vận dụng/Phân tích] So sánh công nhân Việt Nam và công nhân hiện đại thế giới",
+"points_possible": 1,
+"question_text": "Điểm nào vừa phù hợp với biến đổi chung của giai cấp công nhân hiện đại, vừa thể hiện rõ ở giai cấp công nhân Việt Nam hiện nay?",
+"general_comment": "Giáo trình nêu công nhân hiện đại có xu hướng trí tuệ hóa; ở Việt Nam hình thành đội ngũ công nhân tri thức, nắm khoa học - công nghệ tiên tiến.",
+"answers": [
+{
+"text": "Xu hướng rời bỏ hoàn toàn sản xuất công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Xu hướng nâng cao trình độ, trí thức hóa, gắn với khoa học - công nghệ, kinh tế tri thức và các ngành sản xuất hiện đại.",
+"weight": 100
+},
+{
+"text": "Xu hướng không cần đào tạo nghề và đào tạo lại.",
+"weight": 0
+},
+{
+"text": "Xu hướng đồng nhất tuyệt đối về cơ cấu nghề nghiệp và thu nhập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 106: [Vận dụng/Phân tích] Phân biệt mục tiêu trước mắt và sứ mệnh lâu dài",
+"points_possible": 1,
+"question_text": "Một cuộc đình công đòi điều kiện làm việc tốt hơn có phải là toàn bộ sứ mệnh lịch sử của giai cấp công nhân không?",
+"general_comment": "Giáo trình phân biệt mục tiêu trước mắt ở nước tư bản với mục tiêu lâu dài là giành chính quyền và xây dựng xã hội mới.",
+"answers": [
+{
+"text": "Có; sứ mệnh lịch sử chỉ là cải thiện điều kiện lao động trước mắt.",
+"weight": 0
+},
+{
+"text": "Có; giáo trình phủ nhận mục tiêu giành chính quyền của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Không; đó có thể là mục tiêu đấu tranh trước mắt, còn sứ mệnh lịch sử lâu dài là xóa bỏ chủ nghĩa tư bản, giành chính quyền và xây dựng xã hội mới.",
+"weight": 100
+},
+{
+"text": "Không; vì đấu tranh điều kiện làm việc không liên quan gì đến công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 107: [Vận dụng/Phân tích] Vai trò công nhân trong phát triển bền vững",
+"points_possible": 1,
+"question_text": "Một nền kinh tế muốn phát triển bền vững dựa trên công nghệ hiện đại, năng suất và chất lượng cao cần phát huy vai trò của lực lượng nào theo giáo trình?",
+"general_comment": "Giáo trình nêu thông qua vai trò trong sản xuất công nghệ hiện đại, năng suất và chất lượng cao, sứ mệnh của công nhân đối với phát triển xã hội ngày càng rõ.",
+"answers": [
+{
+"text": "Giai cấp địa chủ phong kiến với vai trò thu địa tô.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân với vai trò chủ thể của sản xuất công nghiệp hiện đại.",
+"weight": 100
+},
+{
+"text": "Tầng lớp quý tộc với vai trò duy trì đặc quyền dòng tộc.",
+"weight": 0
+},
+{
+"text": "Các lực lượng đứng ngoài quá trình sản xuất vật chất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 108: [Vận dụng/Phân tích] Giải pháp nâng cao chất lượng công nhân",
+"points_possible": 1,
+"question_text": "Một doanh nghiệp chỉ tuyển lao động giá rẻ, không đào tạo, không cải thiện kỷ luật lao động và tác phong công nghiệp. Theo định hướng xây dựng công nhân Việt Nam, cần điều chỉnh gì?",
+"general_comment": "Phương hướng của giáo trình là nâng cao toàn diện trình độ, kỹ năng, tác phong và kỷ luật lao động của công nhân.",
+"answers": [
+{
+"text": "Cần đào tạo, bồi dưỡng, nâng cao trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp và kỷ luật lao động cho công nhân.",
+"weight": 100
+},
+{
+"text": "Chỉ cần giảm tiền lương để tăng cạnh tranh.",
+"weight": 0
+},
+{
+"text": "Không cần đào tạo vì công nhân hiện đại không gắn với tri thức.",
+"weight": 0
+},
+{
+"text": "Cần tách công nhân khỏi các chuẩn nghề nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 109: [Vận dụng/Phân tích] Kiên định quan điểm lãnh đạo của công nhân",
+"points_possible": 1,
+"question_text": "Trong xây dựng giai cấp công nhân Việt Nam, vì sao cần nâng cao nhận thức và kiên định quan điểm giai cấp công nhân là giai cấp lãnh đạo cách mạng thông qua Đảng Cộng sản Việt Nam?",
+"general_comment": "Giải pháp đầu tiên của giáo trình là nâng cao nhận thức, kiên định quan điểm công nhân là giai cấp lãnh đạo thông qua Đảng Cộng sản Việt Nam.",
+"answers": [
+{
+"text": "Vì đây là cơ sở chính trị - tư tưởng để giữ vững vai trò lãnh đạo của giai cấp công nhân thông qua đội tiên phong của mình trong thực hiện sứ mệnh lịch sử.",
+"weight": 100
+},
+{
+"text": "Vì quan điểm này nhằm phủ nhận vai trò của Đảng Cộng sản Việt Nam.",
+"weight": 0
+},
+{
+"text": "Vì công nhân chỉ lãnh đạo về kỹ thuật, không liên quan chính trị.",
+"weight": 0
+},
+{
+"text": "Vì giáo trình xem giai cấp tư sản là lực lượng lãnh đạo cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Vận dụng/Phân tích] Tổng hợp sứ mệnh công nhân Việt Nam hiện nay",
+"points_possible": 1,
+"question_text": "Một chương trình hành động gồm: đi đầu công nghiệp hóa, hoàn thiện nhà nước của dân, do dân, vì dân, xây dựng văn hóa tiên tiến đậm đà bản sắc dân tộc và bảo vệ chủ nghĩa Mác - Lênin. Chương trình đó bao quát những lĩnh vực nào trong sứ mệnh của công nhân Việt Nam?",
+"general_comment": "Giáo trình trình bày sứ mệnh hiện nay của công nhân Việt Nam trên ba lĩnh vực: kinh tế, chính trị - xã hội, văn hóa tư tưởng.",
+"answers": [
+{
+"text": "Chỉ bao quát lĩnh vực kinh tế.",
+"weight": 0
+},
+{
+"text": "Bao quát cả ba lĩnh vực: kinh tế; chính trị - xã hội; văn hóa tư tưởng.",
+"weight": 100
+},
+{
+"text": "Chỉ bao quát lĩnh vực văn hóa tư tưởng.",
+"weight": 0
+},
+{
+"text": "Chỉ bao quát lĩnh vực bảo hiểm và tiền lương.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Nhận biết] Các thuật ngữ tương đồng với giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Một số thuật ngữ được C. Mác và Ph. Ăngghen sử dụng có nghĩa tương đồng với khái niệm giai cấp công nhân là gì?",
+"general_comment": "Các thuật ngữ giai cấp vô sản, giai cấp công nhân hiện đại, giai cấp công nhân đại công nghiệp đều được dùng với ý nghĩa tương đồng trong bối cảnh lý luận Mác - Ăngghen.",
+"answers": [
+{
+"text": "Giai cấp tư sản, giai cấp địa chủ, giai cấp chủ nô.",
+"weight": 0
+},
+{
+"text": "Giai cấp nông dân, tầng lớp trí thức, tầng lớp tiểu thương.",
+"weight": 0
+},
+{
+"text": "Giai cấp quý tộc, tăng lữ, thương nhân trung đại.",
+"weight": 0
+},
+{
+"text": "Giai cấp vô sản, giai cấp công nhân hiện đại, giai cấp công nhân đại công nghiệp.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Nhận biết] Hai đặc trưng cơ bản trong chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Trong chủ nghĩa tư bản, giai cấp công nhân được nhận diện chủ yếu qua mấy đặc trưng cơ bản?",
+"general_comment": "Ngân hàng thi Chương 2 nhấn mạnh giai cấp công nhân trong chủ nghĩa tư bản có hai đặc trưng cơ bản: phương thức lao động công nghiệp và vị trí trong quan hệ sản xuất tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Hai đặc trưng cơ bản.",
+"weight": 100
+},
+{
+"text": "Ba đặc trưng cơ bản.",
+"weight": 0
+},
+{
+"text": "Bốn đặc trưng cơ bản.",
+"weight": 0
+},
+{
+"text": "Năm đặc trưng cơ bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Nhận biết] Con đẻ của nền đại công nghiệp",
+"points_possible": 1,
+"question_text": "Giai cấp nào được coi là con đẻ của nền đại công nghiệp tư bản chủ nghĩa?",
+"general_comment": "Giai cấp công nhân ra đời và phát triển gắn với nền đại công nghiệp tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Nhận biết] Luận điểm của Mác và Ăngghen về giai cấp vô sản",
+"points_possible": 1,
+"question_text": "Luận điểm: “Các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là sản phẩm của bản thân nền đại công nghiệp” là của ai?",
+"general_comment": "Luận điểm này thuộc C. Mác và Ph. Ăngghen, dùng để khẳng định nguồn gốc hiện đại của giai cấp vô sản trong nền đại công nghiệp.",
+"answers": [
+{
+"text": "V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+},
+{
+"text": "C. Mác và Ph. Ăngghen.",
+"weight": 100
+},
+{
+"text": "A. Xmít và D. Ricácđô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Thông hiểu] Công nhân phục vụ máy móc trong công xưởng",
+"points_possible": 1,
+"question_text": "Câu nói của C. Mác: “... trong công xưởng thì người công nhân phải phục vụ máy móc” trực tiếp đề cập đến giai cấp nào?",
+"general_comment": "Câu nói này mô tả địa vị và phương thức lao động của giai cấp công nhân hiện đại trong nền sản xuất công nghiệp.",
+"answers": [
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Tầng lớp trí thức.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân hiện đại.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Nhận biết] Nguồn gốc xã hội của công nhân hiện đại",
+"points_possible": 1,
+"question_text": "Trong chủ nghĩa tư bản, giai cấp công nhân hiện đại có nguồn gốc chủ yếu từ những lực lượng nào?",
+"general_comment": "Ngân hàng thi nêu công nhân hiện đại có nguồn gốc từ nông dân, thợ thủ công và tiểu chủ bị tách khỏi tư liệu sản xuất.",
+"answers": [
+{
+"text": "Địa chủ, quý tộc và tăng lữ.",
+"weight": 0
+},
+{
+"text": "Giai cấp nông dân, thợ thủ công và tiểu chủ.",
+"weight": 100
+},
+{
+"text": "Chủ nô, nô lệ và quan lại cổ đại.",
+"weight": 0
+},
+{
+"text": "Tư sản tài chính, tư sản công nghiệp và tư sản thương nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Thông hiểu] Điều kiện sống của công nhân làm thuê",
+"points_possible": 1,
+"question_text": "Lực lượng nào chỉ có thể sống nếu kiếm được việc làm và chỉ kiếm được việc làm khi lao động của họ làm tăng thêm tư bản?",
+"general_comment": "Mô tả này phản ánh địa vị làm thuê của giai cấp công nhân trong chủ nghĩa tư bản.",
+"answers": [
+{
+"text": "Giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Giai cấp địa chủ.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Thông hiểu] Sức lao động công nhân như hàng hóa",
+"points_possible": 1,
+"question_text": "Lực lượng nào buộc phải tự bán sức lao động để kiếm sống, trở thành một loại hàng hóa chịu sự may rủi của cạnh tranh và thị trường?",
+"general_comment": "Trong chủ nghĩa tư bản, công nhân không có tư liệu sản xuất chủ yếu nên buộc phải bán sức lao động cho nhà tư bản.",
+"answers": [
+{
+"text": "Nông dân sở hữu ruộng đất nhỏ.",
+"weight": 0
+},
+{
+"text": "Địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Nhà tư bản công nghiệp.",
+"weight": 0
+},
+{
+"text": "Công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Nhận biết] Nguồn gốc giá trị thặng dư",
+"points_possible": 1,
+"question_text": "Nguồn gốc cơ bản của giá trị thặng dư và sự giàu có của giai cấp tư sản là gì?",
+"general_comment": "Theo lý luận Mác - Lênin, lao động sống của công nhân là nguồn gốc tạo ra giá trị thặng dư bị nhà tư bản chiếm đoạt.",
+"answers": [
+{
+"text": "Lao động sống của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Quá trình trao đổi ngang giá thuần túy.",
+"weight": 0
+},
+{
+"text": "Hoạt động thương mại tự nó tạo ra giá trị.",
+"weight": 0
+},
+{
+"text": "Lòng nhân đạo của giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Nhận biết] Hình thức bóc lột công nhân",
+"points_possible": 1,
+"question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân bị giai cấp tư sản bóc lột nội dung nào?",
+"general_comment": "Hình thức bóc lột đặc trưng của chủ nghĩa tư bản là bóc lột giá trị thặng dư do lao động công nhân tạo ra.",
+"answers": [
+{
+"text": "Giá trị sử dụng của ruộng đất.",
+"weight": 0
+},
+{
+"text": "Giá trị thặng dư.",
+"weight": 100
+},
+{
+"text": "Địa tô phong kiến.",
+"weight": 0
+},
+{
+"text": "Thuế thân trong chế độ thực dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Nhận biết] Của cải do công nhân sản xuất",
+"points_possible": 1,
+"question_text": "Trong chế độ tư bản chủ nghĩa, giai cấp công nhân là những người sản xuất ra phần nào của cải cho chế độ tư bản chủ nghĩa?",
+"general_comment": "Ngân hàng thi Chương 2 xác định công nhân sản xuất ra đại đa số của cải cho chế độ tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Một phần rất nhỏ của cải cho chế độ tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Toàn bộ của cải cho mọi chế độ xã hội trong lịch sử.",
+"weight": 0
+},
+{
+"text": "Đại đa số của cải cho chế độ tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chỉ các sản phẩm tinh thần, không sản xuất của cải vật chất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Nhận biết] Tính chất mâu thuẫn công nhân - tư sản",
+"points_possible": 1,
+"question_text": "Trong chủ nghĩa tư bản, mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản là mâu thuẫn như thế nào?",
+"general_comment": "Mâu thuẫn giữa công nhân và tư sản là mâu thuẫn đối kháng trực tiếp về lợi ích cơ bản.",
+"answers": [
+{
+"text": "Mâu thuẫn không đối kháng về lợi ích.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn phụ, không cơ bản trong sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn thuần túy kỹ thuật trong tổ chức lao động.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn đối kháng trực tiếp về lợi ích.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Thông hiểu] Quan hệ lợi ích công nhân - nông dân",
+"points_possible": 1,
+"question_text": "Giữa giai cấp công nhân và giai cấp nông dân có quan hệ lợi ích như thế nào?",
+"general_comment": "Trong cách mạng xã hội chủ nghĩa, công nhân và nông dân có nhiều lợi ích cơ bản thống nhất với nhau, tạo cơ sở cho liên minh công - nông.",
+"answers": [
+{
+"text": "Có nhiều lợi ích cơ bản thống nhất với nhau.",
+"weight": 100
+},
+{
+"text": "Có lợi ích hoàn toàn đối lập nhau.",
+"weight": 0
+},
+{
+"text": "Không có bất kỳ lợi ích nào liên quan đến nhau.",
+"weight": 0
+},
+{
+"text": "Chỉ thống nhất về lợi ích của địa chủ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Nhận biết] Đặc điểm chính trị - xã hội không đúng",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là đặc điểm chính trị - xã hội của giai cấp công nhân?",
+"general_comment": "Đại diện cho lực lượng sản xuất hiện đại là đặc điểm về địa vị kinh tế - xã hội, không phải đặc điểm chính trị - xã hội trực tiếp.",
+"answers": [
+{
+"text": "Tiên phong cách mạng và có tinh thần cách mạng triệt để nhất.",
+"weight": 0
+},
+{
+"text": "Đại diện cho lực lượng sản xuất hiện đại.",
+"weight": 100
+},
+{
+"text": "Có bản chất quốc tế.",
+"weight": 0
+},
+{
+"text": "Có ý thức tổ chức, kỷ luật cao.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Nhận biết] Nguyên nhân không đúng của tính kỷ luật",
+"points_possible": 1,
+"question_text": "Nội dung nào không phải là nguyên nhân của việc giai cấp công nhân có tính tổ chức, kỷ luật cao?",
+"general_comment": "Tính tổ chức, kỷ luật của công nhân không phải là bản chất sẵn có tự nhiên, mà do điều kiện sản xuất công nghiệp, quản lý lao động và yêu cầu đấu tranh cách mạng rèn luyện.",
+"answers": [
+{
+"text": "Đặc thù môi trường làm việc là dây chuyền sản xuất công nghiệp.",
+"weight": 0
+},
+{
+"text": "Sự quản lý chặt chẽ của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Bản chất sẵn có tự nhiên của công nhân.",
+"weight": 100
+},
+{
+"text": "Yêu cầu của đấu tranh cách mạng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Nhận biết] Điều kiện khách quan quy định sứ mệnh",
+"points_possible": 1,
+"question_text": "Sứ mệnh lịch sử thế giới của giai cấp công nhân được quy định trực tiếp bởi nội dung nào?",
+"general_comment": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân là địa vị kinh tế, chính trị - xã hội của giai cấp này.",
+"answers": [
+{
+"text": "Nguyện vọng chủ quan riêng của từng công nhân.",
+"weight": 0
+},
+{
+"text": "Lòng nhân đạo của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Địa vị kinh tế, chính trị - xã hội của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Sự tồn tại của mọi tầng lớp trung gian trong xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Thông hiểu] Tính tất yếu khách quan của sứ mệnh",
+"points_possible": 1,
+"question_text": "Câu nói: “Cùng với sự phát triển của đại công nghiệp (...) giai cấp tư sản sản sinh ra người đào huyệt chôn chính nó...” phản ánh nội dung nào?",
+"general_comment": "Luận điểm này khẳng định tính tất yếu khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.",
+"answers": [
+{
+"text": "Tính tùy tiện chủ quan trong sứ mệnh lịch sử của công nhân.",
+"weight": 0
+},
+{
+"text": "Vai trò duy nhất của nông dân trong cách mạng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự phủ nhận hoàn toàn đấu tranh giai cấp trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Tính tất yếu khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Thông hiểu] Đại diện cho phương thức sản xuất tiên tiến",
+"points_possible": 1,
+"question_text": "Vì là sản phẩm của nền đại công nghiệp và là chủ thể của sản xuất vật chất hiện đại, giai cấp công nhân đại diện cho nội dung nào?",
+"general_comment": "Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.",
+"answers": [
+{
+"text": "Phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.",
+"weight": 100
+},
+{
+"text": "Phương thức sản xuất lỗi thời và lực lượng sản xuất lạc hậu.",
+"weight": 0
+},
+{
+"text": "Phương thức sản xuất phong kiến và lực lượng sản xuất thủ công.",
+"weight": 0
+},
+{
+"text": "Phương thức sản xuất nhỏ và lực lượng sản xuất phân tán.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Thông hiểu] Vai trò phá vỡ quan hệ sản xuất tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo địa vị kinh tế - xã hội của mình, giai cấp công nhân là lực lượng có khả năng lịch sử nào?",
+"general_comment": "Giai cấp công nhân là lực lượng quyết định phá vỡ quan hệ sản xuất tư bản chủ nghĩa và giành chính quyền về tay giai cấp mình cùng nhân dân lao động.",
+"answers": [
+{
+"text": "Phá vỡ quan hệ sản xuất xã hội chủ nghĩa để khôi phục chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Phá vỡ quan hệ sản xuất tư bản chủ nghĩa, giành chính quyền về tay giai cấp mình.",
+"weight": 100
+},
+{
+"text": "Giữ nguyên quan hệ sản xuất tư bản chủ nghĩa như hình thức cuối cùng của lịch sử.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ liên minh với các tầng lớp lao động khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Thông hiểu] Nông dân và sứ mệnh lịch sử thế giới",
+"points_possible": 1,
+"question_text": "Vì sao giai cấp nông dân không thể là giai cấp có sứ mệnh lịch sử thế giới xóa bỏ chủ nghĩa tư bản và xây dựng xã hội cộng sản chủ nghĩa?",
+"general_comment": "Theo ngân hàng thi, nông dân không đại diện cho phương thức sản xuất tiên tiến, nên không giữ vai trò lịch sử thế giới như giai cấp công nhân.",
+"answers": [
+{
+"text": "Vì nông dân không đại diện cho phương thức sản xuất tiên tiến.",
+"weight": 100
+},
+{
+"text": "Vì nông dân có số lượng quá ít trong mọi xã hội.",
+"weight": 0
+},
+{
+"text": "Vì nông dân không bao giờ có lợi ích với công nhân.",
+"weight": 0
+},
+{
+"text": "Vì nông dân là giai cấp tư sản trong nền đại công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Nhận biết] Điều kiện chủ quan thực hiện sứ mệnh",
+"points_possible": 1,
+"question_text": "Nội dung nào là điều kiện chủ quan để giai cấp công nhân thực hiện sứ mệnh lịch sử?",
+"general_comment": "Điều kiện chủ quan gồm sự phát triển của bản thân giai cấp công nhân, sự ra đời và phát triển của Đảng Cộng sản, và liên minh với nông dân cùng các tầng lớp lao động khác.",
+"answers": [
+{
+"text": "Sự bảo trợ lâu dài của giai cấp tư sản đối với công nhân.",
+"weight": 0
+},
+{
+"text": "Sự tan rã của mọi tổ chức chính trị của công nhân.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của giai cấp công nhân, Đảng Cộng sản và liên minh với nông dân, các tầng lớp lao động khác.",
+"weight": 100
+},
+{
+"text": "Sự thay thế chủ nghĩa Mác - Lênin bằng chủ nghĩa cơ hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Nhận biết] Đảng Cộng sản là nhân tố chủ quan quyết định",
+"points_possible": 1,
+"question_text": "Nhân tố chủ quan quan trọng nhất, có ý nghĩa quyết định đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân là gì?",
+"general_comment": "Giáo trình xác định Đảng Cộng sản là nhân tố chủ quan quan trọng nhất, có ý nghĩa quyết định.",
+"answers": [
+{
+"text": "Các phường hội thủ công thời trung cổ.",
+"weight": 0
+},
+{
+"text": "Giai cấp tư sản dân tộc.",
+"weight": 0
+},
+{
+"text": "Các tổ chức tôn giáo phi chính trị.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Nhận biết] Bản chất và vị trí của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản được xác định là tổ chức như thế nào của giai cấp công nhân?",
+"general_comment": "Đảng Cộng sản là đội tiên phong, tổ chức chính trị cao nhất, lãnh tụ chính trị và bộ tham mưu chiến đấu của giai cấp công nhân.",
+"answers": [
+{
+"text": "Đội tiên phong, tổ chức chính trị cao nhất, lãnh tụ chính trị và bộ tham mưu chiến đấu của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Tổ chức nghề nghiệp trung lập, không mang bản chất giai cấp.",
+"weight": 0
+},
+{
+"text": "Cơ quan kinh tế của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Tổ chức tự phát không có lý luận và đường lối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Nhận biết] Nền tảng tư tưởng của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản lấy hệ tư tưởng nào làm nền tảng tư tưởng và kim chỉ nam hành động?",
+"general_comment": "Đảng Cộng sản lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng và kim chỉ nam hành động.",
+"answers": [
+{
+"text": "Chủ nghĩa tự do tư sản.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa Mác - Lênin.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa xã hội không tưởng trước Mác.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa dân túy phi vô sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Nhận biết] Quy luật ra đời Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Quy luật ra đời và phát triển chính đảng của giai cấp công nhân - Đảng Cộng sản là gì?",
+"general_comment": "Đảng Cộng sản ra đời từ sự kết hợp giữa chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác, với phong trào công nhân.",
+"answers": [
+{
+"text": "Sự kết hợp giữa địa chủ phong kiến với phong trào nông nô.",
+"weight": 0
+},
+{
+"text": "Sự tự phát của công đoàn không cần lý luận cách mạng.",
+"weight": 0
+},
+{
+"text": "Sự kết hợp giữa chủ nghĩa xã hội khoa học, tức chủ nghĩa Mác, với phong trào công nhân.",
+"weight": 100
+},
+{
+"text": "Sự ban phát quyền lực từ giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Thông hiểu] Cơ sở xã hội của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Trong mối quan hệ với Đảng Cộng sản, giai cấp công nhân có vai trò gì?",
+"general_comment": "Giai cấp công nhân là cơ sở xã hội và nguồn bổ sung lực lượng quan trọng nhất của Đảng Cộng sản.",
+"answers": [
+{
+"text": "Là lực lượng đối kháng với Đảng Cộng sản.",
+"weight": 0
+},
+{
+"text": "Là đối tượng nằm ngoài mọi quan hệ với Đảng Cộng sản.",
+"weight": 0
+},
+{
+"text": "Là lực lượng chỉ có chức năng kinh tế, không liên quan đến chính trị.",
+"weight": 0
+},
+{
+"text": "Là cơ sở xã hội và nguồn bổ sung lực lượng quan trọng nhất của Đảng Cộng sản.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Thông hiểu] Vai trò lý luận và tổ chức của Đảng Cộng sản",
+"points_possible": 1,
+"question_text": "Vai trò thứ nhất của Đảng Cộng sản đối với giai cấp công nhân là gì?",
+"general_comment": "Đảng Cộng sản có trình độ lý luận và tổ chức cao nhất để lãnh đạo giai cấp công nhân và dân tộc.",
+"answers": [
+{
+"text": "Có trình độ lý luận và tổ chức cao nhất để lãnh đạo giai cấp công nhân và dân tộc.",
+"weight": 100
+},
+{
+"text": "Chỉ đại diện cho lợi ích của một nhóm tư sản.",
+"weight": 0
+},
+{
+"text": "Không cần lý luận và tổ chức trong lãnh đạo cách mạng.",
+"weight": 0
+},
+{
+"text": "Chỉ làm nhiệm vụ kinh tế, không tham gia chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Thông hiểu] Đảng đem lại giác ngộ và sức mạnh đoàn kết",
+"points_possible": 1,
+"question_text": "Vai trò nào của Đảng Cộng sản thể hiện ở việc đem lại giác ngộ, sức mạnh đoàn kết, nghị lực cách mạng, trí tuệ và hành động cách mạng cho giai cấp công nhân?",
+"general_comment": "Đây là một vai trò cơ bản của Đảng trong quá trình tổ chức, giáo dục và nâng cao năng lực cách mạng của giai cấp công nhân.",
+"answers": [
+{
+"text": "Làm cho công nhân từ bỏ đấu tranh cách mạng.",
+"weight": 0
+},
+{
+"text": "Giáo dục, giác ngộ và tổ chức sức mạnh cách mạng cho giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Tách công nhân khỏi mọi hình thức liên minh xã hội.",
+"weight": 0
+},
+{
+"text": "Biến phong trào công nhân thành phong trào phi chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Thông hiểu] Đảng đề ra đường lối chính sách",
+"points_possible": 1,
+"question_text": "Đảng Cộng sản có vai trò gì trong việc xác định mục tiêu, phương hướng, đường lối, chính sách của cách mạng?",
+"general_comment": "Đảng Cộng sản đề ra mục tiêu, phương hướng, đường lối, chính sách đúng đắn, kịp thời, phù hợp với hoàn cảnh đất nước và lịch sử.",
+"answers": [
+{
+"text": "Chỉ thực hiện mệnh lệnh kinh tế của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Chỉ làm công tác từ thiện, không có đường lối chính trị.",
+"weight": 0
+},
+{
+"text": "Đề ra mục tiêu, phương hướng, đường lối, chính sách đúng đắn, kịp thời và phù hợp.",
+"weight": 100
+},
+{
+"text": "Từ bỏ vai trò lãnh đạo đối với nhân dân lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Thông hiểu] Đảng lãnh đạo toàn dân thực hiện sứ mệnh",
+"points_possible": 1,
+"question_text": "Vai trò của Đảng Cộng sản trong việc tổ chức toàn dân thực hiện sứ mệnh lịch sử của giai cấp công nhân được thể hiện như thế nào?",
+"general_comment": "Đảng Cộng sản giáo dục, giác ngộ, tổ chức và lãnh đạo toàn dân thực hiện sứ mệnh lịch sử của giai cấp công nhân.",
+"answers": [
+{
+"text": "Chỉ lãnh đạo riêng một nhóm nghề nghiệp hẹp.",
+"weight": 0
+},
+{
+"text": "Không liên quan đến quần chúng nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo vệ lợi ích của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giáo dục, giác ngộ, tổ chức và lãnh đạo toàn dân thực hiện sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Nhận biết] Liên minh giai cấp trong thực hiện sứ mệnh",
+"points_possible": 1,
+"question_text": "Liên minh nào là điều kiện quan trọng không thể thiếu để giai cấp công nhân thực hiện sứ mệnh lịch sử?",
+"general_comment": "Liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác dưới sự lãnh đạo của Đảng Cộng sản là điều kiện quan trọng không thể thiếu.",
+"answers": [
+{
+"text": "Liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác.",
+"weight": 100
+},
+{
+"text": "Liên minh giữa giai cấp công nhân với địa chủ phong kiến để bảo vệ trật tự cũ.",
+"weight": 0
+},
+{
+"text": "Liên minh giữa công nhân và tư sản để duy trì bóc lột giá trị thặng dư.",
+"weight": 0
+},
+{
+"text": "Liên minh giữa các tập đoàn tư bản độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Nhận biết] Luận điểm của Lênin về lực lượng sản xuất hàng đầu",
+"points_possible": 1,
+"question_text": "Ai khẳng định: “Lực lượng sản xuất hàng đầu của toàn nhân loại là công nhân, là người lao động”?",
+"general_comment": "Ngân hàng thi Chương 2 xác định đây là luận điểm của V.I. Lênin.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 100
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Nhận biết] Cách mạng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Cách mạng xã hội chủ nghĩa là cuộc cách mạng nhằm mục tiêu nào?",
+"general_comment": "Theo ngân hàng thi, cách mạng xã hội chủ nghĩa là cuộc cách mạng thay thế chế độ tư bản chủ nghĩa bằng chế độ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Thay chế độ chiếm hữu nô lệ bằng chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Thay chế độ phong kiến bằng chế độ tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Thay chế độ xã hội chủ nghĩa bằng chế độ tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Thay chế độ tư bản chủ nghĩa bằng chế độ xã hội chủ nghĩa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Nhận biết] Hai nghĩa của cách mạng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo quan điểm của chủ nghĩa Mác - Lênin, cách mạng xã hội chủ nghĩa được hiểu theo mấy nghĩa?",
+"general_comment": "Ngân hàng thi xác định cách mạng xã hội chủ nghĩa được hiểu theo hai nghĩa: nghĩa hẹp và nghĩa rộng.",
+"answers": [
+{
+"text": "Hai nghĩa.",
+"weight": 100
+},
+{
+"text": "Ba nghĩa.",
+"weight": 0
+},
+{
+"text": "Bốn nghĩa.",
+"weight": 0
+},
+{
+"text": "Năm nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Thông hiểu] Cách mạng xã hội chủ nghĩa theo nghĩa hẹp",
+"points_possible": 1,
+"question_text": "Theo nghĩa hẹp, cách mạng xã hội chủ nghĩa là cuộc cách mạng thuộc lĩnh vực nào?",
+"general_comment": "Theo nghĩa hẹp, cách mạng xã hội chủ nghĩa được hiểu trước hết là cuộc cách mạng chính trị nhằm giành chính quyền.",
+"answers": [
+{
+"text": "Kinh tế thuần túy.",
+"weight": 0
+},
+{
+"text": "Chính trị.",
+"weight": 100
+},
+{
+"text": "Văn hóa thuần túy.",
+"weight": 0
+},
+{
+"text": "Tôn giáo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Thông hiểu] Cách mạng xã hội chủ nghĩa theo nghĩa rộng",
+"points_possible": 1,
+"question_text": "Theo nghĩa rộng, cách mạng xã hội chủ nghĩa bao gồm nội dung nào?",
+"general_comment": "Theo nghĩa rộng, cách mạng xã hội chủ nghĩa bao gồm giành chính quyền nhà nước, cải tạo xã hội cũ, xây dựng xã hội xã hội chủ nghĩa và cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Chỉ giành chính quyền nhà nước rồi dừng lại.",
+"weight": 0
+},
+{
+"text": "Chỉ cải tạo kinh tế, không xây dựng chính trị và văn hóa mới.",
+"weight": 0
+},
+{
+"text": "Giành chính quyền nhà nước, cải tạo xã hội cũ, xây dựng chế độ xã hội chủ nghĩa và cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chỉ thay đổi hình thức sở hữu tư nhân này bằng hình thức sở hữu tư nhân khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Nhận biết] Nguyên nhân sâu xa của cách mạng xã hội",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa Mác - Lênin, nguyên nhân sâu xa của mọi cuộc cách mạng xã hội trong lịch sử là mâu thuẫn giữa những yếu tố nào?",
+"general_comment": "Nguyên nhân sâu xa của cách mạng xã hội là mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất.",
+"answers": [
+{
+"text": "Công nhân và nông dân trong mọi xã hội.",
+"weight": 0
+},
+{
+"text": "Tôn giáo và đạo đức cá nhân.",
+"weight": 0
+},
+{
+"text": "Các cá nhân lãnh đạo trong cùng một giai cấp.",
+"weight": 0
+},
+{
+"text": "Lực lượng sản xuất và quan hệ sản xuất.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Nhận biết] Mục tiêu chung của cách mạng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa Mác - Lênin, mục tiêu chung của cách mạng xã hội chủ nghĩa là gì?",
+"general_comment": "Mục tiêu chung của cách mạng xã hội chủ nghĩa là giải phóng xã hội, giải phóng con người.",
+"answers": [
+{
+"text": "Giải phóng xã hội, giải phóng con người.",
+"weight": 100
+},
+{
+"text": "Chỉ giải phóng giai cấp nông dân.",
+"weight": 0
+},
+{
+"text": "Chỉ giải phóng một dân tộc khỏi thực dân.",
+"weight": 0
+},
+{
+"text": "Bảo vệ vĩnh viễn quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Nhận biết] Mục tiêu giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa là gì?",
+"general_comment": "Giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa có mục tiêu giành chính quyền nhà nước.",
+"answers": [
+{
+"text": "Tổ chức và xây dựng xã hội mới về mọi mặt sau khi đã có chính quyền.",
+"weight": 0
+},
+{
+"text": "Giành chính quyền nhà nước.",
+"weight": 100
+},
+{
+"text": "Phát triển kinh tế thị trường tư bản chủ nghĩa như mục tiêu cuối cùng.",
+"weight": 0
+},
+{
+"text": "Khôi phục chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Nhận biết] Mục tiêu giai đoạn thứ hai của cách mạng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo chủ nghĩa Mác - Lênin, mục tiêu giai đoạn thứ hai của cách mạng xã hội chủ nghĩa là gì?",
+"general_comment": "Giai đoạn thứ hai là tổ chức và xây dựng xã hội mới về mọi mặt.",
+"answers": [
+{
+"text": "Chỉ lật đổ sự thống trị của giai cấp tư sản mà không xây dựng xã hội mới.",
+"weight": 0
+},
+{
+"text": "Chỉ giành chính quyền rồi giữ nguyên xã hội cũ.",
+"weight": 0
+},
+{
+"text": "Tổ chức và xây dựng xã hội mới về mọi mặt.",
+"weight": 100
+},
+{
+"text": "Khôi phục nhà nước phong kiến tập quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 151: [Nhận biết] Điểm ổn định của công nhân hiện nay",
+"points_possible": 1,
+"question_text": "Một điểm tương đối ổn định của giai cấp công nhân hiện nay so với thế kỷ XIX là gì?",
+"general_comment": "Giai cấp công nhân hiện nay vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại và là chủ thể của quá trình sản xuất công nghiệp hiện đại.",
+"answers": [
+{
+"text": "Không còn tham gia sản xuất công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Đã trở thành giai cấp sở hữu tư bản thống trị ở mọi nước.",
+"weight": 0
+},
+{
+"text": "Không còn quan hệ với phong trào công nhân quốc tế.",
+"weight": 0
+},
+{
+"text": "Vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 152: [Nhận biết] Công nhân trong chủ nghĩa tư bản hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước tư bản chủ nghĩa hiện nay, giai cấp công nhân vẫn có đặc điểm nào?",
+"general_comment": "Giáo trình nêu công nhân ở các nước tư bản chủ nghĩa hiện nay vẫn bị giai cấp tư sản và chủ nghĩa tư bản bóc lột giá trị thặng dư.",
+"answers": [
+{
+"text": "Vẫn bị giai cấp tư sản và chủ nghĩa tư bản bóc lột giá trị thặng dư.",
+"weight": 100
+},
+{
+"text": "Không còn bị bóc lột giá trị thặng dư dưới bất kỳ hình thức nào.",
+"weight": 0
+},
+{
+"text": "Đã trở thành giai cấp thống trị trong tất cả các nước tư bản.",
+"weight": 0
+},
+{
+"text": "Đã không còn phải tham gia lao động sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 153: [Thông hiểu] Giá trị hiện nay của lý luận Mác - Lênin",
+"points_possible": 1,
+"question_text": "Lý luận về sứ mệnh lịch sử của giai cấp công nhân trong chủ nghĩa Mác - Lênin hiện nay có giá trị như thế nào?",
+"general_comment": "Giáo trình khẳng định lý luận này vẫn mang giá trị khoa học và cách mạng, có ý nghĩa thực tiễn to lớn đối với đấu tranh cách mạng hiện nay.",
+"answers": [
+{
+"text": "Đã hoàn toàn mất giá trị sau thế kỷ XIX.",
+"weight": 0
+},
+{
+"text": "Vẫn mang giá trị khoa học, cách mạng và ý nghĩa thực tiễn to lớn.",
+"weight": 100
+},
+{
+"text": "Chỉ còn giá trị văn học, không có ý nghĩa chính trị - xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ đúng với xã hội phong kiến, không đúng với chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 154: [Nhận biết] Xu hướng trí tuệ hóa công nhân hiện đại",
+"points_possible": 1,
+"question_text": "Xu hướng “trí tuệ hóa” của giai cấp công nhân hiện đại gắn liền với nội dung nào?",
+"general_comment": "Xu hướng trí tuệ hóa gắn với cách mạng khoa học - công nghệ hiện đại, phát triển kinh tế tri thức, đào tạo chuẩn mực và đào tạo lại thường xuyên.",
+"answers": [
+{
+"text": "Sự quay trở lại lao động thủ công giản đơn.",
+"weight": 0
+},
+{
+"text": "Việc tách công nhân khỏi tri thức khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Cách mạng khoa học - công nghệ hiện đại, kinh tế tri thức, đào tạo chuẩn mực và đào tạo lại thường xuyên.",
+"weight": 100
+},
+{
+"text": "Việc giảm hoàn toàn vai trò của công nhân trong sản xuất hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 155: [Thông hiểu] Xu hướng trung lưu hóa",
+"points_possible": 1,
+"question_text": "Nội dung nào phản ánh đúng xu hướng “trung lưu hóa” của một bộ phận giai cấp công nhân hiện đại?",
+"general_comment": "Một bộ phận công nhân tham gia sở hữu một lượng tư liệu sản xuất thông qua cổ phần hóa, nhưng quyền quyết định vẫn thuộc về các cổ đông lớn.",
+"answers": [
+{
+"text": "Công nhân đã trở thành chủ sở hữu chi phối toàn bộ tư bản xã hội.",
+"weight": 0
+},
+{
+"text": "Trung lưu hóa làm mất hoàn toàn quan hệ bóc lột trong chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Mọi công nhân đều trở thành nhà tư bản lớn ngang nhau.",
+"weight": 0
+},
+{
+"text": "Một bộ phận công nhân tham gia sở hữu qua cổ phần hóa, nhưng cổ đông lớn vẫn quyết định sản xuất và phân chia lợi nhuận.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 156: [Thông hiểu] Chủ thể bóc lột mới trong toàn cầu hóa",
+"points_possible": 1,
+"question_text": "Trong toàn cầu hóa hiện nay, giai cấp công nhân còn bị bóc lột nặng nề bởi các chủ thể nào?",
+"general_comment": "Giáo trình nêu công nhân bị bóc lột bởi các chủ thể mới trong toàn cầu hóa như các tập đoàn xuyên quốc gia và nhà nước của các nước tư bản phát triển.",
+"answers": [
+{
+"text": "Các tập đoàn xuyên quốc gia và nhà nước của các nước tư bản phát triển.",
+"weight": 100
+},
+{
+"text": "Các công xã nông thôn tiền tư bản.",
+"weight": 0
+},
+{
+"text": "Các phường hội thủ công trung cổ.",
+"weight": 0
+},
+{
+"text": "Các hình thức sở hữu công cộng xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 157: [Nhận biết] Biến đổi cơ cấu công nhân hiện đại",
+"points_possible": 1,
+"question_text": "Trong bối cảnh toàn cầu hóa, hội nhập quốc tế và cách mạng công nghiệp lần thứ tư, giai cấp công nhân hiện đại biến đổi như thế nào?",
+"general_comment": "Công nhân hiện đại tăng nhanh về số lượng, thay đổi lớn về cơ cấu xã hội, nghề nghiệp và thu nhập; sự biến đổi khác nhau theo quốc gia và phạm vi toàn cầu.",
+"answers": [
+{
+"text": "Giảm tuyệt đối về số lượng và biến mất khỏi sản xuất hiện đại.",
+"weight": 0
+},
+{
+"text": "Tăng nhanh về số lượng, thay đổi lớn về cơ cấu xã hội, nghề nghiệp và thu nhập.",
+"weight": 100
+},
+{
+"text": "Không có bất kỳ biến đổi nào so với thế kỷ XIX.",
+"weight": 0
+},
+{
+"text": "Chỉ còn tồn tại trong nông nghiệp thủ công.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 158: [Nhận biết] Công nhân ở các nước xã hội chủ nghĩa hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước xã hội chủ nghĩa hiện nay, biến đổi mới của giai cấp công nhân so với thế kỷ XIX là gì?",
+"general_comment": "Ở các nước xã hội chủ nghĩa, giai cấp công nhân đã trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền.",
+"answers": [
+{
+"text": "Giai cấp công nhân trở thành giai cấp bị địa chủ phong kiến thống trị.",
+"weight": 0
+},
+{
+"text": "Đảng Cộng sản trở thành tổ chức nghề nghiệp phi chính trị.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân không còn liên quan đến nhà nước và quyền lực chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 159: [Thông hiểu] Nội dung kinh tế - xã hội hiện nay",
+"points_possible": 1,
+"question_text": "Thông qua vai trò trong sản xuất công nghiệp hiện đại với công nghệ, năng suất và chất lượng cao, sứ mệnh lịch sử của giai cấp công nhân hiện nay thể hiện ở phương diện nào?",
+"general_comment": "Nội dung này thuộc lĩnh vực kinh tế - xã hội của sứ mệnh lịch sử giai cấp công nhân hiện nay.",
+"answers": [
+{
+"text": "Tôn giáo thuần túy.",
+"weight": 0
+},
+{
+"text": "Quan hệ gia đình.",
+"weight": 0
+},
+{
+"text": "Phong tục tập quán cá nhân.",
+"weight": 0
+},
+{
+"text": "Kinh tế - xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 160: [Thông hiểu] Toàn cầu hóa và đấu tranh chống bóc lột",
+"points_possible": 1,
+"question_text": "Toàn cầu hóa mang tính chất tư bản chủ nghĩa với bất công và bất bình đẳng xã hội thúc đẩy cuộc đấu tranh nào của giai cấp công nhân?",
+"general_comment": "Giáo trình nêu toàn cầu hóa tư bản chủ nghĩa thúc đẩy đấu tranh chống chế độ bóc lột giá trị thặng dư trên phạm vi thế giới, hướng tới trật tự xã hội mới công bằng, bình đẳng.",
+"answers": [
+{
+"text": "Đấu tranh chống chế độ bóc lột giá trị thặng dư trên phạm vi thế giới.",
+"weight": 100
+},
+{
+"text": "Đấu tranh duy trì bất bình đẳng xã hội như quy luật vĩnh viễn.",
+"weight": 0
+},
+{
+"text": "Đấu tranh khôi phục chế độ chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Đấu tranh xóa bỏ mọi hình thức tổ chức của công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 161: [Nhận biết] Nội dung chính trị ở các nước tư bản hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước tư bản chủ nghĩa hiện nay, mục tiêu đấu tranh trực tiếp của giai cấp công nhân và lao động là gì?",
+"general_comment": "Mục tiêu trực tiếp là chống bất công, bất bình đẳng xã hội, đòi quyền dân sinh, dân chủ và tiến bộ xã hội.",
+"answers": [
+{
+"text": "Khôi phục chế độ phong kiến và địa tô.",
+"weight": 0
+},
+{
+"text": "Chống bất công, bất bình đẳng xã hội, đòi quyền dân sinh, dân chủ và tiến bộ xã hội.",
+"weight": 100
+},
+{
+"text": "Ủng hộ bóc lột giá trị thặng dư như mục tiêu cuối cùng.",
+"weight": 0
+},
+{
+"text": "Từ bỏ mọi quyền dân sinh, dân chủ và tiến bộ xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 162: [Nhận biết] Mục tiêu lâu dài ở các nước tư bản hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước tư bản chủ nghĩa, mục tiêu lâu dài của giai cấp công nhân là gì?",
+"general_comment": "Mục tiêu lâu dài là giành chính quyền về tay giai cấp công nhân và nhân dân lao động.",
+"answers": [
+{
+"text": "Duy trì vô thời hạn nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Chỉ cải thiện tiền lương, không đặt mục tiêu chính trị.",
+"weight": 0
+},
+{
+"text": "Giành chính quyền về tay giai cấp công nhân và nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Trao quyền lãnh đạo xã hội cho địa chủ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 163: [Nhận biết] Nội dung chính trị ở các nước xã hội chủ nghĩa hiện nay",
+"points_possible": 1,
+"question_text": "Ở các nước xã hội chủ nghĩa, nội dung chính trị - xã hội của sứ mệnh lịch sử giai cấp công nhân hiện nay là gì?",
+"general_comment": "Nơi Đảng Cộng sản đã trở thành Đảng cầm quyền, nội dung chính trị - xã hội là lãnh đạo thành công sự nghiệp đổi mới và giải quyết thành công các nhiệm vụ trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Xóa bỏ vai trò lãnh đạo của Đảng Cộng sản.",
+"weight": 0
+},
+{
+"text": "Khôi phục quan hệ sản xuất tư bản chủ nghĩa như mục tiêu cuối cùng.",
+"weight": 0
+},
+{
+"text": "Tách công nhân khỏi nhà nước và hệ thống chính trị.",
+"weight": 0
+},
+{
+"text": "Lãnh đạo thành công đổi mới và giải quyết các nhiệm vụ trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 164: [Thông hiểu] Đấu tranh ý thức hệ hiện nay",
+"points_possible": 1,
+"question_text": "Trong lĩnh vực văn hóa, tư tưởng hiện nay, cuộc đấu tranh ý thức hệ của giai cấp công nhân diễn ra chủ yếu giữa những hệ tư tưởng nào?",
+"general_comment": "Giáo trình nêu đó là cuộc đấu tranh giữa chủ nghĩa xã hội và chủ nghĩa tư bản, ngày càng phức tạp trong kinh tế thị trường và sau thoái trào tạm thời của phong trào cách mạng thế giới.",
+"answers": [
+{
+"text": "Giữa chủ nghĩa xã hội và chủ nghĩa tư bản.",
+"weight": 100
+},
+{
+"text": "Giữa nông nghiệp và công nghiệp như hai ngành kỹ thuật.",
+"weight": 0
+},
+{
+"text": "Giữa các dòng họ quý tộc phong kiến.",
+"weight": 0
+},
+{
+"text": "Giữa các tôn giáo trong xã hội cổ đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 165: [Nhận biết] Giai cấp công nhân Việt Nam ra đời",
+"points_possible": 1,
+"question_text": "Giai cấp công nhân Việt Nam ra đời trong bối cảnh lịch sử nào?",
+"general_comment": "Giai cấp công nhân Việt Nam ra đời đầu thế kỷ XX, gắn với cuộc khai thác thuộc địa của thực dân Pháp, trong hoàn cảnh một nước thuộc địa, nửa phong kiến.",
+"answers": [
+{
+"text": "Cuối thế kỷ XVIII, gắn với cách mạng công nghiệp ở Anh.",
+"weight": 0
+},
+{
+"text": "Đầu thế kỷ XX, gắn với cuộc khai thác thuộc địa của thực dân Pháp trong xã hội thuộc địa, nửa phong kiến.",
+"weight": 100
+},
+{
+"text": "Thế kỷ XVII, gắn với chế độ chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Sau năm 1975, khi đất nước hoàn toàn thống nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 166: [Nhận biết] Truyền thống của công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Một đặc điểm nổi bật của giai cấp công nhân Việt Nam là gì?",
+"general_comment": "Giai cấp công nhân Việt Nam có tinh thần dân tộc, truyền thống yêu nước và đoàn kết.",
+"answers": [
+{
+"text": "Không có liên hệ với truyền thống dân tộc.",
+"weight": 0
+},
+{
+"text": "Đối kháng trực tiếp với nông dân và trí thức.",
+"weight": 0
+},
+{
+"text": "Có tinh thần dân tộc, truyền thống yêu nước và đoàn kết.",
+"weight": 100
+},
+{
+"text": "Không có khả năng giác ngộ chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 167: [Nhận biết] Công nhân Việt Nam trong khu vực kinh tế nhà nước",
+"points_possible": 1,
+"question_text": "Trong cơ cấu giai cấp công nhân Việt Nam hiện nay, đội ngũ công nhân ở khu vực kinh tế nhà nước có vai trò gì?",
+"general_comment": "Giáo trình nêu công nhân ở khu vực kinh tế nhà nước là tiêu biểu, đóng vai trò nòng cốt, chủ đạo trong phát triển kinh tế - xã hội của đất nước.",
+"answers": [
+{
+"text": "Không có vai trò trong phát triển kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ đại diện cho kinh tế hộ gia đình tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Chỉ tồn tại trong khu vực nông nghiệp truyền thống.",
+"weight": 0
+},
+{
+"text": "Là lực lượng tiêu biểu, giữ vai trò nòng cốt, chủ đạo trong phát triển kinh tế - xã hội.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 168: [Nhận biết] Hạn chế của công nhân Việt Nam hiện nay",
+"points_possible": 1,
+"question_text": "Nội dung nào phản ánh đúng hạn chế của giai cấp công nhân Việt Nam hiện nay theo giáo trình?",
+"general_comment": "Giáo trình nêu còn thiếu chuyên gia kỹ thuật, cán bộ quản lý giỏi, công nhân lành nghề; tác phong công nghiệp, kỷ luật lao động, trình độ văn hóa và tay nghề còn hạn chế.",
+"answers": [
+{
+"text": "Thiếu chuyên gia kỹ thuật, cán bộ quản lý giỏi, công nhân lành nghề; tác phong công nghiệp, kỷ luật lao động, trình độ văn hóa và tay nghề còn hạn chế.",
+"weight": 100
+},
+{
+"text": "Đã đáp ứng hoàn toàn mọi yêu cầu về số lượng, cơ cấu và trình độ.",
+"weight": 0
+},
+{
+"text": "Không chịu tác động của hội nhập quốc tế và cách mạng công nghiệp lần thứ tư.",
+"weight": 0
+},
+{
+"text": "Chỉ hạn chế về số lượng, không có hạn chế về chất lượng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 169: [Nhận biết] Phương hướng bảo đảm đời sống công nhân",
+"points_possible": 1,
+"question_text": "Theo phương hướng xây dựng giai cấp công nhân Việt Nam hiện nay, cần bảo đảm nội dung nào cho công nhân?",
+"general_comment": "Giáo trình nêu cần bảo đảm việc làm, nhà ở và các công trình phúc lợi phục vụ công nhân.",
+"answers": [
+{
+"text": "Chỉ tăng giờ làm mà không cần phúc lợi xã hội.",
+"weight": 0
+},
+{
+"text": "Việc làm, nhà ở và các công trình phúc lợi phục vụ công nhân.",
+"weight": 100
+},
+{
+"text": "Tách công nhân khỏi chính sách nhà ở và việc làm.",
+"weight": 0
+},
+{
+"text": "Chỉ bảo vệ lợi ích của người sử dụng lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 170: [Vận dụng/Phân tích] Tổng hợp giải pháp xây dựng công nhân Việt Nam",
+"points_possible": 1,
+"question_text": "Một chương trình xây dựng giai cấp công nhân gồm: kiên định vai trò lãnh đạo của công nhân thông qua Đảng, gắn xây dựng công nhân với liên minh công - nông - trí thức, công nghiệp hóa, hiện đại hóa, hội nhập quốc tế, đào tạo và trí thức hóa công nhân. Chương trình đó phù hợp nhất với nội dung nào?",
+"general_comment": "Đây là hệ thống giải pháp chủ yếu xây dựng giai cấp công nhân Việt Nam hiện nay theo giáo trình.",
+"answers": [
+{
+"text": "Các điều kiện ra đời của chủ nghĩa xã hội khoa học ở thế kỷ XIX.",
+"weight": 0
+},
+{
+"text": "Các chức năng cơ bản của gia đình trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Các giải pháp chủ yếu xây dựng giai cấp công nhân Việt Nam hiện nay.",
+"weight": 100
+},
+{
+"text": "Các nguyên tắc giải quyết vấn đề dân tộc và tôn giáo.",
+"weight": 0
+}
+]
+}
+]

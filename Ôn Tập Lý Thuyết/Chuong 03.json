@@ -1,0 +1,5003 @@
+[
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 001: [Nhận biết] Mục tiêu Chương 3",
+"points_possible": 1,
+"question_text": "Theo phần mở đầu Chương 3, chương này giúp sinh viên nắm được nội dung cơ bản nào?",
+"general_comment": "Chương 3 giúp nắm quan điểm của chủ nghĩa Mác - Lênin về chủ nghĩa xã hội, thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng sáng tạo của Đảng Cộng sản Việt Nam.",
+"answers": [
+{
+"text": "Quan điểm của chủ nghĩa Mác - Lênin về chủ nghĩa xã hội, thời kỳ quá độ lên chủ nghĩa xã hội và sự vận dụng vào Việt Nam.",
+"weight": 100
+},
+{
+"text": "Các vấn đề về dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Các vấn đề về dân tộc, tôn giáo và gia đình trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Lý luận về sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 002: [Nhận biết] Chủ nghĩa xã hội như phong trào thực tiễn",
+"points_possible": 1,
+"question_text": "Khi tiếp cận chủ nghĩa xã hội với tư cách phong trào thực tiễn, giáo trình hiểu đó là gì?",
+"general_comment": "Chủ nghĩa xã hội được tiếp cận như phong trào đấu tranh của nhân dân lao động chống áp bức, bất công và các giai cấp thống trị.",
+"answers": [
+{
+"text": "Phong trào đấu tranh của nhân dân lao động chống áp bức, bất công và các giai cấp thống trị.",
+"weight": 100
+},
+{
+"text": "Một hệ thống chính sách kinh tế thuần túy của nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Một trường phái triết học chỉ nghiên cứu nhận thức luận.",
+"weight": 0
+},
+{
+"text": "Một hình thức tổ chức gia đình trong xã hội hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 003: [Nhận biết] Chủ nghĩa xã hội như trào lưu tư tưởng",
+"points_possible": 1,
+"question_text": "Theo giáo trình, khi tiếp cận chủ nghĩa xã hội như một trào lưu tư tưởng, lý luận, nội dung phản ánh trung tâm là gì?",
+"general_comment": "Chủ nghĩa xã hội với tư cách trào lưu tư tưởng phản ánh lý tưởng giải phóng nhân dân lao động khỏi áp bức, bóc lột, bất công.",
+"answers": [
+{
+"text": "Lý tưởng giải phóng nhân dân lao động khỏi áp bức, bóc lột, bất công.",
+"weight": 100
+},
+{
+"text": "Lý tưởng duy trì đặc quyền của giai cấp thống trị.",
+"weight": 0
+},
+{
+"text": "Lý tưởng mở rộng chế độ chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Lý tưởng phục hồi quan hệ sản xuất phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 004: [Nhận biết] Chủ nghĩa xã hội như một khoa học",
+"points_possible": 1,
+"question_text": "Chủ nghĩa xã hội với tư cách một khoa học được giáo trình xác định là khoa học về vấn đề nào?",
+"general_comment": "Giáo trình nêu chủ nghĩa xã hội khoa học là khoa học về sứ mệnh lịch sử của giai cấp công nhân.",
+"answers": [
+{
+"text": "Sứ mệnh lịch sử của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Quy luật cung cầu của thị trường tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Cơ cấu sinh học của tế bào và quá trình tiến hóa.",
+"weight": 0
+},
+{
+"text": "Lịch sử phát triển của chế độ quân chủ chuyên chế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 005: [Nhận biết] Chủ nghĩa xã hội như một chế độ xã hội",
+"points_possible": 1,
+"question_text": "Khi tiếp cận chủ nghĩa xã hội như một chế độ xã hội, giáo trình xác định đó là gì?",
+"general_comment": "Chủ nghĩa xã hội được hiểu là một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Một chế độ xã hội dựa trên chiếm hữu nô lệ và đối kháng chủ nô - nô lệ.",
+"weight": 0
+},
+{
+"text": "Một chế độ xã hội dựa trên địa tô phong kiến và lãnh địa.",
+"weight": 0
+},
+{
+"text": "Một chế độ xã hội giữ nguyên sự thống trị của quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 006: [Nhận biết] Người khởi xướng học thuyết hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Học thuyết hình thái kinh tế - xã hội được giáo trình nêu là do những nhà tư tưởng nào khởi xướng?",
+"general_comment": "Giáo trình nêu C. Mác và Ph. Ăngghen khởi xướng học thuyết hình thái kinh tế - xã hội, sau đó được V.I. Lênin bổ sung, phát triển và hiện thực hóa.",
+"answers": [
+{
+"text": "C. Mác và Ph. Ăngghen.",
+"weight": 100
+},
+{
+"text": "H. Xanh Ximông và S. Phuriê.",
+"weight": 0
+},
+{
+"text": "A. Xmít và D. Ricácđô.",
+"weight": 0
+},
+{
+"text": "Ph. Hêghen và L. Phoiơbắc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 007: [Nhận biết] Vai trò của V.I. Lênin đối với học thuyết hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Theo giáo trình, V.I. Lênin có vai trò gì đối với học thuyết hình thái kinh tế - xã hội?",
+"general_comment": "Giáo trình nêu V.I. Lênin bổ sung, phát triển và hiện thực hóa học thuyết hình thái kinh tế - xã hội trong công cuộc xây dựng chủ nghĩa xã hội ở nước Nga Xô Viết.",
+"answers": [
+{
+"text": "Bổ sung, phát triển và hiện thực hóa học thuyết trong công cuộc xây dựng chủ nghĩa xã hội ở nước Nga Xô Viết.",
+"weight": 100
+},
+{
+"text": "Phủ nhận hoàn toàn học thuyết hình thái kinh tế - xã hội của C. Mác.",
+"weight": 0
+},
+{
+"text": "Chỉ vận dụng học thuyết vào kinh tế thị trường tư bản chủ nghĩa hiện đại.",
+"weight": 0
+},
+{
+"text": "Biến học thuyết thành một lý luận thần học về xã hội tương lai.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 008: [Nhận biết] Tính tất yếu thay thế hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Học thuyết hình thái kinh tế - xã hội của chủ nghĩa Mác - Lênin chỉ ra tính tất yếu nào?",
+"general_comment": "Học thuyết chỉ ra tính tất yếu thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa như một quá trình lịch sử tự nhiên.",
+"answers": [
+{
+"text": "Sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Sự thay thế hình thái cộng sản nguyên thủy bằng chế độ quân chủ lập hiến.",
+"weight": 0
+},
+{
+"text": "Sự phát triển vĩnh viễn của quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi tất yếu của hình thái kinh tế - xã hội phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 009: [Nhận biết] Hai tiền đề vật chất quan trọng",
+"points_possible": 1,
+"question_text": "Theo giáo trình, sự thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội được thực hiện thông qua cách mạng xã hội chủ nghĩa xuất phát từ hai tiền đề vật chất quan trọng nào?",
+"general_comment": "Hai tiền đề là sự phát triển của lực lượng sản xuất và sự trưởng thành của giai cấp công nhân.",
+"answers": [
+{
+"text": "Sự phát triển của lực lượng sản xuất và sự trưởng thành của giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Sự phục hồi của chế độ địa chủ và sự suy yếu của nông dân.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của thần học và sự củng cố quyền lực giáo hội.",
+"weight": 0
+},
+{
+"text": "Sự phát triển của tiểu thủ công nghiệp và sự tan rã của nền đại công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 010: [Nhận biết] Hai giai đoạn của hình thái cộng sản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo C. Mác và Ph. Ăngghen, hình thái kinh tế - xã hội cộng sản chủ nghĩa phát triển qua mấy giai đoạn?",
+"general_comment": "Các nhà kinh điển cho rằng hình thái kinh tế - xã hội cộng sản chủ nghĩa phát triển từ thấp lên cao qua hai giai đoạn: giai đoạn thấp và giai đoạn cao.",
+"answers": [
+{
+"text": "Hai giai đoạn: giai đoạn thấp và giai đoạn cao.",
+"weight": 100
+},
+{
+"text": "Một giai đoạn duy nhất, không có sự phát triển từ thấp lên cao.",
+"weight": 0
+},
+{
+"text": "Ba giai đoạn: phong kiến, tư bản chủ nghĩa và cộng sản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Năm giai đoạn tương ứng với năm hình thái kinh tế - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 011: [Nhận biết] Tác phẩm Phê phán cương lĩnh Gôta",
+"points_possible": 1,
+"question_text": "Trong tác phẩm nào, C. Mác nêu luận điểm về thời kỳ cải biến cách mạng giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa?",
+"general_comment": "Giáo trình nêu luận điểm này trong tác phẩm “Phê phán cương lĩnh Gôta” năm 1875.",
+"answers": [
+{
+"text": "“Phê phán cương lĩnh Gôta” năm 1875.",
+"weight": 100
+},
+{
+"text": "“Tuyên ngôn của Đảng Cộng sản” năm 1848.",
+"weight": 0
+},
+{
+"text": "“Chống Đuyrinh” năm 1878.",
+"weight": 0
+},
+{
+"text": "“Làm gì?” năm 1902.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 012: [Nhận biết] Nhà nước của thời kỳ quá độ chính trị",
+"points_possible": 1,
+"question_text": "Theo C. Mác, nhà nước của thời kỳ quá độ chính trị giữa chủ nghĩa tư bản và chủ nghĩa cộng sản là gì?",
+"general_comment": "C. Mác khẳng định nhà nước của thời kỳ ấy không thể là gì khác hơn nền chuyên chính cách mạng của giai cấp vô sản.",
+"answers": [
+{
+"text": "Nền chuyên chính cách mạng của giai cấp vô sản.",
+"weight": 100
+},
+{
+"text": "Nhà nước quân chủ chuyên chế của quý tộc phong kiến.",
+"weight": 0
+},
+{
+"text": "Nhà nước trung lập phi giai cấp của mọi tầng lớp.",
+"weight": 0
+},
+{
+"text": "Nhà nước tư sản dân chủ nghị viện được giữ nguyên.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 013: [Nhận biết] Quan điểm của Lênin về thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "V.I. Lênin khẳng định điều gì về quan hệ giữa chủ nghĩa tư bản và chủ nghĩa cộng sản?",
+"general_comment": "V.I. Lênin khẳng định về lý luận không thể nghi ngờ rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản có một thời kỳ quá độ nhất định.",
+"answers": [
+{
+"text": "Giữa chủ nghĩa tư bản và chủ nghĩa cộng sản có một thời kỳ quá độ nhất định.",
+"weight": 100
+},
+{
+"text": "Giữa chủ nghĩa tư bản và chủ nghĩa cộng sản không cần bất kỳ thời kỳ chuyển tiếp nào.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa cộng sản chỉ có thể ra đời bằng cải cách hành chính trong nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa tư bản có thể tồn tại vĩnh viễn, không có khả năng bị thay thế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 014: [Nhận biết] Xã hội vừa thoát thai từ chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Theo C. Mác, xã hội trong thời kỳ quá độ vừa thoát thai từ xã hội tư bản chủ nghĩa còn mang dấu vết của xã hội cũ trên những phương diện nào?",
+"general_comment": "C. Mác nêu xã hội ấy còn mang dấu vết của xã hội cũ trên các phương diện kinh tế, đạo đức, tinh thần.",
+"answers": [
+{
+"text": "Kinh tế, đạo đức, tinh thần.",
+"weight": 100
+},
+{
+"text": "Sinh học, địa chất, khí hậu.",
+"weight": 0
+},
+{
+"text": "Tôn giáo, huyền thoại, thần học.",
+"weight": 0
+},
+{
+"text": "Quân sự, địa lý, dân số học thuần túy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 015: [Nhận biết] Hai nghĩa của thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Giáo trình phân biệt thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản theo mấy nghĩa?",
+"general_comment": "Giáo trình nêu hai nghĩa: đối với nước chưa trải qua chủ nghĩa tư bản phát triển cần thời kỳ quá độ khá lâu dài; đối với nước đã trải qua chủ nghĩa tư bản phát triển có thời kỳ cải biến cách mạng nhất định.",
+"answers": [
+{
+"text": "Hai nghĩa.",
+"weight": 100
+},
+{
+"text": "Một nghĩa duy nhất.",
+"weight": 0
+},
+{
+"text": "Ba nghĩa.",
+"weight": 0
+},
+{
+"text": "Bốn nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 016: [Nhận biết] Điều kiện ra đời chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Theo giáo trình, sự ra đời của chủ nghĩa xã hội theo chủ nghĩa Mác - Lênin có hai điều kiện chủ yếu nào?",
+"general_comment": "Hai điều kiện chủ yếu là điều kiện kinh tế và điều kiện chính trị - xã hội.",
+"answers": [
+{
+"text": "Điều kiện kinh tế và điều kiện chính trị - xã hội.",
+"weight": 100
+},
+{
+"text": "Điều kiện địa lý và điều kiện khí hậu.",
+"weight": 0
+},
+{
+"text": "Điều kiện tôn giáo và điều kiện phong tục.",
+"weight": 0
+},
+{
+"text": "Điều kiện dân số và điều kiện sinh học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 017: [Nhận biết] Vai trò lịch sử của chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, chủ nghĩa tư bản đã tạo ra bước phát triển vượt bậc của lực lượng sản xuất nhờ biểu hiện tập trung nhất nào?",
+"general_comment": "Giáo trình nêu biểu hiện tập trung nhất là sự ra đời của công nghiệp cơ khí, được trình bày là Cách mạng công nghiệp lần thứ hai.",
+"answers": [
+{
+"text": "Sự ra đời của công nghiệp cơ khí.",
+"weight": 100
+},
+{
+"text": "Sự phục hồi của chế độ phường hội trung cổ.",
+"weight": 0
+},
+{
+"text": "Sự mở rộng của kinh tế tự nhiên tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Sự tan rã hoàn toàn của nền sản xuất hàng hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 018: [Nhận biết] Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản được giáo trình nêu là mâu thuẫn nào?",
+"general_comment": "Mâu thuẫn đó là giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa đối với tư liệu sản xuất.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa đối với tư liệu sản xuất.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn giữa nông dân và địa chủ trong chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các bộ lạc trong xã hội cộng sản nguyên thủy.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các giáo phái trong xã hội trung cổ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 019: [Nhận biết] Biểu hiện xã hội của mâu thuẫn tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản biểu hiện về mặt xã hội thành mâu thuẫn nào?",
+"general_comment": "Về mặt xã hội, mâu thuẫn đó biểu hiện thành mâu thuẫn giữa giai cấp công nhân hiện đại và giai cấp tư sản lỗi thời.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa giai cấp công nhân hiện đại với giai cấp tư sản lỗi thời.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn giữa giai cấp địa chủ và quý tộc phong kiến.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa tăng lữ và nông nô trong lãnh địa.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các dân tộc trong cộng đồng xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 020: [Nhận biết] Đội tiền phong của giai cấp công nhân",
+"points_possible": 1,
+"question_text": "Theo giáo trình, sự trưởng thành thực sự của giai cấp công nhân được đánh dấu bằng sự ra đời của tổ chức nào?",
+"general_comment": "Sự trưởng thành thực sự của giai cấp công nhân được đánh dấu bằng sự ra đời của Đảng Cộng sản, đội tiền phong của giai cấp công nhân.",
+"answers": [
+{
+"text": "Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Nhà nước quân chủ lập hiến.",
+"weight": 0
+},
+{
+"text": "Các phường hội thủ công trung cổ.",
+"weight": 0
+},
+{
+"text": "Liên minh địa chủ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 021: [Nhận biết] Cách mạng vô sản",
+"points_possible": 1,
+"question_text": "Theo giáo trình, cách mạng vô sản là cuộc cách mạng của lực lượng nào dưới sự lãnh đạo của Đảng Cộng sản?",
+"general_comment": "Cách mạng vô sản là cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+"answers": [
+{
+"text": "Giai cấp công nhân và nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản và địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Tầng lớp quý tộc và tăng lữ.",
+"weight": 0
+},
+{
+"text": "Các nhà tư bản độc quyền và nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 022: [Nhận biết] Con đường thực tế của cách mạng vô sản",
+"points_possible": 1,
+"question_text": "Theo giáo trình, trên thực tế cách mạng vô sản thường được thực hiện bằng con đường nào?",
+"general_comment": "Giáo trình nêu cách mạng vô sản trên thực tế được thực hiện bằng con đường bạo lực cách mạng; con đường hòa bình về lý thuyết có thể có nhưng rất hiếm và thực tế chưa xảy ra.",
+"answers": [
+{
+"text": "Bạo lực cách mạng.",
+"weight": 100
+},
+{
+"text": "Cải cách hành chính trong nhà nước tư sản.",
+"weight": 0
+},
+{
+"text": "Phục hồi chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Thỏa hiệp vĩnh viễn với giai cấp tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 023: [Nhận biết] Đặc trưng giải phóng con người",
+"points_possible": 1,
+"question_text": "Một trong những đặc trưng cơ bản của chủ nghĩa xã hội là giải phóng những đối tượng nào?",
+"general_comment": "Đặc trưng đầu tiên được nêu là chủ nghĩa xã hội giải phóng giai cấp, dân tộc, xã hội, con người và tạo điều kiện để con người phát triển toàn diện.",
+"answers": [
+{
+"text": "Giải phóng giai cấp, dân tộc, xã hội, con người.",
+"weight": 100
+},
+{
+"text": "Giải phóng riêng giai cấp tư sản khỏi mọi nghĩa vụ xã hội.",
+"weight": 0
+},
+{
+"text": "Giải phóng địa chủ phong kiến khỏi quan hệ lao động.",
+"weight": 0
+},
+{
+"text": "Giải phóng nhà nước tư sản khỏi sự kiểm soát của nhân dân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 024: [Nhận biết] Nguyên tắc phân phối trong xã hội cộng sản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, mục đích cao nhất, cuối cùng của những cải tạo xã hội chủ nghĩa là thực hiện nguyên tắc nào?",
+"general_comment": "V.I. Lênin nêu mục đích cuối cùng là thiết lập xã hội cộng sản thực hiện nguyên tắc làm theo năng lực, hưởng theo nhu cầu.",
+"answers": [
+{
+"text": "Làm theo năng lực, hưởng theo nhu cầu.",
+"weight": 100
+},
+{
+"text": "Làm theo địa vị, hưởng theo đặc quyền.",
+"weight": 0
+},
+{
+"text": "Làm theo sở hữu tư bản, hưởng theo lợi nhuận.",
+"weight": 0
+},
+{
+"text": "Làm theo thân phận, hưởng theo đẳng cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 025: [Nhận biết] Chủ nghĩa xã hội do ai làm chủ",
+"points_possible": 1,
+"question_text": "Đặc trưng thứ hai của chủ nghĩa xã hội được giáo trình nêu là chế độ xã hội do ai làm chủ?",
+"general_comment": "Giáo trình nêu chủ nghĩa xã hội là chế độ xã hội do nhân dân lao động làm chủ.",
+"answers": [
+{
+"text": "Nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản độc quyền.",
+"weight": 0
+},
+{
+"text": "Địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Một thiểu số quý tộc cha truyền con nối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 026: [Nhận biết] Đặc trưng kinh tế của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Đặc trưng kinh tế cơ bản của chủ nghĩa xã hội được giáo trình nêu là gì?",
+"general_comment": "Chủ nghĩa xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
+"answers": [
+{
+"text": "Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
+"weight": 100
+},
+{
+"text": "Nền kinh tế tự nhiên tự cấp tự túc dựa trên công cụ thủ công lạc hậu.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế địa chủ phong kiến dựa trên địa tô và nông nô.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế tư bản chủ nghĩa dựa trên tư hữu tư bản thống trị tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 027: [Nhận biết] Phân phối chủ yếu trong chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Theo giáo trình, trong chủ nghĩa xã hội, phân phối chủ yếu được thực hiện theo nguyên tắc nào?",
+"general_comment": "Chủ nghĩa xã hội có quan hệ sản xuất dựa trên công hữu, tổ chức quản lý hiệu quả, năng suất lao động cao và phân phối chủ yếu theo lao động.",
+"answers": [
+{
+"text": "Phân phối chủ yếu theo lao động.",
+"weight": 100
+},
+{
+"text": "Phân phối chủ yếu theo đặc quyền quý tộc.",
+"weight": 0
+},
+{
+"text": "Phân phối chủ yếu theo quyền sở hữu tư bản tư nhân.",
+"weight": 0
+},
+{
+"text": "Phân phối chủ yếu theo dòng tộc và huyết thống.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 028: [Nhận biết] Quan điểm của Ăngghen về thủ tiêu tư hữu",
+"points_possible": 1,
+"question_text": "Ph. Ăngghen trả lời thế nào về khả năng thủ tiêu chế độ tư hữu ngay lập tức?",
+"general_comment": "Ph. Ăngghen khẳng định không thể thủ tiêu chế độ tư hữu ngay lập tức, vì không thể làm lực lượng sản xuất tăng ngay đến mức cần thiết để xây dựng kinh tế công hữu.",
+"answers": [
+{
+"text": "Không thể thủ tiêu chế độ tư hữu ngay lập tức.",
+"weight": 100
+},
+{
+"text": "Có thể thủ tiêu ngay lập tức bằng một sắc lệnh hành chính.",
+"weight": 0
+},
+{
+"text": "Không cần thủ tiêu chế độ tư hữu trong bất kỳ giai đoạn nào.",
+"weight": 0
+},
+{
+"text": "Chỉ cần chuyển tư hữu tư bản thành tư hữu phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 029: [Nhận biết] Chủ nghĩa tư bản nhà nước như chiếc cầu nhỏ",
+"points_possible": 1,
+"question_text": "Đối với nước tiểu nông chưa trải qua chủ nghĩa tư bản, V.I. Lênin đề xuất phải tiến lên chủ nghĩa xã hội thông qua những chiếc cầu nhỏ vững chắc đi xuyên qua hình thức nào?",
+"general_comment": "V.I. Lênin nêu cần bắc những chiếc cầu nhỏ vững chắc đi xuyên qua chủ nghĩa tư bản nhà nước để tiến lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Chủ nghĩa tư bản nhà nước.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa phong kiến quân chủ.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa trọng thương sơ kỳ.",
+"weight": 0
+},
+{
+"text": "Chế độ chiếm hữu nô lệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 030: [Nhận biết] Nhà nước kiểu mới trong chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Theo giáo trình, nhà nước kiểu mới trong chủ nghĩa xã hội mang bản chất giai cấp nào?",
+"general_comment": "Nhà nước xã hội chủ nghĩa là nhà nước kiểu mới mang bản chất giai cấp công nhân, đại biểu cho lợi ích, quyền lực và ý chí của nhân dân lao động.",
+"answers": [
+{
+"text": "Bản chất giai cấp công nhân.",
+"weight": 100
+},
+{
+"text": "Bản chất giai cấp tư sản độc quyền.",
+"weight": 0
+},
+{
+"text": "Bản chất địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Bản chất quý tộc chủ nô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 031: [Nhận biết] Dân chủ cho ai trong chuyên chính vô sản",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, nhà nước chuyên chính vô sản lần đầu tiên biến thành chế độ dân chủ cho ai?",
+"general_comment": "V.I. Lênin nêu nhà nước chuyên chính vô sản mở rộng dân chủ, lần đầu tiên biến thành chế độ dân chủ cho người nghèo, dân chủ cho nhân dân chứ không phải cho bọn nhà giàu.",
+"answers": [
+{
+"text": "Người nghèo và nhân dân.",
+"weight": 100
+},
+{
+"text": "Bọn nhà giàu và giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Địa chủ và quý tộc phong kiến.",
+"weight": 0
+},
+{
+"text": "Các lực lượng áp bức, bóc lột.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 032: [Nhận biết] Văn hóa trong chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Trong chủ nghĩa xã hội, văn hóa được giáo trình xác định có vai trò gì?",
+"general_comment": "Văn hóa là nền tảng tinh thần của xã hội, mục tiêu và động lực của phát triển xã hội.",
+"answers": [
+{
+"text": "Nền tảng tinh thần của xã hội, mục tiêu và động lực của phát triển xã hội.",
+"weight": 100
+},
+{
+"text": "Công cụ riêng của giai cấp tư sản để duy trì lợi nhuận.",
+"weight": 0
+},
+{
+"text": "Yếu tố phụ, không liên quan đến kinh tế, chính trị và con người.",
+"weight": 0
+},
+{
+"text": "Tàn dư cần loại bỏ hoàn toàn trong mọi giai đoạn phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 033: [Nhận biết] Văn hóa vô sản theo V.I. Lênin",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, muốn xây dựng nền văn hóa vô sản phải hiểu và cải tạo yếu tố nào?",
+"general_comment": "V.I. Lênin nhấn mạnh phải hiểu chính xác nền văn hóa được sáng tạo trong toàn bộ quá trình phát triển của loài người và cải tạo nền văn hóa đó.",
+"answers": [
+{
+"text": "Nền văn hóa được sáng tạo trong toàn bộ quá trình phát triển của loài người.",
+"weight": 100
+},
+{
+"text": "Chỉ những phong tục biệt lập của một cộng đồng nhỏ.",
+"weight": 0
+},
+{
+"text": "Chỉ văn hóa tư sản hiện đại, không cần di sản nhân loại.",
+"weight": 0
+},
+{
+"text": "Chỉ các giá trị phi vô sản, trái với truyền thống tốt đẹp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 034: [Nhận biết] Cương lĩnh dân tộc của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Theo Cương lĩnh về vấn đề dân tộc của V.I. Lênin, nội dung nguyên tắc nào được nêu?",
+"general_comment": "V.I. Lênin nêu: các dân tộc hoàn toàn bình đẳng; các dân tộc được quyền tự quyết; liên hiệp công nhân tất cả các dân tộc lại.",
+"answers": [
+{
+"text": "Các dân tộc hoàn toàn bình đẳng; các dân tộc được quyền tự quyết; liên hiệp công nhân tất cả các dân tộc lại.",
+"weight": 100
+},
+{
+"text": "Dân tộc lớn có quyền áp đặt ý chí lên dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Công nhân các dân tộc phải tách rời nhau trong đấu tranh.",
+"weight": 0
+},
+{
+"text": "Các dân tộc không có quyền bình đẳng và tự quyết.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 035: [Nhận biết] Khẩu hiệu về vô sản và dân tộc bị áp bức",
+"points_possible": 1,
+"question_text": "Khẩu hiệu nào được V.I. Lênin đưa ra trên cơ sở giải quyết vấn đề dân tộc và thuộc địa?",
+"general_comment": "Giáo trình nêu khẩu hiệu: “Vô sản tất cả các nước và các dân tộc bị áp bức đoàn kết lại”.",
+"answers": [
+{
+"text": "“Vô sản tất cả các nước và các dân tộc bị áp bức đoàn kết lại”.",
+"weight": 100
+},
+{
+"text": "“Tất cả các dân tộc lớn thống trị các dân tộc nhỏ”.",
+"weight": 0
+},
+{
+"text": "“Công nhân mỗi dân tộc chỉ đấu tranh riêng lẻ”.",
+"weight": 0
+},
+{
+"text": "“Địa chủ tất cả các nước liên minh lại”.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 036: [Nhận biết] Năm hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Theo học thuyết hình thái kinh tế - xã hội, lịch sử xã hội đã trải qua năm hình thái nào?",
+"general_comment": "Giáo trình liệt kê: cộng sản nguyên thủy, chiếm hữu nô lệ, phong kiến, tư bản chủ nghĩa và cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Cộng sản nguyên thủy, chiếm hữu nô lệ, phong kiến, tư bản chủ nghĩa và cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Phong kiến, tư bản tài chính, tư bản độc quyền, hậu công nghiệp và toàn cầu hóa.",
+"weight": 0
+},
+{
+"text": "Bộ lạc, thành bang, đế quốc, quân chủ lập hiến và cộng hòa nghị viện.",
+"weight": 0
+},
+{
+"text": "Địa chủ, nông dân, tư sản, công nhân và trí thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 037: [Nhận biết] Hai loại quá độ",
+"points_possible": 1,
+"question_text": "Theo giáo trình, có hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản là gì?",
+"general_comment": "Hai loại quá độ là quá độ trực tiếp đối với nước đã trải qua chủ nghĩa tư bản phát triển và quá độ gián tiếp đối với nước chưa trải qua chủ nghĩa tư bản phát triển.",
+"answers": [
+{
+"text": "Quá độ trực tiếp và quá độ gián tiếp.",
+"weight": 100
+},
+{
+"text": "Quá độ tự nhiên và quá độ thần học.",
+"weight": 0
+},
+{
+"text": "Quá độ phong kiến và quá độ chủ nô.",
+"weight": 0
+},
+{
+"text": "Quá độ kinh tế và quá độ sinh học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 038: [Nhận biết] Quá độ trực tiếp",
+"points_possible": 1,
+"question_text": "Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản được giáo trình xác định đối với loại nước nào?",
+"general_comment": "Quá độ trực tiếp được nêu đối với những nước đã trải qua chủ nghĩa tư bản phát triển; giáo trình cũng nêu loại quá độ này chưa từng diễn ra.",
+"answers": [
+{
+"text": "Những nước đã trải qua chủ nghĩa tư bản phát triển.",
+"weight": 100
+},
+{
+"text": "Những nước thuộc địa, nửa phong kiến chưa có công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Những nước cộng sản nguyên thủy chưa có giai cấp.",
+"weight": 0
+},
+{
+"text": "Những nước chỉ tồn tại kinh tế tự nhiên tự cấp tự túc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 039: [Nhận biết] Quá độ gián tiếp",
+"points_possible": 1,
+"question_text": "Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản được giáo trình xác định đối với loại nước nào?",
+"general_comment": "Quá độ gián tiếp được nêu đối với những nước chưa trải qua chủ nghĩa tư bản phát triển như Đông Âu trước đây, Trung Quốc, Việt Nam và một số nước xã hội chủ nghĩa khác.",
+"answers": [
+{
+"text": "Những nước chưa trải qua chủ nghĩa tư bản phát triển.",
+"weight": 100
+},
+{
+"text": "Những nước tư bản phát triển cao đã hoàn tất công nghiệp hóa tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Những nước không có bất kỳ lực lượng sản xuất nào.",
+"weight": 0
+},
+{
+"text": "Những nước đã xóa bỏ toàn bộ thời kỳ quá độ chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 040: [Nhận biết] Thực chất thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+"general_comment": "Giáo trình xác định đó là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Thời kỳ phục hồi toàn bộ quan hệ sản xuất phong kiến.",
+"weight": 0
+},
+{
+"text": "Thời kỳ duy trì nguyên vẹn mọi thiết chế tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Thời kỳ xóa bỏ mọi hình thức tổ chức nhà nước và xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 041: [Nhận biết] Đặc điểm chung của xã hội thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Xã hội của thời kỳ quá độ có đặc điểm chung nào?",
+"general_comment": "Xã hội thời kỳ quá độ có sự đan xen giữa nhiều tàn dư kinh tế, đạo đức, tinh thần của chủ nghĩa tư bản và các yếu tố mới mang tính xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Đan xen giữa tàn dư của xã hội cũ và yếu tố mới mang tính xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Đã phát triển hoàn chỉnh trên cơ sở của chính nó như xã hội cộng sản giai đoạn cao.",
+"weight": 0
+},
+{
+"text": "Không còn bất kỳ khác biệt kinh tế, văn hóa, tư tưởng nào.",
+"weight": 0
+},
+{
+"text": "Chỉ tồn tại một thành phần kinh tế xã hội chủ nghĩa thuần nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 042: [Nhận biết] Thời điểm bắt đầu và kết thúc thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Theo giáo trình, thời kỳ quá độ lên chủ nghĩa xã hội bắt đầu và kết thúc khi nào?",
+"general_comment": "Thời kỳ quá độ bắt đầu từ khi giai cấp công nhân và nhân dân lao động giành được chính quyền đến khi xây dựng thành công chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Từ khi giai cấp công nhân và nhân dân lao động giành chính quyền đến khi xây dựng thành công chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Từ khi chủ nghĩa tư bản hình thành đến khi phong kiến phục hồi.",
+"weight": 0
+},
+{
+"text": "Từ khi kinh tế thị trường ra đời đến khi nhà nước tư sản củng cố.",
+"weight": 0
+},
+{
+"text": "Từ khi xuất hiện công xã nguyên thủy đến khi xuất hiện nô lệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 043: [Nhận biết] Kinh tế thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực kinh tế, thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tất yếu tồn tại kiểu nền kinh tế nào?",
+"general_comment": "Giáo trình nêu thời kỳ quá độ tất yếu tồn tại nền kinh tế nhiều thành phần, trong đó có thành phần đối lập.",
+"answers": [
+{
+"text": "Nền kinh tế nhiều thành phần, trong đó có thành phần đối lập.",
+"weight": 100
+},
+{
+"text": "Nền kinh tế một thành phần thuần nhất tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế tự nhiên không có trao đổi hàng hóa.",
+"weight": 0
+},
+{
+"text": "Nền kinh tế phong kiến địa tô giữ vai trò duy nhất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 044: [Nhận biết] Năm thành phần kinh tế ở Nga thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, nước Nga trong thời kỳ quá độ tồn tại năm thành phần kinh tế nào?",
+"general_comment": "V.I. Lênin nêu năm thành phần: kinh tế gia trưởng, kinh tế hàng hóa nhỏ, kinh tế tư bản, kinh tế tư bản nhà nước, kinh tế xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Kinh tế gia trưởng, kinh tế hàng hóa nhỏ, kinh tế tư bản, kinh tế tư bản nhà nước, kinh tế xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Kinh tế phong kiến, kinh tế nô lệ, kinh tế bộ lạc, kinh tế quân chủ, kinh tế thần quyền.",
+"weight": 0
+},
+{
+"text": "Kinh tế tư sản, kinh tế địa chủ, kinh tế quý tộc, kinh tế giáo hội, kinh tế chủ nô.",
+"weight": 0
+},
+{
+"text": "Kinh tế số, kinh tế tuần hoàn, kinh tế xanh, kinh tế tri thức, kinh tế sáng tạo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 045: [Nhận biết] Chính trị thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực chính trị, thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội là việc thiết lập và tăng cường hình thức quyền lực nào?",
+"general_comment": "Giáo trình nêu đó là thiết lập và tăng cường chuyên chính vô sản, thực chất là giai cấp công nhân nắm và sử dụng quyền lực nhà nước.",
+"answers": [
+{
+"text": "Chuyên chính vô sản.",
+"weight": 100
+},
+{
+"text": "Chuyên chính tư sản.",
+"weight": 0
+},
+{
+"text": "Chuyên chính phong kiến.",
+"weight": 0
+},
+{
+"text": "Chuyên chính chủ nô.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 046: [Nhận biết] Tư tưởng trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực tư tưởng - văn hóa, thời kỳ quá độ còn tồn tại nhiều tư tưởng khác nhau, chủ yếu là những tư tưởng nào?",
+"general_comment": "Giáo trình nêu thời kỳ quá độ còn tồn tại nhiều tư tưởng khác nhau, chủ yếu là tư tưởng vô sản và tư tưởng tư sản.",
+"answers": [
+{
+"text": "Tư tưởng vô sản và tư tưởng tư sản.",
+"weight": 100
+},
+{
+"text": "Tư tưởng chủ nô và tư tưởng thần quyền.",
+"weight": 0
+},
+{
+"text": "Tư tưởng địa chủ và tư tưởng quý tộc.",
+"weight": 0
+},
+{
+"text": "Tư tưởng bộ lạc và tư tưởng thị tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 047: [Nhận biết] Xã hội thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trên lĩnh vực xã hội, trong thời kỳ quá độ còn tồn tại điều gì do kết cấu kinh tế nhiều thành phần quy định?",
+"general_comment": "Giáo trình nêu còn tồn tại nhiều giai cấp, tầng lớp và sự khác biệt giữa các giai cấp, tầng lớp xã hội.",
+"answers": [
+{
+"text": "Nhiều giai cấp, tầng lớp và sự khác biệt giữa các giai cấp, tầng lớp xã hội.",
+"weight": 100
+},
+{
+"text": "Một giai cấp duy nhất không có bất kỳ khác biệt xã hội nào.",
+"weight": 0
+},
+{
+"text": "Chỉ có hai tầng lớp quý tộc và tăng lữ.",
+"weight": 0
+},
+{
+"text": "Chỉ có địa chủ và nông nô như trong xã hội phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 048: [Nhận biết] Xuất phát điểm của Việt Nam",
+"points_possible": 1,
+"question_text": "Việt Nam tiến lên chủ nghĩa xã hội từ một xã hội có xuất phát điểm nào?",
+"general_comment": "Giáo trình nêu Việt Nam xuất phát từ xã hội vốn là thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp.",
+"answers": [
+{
+"text": "Xã hội thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp.",
+"weight": 100
+},
+{
+"text": "Xã hội tư bản phát triển cao, công nghiệp hiện đại hoàn chỉnh.",
+"weight": 0
+},
+{
+"text": "Xã hội cộng sản chủ nghĩa giai đoạn cao.",
+"weight": 0
+},
+{
+"text": "Xã hội phong kiến độc lập không chịu tác động chiến tranh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 049: [Nhận biết] Cương lĩnh năm 1930",
+"points_possible": 1,
+"question_text": "Cương lĩnh năm 1930 của Đảng đã chỉ rõ sau khi hoàn thành cách mạng dân tộc, dân chủ nhân dân thì Việt Nam sẽ đi theo con đường nào?",
+"general_comment": "Cương lĩnh năm 1930 xác định sau cách mạng dân tộc, dân chủ nhân dân sẽ tiến lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Tiến lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Duy trì chủ nghĩa tư bản như chế độ thống trị lâu dài.",
+"weight": 0
+},
+{
+"text": "Phục hồi chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Trở lại chế độ thuộc địa, nửa phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 050: [Nhận biết] Đại hội IX về bỏ qua chế độ tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Đại hội IX của Đảng Cộng sản Việt Nam xác định con đường đi lên của nước ta là gì?",
+"general_comment": "Đại hội IX xác định con đường đi lên của Việt Nam là phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Phát triển tư bản chủ nghĩa với quan hệ sản xuất tư bản giữ vị trí thống trị.",
+"weight": 0
+},
+{
+"text": "Phát triển trở lại chế độ quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Phát triển theo mô hình thuộc địa phụ thuộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 051: [Nhận biết] Ý nghĩa bỏ qua chế độ tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Theo Đại hội IX, bỏ qua chế độ tư bản chủ nghĩa trước hết có nghĩa là bỏ qua điều gì?",
+"general_comment": "Bỏ qua chế độ tư bản chủ nghĩa là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Bỏ qua toàn bộ thành tựu khoa học, công nghệ và quản lý của nhân loại.",
+"weight": 0
+},
+{
+"text": "Bỏ qua mọi hình thức kinh tế nhiều thành phần trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Bỏ qua nhiệm vụ phát triển lực lượng sản xuất và xây dựng kinh tế hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 052: [Nhận biết] Đại hội IV năm 1976",
+"points_possible": 1,
+"question_text": "Theo giáo trình, tại Đại hội IV năm 1976, nhận thức của Đảng ta về chủ nghĩa xã hội và con đường phát triển của cách mạng nước ta mới dừng ở mức độ nào?",
+"general_comment": "Giáo trình nêu tại Đại hội IV năm 1976, nhận thức mới dừng ở mức độ định hướng.",
+"answers": [
+{
+"text": "Mức độ định hướng.",
+"weight": 100
+},
+{
+"text": "Mức độ hoàn chỉnh định lượng tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Mức độ phủ nhận chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Mức độ xác lập chủ nghĩa tư bản làm mục tiêu cuối cùng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 053: [Nhận biết] Cương lĩnh năm 1991",
+"points_possible": 1,
+"question_text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội năm 1991 xác định mô hình chủ nghĩa xã hội ở Việt Nam với mấy đặc trưng?",
+"general_comment": "Giáo trình nêu Cương lĩnh năm 1991 xác định mô hình chủ nghĩa xã hội ở nước ta với sáu đặc trưng.",
+"answers": [
+{
+"text": "Sáu đặc trưng.",
+"weight": 100
+},
+{
+"text": "Bốn đặc trưng.",
+"weight": 0
+},
+{
+"text": "Tám đặc trưng.",
+"weight": 0
+},
+{
+"text": "Mười hai đặc trưng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 054: [Nhận biết] Cương lĩnh bổ sung phát triển năm 2011",
+"points_possible": 1,
+"question_text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội bổ sung, phát triển năm 2011 xác định mô hình chủ nghĩa xã hội Việt Nam với mấy đặc trưng?",
+"general_comment": "Giáo trình nêu Cương lĩnh bổ sung, phát triển năm 2011 phát triển mô hình chủ nghĩa xã hội Việt Nam với tám đặc trưng.",
+"answers": [
+{
+"text": "Tám đặc trưng.",
+"weight": 100
+},
+{
+"text": "Sáu đặc trưng.",
+"weight": 0
+},
+{
+"text": "Bảy đặc trưng.",
+"weight": 0
+},
+{
+"text": "Mười hai đặc trưng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 055: [Nhận biết] Mục tiêu tổng quát của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Một đặc trưng mục tiêu của xã hội xã hội chủ nghĩa mà nhân dân Việt Nam xây dựng là gì?",
+"general_comment": "Đặc trưng đầu tiên trong tám đặc trưng là dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+"answers": [
+{
+"text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+"weight": 100
+},
+{
+"text": "Dân nghèo, nước yếu, quan liêu, bất bình đẳng, lạc hậu.",
+"weight": 0
+},
+{
+"text": "Nhà nước phong kiến, kinh tế tự nhiên, xã hội đẳng cấp.",
+"weight": 0
+},
+{
+"text": "Tư bản độc quyền giữ vai trò thống trị tuyệt đối.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 056: [Nhận biết] Phương hướng xây dựng chủ nghĩa xã hội năm 2011",
+"points_possible": 1,
+"question_text": "Tại Đại hội XI, Đảng ta xác định bao nhiêu phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam?",
+"general_comment": "Đại hội XI xác định tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam.",
+"answers": [
+{
+"text": "Tám phương hướng.",
+"weight": 100
+},
+{
+"text": "Sáu phương hướng.",
+"weight": 0
+},
+{
+"text": "Mười phương hướng.",
+"weight": 0
+},
+{
+"text": "Mười hai phương hướng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 057: [Nhận biết] Tám mối quan hệ lớn năm 2011",
+"points_possible": 1,
+"question_text": "Trong Cương lĩnh bổ sung, phát triển năm 2011, Đảng yêu cầu đặc biệt chú trọng nắm vững và giải quyết tốt bao nhiêu mối quan hệ lớn?",
+"general_comment": "Giáo trình nêu Đảng yêu cầu giải quyết tốt tám mối quan hệ lớn.",
+"answers": [
+{
+"text": "Tám mối quan hệ lớn.",
+"weight": 100
+},
+{
+"text": "Năm mối quan hệ lớn.",
+"weight": 0
+},
+{
+"text": "Mười hai mối quan hệ lớn.",
+"weight": 0
+},
+{
+"text": "Ba mối quan hệ lớn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 058: [Nhận biết] Đại hội XIII và mục tiêu giữa thế kỷ XXI",
+"points_possible": 1,
+"question_text": "Đại hội XIII của Đảng xác định đến giữa thế kỷ XXI, Việt Nam trở thành nước như thế nào?",
+"general_comment": "Đại hội XIII xác định đến giữa thế kỷ XXI, nước ta trở thành nước phát triển theo định hướng xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Nước phát triển theo định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Nước thuộc địa phụ thuộc vào tư bản nước ngoài.",
+"weight": 0
+},
+{
+"text": "Nước phong kiến nông nghiệp tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Nước tư bản chủ nghĩa phát triển theo mô hình tư hữu thống trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 059: [Nhận biết] Mục tiêu năm 2025",
+"points_possible": 1,
+"question_text": "Theo Đại hội XIII, đến năm 2025, kỷ niệm 50 năm giải phóng hoàn toàn miền Nam, thống nhất đất nước, Việt Nam phấn đấu đạt mục tiêu nào?",
+"general_comment": "Mục tiêu năm 2025 là nước đang phát triển, có công nghiệp theo hướng hiện đại, thu nhập trung bình thấp.",
+"answers": [
+{
+"text": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, thu nhập trung bình thấp.",
+"weight": 100
+},
+{
+"text": "Là nước phát triển, thu nhập cao.",
+"weight": 0
+},
+{
+"text": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.",
+"weight": 0
+},
+{
+"text": "Là nước nông nghiệp lạc hậu, không phát triển công nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 060: [Nhận biết] Mục tiêu năm 2030",
+"points_possible": 1,
+"question_text": "Theo Đại hội XIII, đến năm 2030, kỷ niệm 100 năm ngày thành lập Đảng, Việt Nam phấn đấu đạt mục tiêu nào?",
+"general_comment": "Mục tiêu năm 2030 là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.",
+"answers": [
+{
+"text": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.",
+"weight": 100
+},
+{
+"text": "Là nước đang phát triển, công nghiệp theo hướng hiện đại, thu nhập trung bình thấp.",
+"weight": 0
+},
+{
+"text": "Là nước phát triển, thu nhập cao.",
+"weight": 0
+},
+{
+"text": "Là nước thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 061: [Nhận biết] Mục tiêu năm 2045",
+"points_possible": 1,
+"question_text": "Theo Đại hội XIII, đến giữa năm 2045, kỷ niệm 100 năm thành lập nước Việt Nam Dân chủ Cộng hòa, nay là nước Cộng hòa xã hội chủ nghĩa Việt Nam, Việt Nam phấn đấu đạt mục tiêu nào?",
+"general_comment": "Mục tiêu đến giữa năm 2045 là trở thành nước phát triển, thu nhập cao.",
+"answers": [
+{
+"text": "Trở thành nước phát triển, thu nhập cao.",
+"weight": 100
+},
+{
+"text": "Trở thành nước đang phát triển, thu nhập trung bình thấp.",
+"weight": 0
+},
+{
+"text": "Trở thành nước công nghiệp theo hướng hiện đại, thu nhập thấp.",
+"weight": 0
+},
+{
+"text": "Trở thành nước phong kiến nông nghiệp tự cung tự cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 062: [Nhận biết] Mười hai định hướng phát triển",
+"points_possible": 1,
+"question_text": "Đại hội XIII yêu cầu quán triệt và thực hiện tốt bao nhiêu định hướng phát triển đất nước giai đoạn 2021-2030?",
+"general_comment": "Giáo trình nêu 12 định hướng phát triển đất nước giai đoạn 2021-2030.",
+"answers": [
+{
+"text": "12 định hướng.",
+"weight": 100
+},
+{
+"text": "8 định hướng.",
+"weight": 0
+},
+{
+"text": "6 định hướng.",
+"weight": 0
+},
+{
+"text": "5 định hướng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 063: [Thông hiểu] Bốn góc độ tiếp cận chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Nhận định nào khái quát đúng bốn góc độ tiếp cận chủ nghĩa xã hội trong giáo trình?",
+"general_comment": "Giáo trình tiếp cận chủ nghĩa xã hội như phong trào thực tiễn, trào lưu tư tưởng - lý luận, một khoa học và một chế độ xã hội tốt đẹp.",
+"answers": [
+{
+"text": "Chủ nghĩa xã hội vừa là phong trào thực tiễn, trào lưu tư tưởng - lý luận, một khoa học, vừa là một chế độ xã hội tốt đẹp.",
+"weight": 100
+},
+{
+"text": "Chủ nghĩa xã hội chỉ là một học thuyết đạo đức, không liên quan phong trào thực tiễn.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội chỉ là một mô hình kinh tế thị trường tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Chủ nghĩa xã hội chỉ là một giai đoạn của chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 064: [Thông hiểu] Ý nghĩa của học thuyết hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Học thuyết hình thái kinh tế - xã hội có ý nghĩa gì trong việc giải thích lịch sử?",
+"general_comment": "Học thuyết vạch rõ các quy luật cơ bản của vận động xã hội và cung cấp phương pháp khoa học để giải thích lịch sử.",
+"answers": [
+{
+"text": "Vạch rõ các quy luật cơ bản của vận động xã hội và cung cấp phương pháp khoa học để giải thích lịch sử.",
+"weight": 100
+},
+{
+"text": "Chỉ mô tả lịch sử như chuỗi sự kiện ngẫu nhiên không có quy luật.",
+"weight": 0
+},
+{
+"text": "Chỉ giải thích lịch sử bằng ý chí của các cá nhân vĩ đại.",
+"weight": 0
+},
+{
+"text": "Phủ nhận hoàn toàn vai trò của lực lượng sản xuất và quan hệ sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 065: [Thông hiểu] Quá trình lịch sử tự nhiên",
+"points_possible": 1,
+"question_text": "Khi nói sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái cộng sản chủ nghĩa là quá trình lịch sử tự nhiên, cần hiểu thế nào?",
+"general_comment": "Đó là quá trình khách quan do quy luật vận động của xã hội, nhất là mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất, chứ không phải mong muốn chủ quan.",
+"answers": [
+{
+"text": "Đó là quá trình khách quan do quy luật vận động của xã hội, không phải sự áp đặt tùy tiện theo ý chí chủ quan.",
+"weight": 100
+},
+{
+"text": "Đó là quá trình xảy ra do phép màu, không cần điều kiện vật chất và xã hội.",
+"weight": 0
+},
+{
+"text": "Đó là quá trình chỉ phụ thuộc vào cải cách đạo đức cá nhân.",
+"weight": 0
+},
+{
+"text": "Đó là quá trình phủ nhận mọi vai trò của giai cấp công nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 066: [Thông hiểu] Quan hệ giữa giai đoạn thấp và chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Trong kết cấu hình thái kinh tế - xã hội cộng sản chủ nghĩa, chủ nghĩa xã hội được hiểu như thế nào?",
+"general_comment": "Chủ nghĩa xã hội là giai đoạn đầu, giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Là giai đoạn đầu, giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Là giai đoạn cao đã hoàn toàn thực hiện nguyên tắc hưởng theo nhu cầu.",
+"weight": 0
+},
+{
+"text": "Là một hình thái kinh tế - xã hội tách biệt hoàn toàn với cộng sản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Là giai đoạn cuối của chủ nghĩa tư bản độc quyền.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 067: [Thông hiểu] Vì sao cần thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Vì sao theo các nhà kinh điển, không thể có ngay một chế độ xã hội chủ nghĩa tốt đẹp thay thế tức thời xã hội tư bản chủ nghĩa?",
+"general_comment": "Giai cấp vô sản cần thời gian để cải tạo xã hội cũ do giai cấp bóc lột dựng lên và xây dựng cơ sở lâu dài của chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Vì cần thời gian cải tạo xã hội cũ và xây dựng cơ sở vật chất, chính trị, văn hóa, xã hội của chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Vì chủ nghĩa xã hội chỉ là ước muốn đạo đức, không có khả năng hiện thực.",
+"weight": 0
+},
+{
+"text": "Vì xã hội tư bản chủ nghĩa không có mâu thuẫn nào cần giải quyết.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp công nhân không có vai trò trong chuyển biến lịch sử.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 068: [Thông hiểu] Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất",
+"points_possible": 1,
+"question_text": "Trong chủ nghĩa tư bản, vì sao quan hệ sản xuất tư bản chủ nghĩa từ chỗ mở đường lại trở thành xiềng xích của lực lượng sản xuất?",
+"general_comment": "Khi lực lượng sản xuất ngày càng cơ khí hóa, hiện đại hóa và xã hội hóa cao, nó mâu thuẫn với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất.",
+"answers": [
+{
+"text": "Vì lực lượng sản xuất ngày càng xã hội hóa cao nhưng quan hệ sản xuất vẫn dựa trên chiếm hữu tư nhân tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Vì lực lượng sản xuất càng phát triển thì càng phù hợp tuyệt đối với tư hữu tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vì công nghiệp cơ khí làm biến mất mọi mâu thuẫn xã hội.",
+"weight": 0
+},
+{
+"text": "Vì giai cấp tư sản không gắn với quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 069: [Thông hiểu] Vũ khí và người sử dụng vũ khí",
+"points_possible": 1,
+"question_text": "Luận điểm của C. Mác và Ph. Ăngghen rằng giai cấp tư sản tạo ra vũ khí giết mình và những người sử dụng vũ khí đó hàm ý gì?",
+"general_comment": "Chủ nghĩa tư bản phát triển lực lượng sản xuất và đồng thời sản sinh, rèn luyện giai cấp công nhân hiện đại, lực lượng có khả năng lật đổ nó.",
+"answers": [
+{
+"text": "Chủ nghĩa tư bản tạo ra lực lượng sản xuất hiện đại và giai cấp công nhân hiện đại, lực lượng có khả năng phủ định nó.",
+"weight": 100
+},
+{
+"text": "Giai cấp tư sản tự nguyện xóa bỏ mình mà không cần đấu tranh giai cấp.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân là sản phẩm của xã hội phong kiến, không liên quan chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn tư bản chủ nghĩa chỉ là mâu thuẫn kỹ thuật, không có ý nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 070: [Thông hiểu] Điều kiện thành công của cách mạng vô sản",
+"points_possible": 1,
+"question_text": "Theo giáo trình, cách mạng vô sản chỉ có thể thành công khi điều kiện chính trị nào được phát huy?",
+"general_comment": "Cách mạng vô sản cần khơi dậy và phát huy tính tích cực chính trị của giai cấp công nhân trong liên minh với các giai cấp, tầng lớp lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+"answers": [
+{
+"text": "Tính tích cực chính trị của giai cấp công nhân trong liên minh với các lực lượng lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+"weight": 100
+},
+{
+"text": "Sự thụ động chính trị của công nhân và sự lãnh đạo của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Sự tách biệt công nhân khỏi nông dân và các tầng lớp lao động.",
+"weight": 0
+},
+{
+"text": "Sự duy trì toàn bộ bộ máy thống trị của chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 071: [Thông hiểu] Bản chất nhân văn của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Đặc trưng giải phóng giai cấp, dân tộc, xã hội và con người thể hiện bản chất nào của chủ nghĩa xã hội?",
+"general_comment": "Giáo trình khẳng định đây là sự khác biệt về chất, thể hiện bản chất nhân văn, nhân đạo của hình thái cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Bản chất nhân văn, nhân đạo vì sự nghiệp giải phóng giai cấp, xã hội và con người.",
+"weight": 100
+},
+{
+"text": "Bản chất duy trì đối kháng giai cấp và bóc lột dân tộc.",
+"weight": 0
+},
+{
+"text": "Bản chất bảo vệ đặc quyền của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Bản chất khôi phục bất bình đẳng phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 072: [Thông hiểu] Giành dân chủ trong cách mạng công nhân",
+"points_possible": 1,
+"question_text": "Luận điểm của C. Mác và Ph. Ăngghen rằng bước thứ nhất trong cách mạng công nhân là giai cấp vô sản biến thành giai cấp thống trị, giành lấy dân chủ có ý nghĩa gì?",
+"general_comment": "Luận điểm nhấn mạnh giai cấp công nhân phải nắm quyền lực chính trị để xây dựng chế độ dân chủ mới của nhân dân lao động.",
+"answers": [
+{
+"text": "Giai cấp công nhân phải giành quyền lực chính trị để xây dựng chế độ dân chủ của nhân dân lao động.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân chỉ cần đấu tranh kinh tế, không cần quyền lực chính trị.",
+"weight": 0
+},
+{
+"text": "Dân chủ trong chủ nghĩa xã hội là dân chủ cho giai cấp tư sản giàu có.",
+"weight": 0
+},
+{
+"text": "Cách mạng công nhân nhằm duy trì nguyên trạng nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 073: [Thông hiểu] Không thủ tiêu tư hữu ngay lập tức",
+"points_possible": 1,
+"question_text": "Vì sao Ph. Ăngghen cho rằng không thể thủ tiêu chế độ tư hữu ngay lập tức?",
+"general_comment": "Theo Ph. Ăngghen, không thể làm lực lượng sản xuất hiện có tăng ngay đến mức cần thiết để xây dựng nền kinh tế công hữu; cải tạo xã hội phải diễn ra dần dần.",
+"answers": [
+{
+"text": "Vì lực lượng sản xuất chưa thể tăng ngay đến mức cần thiết để xây dựng kinh tế công hữu, nên cải tạo xã hội phải dần dần.",
+"weight": 100
+},
+{
+"text": "Vì chế độ tư hữu tư bản chủ nghĩa được coi là mục tiêu cuối cùng của chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội không liên quan đến vấn đề sở hữu tư liệu sản xuất.",
+"weight": 0
+},
+{
+"text": "Vì công hữu chỉ có thể tồn tại trong chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 074: [Thông hiểu] Năng suất lao động và tổ chức lao động",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, để thiết lập một chế độ xã hội cao hơn chủ nghĩa tư bản cần thực hiện điều gì?",
+"general_comment": "V.I. Lênin nhấn mạnh cần nâng cao năng suất lao động và tổ chức lao động theo trình độ cao hơn.",
+"answers": [
+{
+"text": "Nâng cao năng suất lao động và tổ chức lao động theo trình độ cao hơn.",
+"weight": 100
+},
+{
+"text": "Giảm năng suất lao động để duy trì sản xuất nhỏ.",
+"weight": 0
+},
+{
+"text": "Duy trì kỷ luật lao động tự phát, không cần tổ chức.",
+"weight": 0
+},
+{
+"text": "Phủ nhận vai trò của lực lượng sản xuất hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 075: [Thông hiểu] Nhà nước chuyên chính vô sản",
+"points_possible": 1,
+"question_text": "Theo V.I. Lênin, nhà nước chuyên chính vô sản kết hợp những chức năng nào?",
+"general_comment": "Nhà nước chuyên chính vô sản vừa thực hiện dân chủ cho tuyệt đại đa số nhân dân, vừa trấn áp bọn bóc lột, áp bức nhân dân.",
+"answers": [
+{
+"text": "Thực hiện dân chủ cho tuyệt đại đa số nhân dân và trấn áp bọn bóc lột, áp bức.",
+"weight": 100
+},
+{
+"text": "Thực hiện dân chủ riêng cho bọn nhà giàu và trấn áp nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Chỉ quản lý kỹ thuật sản xuất, không có chức năng chính trị.",
+"weight": 0
+},
+{
+"text": "Chỉ duy trì nguyên vẹn chế độ dân chủ tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 076: [Thông hiểu] Kế thừa văn hóa dân tộc và tinh hoa nhân loại",
+"points_possible": 1,
+"question_text": "Vì sao xây dựng văn hóa xã hội chủ nghĩa phải kế thừa giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại?",
+"general_comment": "V.I. Lênin nhấn mạnh người cộng sản phải làm giàu trí óc bằng kho tàng tri thức nhân loại; xây dựng văn hóa mới không phải phủ định sạch trơn di sản văn hóa.",
+"answers": [
+{
+"text": "Vì văn hóa xã hội chủ nghĩa được xây dựng bằng sự tiếp thu, cải tạo và phát triển các giá trị văn hóa dân tộc và kho tàng tri thức nhân loại.",
+"weight": 100
+},
+{
+"text": "Vì văn hóa xã hội chủ nghĩa phải cắt đứt hoàn toàn với mọi di sản văn hóa trước đó.",
+"weight": 0
+},
+{
+"text": "Vì văn hóa xã hội chủ nghĩa chỉ cần sao chép văn hóa tư sản phương Tây.",
+"weight": 0
+},
+{
+"text": "Vì văn hóa không liên quan đến kinh tế, chính trị và con người.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 077: [Thông hiểu] Vấn đề dân tộc trong chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Theo quan điểm Mác - Lênin, vì sao giải quyết vấn đề dân tộc trong chủ nghĩa xã hội gắn với xóa bỏ bóc lột giai cấp?",
+"general_comment": "Giáo trình nêu xóa bỏ tình trạng người bóc lột người thì tình trạng dân tộc này bóc lột dân tộc khác cũng bị xóa bỏ.",
+"answers": [
+{
+"text": "Vì xóa bỏ người bóc lột người là cơ sở để xóa bỏ tình trạng dân tộc này bóc lột dân tộc khác.",
+"weight": 100
+},
+{
+"text": "Vì vấn đề dân tộc hoàn toàn tách rời vấn đề giai cấp.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội chủ trương dân tộc lớn thống trị dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Vì bất bình đẳng dân tộc là điều kiện tồn tại của chủ nghĩa xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 078: [Thông hiểu] Khác biệt với chủ nghĩa dân tộc cực đoan",
+"points_possible": 1,
+"question_text": "Điểm khác biệt căn bản giữa quan điểm Mác - Lênin về vấn đề dân tộc và chủ nghĩa dân tộc cực đoan, hẹp hòi là gì?",
+"general_comment": "Quan điểm Mác - Lênin đặt vấn đề dân tộc trên cơ sở bình đẳng, tự quyết, đoàn kết và hợp tác; khác với dân tộc cực đoan, phân biệt chủng tộc.",
+"answers": [
+{
+"text": "Quan điểm Mác - Lênin dựa trên bình đẳng, tự quyết, đoàn kết và hợp tác giữa các dân tộc.",
+"weight": 100
+},
+{
+"text": "Quan điểm Mác - Lênin dựa trên đặc quyền của một dân tộc thống trị.",
+"weight": 0
+},
+{
+"text": "Quan điểm Mác - Lênin phủ nhận quyền bình đẳng dân tộc.",
+"weight": 0
+},
+{
+"text": "Quan điểm Mác - Lênin đồng nhất với chủ nghĩa phân biệt chủng tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 079: [Thông hiểu] Quá độ trực tiếp chưa từng diễn ra",
+"points_possible": 1,
+"question_text": "Nhận định nào đúng về quá độ trực tiếp từ chủ nghĩa tư bản phát triển lên chủ nghĩa cộng sản theo giáo trình?",
+"general_comment": "Giáo trình nêu quá độ trực tiếp đối với nước đã trải qua chủ nghĩa tư bản phát triển nhưng cho đến nay chưa từng diễn ra.",
+"answers": [
+{
+"text": "Đó là hình thức quá độ đối với nước đã trải qua chủ nghĩa tư bản phát triển, nhưng cho đến nay chưa từng diễn ra.",
+"weight": 100
+},
+{
+"text": "Đó là hình thức quá độ của Việt Nam hiện nay.",
+"weight": 0
+},
+{
+"text": "Đó là hình thức quá độ bắt buộc của mọi nước chưa công nghiệp hóa.",
+"weight": 0
+},
+{
+"text": "Đó là hình thức quá độ không cần cách mạng xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 080: [Thông hiểu] Khả năng rút ngắn phát triển",
+"points_possible": 1,
+"question_text": "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, các nước lạc hậu có thể rút ngắn quá trình phát triển lên xã hội xã hội chủ nghĩa nhờ điều kiện nào?",
+"general_comment": "Giáo trình nêu các nước lạc hậu với sự giúp đỡ của giai cấp vô sản đã chiến thắng có thể rút ngắn quá trình phát triển.",
+"answers": [
+{
+"text": "Sự giúp đỡ của giai cấp vô sản đã chiến thắng.",
+"weight": 100
+},
+{
+"text": "Sự bảo hộ của chủ nghĩa đế quốc.",
+"weight": 0
+},
+{
+"text": "Sự phục hồi quyền lực địa chủ phong kiến.",
+"weight": 0
+},
+{
+"text": "Sự thống trị của tư bản độc quyền nước ngoài.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 081: [Thông hiểu] Bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam",
+"points_possible": 1,
+"question_text": "Cách hiểu đúng về “bỏ qua chế độ tư bản chủ nghĩa” ở Việt Nam là gì?",
+"general_comment": "Bỏ qua chế độ tư bản chủ nghĩa không phải là phủ nhận mọi thành tựu của chủ nghĩa tư bản mà là bỏ qua vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, đồng thời tiếp thu thành tựu của nhân loại.",
+"answers": [
+{
+"text": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, nhưng kế thừa thành tựu khoa học, công nghệ và quản lý để phát triển.",
+"weight": 100
+},
+{
+"text": "Bỏ qua toàn bộ văn minh, khoa học, công nghệ và kinh nghiệm quản lý của nhân loại.",
+"weight": 0
+},
+{
+"text": "Bỏ qua thời kỳ quá độ và xây dựng ngay chủ nghĩa cộng sản phát triển hoàn chỉnh.",
+"weight": 0
+},
+{
+"text": "Bỏ qua vai trò lãnh đạo của Đảng và chuyển sang mô hình tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 082: [Thông hiểu] Nhiều hình thức sở hữu trong thời kỳ quá độ Việt Nam",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam, vì sao vẫn còn nhiều hình thức sở hữu và nhiều thành phần kinh tế?",
+"general_comment": "Bỏ qua chế độ tư bản chủ nghĩa không có nghĩa là xóa ngay mọi hình thức sở hữu và thành phần kinh tế; điều cốt lõi là sở hữu tư nhân tư bản chủ nghĩa và kinh tế tư bản tư nhân không giữ vai trò chủ đạo.",
+"answers": [
+{
+"text": "Vì thời kỳ quá độ còn nhiều hình thức sở hữu, nhiều thành phần kinh tế; song tư hữu tư bản chủ nghĩa và kinh tế tư bản tư nhân không giữ vai trò chủ đạo.",
+"weight": 100
+},
+{
+"text": "Vì Việt Nam xác lập sự thống trị tuyệt đối của tư hữu tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Vì thời kỳ quá độ chỉ tồn tại một hình thức công hữu duy nhất ngay từ đầu.",
+"weight": 0
+},
+{
+"text": "Vì Đảng chủ trương phục hồi sở hữu phong kiến làm nền tảng kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 083: [Thông hiểu] Nhiều hình thức phân phối ở Việt Nam",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ ở Việt Nam, quan hệ phân phối được giáo trình mô tả như thế nào?",
+"general_comment": "Thời kỳ quá độ còn nhiều hình thức phân phối; ngoài phân phối theo lao động là chủ đạo còn có phân phối theo mức độ đóng góp và quỹ phúc lợi xã hội.",
+"answers": [
+{
+"text": "Có nhiều hình thức phân phối; phân phối theo lao động là chủ đạo, đồng thời có phân phối theo mức độ đóng góp và quỹ phúc lợi xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ có phân phối theo vốn tư bản và lợi nhuận tư nhân.",
+"weight": 0
+},
+{
+"text": "Chỉ có phân phối theo đặc quyền dòng tộc và địa vị phong kiến.",
+"weight": 0
+},
+{
+"text": "Không tồn tại bất kỳ hình thức phân phối nào trong thời kỳ quá độ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 084: [Thông hiểu] Tính chất khó khăn lâu dài của quá độ Việt Nam",
+"points_possible": 1,
+"question_text": "Vì sao quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam là sự nghiệp khó khăn, phức tạp, lâu dài?",
+"general_comment": "Vì đó là quá trình tạo ra biến đổi về chất trên tất cả các lĩnh vực, có nhiều chặng đường và nhiều hình thức tổ chức kinh tế - xã hội quá độ, đòi hỏi quyết tâm chính trị cao.",
+"answers": [
+{
+"text": "Vì đó là quá trình biến đổi về chất trên mọi lĩnh vực, với nhiều chặng đường và hình thức quá độ, đòi hỏi quyết tâm chính trị cao và khát vọng lớn.",
+"weight": 100
+},
+{
+"text": "Vì Việt Nam không cần phát triển lực lượng sản xuất và kinh tế hiện đại.",
+"weight": 0
+},
+{
+"text": "Vì bỏ qua chế độ tư bản chủ nghĩa là chuyển ngay sang cộng sản chủ nghĩa giai đoạn cao.",
+"weight": 0
+},
+{
+"text": "Vì thời kỳ quá độ chỉ là thay đổi tên gọi của nhà nước mà không biến đổi xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 085: [Thông hiểu] Tám đặc trưng của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Nhóm đặc trưng nào sau đây thuộc mô hình xã hội xã hội chủ nghĩa Việt Nam theo Cương lĩnh bổ sung, phát triển năm 2011?",
+"general_comment": "Tám đặc trưng gồm dân giàu, nước mạnh, dân chủ, công bằng, văn minh; do nhân dân làm chủ; kinh tế phát triển cao; văn hóa tiên tiến; con người ấm no, tự do, hạnh phúc; dân tộc bình đẳng; nhà nước pháp quyền xã hội chủ nghĩa; quan hệ hữu nghị, hợp tác quốc tế.",
+"answers": [
+{
+"text": "Do nhân dân làm chủ; có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+"weight": 100
+},
+{
+"text": "Do giai cấp tư sản làm chủ; có nhà nước tư sản; có quan hệ sản xuất tư bản giữ vai trò thống trị.",
+"weight": 0
+},
+{
+"text": "Do địa chủ làm chủ; có nền văn hóa phong kiến; có nhà nước quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Do chủ nô làm chủ; có kinh tế nô lệ; có phân biệt đẳng cấp bẩm sinh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 086: [Thông hiểu] Tám phương hướng xây dựng chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Nhận định nào phản ánh đúng nội dung của tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam?",
+"general_comment": "Tám phương hướng bao gồm công nghiệp hóa, kinh tế thị trường định hướng xã hội chủ nghĩa, văn hóa, quốc phòng - an ninh, đối ngoại, dân chủ và đại đoàn kết, nhà nước pháp quyền, xây dựng Đảng.",
+"answers": [
+{
+"text": "Bao quát các lĩnh vực kinh tế, văn hóa, quốc phòng - an ninh, đối ngoại, dân chủ - đại đoàn kết, nhà nước pháp quyền và xây dựng Đảng.",
+"weight": 100
+},
+{
+"text": "Chỉ tập trung vào tăng trưởng kinh tế, không đề cập văn hóa, chính trị và đối ngoại.",
+"weight": 0
+},
+{
+"text": "Chỉ tập trung vào quốc phòng, không đề cập công nghiệp hóa và kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Chỉ đề cập hội nhập quốc tế, không liên quan xây dựng Đảng và Nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 087: [Thông hiểu] Không phiến diện cực đoan duy ý chí",
+"points_possible": 1,
+"question_text": "Yêu cầu “không phiến diện, cực đoan, duy ý chí” được đặt ra khi giải quyết vấn đề nào?",
+"general_comment": "Giáo trình nêu yêu cầu này khi Đảng yêu cầu nắm vững và giải quyết tốt các mối quan hệ lớn trong quá trình thực hiện phương hướng xây dựng chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Khi nắm vững và giải quyết các mối quan hệ lớn trong quá trình xây dựng chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Khi phủ nhận mọi thành tựu của chủ nghĩa tư bản trong khoa học và quản lý.",
+"weight": 0
+},
+{
+"text": "Khi xóa bỏ ngay mọi thành phần kinh tế trong thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Khi tách Đảng lãnh đạo khỏi Nhà nước quản lý và nhân dân làm chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 088: [Thông hiểu] Tổng kết 35 năm đổi mới",
+"points_possible": 1,
+"question_text": "Theo giáo trình, tổng kết 35 năm đổi mới cho thấy đất nước ta đạt được thành tựu như thế nào?",
+"general_comment": "Giáo trình nêu đất nước đạt được những thành tựu to lớn, có ý nghĩa lịch sử trên con đường xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Những thành tựu to lớn, có ý nghĩa lịch sử trên con đường xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Không có thành tựu nào đáng kể trong xây dựng và bảo vệ Tổ quốc.",
+"weight": 0
+},
+{
+"text": "Chỉ đạt thành tựu quân sự, không có ý nghĩa kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ đạt thành tựu nếu từ bỏ định hướng xã hội chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 089: [Thông hiểu] Quan hệ giữa mục tiêu 2025, 2030 và 2045",
+"points_possible": 1,
+"question_text": "Ba mốc 2025, 2030 và 2045 trong Đại hội XIII thể hiện logic phát triển nào?",
+"general_comment": "Ba mốc thể hiện lộ trình nâng trình độ phát triển: 2025 công nghiệp theo hướng hiện đại, thu nhập trung bình thấp; 2030 công nghiệp hiện đại, thu nhập trung bình cao; 2045 nước phát triển, thu nhập cao.",
+"answers": [
+{
+"text": "Lộ trình nâng dần trình độ phát triển và thu nhập theo định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Lộ trình từ nước phát triển trở lại nước nông nghiệp lạc hậu.",
+"weight": 0
+},
+{
+"text": "Lộ trình từ xã hội chủ nghĩa sang chế độ tư bản chủ nghĩa thống trị.",
+"weight": 0
+},
+{
+"text": "Lộ trình chỉ về văn hóa, không liên quan công nghiệp và thu nhập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 090: [Thông hiểu] Định hướng đổi mới tư duy và thể chế",
+"points_possible": 1,
+"question_text": "Định hướng thứ nhất trong 12 định hướng phát triển đất nước giai đoạn 2021-2030 nhấn mạnh nội dung nào?",
+"general_comment": "Định hướng thứ nhất nhấn mạnh tiếp tục đổi mới tư duy, hoàn thiện đồng bộ thể chế phát triển bền vững, tháo gỡ khó khăn và khơi dậy nguồn lực.",
+"answers": [
+{
+"text": "Đổi mới mạnh mẽ tư duy, hoàn thiện đồng bộ thể chế phát triển bền vững, khơi dậy tiềm năng và nguồn lực.",
+"weight": 100
+},
+{
+"text": "Chỉ tăng cường quốc phòng, không đổi mới thể chế phát triển.",
+"weight": 0
+},
+{
+"text": "Chỉ mở rộng sở hữu tư bản tư nhân thành quan hệ thống trị.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển kinh tế tự cấp tự túc, không huy động nguồn lực xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 091: [Thông hiểu] Định hướng kinh tế thị trường xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Định hướng thứ hai giai đoạn 2021-2030 tập trung vào vấn đề gì?",
+"general_comment": "Định hướng thứ hai là hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, ổn định kinh tế vĩ mô, đổi mới mô hình tăng trưởng, cơ cấu lại nền kinh tế, đẩy mạnh công nghiệp hóa, hiện đại hóa và chuyển đổi số.",
+"answers": [
+{
+"text": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, ổn định vĩ mô, đổi mới mô hình tăng trưởng, cơ cấu lại nền kinh tế, chuyển đổi số.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ mọi thể chế kinh tế thị trường và quay về kinh tế tự nhiên.",
+"weight": 0
+},
+{
+"text": "Từ bỏ định hướng xã hội chủ nghĩa trong phát triển kinh tế.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển kinh tế nông thôn, không xây dựng kết cấu hạ tầng và đô thị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 092: [Thông hiểu] Định hướng giáo dục khoa học công nghệ",
+"points_possible": 1,
+"question_text": "Định hướng về giáo dục, đào tạo, khoa học và công nghệ trong giai đoạn 2021-2030 có trọng tâm nào?",
+"general_comment": "Định hướng này yêu cầu tạo đột phá trong đổi mới giáo dục, phát triển nguồn nhân lực chất lượng cao, thu hút nhân tài, thúc đẩy nghiên cứu, chuyển giao, ứng dụng thành tựu Cách mạng công nghiệp lần thứ tư.",
+"answers": [
+{
+"text": "Tạo đột phá giáo dục - đào tạo, phát triển nhân lực chất lượng cao, thu hút nhân tài và ứng dụng thành tựu Cách mạng công nghiệp lần thứ tư.",
+"weight": 100
+},
+{
+"text": "Giảm vai trò khoa học - công nghệ để duy trì mô hình tăng trưởng cũ.",
+"weight": 0
+},
+{
+"text": "Không cần phát triển nguồn nhân lực chất lượng cao.",
+"weight": 0
+},
+{
+"text": "Chỉ chú trọng lao động giản đơn, không cần nghiên cứu và chuyển giao công nghệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 093: [Thông hiểu] Định hướng văn hóa con người",
+"points_possible": 1,
+"question_text": "Định hướng về phát triển con người và xây dựng nền văn hóa trong giai đoạn 2021-2030 xác định văn hóa và con người có vai trò gì?",
+"general_comment": "Định hướng này coi văn hóa là sức mạnh nội sinh, động lực phát triển đất nước và bảo vệ Tổ quốc; con người Việt Nam là trung tâm, mục tiêu và động lực phát triển quan trọng nhất.",
+"answers": [
+{
+"text": "Văn hóa là sức mạnh nội sinh, động lực phát triển và bảo vệ Tổ quốc; con người là trung tâm, mục tiêu và động lực phát triển.",
+"weight": 100
+},
+{
+"text": "Văn hóa chỉ là lĩnh vực phụ, không liên quan phát triển và bảo vệ Tổ quốc.",
+"weight": 0
+},
+{
+"text": "Con người chỉ là phương tiện sản xuất, không phải mục tiêu phát triển.",
+"weight": 0
+},
+{
+"text": "Phát triển văn hóa phải tách khỏi truyền thống yêu nước và khát vọng phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 094: [Thông hiểu] Định hướng quản lý phát triển xã hội",
+"points_possible": 1,
+"question_text": "Định hướng quản lý phát triển xã hội giai đoạn 2021-2030 nhấn mạnh nội dung nào?",
+"general_comment": "Định hướng này nhấn mạnh quản lý xã hội hiệu quả, bảo đảm an ninh xã hội, an ninh con người, tiến bộ và công bằng xã hội, phúc lợi và an sinh xã hội, cải thiện đời sống nhân dân.",
+"answers": [
+{
+"text": "Quản lý phát triển xã hội hiệu quả, bảo đảm an ninh xã hội, an ninh con người, tiến bộ, công bằng, phúc lợi và an sinh xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ tăng trưởng kinh tế, không quan tâm phúc lợi và an sinh xã hội.",
+"weight": 0
+},
+{
+"text": "Không cần bảo đảm chính sách lao động, việc làm và thu nhập.",
+"weight": 0
+},
+{
+"text": "Tách chất lượng y tế, dân số và đời sống nhân dân khỏi phát triển xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 095: [Thông hiểu] Định hướng môi trường",
+"points_possible": 1,
+"question_text": "Định hướng về thích ứng với biến đổi khí hậu, bảo vệ môi trường đặt mục tiêu hàng đầu là gì?",
+"general_comment": "Giáo trình nêu lấy bảo vệ môi trường sống và sức khỏe nhân dân làm mục tiêu hàng đầu.",
+"answers": [
+{
+"text": "Bảo vệ môi trường sống và sức khỏe nhân dân.",
+"weight": 100
+},
+{
+"text": "Chấp nhận mọi dự án gây ô nhiễm để tăng trưởng bằng mọi giá.",
+"weight": 0
+},
+{
+"text": "Khai thác tài nguyên không cần tiết kiệm và bền vững.",
+"weight": 0
+},
+{
+"text": "Từ bỏ kinh tế xanh, kinh tế tuần hoàn và đa dạng sinh học.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 096: [Thông hiểu] Định hướng bảo vệ Tổ quốc",
+"points_possible": 1,
+"question_text": "Định hướng bảo vệ Tổ quốc giai đoạn 2021-2030 nhấn mạnh nhiệm vụ nào?",
+"general_comment": "Định hướng này yêu cầu kiên quyết, kiên trì bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Từ bỏ bảo vệ chủ quyền để đổi lấy tăng trưởng ngắn hạn.",
+"weight": 0
+},
+{
+"text": "Không cần bảo vệ an ninh chính trị, an ninh mạng và an ninh con người.",
+"weight": 0
+},
+{
+"text": "Chỉ xử lý nguy cơ chiến tranh khi đã xảy ra, không cần phòng ngừa từ sớm, từ xa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 097: [Thông hiểu] Định hướng đối ngoại",
+"points_possible": 1,
+"question_text": "Định hướng đối ngoại giai đoạn 2021-2030 yêu cầu thực hiện đường lối nào?",
+"general_comment": "Định hướng đối ngoại là độc lập, tự chủ, đa phương hóa, đa dạng hóa, chủ động và tích cực hội nhập quốc tế toàn diện, sâu rộng, hiệu quả.",
+"answers": [
+{
+"text": "Độc lập, tự chủ, đa phương hóa, đa dạng hóa; chủ động và tích cực hội nhập quốc tế toàn diện, sâu rộng, hiệu quả.",
+"weight": 100
+},
+{
+"text": "Biệt lập hoàn toàn, không hợp tác và không hội nhập quốc tế.",
+"weight": 0
+},
+{
+"text": "Phụ thuộc một chiều vào một trung tâm quyền lực bên ngoài.",
+"weight": 0
+},
+{
+"text": "Từ bỏ bảo vệ Tổ quốc để đổi lấy vị thế quốc tế hình thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 098: [Thông hiểu] Định hướng đại đoàn kết toàn dân tộc",
+"points_possible": 1,
+"question_text": "Định hướng về đại đoàn kết toàn dân tộc giai đoạn 2021-2030 nhấn mạnh nội dung nào?",
+"general_comment": "Định hướng này nhấn mạnh thực hành dân chủ xã hội chủ nghĩa, quyền làm chủ, vai trò tự quản của nhân dân, phát huy sức mạnh đại đoàn kết, tăng cường đồng thuận xã hội.",
+"answers": [
+{
+"text": "Thực hành dân chủ xã hội chủ nghĩa, phát huy quyền làm chủ, vai trò tự quản của nhân dân và sức mạnh đại đoàn kết toàn dân tộc.",
+"weight": 100
+},
+{
+"text": "Thu hẹp dân chủ xã hội chủ nghĩa và làm suy giảm đồng thuận xã hội.",
+"weight": 0
+},
+{
+"text": "Tách Mặt trận Tổ quốc và các tổ chức chính trị - xã hội khỏi nhân dân.",
+"weight": 0
+},
+{
+"text": "Chỉ phát huy một nhóm xã hội, không cần đoàn kết toàn dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 099: [Thông hiểu] Định hướng xây dựng Nhà nước",
+"points_possible": 1,
+"question_text": "Định hướng xây dựng Nhà nước giai đoạn 2021-2030 yêu cầu xây dựng Nhà nước pháp quyền xã hội chủ nghĩa như thế nào?",
+"general_comment": "Định hướng này yêu cầu xây dựng Nhà nước pháp quyền xã hội chủ nghĩa trong sạch, vững mạnh, tinh gọn, hoạt động hiệu lực, hiệu quả, vì nhân dân phục vụ và vì sự phát triển đất nước.",
+"answers": [
+{
+"text": "Trong sạch, vững mạnh, tinh gọn, hoạt động hiệu lực, hiệu quả, vì nhân dân phục vụ và vì sự phát triển của đất nước.",
+"weight": 100
+},
+{
+"text": "Quan liêu, cồng kềnh, thiếu minh bạch và không chịu trách nhiệm giải trình.",
+"weight": 0
+},
+{
+"text": "Tách khỏi nhân dân và không phục vụ phát triển đất nước.",
+"weight": 0
+},
+{
+"text": "Không cần kiểm soát quyền lực và kỷ luật trong hoạt động nhà nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 100: [Thông hiểu] Định hướng xây dựng Đảng",
+"points_possible": 1,
+"question_text": "Định hướng xây dựng Đảng giai đoạn 2021-2030 nhấn mạnh nhiệm vụ nào?",
+"general_comment": "Định hướng này nhấn mạnh xây dựng, chỉnh đốn Đảng toàn diện, tăng cường bản chất giai cấp công nhân của Đảng, đổi mới phương thức lãnh đạo, nâng cao năng lực lãnh đạo, cầm quyền.",
+"answers": [
+{
+"text": "Xây dựng, chỉnh đốn Đảng toàn diện; tăng cường bản chất giai cấp công nhân; đổi mới phương thức lãnh đạo và nâng cao năng lực lãnh đạo, cầm quyền.",
+"weight": 100
+},
+{
+"text": "Giảm bản chất giai cấp công nhân của Đảng và từ bỏ công tác tư tưởng, lý luận.",
+"weight": 0
+},
+{
+"text": "Không cần xây dựng hệ thống chính trị trong sạch, vững mạnh.",
+"weight": 0
+},
+{
+"text": "Không cần công tác kiểm tra, giám sát, kỷ luật và dân vận.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 101: [Vận dụng/Phân tích] Phân biệt chủ nghĩa xã hội như khoa học và chế độ xã hội",
+"points_possible": 1,
+"question_text": "Một sinh viên nói: “Chủ nghĩa xã hội khoa học chỉ là tên gọi của một chế độ xã hội tương lai, không phải là khoa học về sứ mệnh lịch sử của giai cấp công nhân”. Nhận xét nào đúng?",
+"general_comment": "Giáo trình phân biệt các góc độ tiếp cận: chủ nghĩa xã hội vừa là một khoa học về sứ mệnh lịch sử của giai cấp công nhân, vừa là một chế độ xã hội tốt đẹp.",
+"answers": [
+{
+"text": "Nhận xét sai vì giáo trình tiếp cận chủ nghĩa xã hội cả như một khoa học về sứ mệnh lịch sử của giai cấp công nhân và như một chế độ xã hội tốt đẹp.",
+"weight": 100
+},
+{
+"text": "Nhận xét đúng vì chủ nghĩa xã hội khoa học không nghiên cứu giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Nhận xét đúng vì chủ nghĩa xã hội chỉ là phong trào thực tiễn, không có lý luận.",
+"weight": 0
+},
+{
+"text": "Nhận xét sai vì chủ nghĩa xã hội chỉ là một học thuyết kinh tế tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 102: [Vận dụng/Phân tích] Từ mâu thuẫn kinh tế đến cách mạng xã hội",
+"points_possible": 1,
+"question_text": "Nếu lực lượng sản xuất trong một xã hội đã xã hội hóa cao nhưng quan hệ sở hữu tư nhân tư bản chủ nghĩa vẫn chi phối, theo logic giáo trình, mâu thuẫn này dẫn tới điều gì?",
+"general_comment": "Mâu thuẫn giữa lực lượng sản xuất xã hội hóa và quan hệ sản xuất tư bản chủ nghĩa là cơ sở kinh tế của thời đại cách mạng xã hội.",
+"answers": [
+{
+"text": "Quan hệ sản xuất tư bản chủ nghĩa trở thành xiềng xích của lực lượng sản xuất, mở ra thời đại cách mạng xã hội.",
+"weight": 100
+},
+{
+"text": "Quan hệ sản xuất tư bản chủ nghĩa tự động trở thành quan hệ xã hội chủ nghĩa mà không cần đấu tranh.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn đó chứng minh chủ nghĩa tư bản không còn xung đột lợi ích.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn đó chỉ dẫn tới phục hồi lãnh địa phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 103: [Vận dụng/Phân tích] Điều kiện chính trị của cách mạng vô sản",
+"points_possible": 1,
+"question_text": "Một phong trào công nhân đông đảo nhưng chưa có Đảng Cộng sản lãnh đạo và chưa có liên minh với các tầng lớp lao động khác. Theo giáo trình, hạn chế chính là gì?",
+"general_comment": "Cách mạng vô sản chỉ có thể thành công khi tính tích cực chính trị của công nhân được phát huy trong liên minh với người lao động dưới sự lãnh đạo của Đảng Cộng sản.",
+"answers": [
+{
+"text": "Thiếu điều kiện chính trị cần thiết: sự lãnh đạo của Đảng Cộng sản và liên minh với các giai cấp, tầng lớp lao động.",
+"weight": 100
+},
+{
+"text": "Thiếu sự thống trị trực tiếp của giai cấp tư sản trong phong trào công nhân.",
+"weight": 0
+},
+{
+"text": "Thiếu xu hướng phục hồi chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Thiếu sự từ bỏ mục tiêu cải tạo xã hội cũ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 104: [Vận dụng/Phân tích] Cách mạng vô sản và con đường hòa bình",
+"points_possible": 1,
+"question_text": "Một ý kiến cho rằng cách mạng vô sản về nguyên tắc chỉ có thể diễn ra bằng con đường hòa bình và điều đó đã phổ biến trong lịch sử. Theo giáo trình, đánh giá nào đúng?",
+"general_comment": "Giáo trình nêu cách mạng vô sản về lý thuyết có thể bằng con đường hòa bình nhưng vô cùng hiếm, quý và trên thực tế chưa xảy ra; thực tế thường bằng bạo lực cách mạng.",
+"answers": [
+{
+"text": "Ý kiến sai vì giáo trình nêu con đường hòa bình chỉ là khả năng lý thuyết rất hiếm, còn thực tế chưa xảy ra; cách mạng vô sản thường bằng bạo lực cách mạng.",
+"weight": 100
+},
+{
+"text": "Ý kiến đúng vì giáo trình phủ nhận hoàn toàn bạo lực cách mạng.",
+"weight": 0
+},
+{
+"text": "Ý kiến đúng vì cách mạng vô sản chỉ là cải cách nghị viện tư sản.",
+"weight": 0
+},
+{
+"text": "Ý kiến sai vì cách mạng vô sản không cần lực lượng xã hội và đảng lãnh đạo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 105: [Vận dụng/Phân tích] Giải phóng con người và phát triển tự do",
+"points_possible": 1,
+"question_text": "Nếu một chính sách xã hội chủ nghĩa chỉ chú trọng tăng trưởng kinh tế nhưng không tạo điều kiện phát triển tự do, toàn diện cho con người, nó mâu thuẫn với đặc trưng nào?",
+"general_comment": "Đặc trưng đầu tiên của chủ nghĩa xã hội là giải phóng giai cấp, dân tộc, xã hội, con người và tạo điều kiện để con người phát triển toàn diện.",
+"answers": [
+{
+"text": "Đặc trưng giải phóng con người và tạo điều kiện để con người phát triển toàn diện.",
+"weight": 100
+},
+{
+"text": "Đặc trưng duy trì bất bình đẳng dân tộc.",
+"weight": 0
+},
+{
+"text": "Đặc trưng nhà nước tư sản chuyên chính.",
+"weight": 0
+},
+{
+"text": "Đặc trưng giữ nguyên tư hữu tư bản thống trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 106: [Vận dụng/Phân tích] Dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một chế độ tự xưng xã hội chủ nghĩa nhưng nhân dân lao động không thực hiện quyền làm chủ trong cải tạo xã hội cũ và xây dựng xã hội mới. Theo giáo trình, vấn đề nằm ở đâu?",
+"general_comment": "Chủ nghĩa xã hội là chế độ xã hội do nhân dân lao động làm chủ; đây là thuộc tính bản chất của xã hội vì con người và do con người.",
+"answers": [
+{
+"text": "Chế độ đó không đáp ứng đặc trưng bản chất: chủ nghĩa xã hội là chế độ do nhân dân lao động làm chủ.",
+"weight": 100
+},
+{
+"text": "Chế độ đó vẫn phù hợp vì dân chủ không phải đặc trưng của chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Chế độ đó phù hợp nếu giai cấp tư sản vẫn nắm quyền lực chính trị.",
+"weight": 0
+},
+{
+"text": "Chế độ đó phù hợp nếu nhà nước chỉ phục vụ người giàu.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 107: [Vận dụng/Phân tích] Công hữu và lực lượng sản xuất",
+"points_possible": 1,
+"question_text": "Trong xây dựng chủ nghĩa xã hội, vì sao không thể chỉ tuyên bố công hữu hóa mà bỏ qua phát triển lực lượng sản xuất và tổ chức lao động?",
+"general_comment": "Giáo trình nhấn mạnh nền kinh tế xã hội chủ nghĩa cần lực lượng sản xuất hiện đại, quan hệ sản xuất phù hợp, tổ chức quản lý hiệu quả, năng suất lao động cao.",
+"answers": [
+{
+"text": "Vì công hữu chỉ có cơ sở vững chắc khi gắn với lực lượng sản xuất hiện đại, tổ chức lao động cao hơn và năng suất lao động cao.",
+"weight": 100
+},
+{
+"text": "Vì chủ nghĩa xã hội không cần quan tâm đến năng suất lao động.",
+"weight": 0
+},
+{
+"text": "Vì công hữu chỉ tồn tại khi duy trì sản xuất nhỏ tự phát.",
+"weight": 0
+},
+{
+"text": "Vì lực lượng sản xuất càng lạc hậu thì chủ nghĩa xã hội càng hoàn chỉnh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 108: [Vận dụng/Phân tích] Học hỏi thành tựu nước ngoài",
+"points_possible": 1,
+"question_text": "Một nước chưa trải qua chủ nghĩa tư bản muốn đi lên chủ nghĩa xã hội nhưng từ chối học kỹ thuật, tổ chức quản lý và giáo dục của các nước phát triển. Theo V.I. Lênin, sai lầm ở đâu?",
+"general_comment": "V.I. Lênin yêu cầu những nước chưa trải qua chủ nghĩa tư bản cần học hỏi những cái tốt của nước ngoài để phát triển lực lượng sản xuất và tổ chức xã hội.",
+"answers": [
+{
+"text": "Sai vì cần tiếp thu có chọn lọc những thành tựu kỹ thuật, tổ chức quản lý, giáo dục của các nước phát triển để xây dựng chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Không sai vì chủ nghĩa xã hội phải phủ nhận toàn bộ tri thức nhân loại.",
+"weight": 0
+},
+{
+"text": "Không sai vì lực lượng sản xuất không liên quan đến chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Sai vì cần quay lại hoàn toàn chế độ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 109: [Vận dụng/Phân tích] Văn hóa vô sản và di sản nhân loại",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng xây dựng văn hóa xã hội chủ nghĩa phải loại bỏ toàn bộ văn hóa nhân loại trước đó. Theo giáo trình, phản biện nào đúng?",
+"general_comment": "V.I. Lênin khẳng định phải hiểu và cải tạo nền văn hóa do nhân loại sáng tạo; người cộng sản phải làm giàu trí óc bằng kho tàng tri thức nhân loại.",
+"answers": [
+{
+"text": "Quan điểm đó sai vì văn hóa xã hội chủ nghĩa phải kế thừa, cải tạo và phát triển giá trị văn hóa dân tộc, tinh hoa văn hóa nhân loại.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng vì văn hóa vô sản là phủ định sạch trơn mọi di sản.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì văn hóa không có vai trò trong chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó sai vì văn hóa xã hội chủ nghĩa chỉ kế thừa văn hóa tư sản, không kế thừa văn hóa dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 110: [Vận dụng/Phân tích] Bình đẳng dân tộc và chống cực đoan",
+"points_possible": 1,
+"question_text": "Một chính sách đề cao dân tộc đa số, hạn chế quyền tự quyết của dân tộc thiểu số và khuyến khích phân biệt chủng tộc. Theo giáo trình, chính sách này trái với nguyên tắc nào?",
+"general_comment": "Chính sách đó trái với Cương lĩnh dân tộc của V.I. Lênin: dân tộc bình đẳng, quyền tự quyết, liên hiệp công nhân tất cả các dân tộc.",
+"answers": [
+{
+"text": "Nguyên tắc bình đẳng dân tộc, quyền dân tộc tự quyết và đoàn kết công nhân tất cả các dân tộc.",
+"weight": 100
+},
+{
+"text": "Nguyên tắc dân tộc lớn có quyền thống trị dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Nguyên tắc phân biệt chủng tộc trong giải quyết vấn đề dân tộc.",
+"weight": 0
+},
+{
+"text": "Nguyên tắc tách vấn đề dân tộc khỏi vấn đề giai cấp và lao động.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 111: [Vận dụng/Phân tích] Quá độ gián tiếp ở Việt Nam",
+"points_possible": 1,
+"question_text": "Vì sao Việt Nam được xếp vào loại quá độ gián tiếp lên chủ nghĩa xã hội?",
+"general_comment": "Việt Nam là nước chưa trải qua chủ nghĩa tư bản phát triển, tiến lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, nên thuộc loại quá độ gián tiếp.",
+"answers": [
+{
+"text": "Vì Việt Nam chưa trải qua chủ nghĩa tư bản phát triển và đi lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Vì Việt Nam đã là nước tư bản phát triển cao trước khi quá độ.",
+"weight": 0
+},
+{
+"text": "Vì Việt Nam không cần thời kỳ quá độ trong xây dựng chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Vì Việt Nam lựa chọn duy trì chế độ tư bản chủ nghĩa thống trị lâu dài.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 112: [Vận dụng/Phân tích] Kinh tế nhiều thành phần trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Nếu trong thời kỳ quá độ vẫn tồn tại kinh tế tư nhân, kinh tế hàng hóa nhỏ và các hình thức sở hữu khác, điều này có nhất thiết mâu thuẫn với lý luận Mác - Lênin không?",
+"general_comment": "Không mâu thuẫn, vì V.I. Lênin chỉ rõ thời kỳ quá độ tồn tại nhiều thành phần kinh tế, bao gồm cả những thành phần đối lập.",
+"answers": [
+{
+"text": "Không, vì thời kỳ quá độ tất yếu tồn tại nền kinh tế nhiều thành phần, trong đó có cả những thành phần đối lập.",
+"weight": 100
+},
+{
+"text": "Có, vì thời kỳ quá độ chỉ được phép có một thành phần kinh tế duy nhất ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Có, vì chủ nghĩa xã hội bắt buộc phục hồi kinh tế phong kiến.",
+"weight": 0
+},
+{
+"text": "Không, vì kinh tế tư nhân tư bản chủ nghĩa phải giữ vai trò thống trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 113: [Vận dụng/Phân tích] Đấu tranh giai cấp trong điều kiện mới",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ, vì sao đấu tranh giai cấp vẫn tiếp tục nhưng có nội dung và hình thức mới?",
+"general_comment": "Đấu tranh diễn ra khi giai cấp công nhân đã cầm quyền; nội dung mới là xây dựng toàn diện xã hội mới, trọng tâm xây dựng nhà nước có tính kinh tế, hình thức cơ bản là hòa bình tổ chức xây dựng.",
+"answers": [
+{
+"text": "Vì giai cấp công nhân đã cầm quyền, đấu tranh nhằm xây dựng xã hội mới, chủ yếu bằng hình thức hòa bình tổ chức xây dựng.",
+"weight": 100
+},
+{
+"text": "Vì giai cấp tư sản đã thắng lợi hoàn toàn và công nhân không còn vai trò chính trị.",
+"weight": 0
+},
+{
+"text": "Vì thời kỳ quá độ không còn bất kỳ khác biệt giai cấp, tầng lớp nào.",
+"weight": 0
+},
+{
+"text": "Vì đấu tranh giai cấp chỉ còn là xung đột giữa các dòng họ phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 114: [Vận dụng/Phân tích] Tư tưởng vô sản và tư tưởng tư sản",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ, một xã hội còn tồn tại đồng thời tư tưởng vô sản và tư tưởng tư sản. Nhiệm vụ đúng theo giáo trình là gì?",
+"general_comment": "Giai cấp công nhân thông qua Đảng Cộng sản từng bước xây dựng văn hóa vô sản, nền văn hóa xã hội chủ nghĩa, tiếp thu giá trị văn hóa dân tộc và tinh hoa nhân loại.",
+"answers": [
+{
+"text": "Xây dựng văn hóa vô sản, nền văn hóa xã hội chủ nghĩa, đồng thời tiếp thu giá trị văn hóa dân tộc và tinh hoa nhân loại.",
+"weight": 100
+},
+{
+"text": "Để tư tưởng tư sản giữ vai trò thống trị tuyệt đối trong đời sống tinh thần.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi nhu cầu văn hóa, tinh thần của nhân dân.",
+"weight": 0
+},
+{
+"text": "Phủ nhận toàn bộ văn hóa dân tộc và tinh hoa nhân loại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 115: [Vận dụng/Phân tích] Công bằng xã hội trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ còn khác biệt nông thôn - thành thị, lao động trí óc - lao động chân tay và nhiều giai cấp, tầng lớp. Theo giáo trình, nhiệm vụ xã hội đặt ra là gì?",
+"general_comment": "Thời kỳ quá độ về phương diện xã hội là thời kỳ đấu tranh chống áp bức, bất công, xóa bỏ tệ nạn và tàn dư xã hội cũ, thiết lập công bằng xã hội trên cơ sở phân phối theo lao động là chủ đạo.",
+"answers": [
+{
+"text": "Đấu tranh chống áp bức, bất công, xóa bỏ tệ nạn và tàn dư xã hội cũ, thiết lập công bằng xã hội trên cơ sở phân phối theo lao động là chủ đạo.",
+"weight": 100
+},
+{
+"text": "Duy trì vĩnh viễn mọi khác biệt và bất công xã hội như điều kiện phát triển.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ ngay mọi giai cấp bằng mệnh lệnh hành chính, không cần điều kiện kinh tế - xã hội.",
+"weight": 0
+},
+{
+"text": "Phục hồi phân phối theo địa vị phong kiến và đặc quyền đẳng cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 116: [Vận dụng/Phân tích] Thuận lợi và khó khăn của Việt Nam",
+"points_possible": 1,
+"question_text": "Khi phân tích Việt Nam quá độ lên chủ nghĩa xã hội, nhận định nào phản ánh đúng sự đan xen thuận lợi và khó khăn?",
+"general_comment": "Việt Nam xuất phát thấp, hậu quả chiến tranh và tàn dư cũ còn nặng, nhưng có thời cơ từ khoa học - công nghệ, quốc tế hóa và xu thế thời đại.",
+"answers": [
+{
+"text": "Việt Nam có xuất phát thấp, hậu quả chiến tranh và phá hoại của thế lực thù địch, đồng thời có thời cơ từ khoa học - công nghệ, quốc tế hóa và xu thế thời đại.",
+"weight": 100
+},
+{
+"text": "Việt Nam quá độ từ nền tư bản phát triển cao nên không có khó khăn lịch sử nào.",
+"weight": 0
+},
+{
+"text": "Việt Nam không chịu tác động của khoa học - công nghệ và quốc tế hóa.",
+"weight": 0
+},
+{
+"text": "Việt Nam chỉ có thách thức, không có bất kỳ thời cơ phát triển nào.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 117: [Vận dụng/Phân tích] Sụp đổ Liên Xô và Đông Âu",
+"points_possible": 1,
+"question_text": "Một ý kiến cho rằng sự sụp đổ của chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu chứng minh thời đại quá độ lên chủ nghĩa xã hội đã kết thúc. Theo giáo trình, đánh giá nào đúng?",
+"general_comment": "Giáo trình khẳng định dù Liên Xô và Đông Âu sụp đổ, thời đại ngày nay vẫn là thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Ý kiến sai vì giáo trình khẳng định thời đại ngày nay vẫn là thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Ý kiến đúng vì loài người không còn xu hướng tiến tới chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Ý kiến đúng vì mọi nước xã hội chủ nghĩa đều đã biến mất.",
+"weight": 0
+},
+{
+"text": "Ý kiến sai vì giáo trình cho rằng Việt Nam đã trở thành chủ nghĩa cộng sản giai đoạn cao.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 118: [Vận dụng/Phân tích] Kế thừa thành tựu tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng “bỏ qua chế độ tư bản chủ nghĩa” nghĩa là không được sử dụng thành tựu khoa học, công nghệ, quản lý của chủ nghĩa tư bản. Theo giáo trình, phản biện nào đúng?",
+"general_comment": "Giáo trình nhấn mạnh bỏ qua chế độ tư bản chủ nghĩa vẫn phải tiếp thu, kế thừa thành tựu nhân loại đạt được dưới chủ nghĩa tư bản, đặc biệt khoa học - công nghệ và quản lý.",
+"answers": [
+{
+"text": "Quan điểm đó sai vì bỏ qua chế độ tư bản chủ nghĩa vẫn đòi hỏi tiếp thu, kế thừa thành tựu khoa học, công nghệ và quản lý để phát triển lực lượng sản xuất.",
+"weight": 100
+},
+{
+"text": "Quan điểm đó đúng vì mọi thành tựu của chủ nghĩa tư bản đều phải bị loại bỏ tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó đúng vì phát triển lực lượng sản xuất không cần khoa học - công nghệ.",
+"weight": 0
+},
+{
+"text": "Quan điểm đó sai vì Việt Nam phải xác lập sự thống trị của tư bản tư nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 119: [Vận dụng/Phân tích] Mô hình xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Một mô hình phát triển vừa nhấn mạnh dân giàu, nước mạnh, nhân dân làm chủ, kinh tế phát triển cao, văn hóa tiên tiến, con người hạnh phúc, dân tộc đoàn kết, nhà nước pháp quyền xã hội chủ nghĩa và quan hệ hữu nghị quốc tế. Mô hình này tương ứng với nội dung nào?",
+"general_comment": "Đây là tám đặc trưng của xã hội xã hội chủ nghĩa mà nhân dân Việt Nam xây dựng theo Cương lĩnh bổ sung, phát triển năm 2011.",
+"answers": [
+{
+"text": "Tám đặc trưng của xã hội xã hội chủ nghĩa Việt Nam theo Cương lĩnh bổ sung, phát triển năm 2011.",
+"weight": 100
+},
+{
+"text": "Năm thành phần kinh tế của nước Nga trong thời kỳ quá độ theo V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "Hai loại quá độ trực tiếp và gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản.",
+"weight": 0
+},
+{
+"text": "Bốn nội dung của cách mạng vô sản trong chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 120: [Vận dụng/Phân tích] Công nghiệp hóa và kinh tế tri thức",
+"points_possible": 1,
+"question_text": "Một chiến lược phát triển Việt Nam đặt công nghiệp hóa, hiện đại hóa gắn với kinh tế tri thức, bảo vệ tài nguyên và môi trường ở vị trí ưu tiên. Chiến lược này phù hợp với phương hướng nào?",
+"general_comment": "Đó là phương hướng thứ nhất trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam: đẩy mạnh công nghiệp hóa, hiện đại hóa gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường.",
+"answers": [
+{
+"text": "Phương hướng đẩy mạnh công nghiệp hóa, hiện đại hóa gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường.",
+"weight": 100
+},
+{
+"text": "Phương hướng phục hồi kinh tế tự cấp tự túc và thủ công nhỏ.",
+"weight": 0
+},
+{
+"text": "Phương hướng từ bỏ bảo vệ tài nguyên để tăng trưởng bằng mọi giá.",
+"weight": 0
+},
+{
+"text": "Phương hướng tách công nghiệp hóa khỏi khoa học - công nghệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 121: [Vận dụng/Phân tích] Kinh tế thị trường định hướng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một chính sách phát triển kinh tế ở Việt Nam vừa sử dụng cơ chế thị trường, vừa bảo đảm định hướng xã hội chủ nghĩa. Chính sách này gắn với phương hướng nào?",
+"general_comment": "Đó là phương hướng phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Xóa bỏ mọi cơ chế thị trường và quay lại kinh tế hiện vật thuần túy.",
+"weight": 0
+},
+{
+"text": "Để thị trường tự do tư bản chủ nghĩa quyết định toàn bộ mà không có định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Phục hồi quan hệ sản xuất phong kiến trong kinh tế nông nghiệp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 122: [Vận dụng/Phân tích] Giải quyết quan hệ đổi mới kinh tế và đổi mới chính trị",
+"points_possible": 1,
+"question_text": "Nếu một địa phương chỉ đổi mới kinh tế mà không quan tâm đổi mới chính trị, hoặc ngược lại chỉ đổi mới chính trị mà không gắn với kinh tế, cách tiếp cận này vi phạm yêu cầu nào?",
+"general_comment": "Một trong tám mối quan hệ lớn phải giải quyết là quan hệ giữa đổi mới kinh tế và đổi mới chính trị.",
+"answers": [
+{
+"text": "Yêu cầu giải quyết tốt quan hệ giữa đổi mới kinh tế và đổi mới chính trị.",
+"weight": 100
+},
+{
+"text": "Yêu cầu xóa bỏ mọi quan hệ giữa kinh tế thị trường và định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Yêu cầu tuyệt đối hóa kinh tế thị trường mà không cần nhà nước quản lý.",
+"weight": 0
+},
+{
+"text": "Yêu cầu tách nhân dân khỏi quyền làm chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 123: [Vận dụng/Phân tích] Tăng trưởng và công bằng",
+"points_possible": 1,
+"question_text": "Một chiến lược chỉ chạy theo tăng trưởng kinh tế, bỏ qua phát triển văn hóa, tiến bộ, công bằng xã hội và bảo vệ môi trường. Theo giáo trình, chiến lược này không xử lý tốt mối quan hệ lớn nào?",
+"general_comment": "Đại hội XIII yêu cầu xử lý quan hệ giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường.",
+"answers": [
+{
+"text": "Quan hệ giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa Đảng lãnh đạo và phục hồi chế độ phong kiến.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa công hữu và địa tô phong kiến.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa dân tộc lớn và dân tộc nhỏ theo chủ nghĩa phân biệt chủng tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 124: [Vận dụng/Phân tích] Độc lập tự chủ và hội nhập quốc tế",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng hội nhập quốc tế đồng nghĩa với từ bỏ độc lập, tự chủ. Theo giáo trình, cần xử lý theo hướng nào?",
+"general_comment": "Một mối quan hệ lớn là quan hệ giữa độc lập, tự chủ và hội nhập quốc tế; đường lối đối ngoại là độc lập, tự chủ, đa phương hóa, đa dạng hóa, chủ động hội nhập.",
+"answers": [
+{
+"text": "Phải xử lý hài hòa quan hệ giữa độc lập, tự chủ và hội nhập quốc tế.",
+"weight": 100
+},
+{
+"text": "Phải từ bỏ độc lập, tự chủ để hội nhập quốc tế bằng mọi giá.",
+"weight": 0
+},
+{
+"text": "Phải từ bỏ hội nhập quốc tế để đóng cửa hoàn toàn.",
+"weight": 0
+},
+{
+"text": "Phải phụ thuộc một chiều vào một nước lớn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 125: [Vận dụng/Phân tích] Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ",
+"points_possible": 1,
+"question_text": "Một mô hình quản trị xã hội đề cao vai trò lãnh đạo của Đảng nhưng xem nhẹ Nhà nước quản lý và quyền làm chủ của nhân dân. Theo giáo trình, hạn chế chính là gì?",
+"general_comment": "Một mối quan hệ lớn cần giải quyết là giữa Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ.",
+"answers": [
+{
+"text": "Không xử lý đúng quan hệ giữa Đảng lãnh đạo, Nhà nước quản lý và nhân dân làm chủ.",
+"weight": 100
+},
+{
+"text": "Quá nhấn mạnh vai trò của nhân dân trong nhà nước pháp quyền.",
+"weight": 0
+},
+{
+"text": "Quá chú trọng phát triển kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Không duy trì được sự thống trị của tư bản tư nhân.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 126: [Vận dụng/Phân tích] Nhà nước, thị trường và xã hội",
+"points_possible": 1,
+"question_text": "Trong phát triển kinh tế - xã hội hiện nay, nếu chỉ tuyệt đối hóa vai trò thị trường và bỏ qua vai trò Nhà nước, xã hội, điều đó trái với định hướng nào của Đại hội XIII?",
+"general_comment": "Đại hội XIII yêu cầu nắm vững và xử lý tốt quan hệ giữa Nhà nước, thị trường và xã hội.",
+"answers": [
+{
+"text": "Quan hệ giữa Nhà nước, thị trường và xã hội.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa dân tộc lớn và dân tộc nhỏ.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa công nghiệp cơ khí và công xã nông thôn.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa tư tưởng chủ nô và tư tưởng phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 127: [Vận dụng/Phân tích] Mục tiêu 2025 và 2030",
+"points_possible": 1,
+"question_text": "Nếu một báo cáo ghi mục tiêu năm 2025 của Việt Nam là “nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao”, thì sai ở điểm nào?",
+"general_comment": "Mục tiêu “nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao” là của năm 2030; năm 2025 là công nghiệp theo hướng hiện đại, thu nhập trung bình thấp.",
+"answers": [
+{
+"text": "Đã nhầm mục tiêu năm 2030 thành mục tiêu năm 2025.",
+"weight": 100
+},
+{
+"text": "Đã nhầm mục tiêu năm 2045 thành mục tiêu năm 2025.",
+"weight": 0
+},
+{
+"text": "Đã nhầm mục tiêu năm 2025 với Cương lĩnh năm 1930.",
+"weight": 0
+},
+{
+"text": "Không sai vì năm 2025 và 2030 có cùng mục tiêu tuyệt đối giống nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 128: [Vận dụng/Phân tích] Chuyển đổi số trong phát triển kinh tế",
+"points_possible": 1,
+"question_text": "Một chương trình quốc gia tập trung chuyển đổi số, phát triển kinh tế số, đổi mới mô hình tăng trưởng và cơ cấu lại nền kinh tế. Chương trình này phù hợp nhất với định hướng nào?",
+"general_comment": "Đó là nội dung của định hướng hoàn thiện thể chế phát triển kinh tế thị trường định hướng xã hội chủ nghĩa, đổi mới mô hình tăng trưởng, cơ cấu lại nền kinh tế và đẩy mạnh chuyển đổi số.",
+"answers": [
+{
+"text": "Định hướng hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa và đổi mới mô hình tăng trưởng, chuyển đổi số.",
+"weight": 100
+},
+{
+"text": "Định hướng chỉ về xây dựng Đảng, không liên quan kinh tế.",
+"weight": 0
+},
+{
+"text": "Định hướng phục hồi kinh tế gia trưởng.",
+"weight": 0
+},
+{
+"text": "Định hướng từ bỏ khoa học - công nghệ trong phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 129: [Vận dụng/Phân tích] Kinh tế xanh và kinh tế tuần hoàn",
+"points_possible": 1,
+"question_text": "Một địa phương loại bỏ dự án gây ô nhiễm, bảo vệ đa dạng sinh học và phát triển kinh tế xanh, kinh tế tuần hoàn. Đây là biểu hiện của định hướng nào?",
+"general_comment": "Đây là định hướng thích ứng với biến đổi khí hậu, bảo vệ môi trường, lấy môi trường sống và sức khỏe nhân dân làm mục tiêu hàng đầu.",
+"answers": [
+{
+"text": "Định hướng thích ứng với biến đổi khí hậu, bảo vệ môi trường.",
+"weight": 100
+},
+{
+"text": "Định hướng phục hồi quan hệ sản xuất tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Định hướng tách phát triển khỏi sức khỏe nhân dân.",
+"weight": 0
+},
+{
+"text": "Định hướng xóa bỏ vai trò của tài nguyên và hệ sinh thái.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 130: [Vận dụng/Phân tích] Kiểm soát quyền lực nhà nước",
+"points_possible": 1,
+"question_text": "Một chương trình cải cách hành chính yêu cầu công khai, minh bạch, trách nhiệm giải trình, kiểm soát quyền lực và chống tham nhũng. Theo giáo trình, chương trình này thuộc định hướng nào?",
+"general_comment": "Đây là nội dung định hướng xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa trong sạch, vững mạnh, tinh gọn, hiệu lực, hiệu quả.",
+"answers": [
+{
+"text": "Định hướng xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Định hướng chỉ về phát triển công nghiệp cơ khí.",
+"weight": 0
+},
+{
+"text": "Định hướng tách nhà nước khỏi nhân dân và kỷ luật xã hội.",
+"weight": 0
+},
+{
+"text": "Định hướng duy trì quan liêu, lãng phí và thiếu kiểm soát quyền lực.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 131: [Nhận biết] Nguyên nhân sâu xa thay thế chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+"general_comment": "Nguyên nhân sâu xa là mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu.",
+"answers": [
+{
+"text": "Mâu thuẫn giữa tư liệu lao động với đối tượng lao động trong sản xuất hàng hóa.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên tư hữu tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Mâu thuẫn giữa phương thức sản xuất cộng sản chủ nghĩa với phương thức sản xuất tư bản chủ nghĩa khi chủ nghĩa cộng sản đã hình thành.",
+"weight": 0
+},
+{
+"text": "Mâu thuẫn giữa các tầng lớp lao động trong xã hội nói chung.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 132: [Nhận biết] Tiêu chí phân chia hai giai đoạn của hình thái cộng sản",
+"points_possible": 1,
+"question_text": "Tiêu chí quan trọng nhất để C. Mác phân chia hai giai đoạn phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+"general_comment": "C. Mác phân chia giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa căn cứ trước hết vào trình độ xã hội hóa của lực lượng sản xuất.",
+"answers": [
+{
+"text": "Trình độ xã hội hóa của lực lượng sản xuất.",
+"weight": 100
+},
+{
+"text": "Ý thức giác ngộ của từng cá nhân.",
+"weight": 0
+},
+{
+"text": "Trình độ quản lý hành chính của nhà nước.",
+"weight": 0
+},
+{
+"text": "Quy mô dân số của xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 133: [Nhận biết] Dự báo về giai đoạn thấp của hình thái cộng sản",
+"points_possible": 1,
+"question_text": "Dự báo nào thuộc giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+"general_comment": "Giai đoạn thấp của hình thái cộng sản chủ nghĩa còn mang dấu vết của xã hội cũ, còn thực hiện nguyên tắc làm theo năng lực, hưởng theo lao động và vẫn còn dấu vết pháp quyền tư sản.",
+"answers": [
+{
+"text": "Mọi người làm theo năng lực, hưởng theo lao động, vẫn còn dấu vết pháp quyền tư sản.",
+"weight": 100
+},
+{
+"text": "Mọi người làm theo năng lực, hưởng theo nhu cầu.",
+"weight": 0
+},
+{
+"text": "Không còn sự khác biệt giữa lao động trí óc và lao động chân tay.",
+"weight": 0
+},
+{
+"text": "Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của mọi người ở trình độ hoàn bị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 134: [Nhận biết] Dự báo về giai đoạn cao của hình thái cộng sản",
+"points_possible": 1,
+"question_text": "Dự báo nào thuộc giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+"general_comment": "Giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa gắn với sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của mọi người.",
+"answers": [
+{
+"text": "Xã hội chưa thoát khỏi tàn tích của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Vẫn còn tồn tại kết cấu kinh tế tư bản chủ nghĩa bên cạnh kết cấu kinh tế xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của mọi người.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân còn là giai cấp thống trị xã hội trong quan hệ đối kháng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 135: [Nhận biết] Tiền đề vật chất cho sự ra đời của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Tiền đề vật chất trực tiếp cho sự ra đời của chủ nghĩa xã hội là gì?",
+"general_comment": "Tiền đề vật chất cho sự ra đời của chủ nghĩa xã hội là sự xã hội hóa của lực lượng sản xuất do chủ nghĩa tư bản tạo ra.",
+"answers": [
+{
+"text": "Điện khí hóa nền sản xuất theo nghĩa kỹ thuật đơn lẻ.",
+"weight": 0
+},
+{
+"text": "Tự động hóa nền sản xuất theo nghĩa tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Xã hội hóa lực lượng sản xuất.",
+"weight": 100
+},
+{
+"text": "Sự phục hồi sản xuất nhỏ tự cấp tự túc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 136: [Nhận biết] Luận điểm chính xác về xóa bỏ tư hữu",
+"points_possible": 1,
+"question_text": "Luận điểm nào dưới đây chính xác nhất về xã hội xã hội chủ nghĩa?",
+"general_comment": "Chủ nghĩa xã hội không xóa bỏ mọi hình thức sở hữu nói chung, mà xóa bỏ chế độ tư hữu tư bản chủ nghĩa đối với tư liệu sản xuất chủ yếu.",
+"answers": [
+{
+"text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ chế độ tư hữu tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ mọi hình thức sở hữu nói chung.",
+"weight": 0
+},
+{
+"text": "Xã hội xã hội chủ nghĩa thực hiện xóa bỏ mọi hình thức sản xuất hàng hóa ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Xã hội xã hội chủ nghĩa thực hiện khôi phục chế độ tư hữu phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 137: [Nhận biết] Luận điểm không chính xác về thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Luận điểm nào dưới đây không chính xác về thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Trong thời kỳ quá độ không thể và không cần thủ tiêu ngay mọi tàn tích của chủ nghĩa tư bản bằng ý chí chủ quan; xã hội còn tồn tại đan xen yếu tố cũ và yếu tố mới.",
+"answers": [
+{
+"text": "Giữa xã hội tư bản chủ nghĩa và xã hội xã hội chủ nghĩa là thời kỳ cải biến cách mạng lâu dài và phức tạp.",
+"weight": 0
+},
+{
+"text": "Nhà nước trong thời kỳ quá độ là nền chuyên chính cách mạng của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Trong thời kỳ quá độ có thể và cần thủ tiêu ngay mọi tàn tích của chủ nghĩa tư bản.",
+"weight": 100
+},
+{
+"text": "Thời kỳ quá độ còn tồn tại nhiều tư tưởng, văn hóa cũ và mới đan xen, đấu tranh lẫn nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 138: [Nhận biết] Vị trí của thời kỳ quá độ trong hình thái kinh tế - xã hội",
+"points_possible": 1,
+"question_text": "Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội nằm trong hình thái kinh tế - xã hội nào?",
+"general_comment": "Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội thuộc tiến trình hình thành hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"answers": [
+{
+"text": "Chiếm hữu nô lệ.",
+"weight": 0
+},
+{
+"text": "Phong kiến.",
+"weight": 0
+},
+{
+"text": "Tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Cộng sản chủ nghĩa.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 139: [Nhận biết] Chế độ sở hữu chủ yếu của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Chủ nghĩa xã hội dựa trên chế độ sở hữu nào về tư liệu sản xuất chủ yếu?",
+"general_comment": "Cơ sở kinh tế đặc trưng của chủ nghĩa xã hội là chế độ công hữu về những tư liệu sản xuất chủ yếu.",
+"answers": [
+{
+"text": "Tư hữu tư bản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Tư hữu phong kiến.",
+"weight": 0
+},
+{
+"text": "Hỗn hợp không định hướng.",
+"weight": 0
+},
+{
+"text": "Công hữu.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 140: [Nhận biết] Cơ sở kinh tế khác về bản chất với chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "Cơ sở kinh tế của chủ nghĩa xã hội khác về bản chất so với chủ nghĩa tư bản là gì?",
+"general_comment": "Chủ nghĩa xã hội dựa trên chế độ công hữu về những tư liệu sản xuất chủ yếu, khác về bản chất với chế độ tư hữu tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "Chế độ công hữu về những tư liệu sản xuất chủ yếu.",
+"weight": 100
+},
+{
+"text": "Chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất chủ yếu.",
+"weight": 0
+},
+{
+"text": "Chế độ tư hữu phong kiến về ruộng đất.",
+"weight": 0
+},
+{
+"text": "Chế độ sở hữu cá nhân tuyệt đối đối với toàn bộ tư liệu sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 141: [Thông hiểu] Sự khác nhau giữa giai đoạn thấp và giai đoạn cao",
+"points_possible": 1,
+"question_text": "Sự khác nhau cơ bản giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa thể hiện ở nguyên tắc phân phối nào?",
+"general_comment": "Giai đoạn thấp thực hiện làm theo năng lực, hưởng theo lao động; giai đoạn cao thực hiện làm theo năng lực, hưởng theo nhu cầu.",
+"answers": [
+{
+"text": "Giai đoạn thấp làm theo năng lực, hưởng theo lao động; giai đoạn cao làm theo năng lực, hưởng theo nhu cầu.",
+"weight": 100
+},
+{
+"text": "Giai đoạn thấp hưởng theo nhu cầu; giai đoạn cao hưởng theo lao động.",
+"weight": 0
+},
+{
+"text": "Cả hai giai đoạn đều phân phối theo đặc quyền giai cấp.",
+"weight": 0
+},
+{
+"text": "Cả hai giai đoạn đều phân phối theo quyền sở hữu tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 142: [Nhận biết] Cơ sở C. Mác dự báo sự chuyển biến của chủ nghĩa tư bản",
+"points_possible": 1,
+"question_text": "C. Mác dựa vào nhân tố nào trong sự vận động của chủ nghĩa tư bản để kết luận xã hội tư bản sẽ chuyển sang xã hội xã hội chủ nghĩa?",
+"general_comment": "C. Mác phân tích các quy luật kinh tế của chủ nghĩa tư bản, qua đó luận chứng sự thay thế tất yếu của chủ nghĩa tư bản bằng chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Những quy luật kinh tế trong chủ nghĩa tư bản.",
+"weight": 100
+},
+{
+"text": "Những áp bức tinh thần nói chung mà không xét cơ sở kinh tế.",
+"weight": 0
+},
+{
+"text": "Sự phân hóa giàu nghèo thuần túy về đạo đức.",
+"weight": 0
+},
+{
+"text": "Các tiến bộ kỹ thuật tách khỏi quan hệ sản xuất.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 143: [Nhận biết] Cách hiểu không đúng về chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Cách hiểu nào dưới đây không đúng về chủ nghĩa xã hội?",
+"general_comment": "Chủ nghĩa xã hội khoa học không phải là khoa học nghiên cứu những quy luật chung nhất của tự nhiên, xã hội và tư duy; đó là phạm vi của triết học Mác - Lênin.",
+"answers": [
+{
+"text": "Là phong trào thực tiễn của nhân dân lao động chống áp bức, bất công.",
+"weight": 0
+},
+{
+"text": "Là trào lưu tư tưởng, lý luận phản ánh lý tưởng giải phóng nhân dân lao động.",
+"weight": 0
+},
+{
+"text": "Là một khoa học nghiên cứu những quy luật chung nhất của tự nhiên, xã hội và tư duy.",
+"weight": 100
+},
+{
+"text": "Là một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 144: [Nhận biết] Tác giả của Phê phán cương lĩnh Gôta",
+"points_possible": 1,
+"question_text": "Tác phẩm “Phê phán cương lĩnh Gôta” là của ai?",
+"general_comment": "“Phê phán cương lĩnh Gôta” là tác phẩm của C. Mác, trong đó có luận điểm về thời kỳ cải biến cách mạng và chuyên chính cách mạng của giai cấp vô sản.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 100
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "C. Mác và Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 145: [Nhận biết] Điền khuyết luận điểm của C. Mác",
+"points_possible": 1,
+"question_text": "Điền từ thích hợp vào chỗ trống: “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ cải biến cách mạng từ xã hội nọ sang xã hội kia. Thích ứng với thời kỳ ấy là một [...] chính trị...”.",
+"general_comment": "Cụm từ đúng là “thời kỳ quá độ chính trị”.",
+"answers": [
+{
+"text": "thời kỳ quá độ.",
+"weight": 100
+},
+{
+"text": "giai đoạn.",
+"weight": 0
+},
+{
+"text": "hình thái.",
+"weight": 0
+},
+{
+"text": "thể chế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 146: [Nhận biết] Điền khuyết luận điểm của V.I. Lênin",
+"points_possible": 1,
+"question_text": "Điền từ thích hợp vào chỗ trống: V.I. Lênin cho rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản có một [...] nhất định.",
+"general_comment": "Theo V.I. Lênin, giữa chủ nghĩa tư bản và chủ nghĩa cộng sản có một thời kỳ quá độ nhất định.",
+"answers": [
+{
+"text": "thời kỳ cách mạng.",
+"weight": 0
+},
+{
+"text": "thời kỳ chuyển giao.",
+"weight": 0
+},
+{
+"text": "thời kỳ quá độ.",
+"weight": 100
+},
+{
+"text": "thời kỳ cải biến văn hóa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 147: [Nhận biết] Lênin về nước chưa có chủ nghĩa tư bản phát triển cao",
+"points_possible": 1,
+"question_text": "Từ thực tiễn nước Nga, V.I. Lênin cho rằng đối với những nước chưa có chủ nghĩa tư bản phát triển cao cần có thời kỳ quá độ như thế nào?",
+"general_comment": "V.I. Lênin cho rằng đối với những nước chưa có chủ nghĩa tư bản phát triển cao cần có một thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội.",
+"weight": 100
+},
+{
+"text": "Rất nhanh chóng và không cần cải tạo xã hội cũ.",
+"weight": 0
+},
+{
+"text": "Không cần thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Chỉ cần cải cách hành chính trong nhà nước tư sản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 148: [Nhận biết] Hai hình thức quá độ",
+"points_possible": 1,
+"question_text": "Theo các nhà sáng lập chủ nghĩa xã hội khoa học, quá độ lên chủ nghĩa xã hội có hai hình thức nào?",
+"general_comment": "Quá độ lên chủ nghĩa xã hội có hai hình thức: quá độ trực tiếp và quá độ gián tiếp.",
+"answers": [
+{
+"text": "Trực tiếp và gián tiếp.",
+"weight": 100
+},
+{
+"text": "Nhanh và chậm.",
+"weight": 0
+},
+{
+"text": "Đơn giản và phức tạp.",
+"weight": 0
+},
+{
+"text": "Sớm và muộn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 149: [Nhận biết] Điền khuyết luận điểm của Lênin về các nước lạc hậu",
+"points_possible": 1,
+"question_text": "Điền từ thích hợp vào chỗ trống: V.I. Lênin viết rằng với sự giúp đỡ của giai cấp vô sản các nước tiên tiến, các nước lạc hậu có thể tiến tới chủ nghĩa cộng sản, không phải trải qua [...] phát triển tư bản chủ nghĩa.",
+"general_comment": "Cụm từ đúng là “giai đoạn” phát triển tư bản chủ nghĩa.",
+"answers": [
+{
+"text": "chế độ.",
+"weight": 0
+},
+{
+"text": "giai đoạn.",
+"weight": 100
+},
+{
+"text": "quá trình.",
+"weight": 0
+},
+{
+"text": "hình thức.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 150: [Nhận biết] Điều kiện không dẫn tới sự ra đời của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là điều kiện dẫn tới sự ra đời của chủ nghĩa xã hội?",
+"general_comment": "Chủ nghĩa xã hội ra đời trên cơ sở điều kiện khách quan như sự phát triển của lực lượng sản xuất, sự trưởng thành của giai cấp công nhân và quan hệ sản xuất tư bản chủ nghĩa trở nên lỗi thời, chứ không phải do mong muốn chủ quan.",
+"answers": [
+{
+"text": "Sự phát triển của lực lượng sản xuất.",
+"weight": 0
+},
+{
+"text": "Sự trưởng thành của giai cấp công nhân.",
+"weight": 0
+},
+{
+"text": "Quan hệ sản xuất tư bản chủ nghĩa trở nên lỗi thời.",
+"weight": 0
+},
+{
+"text": "Mong muốn chủ quan của giai cấp công nhân.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 151: [Nhận biết] Đặc trưng khác biệt về chất của chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Đặc trưng nào thể hiện sự khác biệt về chất giữa chủ nghĩa xã hội với các chế độ xã hội trước đó?",
+"general_comment": "Điểm khác biệt về chất của chủ nghĩa xã hội là chế độ giải phóng giai cấp, dân tộc, xã hội, con người, tạo điều kiện để con người phát triển toàn diện.",
+"answers": [
+{
+"text": "Có quan hệ sản xuất phù hợp với lực lượng sản xuất theo nghĩa chung.",
+"weight": 0
+},
+{
+"text": "Giải phóng giai cấp, dân tộc, xã hội, con người.",
+"weight": 100
+},
+{
+"text": "Có nền văn hóa kế thừa giá trị dân tộc và tinh hoa nhân loại.",
+"weight": 0
+},
+{
+"text": "Bảo đảm đoàn kết giữa các dân tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 152: [Nhận biết] Người đặt vấn đề học tập kinh nghiệm quản lý tư bản",
+"points_possible": 1,
+"question_text": "Khi phân tích thời kỳ quá độ lên chủ nghĩa xã hội, ai là người đặt vấn đề phải học tập kinh nghiệm tổ chức, quản lý kinh tế của chủ nghĩa tư bản để cải tạo nền kinh tế tiểu nông lạc hậu?",
+"general_comment": "V.I. Lênin là người nhấn mạnh yêu cầu học tập kinh nghiệm tổ chức, quản lý kinh tế của chủ nghĩa tư bản trong điều kiện nước Nga tiểu nông.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 100
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 153: [Nhận biết] Chiếc cầu chủ nghĩa tư bản nhà nước",
+"points_possible": 1,
+"question_text": "Ai nêu quan điểm: “Trong một nước tiểu nông, trước hết các đồng chí phải bắc những chiếc cầu nhỏ vững chắc, đi xuyên qua chủ nghĩa tư bản nhà nước, tiến lên chủ nghĩa xã hội”?",
+"general_comment": "Quan điểm này thuộc V.I. Lênin, phản ánh cách thức quá độ ở nước tiểu nông chưa có chủ nghĩa tư bản phát triển cao.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 100
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 154: [Nhận biết] Dùng cả hai tay lấy cái tốt của nước ngoài",
+"points_possible": 1,
+"question_text": "Ai cho rằng cần “dùng cả hai tay mà lấy những cái tốt của nước ngoài” như trật tự đường sắt Phổ, kỹ thuật và tổ chức các tơ-rớt ở Mỹ, ngành giáo dục quốc dân Mỹ để xây dựng chủ nghĩa xã hội?",
+"general_comment": "Đây là quan điểm của V.I. Lênin về việc tiếp thu có chọn lọc thành tựu tổ chức, kỹ thuật, quản lý của nhân loại trong xây dựng chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "Ph. Ăngghen.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 100
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 155: [Nhận biết] Người đưa chủ nghĩa xã hội từ lý thuyết thành thực tiễn",
+"points_possible": 1,
+"question_text": "Người đầu tiên đưa chủ nghĩa xã hội từ lý thuyết thành thực tiễn sinh động là ai?",
+"general_comment": "V.I. Lênin gắn với việc đưa chủ nghĩa xã hội từ lý luận thành hiện thực qua Cách mạng Tháng Mười Nga và công cuộc xây dựng nước Nga Xô viết.",
+"answers": [
+{
+"text": "C. Mác.",
+"weight": 0
+},
+{
+"text": "V.I. Lênin.",
+"weight": 100
+},
+{
+"text": "I.V. Stalin.",
+"weight": 0
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 156: [Nhận biết] Tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội",
+"points_possible": 1,
+"question_text": "Ai là người đưa ra tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội ở Việt Nam?",
+"general_comment": "Tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội là tư tưởng lớn của Hồ Chí Minh và được Đảng Cộng sản Việt Nam vận dụng trong đường lối cách mạng.",
+"answers": [
+{
+"text": "V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 100
+},
+{
+"text": "Đặng Tiểu Bình.",
+"weight": 0
+},
+{
+"text": "Phạm Văn Đồng.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 157: [Nhận biết] Khẩu hiệu Chủ nghĩa xã hội hay là chết",
+"points_possible": 1,
+"question_text": "Câu nói “Chủ nghĩa xã hội hay là chết” là của ai?",
+"general_comment": "Khẩu hiệu “Chủ nghĩa xã hội hay là chết” gắn với Fidel Castro trong lập trường bảo vệ chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "V.I. Lênin.",
+"weight": 0
+},
+{
+"text": "Fidel Castro.",
+"weight": 100
+},
+{
+"text": "Hồ Chí Minh.",
+"weight": 0
+},
+{
+"text": "Đặng Tiểu Bình.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 158: [Nhận biết] Điền khuyết trong tác phẩm Hệ tư tưởng Đức",
+"points_possible": 1,
+"question_text": "Điền từ thích hợp vào đoạn trích trong tác phẩm “Hệ tư tưởng Đức”: “Đối với chúng ta, chủ nghĩa cộng sản không phải là một [...] cần phải sáng tạo ra, không phải là một [...] mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào [...] nó xoá bỏ trạng thái hiện nay”.",
+"general_comment": "Trật tự đúng là: trạng thái, lý tưởng, hiện thực.",
+"answers": [
+{
+"text": "lý tưởng, trạng thái, hiện thực.",
+"weight": 0
+},
+{
+"text": "trạng thái, lý tưởng, hiện thực.",
+"weight": 100
+},
+{
+"text": "trạng thái, hiện thực, lý tưởng.",
+"weight": 0
+},
+{
+"text": "hiện thực, lý tưởng, trạng thái.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 159: [Nhận biết] Điền khuyết luận điểm của Lênin về danh từ quá độ",
+"points_possible": 1,
+"question_text": "Điền từ thích hợp vào chỗ trống trong luận điểm của V.I. Lênin: “Vậy thì danh từ [...] có nghĩa là gì? Vận dụng vào kinh tế, có phải nó có nghĩa là trong chế độ hiện nay có những thành phần, những bộ phận, những mảnh của cả chủ nghĩa tư bản lẫn chủ nghĩa xã hội?”",
+"general_comment": "Từ đúng là “quá độ”, diễn tả sự tồn tại đan xen các thành phần, bộ phận của xã hội cũ và xã hội mới.",
+"answers": [
+{
+"text": "quá độ.",
+"weight": 100
+},
+{
+"text": "nhảy vọt.",
+"weight": 0
+},
+{
+"text": "phát triển.",
+"weight": 0
+},
+{
+"text": "đan xen.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 160: [Nhận biết] Thực chất của thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây là thực chất của thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Thực chất của thời kỳ quá độ là thời kỳ cải biến cách mạng từ xã hội tiền tư bản hoặc tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Thời kỳ cải biến cách mạng từ xã hội tiền tư bản và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Thời kỳ chỉ phát triển kinh tế hàng hóa nhiều thành phần.",
+"weight": 0
+},
+{
+"text": "Thời kỳ chỉ duy trì nhiều hình thức phân phối khác nhau.",
+"weight": 0
+},
+{
+"text": "Thời kỳ chỉ duy trì nhiều hình thức sở hữu khác nhau.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 161: [Nhận biết] Nội dung không phải đặc điểm chính trị của thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là đặc điểm chính trị của thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Tồn tại nhiều tư tưởng khác nhau thuộc đặc điểm trên lĩnh vực tư tưởng - văn hóa, không phải đặc điểm chính trị.",
+"answers": [
+{
+"text": "Thiết lập, tăng cường chuyên chính vô sản.",
+"weight": 0
+},
+{
+"text": "Tồn tại nhiều tư tưởng khác nhau.",
+"weight": 100
+},
+{
+"text": "Giai cấp công nhân nắm và sử dụng quyền lực nhà nước để trấn áp giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Giai cấp công nhân tổ chức xây dựng và bảo vệ chế độ mới.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 162: [Nhận biết] Đấu tranh giai cấp trong thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Tiếp tục cuộc đấu tranh giai cấp giữa giai cấp vô sản đã chiến thắng nhưng chưa hoàn toàn chiến thắng với giai cấp tư sản đã thất bại nhưng chưa thất bại hoàn toàn là đặc điểm của thời kỳ quá độ trên phương diện nào?",
+"general_comment": "Nội dung này thuộc đặc điểm chính trị của thời kỳ quá độ lên chủ nghĩa xã hội.",
+"answers": [
+{
+"text": "Chính trị.",
+"weight": 100
+},
+{
+"text": "Kinh tế.",
+"weight": 0
+},
+{
+"text": "Tư tưởng, văn hóa.",
+"weight": 0
+},
+{
+"text": "Xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 163: [Nhận biết] Đặc điểm tư tưởng văn hóa của thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Nội dung nào là đặc điểm trên lĩnh vực tư tưởng, văn hóa của thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Thời kỳ quá độ còn tồn tại nhiều tư tưởng khác nhau, chủ yếu là tư tưởng vô sản và tư tưởng tư sản.",
+"answers": [
+{
+"text": "Tồn tại nhiều giai cấp, tầng lớp.",
+"weight": 0
+},
+{
+"text": "Tồn tại nhiều tư tưởng khác nhau.",
+"weight": 100
+},
+{
+"text": "Tồn tại sự khác biệt giữa lao động trí óc và lao động chân tay.",
+"weight": 0
+},
+{
+"text": "Tồn tại nhiều thành phần kinh tế đối lập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 164: [Nhận biết] Xây dựng văn hóa vô sản thuộc lĩnh vực nào",
+"points_possible": 1,
+"question_text": "Giai cấp công nhân từng bước xây dựng văn hóa vô sản, nền văn hóa mới xã hội chủ nghĩa, tiếp thu giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại là đặc điểm của thời kỳ quá độ trên phương diện nào?",
+"general_comment": "Nội dung xây dựng văn hóa vô sản thuộc lĩnh vực tư tưởng, văn hóa của thời kỳ quá độ.",
+"answers": [
+{
+"text": "Chính trị.",
+"weight": 0
+},
+{
+"text": "Kinh tế.",
+"weight": 0
+},
+{
+"text": "Tư tưởng, văn hóa.",
+"weight": 100
+},
+{
+"text": "Xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 165: [Nhận biết] Nội dung không phải đặc điểm xã hội của thời kỳ quá độ",
+"points_possible": 1,
+"question_text": "Nội dung nào dưới đây không phải là đặc điểm trên lĩnh vực xã hội của thời kỳ quá độ lên chủ nghĩa xã hội?",
+"general_comment": "Tồn tại nhiều tư tưởng khác nhau là đặc điểm của lĩnh vực tư tưởng, văn hóa, không phải đặc điểm xã hội.",
+"answers": [
+{
+"text": "Tồn tại sự khác biệt giữa thành thị và nông thôn.",
+"weight": 0
+},
+{
+"text": "Tồn tại sự khác biệt giữa lao động trí óc và lao động chân tay.",
+"weight": 0
+},
+{
+"text": "Tồn tại nhiều hủ tục, tệ nạn xã hội.",
+"weight": 0
+},
+{
+"text": "Tồn tại nhiều tư tưởng khác nhau.",
+"weight": 100
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 166: [Nhận biết] Con đường cách mạng trong Chánh cương vắn tắt",
+"points_possible": 1,
+"question_text": "Con đường phát triển của cách mạng Việt Nam được Chủ tịch Hồ Chí Minh nêu trong Chánh cương vắn tắt của Đảng là gì?",
+"general_comment": "Chánh cương vắn tắt nêu con đường làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+"answers": [
+{
+"text": "Làm cách mạng dân tộc dân chủ nhân dân để đi thẳng tới chế độ cộng sản chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+"weight": 100
+},
+{
+"text": "Làm thổ địa cách mạng và tư sản dân quyền cách mạng để đi tới chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Làm tư sản dân quyền và thổ địa cách mạng để đi thẳng tới xã hội xã hội chủ nghĩa và cộng sản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 167: [Nhận biết] Văn kiện đầu tiên đề cập bỏ qua chế độ tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Con đường quá độ bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được đề cập lần đầu tiên trong văn kiện nào của Đảng?",
+"general_comment": "Nội dung này được đề cập trong Cương lĩnh chính trị đầu tiên của Đảng tháng 2 năm 1930.",
+"answers": [
+{
+"text": "Cương lĩnh chính trị đầu tiên của Đảng tháng 2 năm 1930.",
+"weight": 100
+},
+{
+"text": "Luận cương chính trị tháng 10 năm 1930.",
+"weight": 0
+},
+{
+"text": "Chính cương của Đảng Lao động Việt Nam tháng 2 năm 1951.",
+"weight": 0
+},
+{
+"text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội tháng 6 năm 1991.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 168: [Thông hiểu] Tính tất yếu của con đường quá độ ở Việt Nam",
+"points_possible": 1,
+"question_text": "Con đường cách mạng Việt Nam quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là tất yếu vì sao?",
+"general_comment": "Con đường này phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại, đồng thời đáp ứng nguyện vọng của nhân dân.",
+"answers": [
+{
+"text": "Vì phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại.",
+"weight": 100
+},
+{
+"text": "Vì chỉ xuất phát từ mong muốn chủ quan của một số cá nhân.",
+"weight": 0
+},
+{
+"text": "Vì phủ nhận hoàn toàn thành tựu văn minh nhân loại.",
+"weight": 0
+},
+{
+"text": "Vì yêu cầu khôi phục quan hệ sản xuất phong kiến.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 169: [Thông hiểu] Thực chất bỏ qua chế độ tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Thực chất của con đường quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam là gì?",
+"general_comment": "Bỏ qua chế độ tư bản chủ nghĩa là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, không phải bỏ qua mọi thành tựu của chủ nghĩa tư bản.",
+"answers": [
+{
+"text": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Bỏ qua tất cả thành tựu khoa học, công nghệ và quản lý của chủ nghĩa tư bản.",
+"weight": 0
+},
+{
+"text": "Bỏ qua phát triển lực lượng sản xuất và công nghiệp hiện đại.",
+"weight": 0
+},
+{
+"text": "Bỏ qua mọi hình thức tổ chức kinh tế - xã hội có tính quá độ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 170: [Thông hiểu] Bỏ qua không phải phủ nhận thành tựu tư bản chủ nghĩa",
+"points_possible": 1,
+"question_text": "Vì sao không thể hiểu “bỏ qua chế độ tư bản chủ nghĩa” là bỏ qua mọi thành tựu của chủ nghĩa tư bản?",
+"general_comment": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa đòi hỏi tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản, nhất là khoa học - công nghệ và quản lý.",
+"answers": [
+{
+"text": "Vì Việt Nam cần tiếp thu, kế thừa thành tựu khoa học - công nghệ và quản lý của nhân loại để phát triển lực lượng sản xuất.",
+"weight": 100
+},
+{
+"text": "Vì chủ nghĩa tư bản không có bất kỳ thành tựu nào cần kế thừa.",
+"weight": 0
+},
+{
+"text": "Vì bỏ qua đồng nghĩa với đóng cửa, tự cô lập về kinh tế và khoa học.",
+"weight": 0
+},
+{
+"text": "Vì chủ nghĩa xã hội không cần cơ sở vật chất - kỹ thuật hiện đại.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 171: [Thông hiểu] Quan hệ bóc lột trong thời kỳ quá độ ở Việt Nam",
+"points_possible": 1,
+"question_text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nhận định nào đúng về quan hệ bóc lột và bị bóc lột?",
+"general_comment": "Thời kỳ quá độ vẫn còn quan hệ bóc lột và bị bóc lột, nhưng quan hệ bóc lột tư bản chủ nghĩa không giữ vai trò thống trị.",
+"answers": [
+{
+"text": "Không còn bất kỳ quan hệ bóc lột nào ngay từ đầu thời kỳ quá độ.",
+"weight": 0
+},
+{
+"text": "Quan hệ bóc lột tư bản chủ nghĩa giữ vai trò thống trị tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Vẫn còn quan hệ bóc lột và bị bóc lột, nhưng quan hệ bóc lột tư bản chủ nghĩa không giữ vai trò thống trị.",
+"weight": 100
+},
+{
+"text": "Chỉ còn quan hệ bóc lột phong kiến, không có thành phần kinh tế khác.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 172: [Nhận biết] Đặc trưng mục tiêu của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng mục tiêu tổng quát của xã hội xã hội chủ nghĩa mà nhân dân Việt Nam xây dựng là gì?",
+"general_comment": "Cương lĩnh bổ sung, phát triển năm 2011 xác định mục tiêu: dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+"answers": [
+{
+"text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+"weight": 100
+},
+{
+"text": "Dân giàu, nước mạnh, chuyên chế, bất bình đẳng.",
+"weight": 0
+},
+{
+"text": "Nước mạnh, dân nghèo, tăng trưởng thuần túy.",
+"weight": 0
+},
+{
+"text": "Phục hồi chế độ phong kiến và trật tự đẳng cấp.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 173: [Nhận biết] Đặc trưng về quyền làm chủ ở Việt Nam",
+"points_possible": 1,
+"question_text": "Một đặc trưng của xã hội xã hội chủ nghĩa Việt Nam là do ai làm chủ?",
+"general_comment": "Xã hội xã hội chủ nghĩa Việt Nam là xã hội do nhân dân làm chủ.",
+"answers": [
+{
+"text": "Do nhân dân làm chủ.",
+"weight": 100
+},
+{
+"text": "Do giai cấp tư sản độc quyền làm chủ.",
+"weight": 0
+},
+{
+"text": "Do địa chủ phong kiến làm chủ.",
+"weight": 0
+},
+{
+"text": "Do một nhóm đặc quyền đứng ngoài nhân dân làm chủ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 174: [Nhận biết] Đặc trưng kinh tế của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng kinh tế của xã hội xã hội chủ nghĩa Việt Nam được xác định như thế nào?",
+"general_comment": "Xã hội xã hội chủ nghĩa Việt Nam có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp.",
+"answers": [
+{
+"text": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp.",
+"weight": 100
+},
+{
+"text": "Có nền kinh tế tự cấp tự túc dựa trên kỹ thuật thủ công.",
+"weight": 0
+},
+{
+"text": "Có nền kinh tế dựa trên quan hệ sản xuất phong kiến.",
+"weight": 0
+},
+{
+"text": "Có nền kinh tế chỉ dựa trên sở hữu tư nhân tư bản chủ nghĩa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 175: [Nhận biết] Đặc trưng văn hóa của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng văn hóa của xã hội xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Xã hội xã hội chủ nghĩa Việt Nam có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.",
+"answers": [
+{
+"text": "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.",
+"weight": 100
+},
+{
+"text": "Nền văn hóa phủ nhận toàn bộ bản sắc dân tộc.",
+"weight": 0
+},
+{
+"text": "Nền văn hóa biệt lập, không tiếp thu tinh hoa nhân loại.",
+"weight": 0
+},
+{
+"text": "Nền văn hóa chỉ phục vụ đặc quyền của giai cấp thống trị cũ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 176: [Nhận biết] Đặc trưng về con người trong xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Theo Cương lĩnh bổ sung, phát triển năm 2011, con người trong xã hội xã hội chủ nghĩa Việt Nam có đặc trưng nào?",
+"general_comment": "Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện.",
+"answers": [
+{
+"text": "Có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện.",
+"weight": 100
+},
+{
+"text": "Chỉ có nghĩa vụ lao động, không có điều kiện phát triển toàn diện.",
+"weight": 0
+},
+{
+"text": "Bị phân biệt theo đẳng cấp phong kiến.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển về kinh tế, không có nhu cầu văn hóa và tinh thần.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 177: [Nhận biết] Đặc trưng dân tộc của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng về quan hệ dân tộc trong xã hội xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển.",
+"answers": [
+{
+"text": "Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển.",
+"weight": 100
+},
+{
+"text": "Dân tộc đa số có đặc quyền chính trị tuyệt đối.",
+"weight": 0
+},
+{
+"text": "Các dân tộc phát triển tách biệt, không cần đoàn kết.",
+"weight": 0
+},
+{
+"text": "Các dân tộc chỉ liên kết trên cơ sở cưỡng bức hành chính.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 178: [Nhận biết] Đặc trưng nhà nước của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng về nhà nước trong xã hội xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Việt Nam xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo.",
+"answers": [
+{
+"text": "Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo.",
+"weight": 100
+},
+{
+"text": "Nhà nước quân chủ chuyên chế của tầng lớp quý tộc.",
+"weight": 0
+},
+{
+"text": "Nhà nước tư sản bảo vệ quyền thống trị của giai cấp tư sản.",
+"weight": 0
+},
+{
+"text": "Nhà nước phi giai cấp, đứng ngoài mọi quan hệ xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 179: [Nhận biết] Đặc trưng đối ngoại của xã hội xã hội chủ nghĩa Việt Nam",
+"points_possible": 1,
+"question_text": "Đặc trưng đối ngoại của xã hội xã hội chủ nghĩa Việt Nam là gì?",
+"general_comment": "Xã hội xã hội chủ nghĩa Việt Nam có quan hệ hữu nghị và hợp tác với các nước trên thế giới.",
+"answers": [
+{
+"text": "Có quan hệ hữu nghị và hợp tác với các nước trên thế giới.",
+"weight": 100
+},
+{
+"text": "Đóng cửa tuyệt đối và không hợp tác quốc tế.",
+"weight": 0
+},
+{
+"text": "Chỉ quan hệ với các nước có cùng trình độ phát triển.",
+"weight": 0
+},
+{
+"text": "Từ bỏ độc lập dân tộc để đổi lấy hội nhập.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 180: [Nhận biết] Tám phương hướng năm 2011",
+"points_possible": 1,
+"question_text": "Tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam được xác định trong văn kiện nào?",
+"general_comment": "Tám phương hướng cơ bản được xác định trong Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, bổ sung và phát triển năm 2011.",
+"answers": [
+{
+"text": "Cương lĩnh bổ sung, phát triển năm 2011.",
+"weight": 100
+},
+{
+"text": "Chỉ thị về cải cách ruộng đất.",
+"weight": 0
+},
+{
+"text": "Một văn kiện riêng của Quốc tế Cộng sản.",
+"weight": 0
+},
+{
+"text": "Tuyên ngôn của Đảng Cộng sản năm 1848.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 181: [Nhận biết] Phương hướng đẩy mạnh công nghiệp hóa hiện đại hóa",
+"points_possible": 1,
+"question_text": "Một trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là gì về kinh tế - kỹ thuật?",
+"general_comment": "Phương hướng quan trọng là đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường.",
+"answers": [
+{
+"text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường.",
+"weight": 100
+},
+{
+"text": "Khôi phục nền sản xuất nhỏ tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Từ bỏ khoa học - công nghệ trong phát triển.",
+"weight": 0
+},
+{
+"text": "Chỉ phát triển khai thác tài nguyên mà không cần bảo vệ môi trường.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 182: [Nhận biết] Phương hướng kinh tế thị trường định hướng xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một phương hướng cơ bản trong xây dựng chủ nghĩa xã hội ở Việt Nam là gì về mô hình kinh tế?",
+"general_comment": "Việt Nam phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Phát triển nền kinh tế phong kiến tự cấp tự túc.",
+"weight": 0
+},
+{
+"text": "Xóa bỏ mọi quan hệ thị trường ngay lập tức.",
+"weight": 0
+},
+{
+"text": "Phát triển kinh tế thị trường tư bản chủ nghĩa thuần túy.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 183: [Nhận biết] Phương hướng xây dựng nền dân chủ xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là gì về dân chủ và đại đoàn kết?",
+"general_comment": "Phương hướng là xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện đại đoàn kết toàn dân tộc, tăng cường và mở rộng Mặt trận dân tộc thống nhất.",
+"answers": [
+{
+"text": "Xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện đại đoàn kết toàn dân tộc.",
+"weight": 100
+},
+{
+"text": "Thu hẹp dân chủ và chia rẽ khối đại đoàn kết toàn dân tộc.",
+"weight": 0
+},
+{
+"text": "Tách Mặt trận dân tộc thống nhất khỏi nhân dân.",
+"weight": 0
+},
+{
+"text": "Chỉ xây dựng dân chủ hình thức không gắn với pháp luật.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 184: [Nhận biết] Phương hướng xây dựng Nhà nước pháp quyền xã hội chủ nghĩa",
+"points_possible": 1,
+"question_text": "Một trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là gì về nhà nước?",
+"general_comment": "Phương hướng là xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+"answers": [
+{
+"text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+"weight": 100
+},
+{
+"text": "Xây dựng nhà nước quân chủ chuyên chế.",
+"weight": 0
+},
+{
+"text": "Xây dựng nhà nước tư sản giữ nguyên đặc quyền tư bản.",
+"weight": 0
+},
+{
+"text": "Xây dựng nhà nước phi pháp quyền, không chịu kiểm soát.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 185: [Nhận biết] Phương hướng xây dựng Đảng",
+"points_possible": 1,
+"question_text": "Một trong tám phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là gì về Đảng?",
+"general_comment": "Phương hướng là xây dựng Đảng trong sạch, vững mạnh.",
+"answers": [
+{
+"text": "Xây dựng Đảng trong sạch, vững mạnh.",
+"weight": 100
+},
+{
+"text": "Hạ thấp vai trò lãnh đạo của Đảng trong toàn bộ tiến trình quá độ.",
+"weight": 0
+},
+{
+"text": "Tách Đảng khỏi nền tảng tư tưởng của chủ nghĩa Mác - Lênin.",
+"weight": 0
+},
+{
+"text": "Biến Đảng thành tổ chức nghề nghiệp phi chính trị.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 186: [Thông hiểu] Không phiến diện trong giải quyết các quan hệ lớn",
+"points_possible": 1,
+"question_text": "Khi thực hiện các phương hướng cơ bản trong thời kỳ quá độ, Đảng yêu cầu thái độ nào trong giải quyết các mối quan hệ lớn?",
+"general_comment": "Đảng yêu cầu nắm vững và giải quyết tốt các mối quan hệ lớn, không phiến diện, cực đoan, duy ý chí.",
+"answers": [
+{
+"text": "Không phiến diện, cực đoan, duy ý chí.",
+"weight": 100
+},
+{
+"text": "Chỉ ưu tiên một mặt và phủ nhận toàn bộ mặt còn lại.",
+"weight": 0
+},
+{
+"text": "Giải quyết các quan hệ lớn bằng cảm tính chủ quan.",
+"weight": 0
+},
+{
+"text": "Tách các quan hệ lớn khỏi thực tiễn phát triển đất nước.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 187: [Nhận biết] Định hướng phát triển giáo dục khoa học công nghệ",
+"points_possible": 1,
+"question_text": "Định hướng phát triển giáo dục và đào tạo, khoa học và công nghệ giai đoạn 2021-2030 nhấn mạnh nội dung nào?",
+"general_comment": "Định hướng này nhấn mạnh đổi mới căn bản, toàn diện giáo dục và đào tạo, phát triển nguồn nhân lực chất lượng cao, thu hút nhân tài, ứng dụng thành tựu Cách mạng công nghiệp lần thứ tư.",
+"answers": [
+{
+"text": "Đổi mới căn bản, toàn diện giáo dục và đào tạo; phát triển nguồn nhân lực chất lượng cao; ứng dụng thành tựu Cách mạng công nghiệp lần thứ tư.",
+"weight": 100
+},
+{
+"text": "Giảm vai trò giáo dục, khoa học và công nghệ trong phát triển.",
+"weight": 0
+},
+{
+"text": "Chỉ duy trì đào tạo thủ công truyền thống.",
+"weight": 0
+},
+{
+"text": "Từ bỏ phát triển nguồn nhân lực chất lượng cao.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 188: [Nhận biết] Định hướng phát triển con người và văn hóa",
+"points_possible": 1,
+"question_text": "Định hướng phát triển con người và xây dựng nền văn hóa giai đoạn 2021-2030 xác định con người Việt Nam ở vị trí nào?",
+"general_comment": "Định hướng này xác định tài năng, trí tuệ, phẩm chất của con người Việt Nam là trung tâm, mục tiêu và động lực phát triển quan trọng nhất của đất nước.",
+"answers": [
+{
+"text": "Là trung tâm, mục tiêu và động lực phát triển quan trọng nhất của đất nước.",
+"weight": 100
+},
+{
+"text": "Chỉ là phương tiện kỹ thuật phục vụ tăng trưởng.",
+"weight": 0
+},
+{
+"text": "Không có vai trò trong phát triển đất nước.",
+"weight": 0
+},
+{
+"text": "Chỉ là đối tượng thụ hưởng thụ động, không có năng lực sáng tạo.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 189: [Nhận biết] Định hướng quản lý phát triển xã hội",
+"points_possible": 1,
+"question_text": "Định hướng quản lý phát triển xã hội giai đoạn 2021-2030 nhấn mạnh nội dung nào?",
+"general_comment": "Định hướng này nhấn mạnh quản lý phát triển xã hội hiệu quả, nghiêm minh; bảo đảm an ninh xã hội, an ninh con người; thực hiện tiến bộ, công bằng xã hội, phúc lợi và an sinh xã hội.",
+"answers": [
+{
+"text": "Bảo đảm an ninh xã hội, an ninh con người; thực hiện tiến bộ, công bằng xã hội, phúc lợi và an sinh xã hội.",
+"weight": 100
+},
+{
+"text": "Chỉ tập trung tăng trưởng mà bỏ qua phúc lợi xã hội.",
+"weight": 0
+},
+{
+"text": "Không cần quản lý phát triển xã hội.",
+"weight": 0
+},
+{
+"text": "Tách dân số, y tế và việc làm khỏi phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 190: [Nhận biết] Định hướng bảo vệ Tổ quốc",
+"points_possible": 1,
+"question_text": "Định hướng bảo vệ Tổ quốc giai đoạn 2021-2030 yêu cầu bảo vệ những nội dung nào?",
+"general_comment": "Định hướng này yêu cầu bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chỉ bảo vệ lợi ích kinh tế trước mắt, không cần bảo vệ chủ quyền.",
+"weight": 0
+},
+{
+"text": "Từ bỏ bảo vệ chế độ xã hội chủ nghĩa.",
+"weight": 0
+},
+{
+"text": "Không cần phòng ngừa nguy cơ chiến tranh, xung đột từ sớm, từ xa.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 191: [Nhận biết] Định hướng đối ngoại",
+"points_possible": 1,
+"question_text": "Định hướng đối ngoại giai đoạn 2021-2030 của Việt Nam là gì?",
+"general_comment": "Định hướng đối ngoại là tiếp tục đường lối độc lập, tự chủ, đa phương hóa, đa dạng hóa, chủ động và tích cực hội nhập quốc tế toàn diện, sâu rộng, có hiệu quả.",
+"answers": [
+{
+"text": "Độc lập, tự chủ, đa phương hóa, đa dạng hóa; chủ động và tích cực hội nhập quốc tế toàn diện, sâu rộng, có hiệu quả.",
+"weight": 100
+},
+{
+"text": "Phụ thuộc hoàn toàn vào một nước lớn.",
+"weight": 0
+},
+{
+"text": "Đóng cửa, không hợp tác quốc tế.",
+"weight": 0
+},
+{
+"text": "Từ bỏ môi trường hòa bình, ổn định trong phát triển.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 192: [Nhận biết] Định hướng đại đoàn kết toàn dân tộc",
+"points_possible": 1,
+"question_text": "Định hướng về đại đoàn kết toàn dân tộc giai đoạn 2021-2030 nhấn mạnh yêu cầu nào?",
+"general_comment": "Định hướng này nhấn mạnh thực hành và phát huy dân chủ xã hội chủ nghĩa, quyền làm chủ và vai trò tự quản của nhân dân; phát huy sức mạnh đại đoàn kết toàn dân tộc.",
+"answers": [
+{
+"text": "Thực hành dân chủ xã hội chủ nghĩa, quyền làm chủ của nhân dân và phát huy sức mạnh đại đoàn kết toàn dân tộc.",
+"weight": 100
+},
+{
+"text": "Thu hẹp vai trò tự quản của nhân dân.",
+"weight": 0
+},
+{
+"text": "Chia rẽ các tầng lớp nhân dân để dễ quản lý.",
+"weight": 0
+},
+{
+"text": "Không cần đổi mới hoạt động của Mặt trận Tổ quốc và các tổ chức chính trị - xã hội.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 193: [Nhận biết] Mối quan hệ Nhà nước, thị trường và xã hội",
+"points_possible": 1,
+"question_text": "Trong các mối quan hệ lớn được Đại hội XIII nêu, quan hệ nào cần xử lý đúng trong phát triển kinh tế - xã hội?",
+"general_comment": "Đại hội XIII nêu cần xử lý tốt quan hệ giữa Nhà nước, thị trường và xã hội.",
+"answers": [
+{
+"text": "Quan hệ giữa Nhà nước, thị trường và xã hội.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa chủ nô và nô lệ.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa địa chủ và nông nô trong lãnh địa phong kiến.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa các dòng họ quý tộc.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 194: [Nhận biết] Mối quan hệ dân chủ và pháp chế",
+"points_possible": 1,
+"question_text": "Đại hội XIII yêu cầu xử lý tốt mối quan hệ lớn nào liên quan đến dân chủ và kỷ cương xã hội?",
+"general_comment": "Đại hội XIII nêu mối quan hệ giữa thực hành dân chủ và tăng cường pháp chế, bảo đảm kỷ cương xã hội.",
+"answers": [
+{
+"text": "Giữa thực hành dân chủ và tăng cường pháp chế, bảo đảm kỷ cương xã hội.",
+"weight": 100
+},
+{
+"text": "Giữa dân chủ và vô chính phủ.",
+"weight": 0
+},
+{
+"text": "Giữa tự do cá nhân tuyệt đối và phủ nhận pháp luật.",
+"weight": 0
+},
+{
+"text": "Giữa đặc quyền phong kiến và kỷ luật nô lệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 195: [Vận dụng/Phân tích] Nhận diện sai lầm về kinh tế thị trường",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng phát triển kinh tế thị trường ở Việt Nam đồng nghĩa với từ bỏ định hướng xã hội chủ nghĩa. Theo nội dung Chương 3, nhận định nào đúng?",
+"general_comment": "Việt Nam phát triển kinh tế thị trường nhưng phải bảo đảm định hướng xã hội chủ nghĩa; cần xử lý đúng quan hệ giữa tuân theo các quy luật thị trường và bảo đảm định hướng xã hội chủ nghĩa.",
+"answers": [
+{
+"text": "Cần phát triển kinh tế thị trường đồng thời bảo đảm định hướng xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Kinh tế thị trường luôn đồng nghĩa với chủ nghĩa tư bản thuần túy.",
+"weight": 0
+},
+{
+"text": "Muốn xây dựng chủ nghĩa xã hội phải phủ nhận mọi quy luật thị trường.",
+"weight": 0
+},
+{
+"text": "Định hướng xã hội chủ nghĩa không liên quan đến mô hình kinh tế.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 196: [Vận dụng/Phân tích] Nhận diện sai lầm về tăng trưởng",
+"points_possible": 1,
+"question_text": "Một địa phương chỉ chạy theo tăng trưởng GDP, coi nhẹ văn hóa, tiến bộ, công bằng xã hội và môi trường. Điều đó trái với mối quan hệ lớn nào?",
+"general_comment": "Đại hội XIII yêu cầu xử lý tốt quan hệ giữa tăng trưởng kinh tế với phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội và bảo vệ môi trường.",
+"answers": [
+{
+"text": "Quan hệ giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa dân số và khí hậu tự nhiên.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa tư hữu phong kiến và địa tô.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa chủ nô và nô lệ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 197: [Vận dụng/Phân tích] Nhận diện sai lầm về bảo vệ Tổ quốc",
+"points_possible": 1,
+"question_text": "Một quan điểm cho rằng xây dựng chủ nghĩa xã hội chỉ là phát triển kinh tế, không cần chú trọng bảo vệ Tổ quốc. Theo Chương 3, cần xử lý thế nào?",
+"general_comment": "Xây dựng chủ nghĩa xã hội phải gắn với bảo vệ Tổ quốc xã hội chủ nghĩa; đây là một mối quan hệ lớn cần nắm vững và xử lý tốt.",
+"answers": [
+{
+"text": "Phải gắn xây dựng chủ nghĩa xã hội với bảo vệ Tổ quốc xã hội chủ nghĩa.",
+"weight": 100
+},
+{
+"text": "Chỉ cần xây dựng kinh tế, không cần quốc phòng - an ninh.",
+"weight": 0
+},
+{
+"text": "Bảo vệ Tổ quốc chỉ là nhiệm vụ của thời kỳ phong kiến.",
+"weight": 0
+},
+{
+"text": "Bảo vệ Tổ quốc không liên quan đến con đường quá độ.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 198: [Vận dụng/Phân tích] Nhận diện sai lầm về hội nhập quốc tế",
+"points_possible": 1,
+"question_text": "Một ý kiến cho rằng hội nhập quốc tế càng sâu thì càng phải từ bỏ độc lập, tự chủ. Theo Chương 3, nhận định nào đúng?",
+"general_comment": "Đường lối đúng là xử lý tốt quan hệ giữa độc lập, tự chủ và hội nhập quốc tế, không tuyệt đối hóa một phía.",
+"answers": [
+{
+"text": "Phải kết hợp độc lập, tự chủ với chủ động, tích cực hội nhập quốc tế.",
+"weight": 100
+},
+{
+"text": "Hội nhập quốc tế đồng nghĩa với từ bỏ độc lập, tự chủ.",
+"weight": 0
+},
+{
+"text": "Độc lập, tự chủ đồng nghĩa với đóng cửa, không hội nhập.",
+"weight": 0
+},
+{
+"text": "Hội nhập quốc tế chỉ phù hợp với chủ nghĩa tư bản.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 199: [Vận dụng/Phân tích] Nhận diện sai lầm về Đảng, Nhà nước và nhân dân",
+"points_possible": 1,
+"question_text": "Một mô hình quản trị chỉ nhấn mạnh Nhà nước quản lý, nhưng xem nhẹ vai trò Đảng lãnh đạo và nhân dân làm chủ. Điều đó trái với mối quan hệ lớn nào?",
+"general_comment": "Đảng yêu cầu xử lý tốt quan hệ giữa Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ.",
+"answers": [
+{
+"text": "Quan hệ giữa Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ.",
+"weight": 100
+},
+{
+"text": "Quan hệ giữa công nghiệp và nông nghiệp.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa thị trường nội địa và xuất khẩu.",
+"weight": 0
+},
+{
+"text": "Quan hệ giữa thành thị và nông thôn.",
+"weight": 0
+}
+]
+},
+{
+"question_type": "multiple_choice_question",
+"name": "Câu hỏi 200: [Vận dụng/Phân tích] Tổng hợp thời kỳ quá độ ở Việt Nam",
+"points_possible": 1,
+"question_text": "Một chiến lược phát triển Việt Nam vừa phát triển lực lượng sản xuất hiện đại, vừa từng bước hoàn thiện quan hệ sản xuất xã hội chủ nghĩa, phát triển văn hóa, bảo đảm công bằng xã hội, bảo vệ môi trường, giữ vững độc lập và hội nhập quốc tế. Chiến lược này phù hợp nhất với yêu cầu nào?",
+"general_comment": "Đây là cách vận dụng tổng hợp các phương hướng và các mối quan hệ lớn trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam.",
+"answers": [
+{
+"text": "Vận dụng tổng hợp các phương hướng và xử lý tốt các mối quan hệ lớn trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam.",
+"weight": 100
+},
+{
+"text": "Từ bỏ con đường quá độ lên chủ nghĩa xã hội.",
+"weight": 0
+},
+{
+"text": "Chỉ xây dựng kinh tế mà không cần chính trị, văn hóa, xã hội.",
+"weight": 0
+},
+{
+"text": "Phủ nhận mọi thành tựu của công cuộc đổi mới.",
+"weight": 0
+}
+]
+}
+]
+
