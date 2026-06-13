@@ -14,6 +14,7 @@
 - Rebalanced exam layout and made mobile footer non-sticky to keep answer area focused.
 - Rebalanced practice layout with wider answer area and capped question palette height.
 - Redesigned quiz workspace into a dominant study area plus compact side rail, with a mobile palette sheet and sticky action bar.
+- Made source question-count descriptions derive from imported data instead of hardcoded totals.
 
 ## Unresolved Questions
 

@@ -1,15 +1,43 @@
 import { describe, expect, it } from "vitest";
 import { allQuestions, getQuestionsForScope, questionSources } from "./question-bank";
 
+function sourceTotal(sourceId: "question-bank" | "theory-review"): number {
+  return getQuestionsForScope(sourceId, "all").length;
+}
+
+function formatQuestionTotal(total: number): string {
+  return total.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+}
+
 describe("question bank normalization", () => {
   it("loads both sources and all validated questions", () => {
+    const normalizedTotal = questionSources.reduce(
+      (sum, source) => sum + source.chapters.reduce((chapterSum, chapter) => chapterSum + chapter.questions.length, 0),
+      0
+    );
+
     expect(questionSources).toHaveLength(2);
-    expect(allQuestions).toHaveLength(1804);
+    expect(allQuestions).toHaveLength(normalizedTotal);
   });
 
   it("keeps source and chapter scopes selectable", () => {
-    expect(getQuestionsForScope("question-bank", "all")).toHaveLength(560);
-    expect(getQuestionsForScope("theory-review", "06")).toHaveLength(243);
+    const bankSource = questionSources.find((source) => source.id === "question-bank");
+    const theoryChapter06 = questionSources
+      .find((source) => source.id === "theory-review")
+      ?.chapters.find((chapter) => chapter.id === "06");
+    const theoryChapter06Length = theoryChapter06?.questions.length ?? 0;
+
+    expect(getQuestionsForScope("question-bank", "all")).toHaveLength(sourceTotal("question-bank"));
+    expect(theoryChapter06Length).toBeGreaterThan(0);
+    expect(getQuestionsForScope("theory-review", "06")).toHaveLength(theoryChapter06Length);
+    expect(bankSource?.description).toContain(formatQuestionTotal(sourceTotal("question-bank")));
+  });
+
+  it("keeps source descriptions in sync with imported question counts", () => {
+    const theoryTotal = sourceTotal("theory-review");
+    const theorySource = questionSources.find((source) => source.id === "theory-review");
+
+    expect(theorySource?.description).toContain(formatQuestionTotal(theoryTotal));
   });
 
   it("normalizes every question with one correct answer and stable ids", () => {
