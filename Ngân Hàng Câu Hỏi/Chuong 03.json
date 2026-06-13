@@ -1253,7 +1253,7 @@
     "question_type": "multiple_choice_question",
     "name": "Câu hỏi 51: Điền từ ngữ thích hợp để hoàn thành đoạn trích trong tác phẩm Hệ tư tư",
     "points_possible": 1,
-    "question_text": "Điền từ ngữ thích hợp để hoàn thành đoạn trích trong tác phẩm Hệ tư tưởng Đức của",
+    "question_text": "Điền từ ngữ thích hợp để hoàn thành đoạn trích trong tác phẩm Hệ tư tưởng Đức của Mác: “Đối với chúng ta, chủ nghĩa cộng sản không phải là một…. cần phải sáng tạo ra, không phải là một…. mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào… nó xoá bỏ trạng thái hiện nay”.",
     "general_comment": "Đáp án đúng là 'lí tưởng, trạng thái, hiện thực.' vì phương án này khớp với nội dung kiến thức trọng tâm của chương và bảng đáp án kèm theo.",
     "answers": [
       {
@@ -1261,15 +1261,15 @@
         "weight": 100
       },
       {
-        "text": "trạng thái, hiện thực, lí tưởng. D. hiện thực, lí tưởng, trạng thái.",
+        "text": "trạng thái, hiện thực, lí tưởng.",
         "weight": 0
       },
       {
-        "text": "trạng thái, lí tưởng, hiện thực",
+        "text": "trạng thái, lí tưởng, hiện thực.",
         "weight": 0
       },
       {
-        "text": "Mác: “Đối với chúng ta, chủ nghĩa cộng sản không phải là một…. cần phải sáng tạo ra, không phải là một…. mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào… nó xoá bỏ trạng thái hiện nay”.",
+        "text": "hiện thực, lí tưởng, trạng thái.",
         "weight": 0
       }
     ]
